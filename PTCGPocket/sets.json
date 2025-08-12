@@ -7,6 +7,7 @@
       "en": "Promo A",
       "es": "Promo A"
     },
+    "cover": "https://raw.githubusercontent.com/adresa97/TCGTracker-database/refs/heads/main/PTCGPocket/covers/a_promo_en.png",
     "color": [47.0, 110.0, 255.0],
     "cardCount": 100,
     "origins": ["SHOP", "PREMIUM", "GIFT", "INGOTS", "WONDER_EVENT", "DROP_EVENT", "MISION_EVENT"]
@@ -19,6 +20,7 @@
       "en": "Genetic Apex",
       "es": "Genes Formidables"
     },
+    "cover": "https://raw.githubusercontent.com/adresa97/TCGTracker-database/refs/heads/main/PTCGPocket/covers/a1_genetic_apex_en.png",
     "color": [148.0, 69.0, 244.0],
     "cardCount": 286,
     "origins": ["MEWTWO", "PIKACHU", "CHARIZARD"]
@@ -31,6 +33,7 @@
       "en": "Mythical Island",
       "es": "Isla Singular"
     },
+    "cover": "https://raw.githubusercontent.com/adresa97/TCGTracker-database/refs/heads/main/PTCGPocket/covers/a1a_mythical_island_en.png",
     "color": [18.0, 158.0, 111.0],
     "cardCount": 86,
     "origins": ["MEW"]
@@ -43,6 +46,7 @@
       "en": "Space-Time Smackdown",
       "es": "Pugna Espaciotemporal"
     },
+    "cover": "https://raw.githubusercontent.com/adresa97/TCGTracker-database/refs/heads/main/PTCGPocket/covers/a2_spacetime_smackdown_en.png",
     "color": [122.0, 133.0, 148.0],
     "cardCount": 207,
     "origins": ["DIALGA", "PALKIA"]
@@ -55,6 +59,7 @@
       "en": "Triumphant Light",
       "es": "Luz Triunfal"
     },
+    "cover": "https://raw.githubusercontent.com/adresa97/TCGTracker-database/refs/heads/main/PTCGPocket/covers/a2a_triumphant_light_en.png",
     "color": [193.0, 124.0, 23.0],
     "cardCount": 96,
     "origins": ["ARCEUS"]
@@ -67,6 +72,7 @@
       "en": "Shining Revelry",
       "es": "Festival Brillante"
     },
+    "cover": "https://raw.githubusercontent.com/adresa97/TCGTracker-database/refs/heads/main/PTCGPocket/covers/a2b_shining_revelry_en.png",
     "color": [84.0, 149.0, 183.0],
     "cardCount": 111,
     "origins": ["SHINY_CHARIZARD"]
@@ -79,6 +85,7 @@
       "en": "Celestial Guardians",
       "es": "Guardianes Celestiales"
     },
+    "cover": "https://raw.githubusercontent.com/adresa97/TCGTracker-database/refs/heads/main/PTCGPocket/covers/a3_celestial_guardians_en.png",
     "color": [44.0, 103.0, 236.0],
     "cardCount": 239,
     "origins": ["SOLGALEO", "LUNALA"]
@@ -91,6 +98,7 @@
       "en": "Extradimensional Crisis",
       "es": "Crisis Extradimensional"
     },
+    "cover": "https://raw.githubusercontent.com/adresa97/TCGTracker-database/refs/heads/main/PTCGPocket/covers/a3a_extradimensional_crisis_en.png",
     "color": [226.0, 22.0, 22.0],
     "cardCount": 103,
     "origins": ["BUZZWOLE"]
@@ -103,6 +111,7 @@
       "en": "Eevee Grove",
       "es": "Arboleda de Eevee"
     },
+    "cover": "https://raw.githubusercontent.com/adresa97/TCGTracker-database/refs/heads/main/PTCGPocket/covers/a3b_eevee_grove_en.png",
     "color": [179.0, 89.0, 30.0],
     "cardCount": 107,
     "origins": ["EEVEE"]
@@ -115,6 +124,7 @@
       "en": "Wisdom of Sea and Sky",
       "es": "Saber Marino y Celeste"
     },
+    "cover": "https://raw.githubusercontent.com/adresa97/TCGTracker-database/refs/heads/main/PTCGPocket/covers/a4_wisdom_of_sea_and_sky_en.png",
     "color": [154.0, 129.0, 82.0],
     "cardCount": 241,
     "origins": ["LUGIA", "HO_OH"]
