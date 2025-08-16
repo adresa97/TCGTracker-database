@@ -2555,7 +2555,7 @@
       "HO_OH"
     ],
     "type": "FIRE",
-    "imageURL": "{pockettrade}A4_210_##lang##_placeholder.webp"
+    "image": "{pockettrade}A4_210_##lang##_placeholder.webp"
   },
   {
     "id": "A4-211",
@@ -2568,7 +2568,7 @@
       "LUGIA"
     ],
     "type": "COLORLESS",
-    "imageURL": "{pockettrade}A4_211_##lang##_placeholder.webp"
+    "image": "{pockettrade}A4_211_##lang##_placeholder.webp"
   },
   {
     "id": "A4-212",
