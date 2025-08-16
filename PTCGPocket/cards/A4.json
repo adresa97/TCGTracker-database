@@ -9,8 +9,7 @@
     "origins": [
       "LUGIA"
     ],
-    "type": "GRASS",
-    "baby": false
+    "type": "GRASS"
   },
   {
     "id": "A4-002",
@@ -22,8 +21,7 @@
     "origins": [
       "LUGIA"
     ],
-    "type": "GRASS",
-    "baby": false
+    "type": "GRASS"
   },
   {
     "id": "A4-003",
@@ -35,8 +33,7 @@
     "origins": [
       "LUGIA"
     ],
-    "type": "GRASS",
-    "baby": false
+    "type": "GRASS"
   },
   {
     "id": "A4-004",
@@ -48,8 +45,7 @@
     "origins": [
       "HO_OH"
     ],
-    "type": "GRASS",
-    "baby": false
+    "type": "GRASS"
   },
   {
     "id": "A4-005",
@@ -61,8 +57,7 @@
     "origins": [
       "HO_OH"
     ],
-    "type": "GRASS",
-    "baby": false
+    "type": "GRASS"
   },
   {
     "id": "A4-006",
@@ -74,8 +69,7 @@
     "origins": [
       "LUGIA"
     ],
-    "type": "GRASS",
-    "baby": false
+    "type": "GRASS"
   },
   {
     "id": "A4-007",
@@ -87,8 +81,7 @@
     "origins": [
       "LUGIA"
     ],
-    "type": "GRASS",
-    "baby": false
+    "type": "GRASS"
   },
   {
     "id": "A4-008",
@@ -100,8 +93,7 @@
     "origins": [
       "LUGIA"
     ],
-    "type": "GRASS",
-    "baby": false
+    "type": "GRASS"
   },
   {
     "id": "A4-009",
@@ -113,8 +105,7 @@
     "origins": [
       "LUGIA"
     ],
-    "type": "GRASS",
-    "baby": false
+    "type": "GRASS"
   },
   {
     "id": "A4-010",
@@ -126,8 +117,7 @@
     "origins": [
       "LUGIA"
     ],
-    "type": "GRASS",
-    "baby": false
+    "type": "GRASS"
   },
   {
     "id": "A4-011",
@@ -139,8 +129,7 @@
     "origins": [
       "LUGIA"
     ],
-    "type": "GRASS",
-    "baby": false
+    "type": "GRASS"
   },
   {
     "id": "A4-012",
@@ -152,8 +141,7 @@
     "origins": [
       "LUGIA"
     ],
-    "type": "GRASS",
-    "baby": false
+    "type": "GRASS"
   },
   {
     "id": "A4-013",
@@ -165,8 +153,7 @@
     "origins": [
       "HO_OH"
     ],
-    "type": "GRASS",
-    "baby": false
+    "type": "GRASS"
   },
   {
     "id": "A4-014",
@@ -178,8 +165,7 @@
     "origins": [
       "HO_OH"
     ],
-    "type": "GRASS",
-    "baby": false
+    "type": "GRASS"
   },
   {
     "id": "A4-015",
@@ -191,8 +177,7 @@
     "origins": [
       "HO_OH"
     ],
-    "type": "GRASS",
-    "baby": false
+    "type": "GRASS"
   },
   {
     "id": "A4-016",
@@ -205,8 +190,7 @@
       "LUGIA",
       "HO_OH"
     ],
-    "type": "GRASS",
-    "baby": false
+    "type": "GRASS"
   },
   {
     "id": "A4-017",
@@ -219,8 +203,7 @@
       "LUGIA",
       "HO_OH"
     ],
-    "type": "GRASS",
-    "baby": false
+    "type": "GRASS"
   },
   {
     "id": "A4-018",
@@ -233,8 +216,7 @@
       "LUGIA",
       "HO_OH"
     ],
-    "type": "GRASS",
-    "baby": false
+    "type": "GRASS"
   },
   {
     "id": "A4-019",
@@ -247,8 +229,7 @@
       "LUGIA",
       "HO_OH"
     ],
-    "type": "GRASS",
-    "baby": false
+    "type": "GRASS"
   },
   {
     "id": "A4-020",
@@ -261,8 +242,7 @@
       "LUGIA",
       "HO_OH"
     ],
-    "type": "GRASS",
-    "baby": false
+    "type": "GRASS"
   },
   {
     "id": "A4-021",
@@ -274,8 +254,7 @@
     "origins": [
       "LUGIA"
     ],
-    "type": "GRASS",
-    "baby": false
+    "type": "GRASS"
   },
   {
     "id": "A4-022",
@@ -287,8 +266,7 @@
     "origins": [
       "HO_OH"
     ],
-    "type": "GRASS",
-    "baby": false
+    "type": "GRASS"
   },
   {
     "id": "A4-023",
@@ -301,8 +279,7 @@
       "LUGIA",
       "HO_OH"
     ],
-    "type": "GRASS",
-    "baby": false
+    "type": "GRASS"
   },
   {
     "id": "A4-024",
@@ -315,8 +292,7 @@
       "LUGIA",
       "HO_OH"
     ],
-    "type": "GRASS",
-    "baby": false
+    "type": "GRASS"
   },
   {
     "id": "A4-025",
@@ -328,8 +304,7 @@
     "origins": [
       "LUGIA"
     ],
-    "type": "FIRE",
-    "baby": false
+    "type": "FIRE"
   },
   {
     "id": "A4-026",
@@ -341,8 +316,7 @@
     "origins": [
       "LUGIA"
     ],
-    "type": "FIRE",
-    "baby": false
+    "type": "FIRE"
   },
   {
     "id": "A4-027",
@@ -354,8 +328,7 @@
     "origins": [
       "LUGIA"
     ],
-    "type": "FIRE",
-    "baby": false
+    "type": "FIRE"
   },
   {
     "id": "A4-028",
@@ -367,8 +340,7 @@
     "origins": [
       "LUGIA"
     ],
-    "type": "FIRE",
-    "baby": false
+    "type": "FIRE"
   },
   {
     "id": "A4-029",
@@ -380,8 +352,7 @@
     "origins": [
       "LUGIA"
     ],
-    "type": "FIRE",
-    "baby": false
+    "type": "FIRE"
   },
   {
     "id": "A4-030",
@@ -393,8 +364,7 @@
     "origins": [
       "HO_OH"
     ],
-    "type": "FIRE",
-    "baby": false
+    "type": "FIRE"
   },
   {
     "id": "A4-031",
@@ -406,8 +376,7 @@
     "origins": [
       "HO_OH"
     ],
-    "type": "FIRE",
-    "baby": false
+    "type": "FIRE"
   },
   {
     "id": "A4-032",
@@ -420,7 +389,7 @@
       "HO_OH"
     ],
     "type": "FIRE",
-    "baby": true
+    "extra": true
   },
   {
     "id": "A4-033",
@@ -432,8 +401,7 @@
     "origins": [
       "HO_OH"
     ],
-    "type": "FIRE",
-    "baby": false
+    "type": "FIRE"
   },
   {
     "id": "A4-034",
@@ -445,8 +413,7 @@
     "origins": [
       "HO_OH"
     ],
-    "type": "FIRE",
-    "baby": false
+    "type": "FIRE"
   },
   {
     "id": "A4-035",
@@ -459,8 +426,7 @@
       "LUGIA",
       "HO_OH"
     ],
-    "type": "FIRE",
-    "baby": false
+    "type": "FIRE"
   },
   {
     "id": "A4-036",
@@ -473,8 +439,7 @@
       "LUGIA",
       "HO_OH"
     ],
-    "type": "FIRE",
-    "baby": false
+    "type": "FIRE"
   },
   {
     "id": "A4-037",
@@ -487,8 +452,7 @@
       "LUGIA",
       "HO_OH"
     ],
-    "type": "FIRE",
-    "baby": false
+    "type": "FIRE"
   },
   {
     "id": "A4-038",
@@ -500,8 +464,7 @@
     "origins": [
       "LUGIA"
     ],
-    "type": "WATER",
-    "baby": false
+    "type": "WATER"
   },
   {
     "id": "A4-039",
@@ -513,8 +476,7 @@
     "origins": [
       "LUGIA"
     ],
-    "type": "WATER",
-    "baby": false
+    "type": "WATER"
   },
   {
     "id": "A4-040",
@@ -526,8 +488,7 @@
     "origins": [
       "LUGIA"
     ],
-    "type": "WATER",
-    "baby": false
+    "type": "WATER"
   },
   {
     "id": "A4-041",
@@ -539,8 +500,7 @@
     "origins": [
       "LUGIA"
     ],
-    "type": "WATER",
-    "baby": false
+    "type": "WATER"
   },
   {
     "id": "A4-042",
@@ -552,8 +512,7 @@
     "origins": [
       "LUGIA"
     ],
-    "type": "WATER",
-    "baby": false
+    "type": "WATER"
   },
   {
     "id": "A4-043",
@@ -565,8 +524,7 @@
     "origins": [
       "LUGIA"
     ],
-    "type": "WATER",
-    "baby": false
+    "type": "WATER"
   },
   {
     "id": "A4-044",
@@ -578,8 +536,7 @@
     "origins": [
       "LUGIA"
     ],
-    "type": "WATER",
-    "baby": false
+    "type": "WATER"
   },
   {
     "id": "A4-045",
@@ -591,8 +548,7 @@
     "origins": [
       "LUGIA"
     ],
-    "type": "WATER",
-    "baby": false
+    "type": "WATER"
   },
   {
     "id": "A4-046",
@@ -604,8 +560,7 @@
     "origins": [
       "HO_OH"
     ],
-    "type": "WATER",
-    "baby": false
+    "type": "WATER"
   },
   {
     "id": "A4-047",
@@ -617,8 +572,7 @@
     "origins": [
       "HO_OH"
     ],
-    "type": "WATER",
-    "baby": false
+    "type": "WATER"
   },
   {
     "id": "A4-048",
@@ -630,8 +584,7 @@
     "origins": [
       "HO_OH"
     ],
-    "type": "WATER",
-    "baby": false
+    "type": "WATER"
   },
   {
     "id": "A4-049",
@@ -643,8 +596,7 @@
     "origins": [
       "HO_OH"
     ],
-    "type": "WATER",
-    "baby": false
+    "type": "WATER"
   },
   {
     "id": "A4-050",
@@ -656,8 +608,7 @@
     "origins": [
       "HO_OH"
     ],
-    "type": "WATER",
-    "baby": false
+    "type": "WATER"
   },
   {
     "id": "A4-051",
@@ -669,8 +620,7 @@
     "origins": [
       "LUGIA"
     ],
-    "type": "WATER",
-    "baby": false
+    "type": "WATER"
   },
   {
     "id": "A4-052",
@@ -682,8 +632,7 @@
     "origins": [
       "LUGIA"
     ],
-    "type": "WATER",
-    "baby": false
+    "type": "WATER"
   },
   {
     "id": "A4-053",
@@ -695,8 +644,7 @@
     "origins": [
       "LUGIA"
     ],
-    "type": "WATER",
-    "baby": false
+    "type": "WATER"
   },
   {
     "id": "A4-054",
@@ -708,8 +656,7 @@
     "origins": [
       "LUGIA"
     ],
-    "type": "WATER",
-    "baby": false
+    "type": "WATER"
   },
   {
     "id": "A4-055",
@@ -721,8 +668,7 @@
     "origins": [
       "LUGIA"
     ],
-    "type": "WATER",
-    "baby": false
+    "type": "WATER"
   },
   {
     "id": "A4-056",
@@ -734,8 +680,7 @@
     "origins": [
       "LUGIA"
     ],
-    "type": "WATER",
-    "baby": false
+    "type": "WATER"
   },
   {
     "id": "A4-057",
@@ -747,8 +692,7 @@
     "origins": [
       "HO_OH"
     ],
-    "type": "WATER",
-    "baby": false
+    "type": "WATER"
   },
   {
     "id": "A4-058",
@@ -760,8 +704,7 @@
     "origins": [
       "LUGIA"
     ],
-    "type": "WATER",
-    "baby": false
+    "type": "WATER"
   },
   {
     "id": "A4-059",
@@ -773,8 +716,7 @@
     "origins": [
       "LUGIA"
     ],
-    "type": "WATER",
-    "baby": false
+    "type": "WATER"
   },
   {
     "id": "A4-060",
@@ -786,8 +728,7 @@
     "origins": [
       "LUGIA"
     ],
-    "type": "WATER",
-    "baby": false
+    "type": "WATER"
   },
   {
     "id": "A4-061",
@@ -799,8 +740,7 @@
     "origins": [
       "LUGIA"
     ],
-    "type": "WATER",
-    "baby": false
+    "type": "WATER"
   },
   {
     "id": "A4-062",
@@ -812,8 +752,7 @@
     "origins": [
       "HO_OH"
     ],
-    "type": "WATER",
-    "baby": false
+    "type": "WATER"
   },
   {
     "id": "A4-063",
@@ -825,8 +764,7 @@
     "origins": [
       "HO_OH"
     ],
-    "type": "WATER",
-    "baby": false
+    "type": "WATER"
   },
   {
     "id": "A4-064",
@@ -838,8 +776,7 @@
     "origins": [
       "LUGIA"
     ],
-    "type": "LIGHTNING",
-    "baby": false
+    "type": "LIGHTNING"
   },
   {
     "id": "A4-065",
@@ -851,8 +788,7 @@
     "origins": [
       "LUGIA"
     ],
-    "type": "LIGHTNING",
-    "baby": false
+    "type": "LIGHTNING"
   },
   {
     "id": "A4-066",
@@ -865,7 +801,7 @@
       "LUGIA"
     ],
     "type": "LIGHTNING",
-    "baby": true
+    "extra": true
   },
   {
     "id": "A4-067",
@@ -877,8 +813,7 @@
     "origins": [
       "LUGIA"
     ],
-    "type": "LIGHTNING",
-    "baby": false
+    "type": "LIGHTNING"
   },
   {
     "id": "A4-068",
@@ -890,8 +825,7 @@
     "origins": [
       "LUGIA"
     ],
-    "type": "LIGHTNING",
-    "baby": false
+    "type": "LIGHTNING"
   },
   {
     "id": "A4-069",
@@ -903,8 +837,7 @@
     "origins": [
       "LUGIA"
     ],
-    "type": "LIGHTNING",
-    "baby": false
+    "type": "LIGHTNING"
   },
   {
     "id": "A4-070",
@@ -917,7 +850,7 @@
       "LUGIA"
     ],
     "type": "LIGHTNING",
-    "baby": true
+    "extra": true
   },
   {
     "id": "A4-071",
@@ -929,8 +862,7 @@
     "origins": [
       "HO_OH"
     ],
-    "type": "LIGHTNING",
-    "baby": false
+    "type": "LIGHTNING"
   },
   {
     "id": "A4-072",
@@ -943,8 +875,7 @@
       "LUGIA",
       "HO_OH"
     ],
-    "type": "LIGHTNING",
-    "baby": false
+    "type": "LIGHTNING"
   },
   {
     "id": "A4-073",
@@ -956,8 +887,7 @@
     "origins": [
       "LUGIA"
     ],
-    "type": "Psychic",
-    "baby": false
+    "type": "Psychic"
   },
   {
     "id": "A4-074",
@@ -969,8 +899,7 @@
     "origins": [
       "LUGIA"
     ],
-    "type": "Psychic",
-    "baby": false
+    "type": "Psychic"
   },
   {
     "id": "A4-075",
@@ -983,7 +912,7 @@
       "HO_OH"
     ],
     "type": "Psychic",
-    "baby": true
+    "extra": true
   },
   {
     "id": "A4-076",
@@ -996,8 +925,7 @@
       "LUGIA",
       "HO_OH"
     ],
-    "type": "Psychic",
-    "baby": false
+    "type": "Psychic"
   },
   {
     "id": "A4-077",
@@ -1010,7 +938,7 @@
       "LUGIA"
     ],
     "type": "Psychic",
-    "baby": true
+    "extra": true
   },
   {
     "id": "A4-078",
@@ -1022,8 +950,7 @@
     "origins": [
       "HO_OH"
     ],
-    "type": "Psychic",
-    "baby": false
+    "type": "Psychic"
   },
   {
     "id": "A4-079",
@@ -1035,8 +962,7 @@
     "origins": [
       "HO_OH"
     ],
-    "type": "Psychic",
-    "baby": false
+    "type": "Psychic"
   },
   {
     "id": "A4-080",
@@ -1048,8 +974,7 @@
     "origins": [
       "HO_OH"
     ],
-    "type": "Psychic",
-    "baby": false
+    "type": "Psychic"
   },
   {
     "id": "A4-081",
@@ -1061,8 +986,7 @@
     "origins": [
       "LUGIA"
     ],
-    "type": "Psychic",
-    "baby": false
+    "type": "Psychic"
   },
   {
     "id": "A4-082",
@@ -1074,8 +998,7 @@
     "origins": [
       "LUGIA"
     ],
-    "type": "Psychic",
-    "baby": false
+    "type": "Psychic"
   },
   {
     "id": "A4-083",
@@ -1087,8 +1010,7 @@
     "origins": [
       "LUGIA"
     ],
-    "type": "Psychic",
-    "baby": false
+    "type": "Psychic"
   },
   {
     "id": "A4-084",
@@ -1100,8 +1022,7 @@
     "origins": [
       "HO_OH"
     ],
-    "type": "Psychic",
-    "baby": false
+    "type": "Psychic"
   },
   {
     "id": "A4-085",
@@ -1113,8 +1034,7 @@
     "origins": [
       "LUGIA"
     ],
-    "type": "Psychic",
-    "baby": false
+    "type": "Psychic"
   },
   {
     "id": "A4-086",
@@ -1126,8 +1046,7 @@
     "origins": [
       "LUGIA"
     ],
-    "type": "Psychic",
-    "baby": false
+    "type": "Psychic"
   },
   {
     "id": "A4-087",
@@ -1139,8 +1058,7 @@
     "origins": [
       "HO_OH"
     ],
-    "type": "Psychic",
-    "baby": false
+    "type": "Psychic"
   },
   {
     "id": "A4-088",
@@ -1153,8 +1071,7 @@
       "LUGIA",
       "HO_OH"
     ],
-    "type": "Psychic",
-    "baby": false
+    "type": "Psychic"
   },
   {
     "id": "A4-089",
@@ -1167,8 +1084,7 @@
       "LUGIA",
       "HO_OH"
     ],
-    "type": "Psychic",
-    "baby": false
+    "type": "Psychic"
   },
   {
     "id": "A4-090",
@@ -1181,8 +1097,7 @@
       "LUGIA",
       "HO_OH"
     ],
-    "type": "Psychic",
-    "baby": false
+    "type": "Psychic"
   },
   {
     "id": "A4-091",
@@ -1195,8 +1110,7 @@
       "LUGIA",
       "HO_OH"
     ],
-    "type": "Psychic",
-    "baby": false
+    "type": "Psychic"
   },
   {
     "id": "A4-092",
@@ -1208,8 +1122,7 @@
     "origins": [
       "HO_OH"
     ],
-    "type": "FIGHTING",
-    "baby": false
+    "type": "FIGHTING"
   },
   {
     "id": "A4-093",
@@ -1222,8 +1135,7 @@
       "LUGIA",
       "HO_OH"
     ],
-    "type": "FIGHTING",
-    "baby": false
+    "type": "FIGHTING"
   },
   {
     "id": "A4-094",
@@ -1235,8 +1147,7 @@
     "origins": [
       "HO_OH"
     ],
-    "type": "FIGHTING",
-    "baby": false
+    "type": "FIGHTING"
   },
   {
     "id": "A4-095",
@@ -1248,8 +1159,7 @@
     "origins": [
       "HO_OH"
     ],
-    "type": "FIGHTING",
-    "baby": false
+    "type": "FIGHTING"
   },
   {
     "id": "A4-096",
@@ -1261,8 +1171,7 @@
     "origins": [
       "HO_OH"
     ],
-    "type": "FIGHTING",
-    "baby": false
+    "type": "FIGHTING"
   },
   {
     "id": "A4-097",
@@ -1274,8 +1183,7 @@
     "origins": [
       "HO_OH"
     ],
-    "type": "FIGHTING",
-    "baby": false
+    "type": "FIGHTING"
   },
   {
     "id": "A4-098",
@@ -1287,8 +1195,7 @@
     "origins": [
       "HO_OH"
     ],
-    "type": "FIGHTING",
-    "baby": false
+    "type": "FIGHTING"
   },
   {
     "id": "A4-099",
@@ -1300,8 +1207,7 @@
     "origins": [
       "HO_OH"
     ],
-    "type": "FIGHTING",
-    "baby": false
+    "type": "FIGHTING"
   },
   {
     "id": "A4-100",
@@ -1313,8 +1219,7 @@
     "origins": [
       "HO_OH"
     ],
-    "type": "FIGHTING",
-    "baby": false
+    "type": "FIGHTING"
   },
   {
     "id": "A4-101",
@@ -1327,7 +1232,7 @@
       "HO_OH"
     ],
     "type": "FIGHTING",
-    "baby": true
+    "extra": true
   },
   {
     "id": "A4-102",
@@ -1340,8 +1245,7 @@
       "LUGIA",
       "HO_OH"
     ],
-    "type": "FIGHTING",
-    "baby": false
+    "type": "FIGHTING"
   },
   {
     "id": "A4-103",
@@ -1353,8 +1257,7 @@
     "origins": [
       "HO_OH"
     ],
-    "type": "FIGHTING",
-    "baby": false
+    "type": "FIGHTING"
   },
   {
     "id": "A4-104",
@@ -1366,8 +1269,7 @@
     "origins": [
       "HO_OH"
     ],
-    "type": "FIGHTING",
-    "baby": false
+    "type": "FIGHTING"
   },
   {
     "id": "A4-105",
@@ -1379,8 +1281,7 @@
     "origins": [
       "LUGIA"
     ],
-    "type": "FIGHTING",
-    "baby": false
+    "type": "FIGHTING"
   },
   {
     "id": "A4-106",
@@ -1392,8 +1293,7 @@
     "origins": [
       "LUGIA"
     ],
-    "type": "FIGHTING",
-    "baby": false
+    "type": "FIGHTING"
   },
   {
     "id": "A4-107",
@@ -1405,8 +1305,7 @@
     "origins": [
       "HO_OH"
     ],
-    "type": "DARKNESS",
-    "baby": false
+    "type": "DARKNESS"
   },
   {
     "id": "A4-108",
@@ -1418,8 +1317,7 @@
     "origins": [
       "HO_OH"
     ],
-    "type": "DARKNESS",
-    "baby": false
+    "type": "DARKNESS"
   },
   {
     "id": "A4-109",
@@ -1431,8 +1329,7 @@
     "origins": [
       "HO_OH"
     ],
-    "type": "DARKNESS",
-    "baby": false
+    "type": "DARKNESS"
   },
   {
     "id": "A4-110",
@@ -1444,8 +1341,7 @@
     "origins": [
       "HO_OH"
     ],
-    "type": "DARKNESS",
-    "baby": false
+    "type": "DARKNESS"
   },
   {
     "id": "A4-111",
@@ -1457,8 +1353,7 @@
     "origins": [
       "HO_OH"
     ],
-    "type": "DARKNESS",
-    "baby": false
+    "type": "DARKNESS"
   },
   {
     "id": "A4-112",
@@ -1470,8 +1365,7 @@
     "origins": [
       "HO_OH"
     ],
-    "type": "DARKNESS",
-    "baby": false
+    "type": "DARKNESS"
   },
   {
     "id": "A4-113",
@@ -1483,8 +1377,7 @@
     "origins": [
       "LUGIA"
     ],
-    "type": "DARKNESS",
-    "baby": false
+    "type": "DARKNESS"
   },
   {
     "id": "A4-114",
@@ -1496,8 +1389,7 @@
     "origins": [
       "LUGIA"
     ],
-    "type": "DARKNESS",
-    "baby": false
+    "type": "DARKNESS"
   },
   {
     "id": "A4-115",
@@ -1509,8 +1401,7 @@
     "origins": [
       "LUGIA"
     ],
-    "type": "DARKNESS",
-    "baby": false
+    "type": "DARKNESS"
   },
   {
     "id": "A4-116",
@@ -1522,8 +1413,7 @@
     "origins": [
       "LUGIA"
     ],
-    "type": "DARKNESS",
-    "baby": false
+    "type": "DARKNESS"
   },
   {
     "id": "A4-117",
@@ -1536,8 +1426,7 @@
       "LUGIA",
       "HO_OH"
     ],
-    "type": "DARKNESS",
-    "baby": false
+    "type": "DARKNESS"
   },
   {
     "id": "A4-118",
@@ -1550,8 +1439,7 @@
       "LUGIA",
       "HO_OH"
     ],
-    "type": "DARKNESS",
-    "baby": false
+    "type": "DARKNESS"
   },
   {
     "id": "A4-119",
@@ -1563,8 +1451,7 @@
     "origins": [
       "HO_OH"
     ],
-    "type": "DARKNESS",
-    "baby": false
+    "type": "DARKNESS"
   },
   {
     "id": "A4-120",
@@ -1577,8 +1464,7 @@
       "LUGIA",
       "HO_OH"
     ],
-    "type": "DARKNESS",
-    "baby": false
+    "type": "DARKNESS"
   },
   {
     "id": "A4-121",
@@ -1591,8 +1477,7 @@
       "LUGIA",
       "HO_OH"
     ],
-    "type": "METAL",
-    "baby": false
+    "type": "METAL"
   },
   {
     "id": "A4-122",
@@ -1604,8 +1489,7 @@
     "origins": [
       "HO_OH"
     ],
-    "type": "METAL",
-    "baby": false
+    "type": "METAL"
   },
   {
     "id": "A4-123",
@@ -1617,8 +1501,7 @@
     "origins": [
       "LUGIA"
     ],
-    "type": "METAL",
-    "baby": false
+    "type": "METAL"
   },
   {
     "id": "A4-124",
@@ -1630,8 +1513,7 @@
     "origins": [
       "HO_OH"
     ],
-    "type": "METAL",
-    "baby": false
+    "type": "METAL"
   },
   {
     "id": "A4-125",
@@ -1644,8 +1526,7 @@
       "LUGIA",
       "HO_OH"
     ],
-    "type": "METAL",
-    "baby": false
+    "type": "METAL"
   },
   {
     "id": "A4-126",
@@ -1657,8 +1538,7 @@
     "origins": [
       "HO_OH"
     ],
-    "type": "METAL",
-    "baby": false
+    "type": "METAL"
   },
   {
     "id": "A4-127",
@@ -1670,8 +1550,7 @@
     "origins": [
       "HO_OH"
     ],
-    "type": "METAL",
-    "baby": false
+    "type": "METAL"
   },
   {
     "id": "A4-128",
@@ -1683,8 +1562,7 @@
     "origins": [
       "HO_OH"
     ],
-    "type": "METAL",
-    "baby": false
+    "type": "METAL"
   },
   {
     "id": "A4-129",
@@ -1696,8 +1574,7 @@
     "origins": [
       "HO_OH"
     ],
-    "type": "COLORLESS",
-    "baby": false
+    "type": "COLORLESS"
   },
   {
     "id": "A4-130",
@@ -1709,8 +1586,7 @@
     "origins": [
       "HO_OH"
     ],
-    "type": "COLORLESS",
-    "baby": false
+    "type": "COLORLESS"
   },
   {
     "id": "A4-131",
@@ -1722,8 +1598,7 @@
     "origins": [
       "HO_OH"
     ],
-    "type": "COLORLESS",
-    "baby": false
+    "type": "COLORLESS"
   },
   {
     "id": "A4-132",
@@ -1735,8 +1610,7 @@
     "origins": [
       "HO_OH"
     ],
-    "type": "COLORLESS",
-    "baby": false
+    "type": "COLORLESS"
   },
   {
     "id": "A4-133",
@@ -1748,8 +1622,7 @@
     "origins": [
       "HO_OH"
     ],
-    "type": "COLORLESS",
-    "baby": false
+    "type": "COLORLESS"
   },
   {
     "id": "A4-134",
@@ -1762,8 +1635,7 @@
       "LUGIA",
       "HO_OH"
     ],
-    "type": "COLORLESS",
-    "baby": false
+    "type": "COLORLESS"
   },
   {
     "id": "A4-135",
@@ -1775,8 +1647,7 @@
     "origins": [
       "LUGIA"
     ],
-    "type": "COLORLESS",
-    "baby": false
+    "type": "COLORLESS"
   },
   {
     "id": "A4-136",
@@ -1788,8 +1659,7 @@
     "origins": [
       "LUGIA"
     ],
-    "type": "COLORLESS",
-    "baby": false
+    "type": "COLORLESS"
   },
   {
     "id": "A4-137",
@@ -1801,8 +1671,7 @@
     "origins": [
       "LUGIA"
     ],
-    "type": "COLORLESS",
-    "baby": false
+    "type": "COLORLESS"
   },
   {
     "id": "A4-138",
@@ -1814,8 +1683,7 @@
     "origins": [
       "HO_OH"
     ],
-    "type": "COLORLESS",
-    "baby": false
+    "type": "COLORLESS"
   },
   {
     "id": "A4-139",
@@ -1827,8 +1695,7 @@
     "origins": [
       "HO_OH"
     ],
-    "type": "COLORLESS",
-    "baby": false
+    "type": "COLORLESS"
   },
   {
     "id": "A4-140",
@@ -1840,8 +1707,7 @@
     "origins": [
       "HO_OH"
     ],
-    "type": "COLORLESS",
-    "baby": false
+    "type": "COLORLESS"
   },
   {
     "id": "A4-141",
@@ -1853,8 +1719,7 @@
     "origins": [
       "HO_OH"
     ],
-    "type": "COLORLESS",
-    "baby": false
+    "type": "COLORLESS"
   },
   {
     "id": "A4-142",
@@ -1867,8 +1732,7 @@
       "LUGIA",
       "HO_OH"
     ],
-    "type": "COLORLESS",
-    "baby": false
+    "type": "COLORLESS"
   },
   {
     "id": "A4-143",
@@ -1881,8 +1745,7 @@
       "LUGIA",
       "HO_OH"
     ],
-    "type": "COLORLESS",
-    "baby": false
+    "type": "COLORLESS"
   },
   {
     "id": "A4-144",
@@ -1895,8 +1758,7 @@
       "LUGIA",
       "HO_OH"
     ],
-    "type": "COLORLESS",
-    "baby": false
+    "type": "COLORLESS"
   },
   {
     "id": "A4-145",
@@ -1908,8 +1770,7 @@
     "origins": [
       "HO_OH"
     ],
-    "type": "COLORLESS",
-    "baby": false
+    "type": "COLORLESS"
   },
   {
     "id": "A4-146",
@@ -1921,8 +1782,7 @@
     "origins": [
       "HO_OH"
     ],
-    "type": "COLORLESS",
-    "baby": false
+    "type": "COLORLESS"
   },
   {
     "id": "A4-147",
@@ -1934,8 +1794,7 @@
     "origins": [
       "HO_OH"
     ],
-    "type": "COLORLESS",
-    "baby": false
+    "type": "COLORLESS"
   },
   {
     "id": "A4-148",
@@ -1947,8 +1806,7 @@
     "origins": [
       "LUGIA"
     ],
-    "type": "COLORLESS",
-    "baby": false
+    "type": "COLORLESS"
   },
   {
     "id": "A4-149",
@@ -1960,8 +1818,7 @@
     "origins": [
       "LUGIA"
     ],
-    "type": "COLORLESS",
-    "baby": false
+    "type": "COLORLESS"
   },
   {
     "id": "A4-150",
@@ -1974,8 +1831,7 @@
       "LUGIA",
       "HO_OH"
     ],
-    "type": "COLORLESS",
-    "baby": false
+    "type": "COLORLESS"
   },
   {
     "id": "A4-151",
@@ -1987,8 +1843,7 @@
     "origins": [
       "LUGIA"
     ],
-    "type": "TRAINER",
-    "baby": false
+    "type": "TRAINER"
   },
   {
     "id": "A4-152",
@@ -2000,8 +1855,7 @@
     "origins": [
       "LUGIA"
     ],
-    "type": "TRAINER",
-    "baby": false
+    "type": "TRAINER"
   },
   {
     "id": "A4-153",
@@ -2013,8 +1867,7 @@
     "origins": [
       "HO_OH"
     ],
-    "type": "TRAINER",
-    "baby": false
+    "type": "TRAINER"
   },
   {
     "id": "A4-154",
@@ -2026,8 +1879,7 @@
     "origins": [
       "HO_OH"
     ],
-    "type": "TRAINER",
-    "baby": false
+    "type": "TRAINER"
   },
   {
     "id": "A4-155",
@@ -2040,8 +1892,7 @@
       "LUGIA",
       "HO_OH"
     ],
-    "type": "TRAINER",
-    "baby": false
+    "type": "TRAINER"
   },
   {
     "id": "A4-156",
@@ -2053,8 +1904,7 @@
     "origins": [
       "LUGIA"
     ],
-    "type": "TRAINER",
-    "baby": false
+    "type": "TRAINER"
   },
   {
     "id": "A4-157",
@@ -2066,8 +1916,7 @@
     "origins": [
       "LUGIA"
     ],
-    "type": "TRAINER",
-    "baby": false
+    "type": "TRAINER"
   },
   {
     "id": "A4-158",
@@ -2079,8 +1928,7 @@
     "origins": [
       "HO_OH"
     ],
-    "type": "TRAINER",
-    "baby": false
+    "type": "TRAINER"
   },
   {
     "id": "A4-159",
@@ -2092,8 +1940,7 @@
     "origins": [
       "LUGIA"
     ],
-    "type": "TRAINER",
-    "baby": false
+    "type": "TRAINER"
   },
   {
     "id": "A4-160",
@@ -2105,8 +1952,7 @@
     "origins": [
       "HO_OH"
     ],
-    "type": "TRAINER",
-    "baby": false
+    "type": "TRAINER"
   },
   {
     "id": "A4-161",
@@ -2118,8 +1964,7 @@
     "origins": [
       "HO_OH"
     ],
-    "type": "TRAINER",
-    "baby": false
+    "type": "TRAINER"
   },
   {
     "id": "A4-162",
@@ -2131,8 +1976,7 @@
     "origins": [
       "LUGIA"
     ],
-    "type": "GRASS",
-    "baby": false
+    "type": "GRASS"
   },
   {
     "id": "A4-163",
@@ -2144,8 +1988,7 @@
     "origins": [
       "LUGIA"
     ],
-    "type": "GRASS",
-    "baby": false
+    "type": "GRASS"
   },
   {
     "id": "A4-164",
@@ -2157,8 +2000,7 @@
     "origins": [
       "HO_OH"
     ],
-    "type": "GRASS",
-    "baby": false
+    "type": "GRASS"
   },
   {
     "id": "A4-165",
@@ -2170,8 +2012,7 @@
     "origins": [
       "LUGIA"
     ],
-    "type": "FIRE",
-    "baby": false
+    "type": "FIRE"
   },
   {
     "id": "A4-166",
@@ -2184,7 +2025,7 @@
       "HO_OH"
     ],
     "type": "FIRE",
-    "baby": true
+    "extra": true
   },
   {
     "id": "A4-167",
@@ -2196,8 +2037,7 @@
     "origins": [
       "HO_OH"
     ],
-    "type": "WATER",
-    "baby": false
+    "type": "WATER"
   },
   {
     "id": "A4-168",
@@ -2209,8 +2049,7 @@
     "origins": [
       "LUGIA"
     ],
-    "type": "WATER",
-    "baby": false
+    "type": "WATER"
   },
   {
     "id": "A4-169",
@@ -2222,8 +2061,7 @@
     "origins": [
       "LUGIA"
     ],
-    "type": "WATER",
-    "baby": false
+    "type": "WATER"
   },
   {
     "id": "A4-170",
@@ -2235,8 +2073,7 @@
     "origins": [
       "HO_OH"
     ],
-    "type": "WATER",
-    "baby": false
+    "type": "WATER"
   },
   {
     "id": "A4-171",
@@ -2249,7 +2086,7 @@
       "LUGIA"
     ],
     "type": "LIGHTNING",
-    "baby": true
+    "extra": true
   },
   {
     "id": "A4-172",
@@ -2261,8 +2098,7 @@
     "origins": [
       "LUGIA"
     ],
-    "type": "LIGHTNING",
-    "baby": false
+    "type": "LIGHTNING"
   },
   {
     "id": "A4-173",
@@ -2274,8 +2110,7 @@
     "origins": [
       "HO_OH"
     ],
-    "type": "Psychic",
-    "baby": false
+    "type": "Psychic"
   },
   {
     "id": "A4-174",
@@ -2287,8 +2122,7 @@
     "origins": [
       "LUGIA"
     ],
-    "type": "Psychic",
-    "baby": false
+    "type": "Psychic"
   },
   {
     "id": "A4-175",
@@ -2300,8 +2134,7 @@
     "origins": [
       "LUGIA"
     ],
-    "type": "Psychic",
-    "baby": false
+    "type": "Psychic"
   },
   {
     "id": "A4-176",
@@ -2313,8 +2146,7 @@
     "origins": [
       "HO_OH"
     ],
-    "type": "FIGHTING",
-    "baby": false
+    "type": "FIGHTING"
   },
   {
     "id": "A4-177",
@@ -2326,8 +2158,7 @@
     "origins": [
       "HO_OH"
     ],
-    "type": "DARKNESS",
-    "baby": false
+    "type": "DARKNESS"
   },
   {
     "id": "A4-178",
@@ -2339,8 +2170,7 @@
     "origins": [
       "LUGIA"
     ],
-    "type": "DARKNESS",
-    "baby": false
+    "type": "DARKNESS"
   },
   {
     "id": "A4-179",
@@ -2352,8 +2182,7 @@
     "origins": [
       "HO_OH"
     ],
-    "type": "DARKNESS",
-    "baby": false
+    "type": "DARKNESS"
   },
   {
     "id": "A4-180",
@@ -2365,8 +2194,7 @@
     "origins": [
       "LUGIA"
     ],
-    "type": "METAL",
-    "baby": false
+    "type": "METAL"
   },
   {
     "id": "A4-181",
@@ -2378,8 +2206,7 @@
     "origins": [
       "HO_OH"
     ],
-    "type": "COLORLESS",
-    "baby": false
+    "type": "COLORLESS"
   },
   {
     "id": "A4-182",
@@ -2391,8 +2218,7 @@
     "origins": [
       "HO_OH"
     ],
-    "type": "COLORLESS",
-    "baby": false
+    "type": "COLORLESS"
   },
   {
     "id": "A4-183",
@@ -2404,8 +2230,7 @@
     "origins": [
       "HO_OH"
     ],
-    "type": "COLORLESS",
-    "baby": false
+    "type": "COLORLESS"
   },
   {
     "id": "A4-184",
@@ -2417,8 +2242,7 @@
     "origins": [
       "LUGIA"
     ],
-    "type": "COLORLESS",
-    "baby": false
+    "type": "COLORLESS"
   },
   {
     "id": "A4-185",
@@ -2430,8 +2254,7 @@
     "origins": [
       "HO_OH"
     ],
-    "type": "COLORLESS",
-    "baby": false
+    "type": "COLORLESS"
   },
   {
     "id": "A4-186",
@@ -2443,8 +2266,7 @@
     "origins": [
       "LUGIA"
     ],
-    "type": "GRASS",
-    "baby": false
+    "type": "GRASS"
   },
   {
     "id": "A4-187",
@@ -2456,8 +2278,7 @@
     "origins": [
       "HO_OH"
     ],
-    "type": "FIRE",
-    "baby": false
+    "type": "FIRE"
   },
   {
     "id": "A4-188",
@@ -2469,8 +2290,7 @@
     "origins": [
       "LUGIA"
     ],
-    "type": "WATER",
-    "baby": false
+    "type": "WATER"
   },
   {
     "id": "A4-189",
@@ -2482,8 +2302,7 @@
     "origins": [
       "LUGIA"
     ],
-    "type": "LIGHTNING",
-    "baby": false
+    "type": "LIGHTNING"
   },
   {
     "id": "A4-190",
@@ -2495,8 +2314,7 @@
     "origins": [
       "LUGIA"
     ],
-    "type": "Psychic",
-    "baby": false
+    "type": "Psychic"
   },
   {
     "id": "A4-191",
@@ -2508,8 +2326,7 @@
     "origins": [
       "HO_OH"
     ],
-    "type": "FIGHTING",
-    "baby": false
+    "type": "FIGHTING"
   },
   {
     "id": "A4-192",
@@ -2521,8 +2338,7 @@
     "origins": [
       "HO_OH"
     ],
-    "type": "DARKNESS",
-    "baby": false
+    "type": "DARKNESS"
   },
   {
     "id": "A4-193",
@@ -2534,8 +2350,7 @@
     "origins": [
       "HO_OH"
     ],
-    "type": "DARKNESS",
-    "baby": false
+    "type": "DARKNESS"
   },
   {
     "id": "A4-194",
@@ -2547,8 +2362,7 @@
     "origins": [
       "HO_OH"
     ],
-    "type": "METAL",
-    "baby": false
+    "type": "METAL"
   },
   {
     "id": "A4-195",
@@ -2560,8 +2374,7 @@
     "origins": [
       "LUGIA"
     ],
-    "type": "COLORLESS",
-    "baby": false
+    "type": "COLORLESS"
   },
   {
     "id": "A4-196",
@@ -2573,8 +2386,7 @@
     "origins": [
       "LUGIA"
     ],
-    "type": "TRAINER",
-    "baby": false
+    "type": "TRAINER"
   },
   {
     "id": "A4-197",
@@ -2586,8 +2398,7 @@
     "origins": [
       "LUGIA"
     ],
-    "type": "TRAINER",
-    "baby": false
+    "type": "TRAINER"
   },
   {
     "id": "A4-198",
@@ -2599,8 +2410,7 @@
     "origins": [
       "HO_OH"
     ],
-    "type": "TRAINER",
-    "baby": false
+    "type": "TRAINER"
   },
   {
     "id": "A4-199",
@@ -2612,8 +2422,7 @@
     "origins": [
       "LUGIA"
     ],
-    "type": "TRAINER",
-    "baby": false
+    "type": "TRAINER"
   },
   {
     "id": "A4-200",
@@ -2625,8 +2434,7 @@
     "origins": [
       "HO_OH"
     ],
-    "type": "TRAINER",
-    "baby": false
+    "type": "TRAINER"
   },
   {
     "id": "A4-201",
@@ -2638,8 +2446,7 @@
     "origins": [
       "HO_OH"
     ],
-    "type": "TRAINER",
-    "baby": false
+    "type": "TRAINER"
   },
   {
     "id": "A4-202",
@@ -2651,8 +2458,7 @@
     "origins": [
       "LUGIA"
     ],
-    "type": "GRASS",
-    "baby": false
+    "type": "GRASS"
   },
   {
     "id": "A4-203",
@@ -2664,8 +2470,7 @@
     "origins": [
       "LUGIA"
     ],
-    "type": "WATER",
-    "baby": false
+    "type": "WATER"
   },
   {
     "id": "A4-204",
@@ -2677,8 +2482,7 @@
     "origins": [
       "LUGIA"
     ],
-    "type": "LIGHTNING",
-    "baby": false
+    "type": "LIGHTNING"
   },
   {
     "id": "A4-205",
@@ -2690,8 +2494,7 @@
     "origins": [
       "LUGIA"
     ],
-    "type": "Psychic",
-    "baby": false
+    "type": "Psychic"
   },
   {
     "id": "A4-206",
@@ -2703,8 +2506,7 @@
     "origins": [
       "HO_OH"
     ],
-    "type": "FIGHTING",
-    "baby": false
+    "type": "FIGHTING"
   },
   {
     "id": "A4-207",
@@ -2716,8 +2518,7 @@
     "origins": [
       "HO_OH"
     ],
-    "type": "DARKNESS",
-    "baby": false
+    "type": "DARKNESS"
   },
   {
     "id": "A4-208",
@@ -2729,8 +2530,7 @@
     "origins": [
       "HO_OH"
     ],
-    "type": "DARKNESS",
-    "baby": false
+    "type": "DARKNESS"
   },
   {
     "id": "A4-209",
@@ -2742,8 +2542,7 @@
     "origins": [
       "HO_OH"
     ],
-    "type": "METAL",
-    "baby": false
+    "type": "METAL"
   },
   {
     "id": "A4-210",
@@ -2756,7 +2555,7 @@
       "HO_OH"
     ],
     "type": "FIRE",
-    "baby": false
+    "image": "{pockettrade}A4_210_##lang##_placeholder"
   },
   {
     "id": "A4-211",
@@ -2769,7 +2568,7 @@
       "LUGIA"
     ],
     "type": "COLORLESS",
-    "baby": false
+    "image": "{pockettrade}A4_211_##lang##_placeholder"
   },
   {
     "id": "A4-212",
@@ -2781,8 +2580,7 @@
     "origins": [
       "HO_OH"
     ],
-    "type": "GRASS",
-    "baby": false
+    "type": "GRASS"
   },
   {
     "id": "A4-213",
@@ -2794,8 +2592,7 @@
     "origins": [
       "HO_OH"
     ],
-    "type": "FIRE",
-    "baby": false
+    "type": "FIRE"
   },
   {
     "id": "A4-214",
@@ -2807,8 +2604,7 @@
     "origins": [
       "LUGIA"
     ],
-    "type": "WATER",
-    "baby": false
+    "type": "WATER"
   },
   {
     "id": "A4-215",
@@ -2820,8 +2616,7 @@
     "origins": [
       "LUGIA"
     ],
-    "type": "WATER",
-    "baby": false
+    "type": "WATER"
   },
   {
     "id": "A4-216",
@@ -2833,8 +2628,7 @@
     "origins": [
       "LUGIA"
     ],
-    "type": "WATER",
-    "baby": false
+    "type": "WATER"
   },
   {
     "id": "A4-217",
@@ -2846,8 +2640,7 @@
     "origins": [
       "LUGIA"
     ],
-    "type": "LIGHTNING",
-    "baby": false
+    "type": "LIGHTNING"
   },
   {
     "id": "A4-218",
@@ -2859,8 +2652,7 @@
     "origins": [
       "LUGIA"
     ],
-    "type": "LIGHTNING",
-    "baby": false
+    "type": "LIGHTNING"
   },
   {
     "id": "A4-219",
@@ -2872,8 +2664,7 @@
     "origins": [
       "LUGIA"
     ],
-    "type": "LIGHTNING",
-    "baby": false
+    "type": "LIGHTNING"
   },
   {
     "id": "A4-220",
@@ -2885,8 +2676,7 @@
     "origins": [
       "HO_OH"
     ],
-    "type": "Psychic",
-    "baby": false
+    "type": "Psychic"
   },
   {
     "id": "A4-221",
@@ -2898,8 +2688,7 @@
     "origins": [
       "HO_OH"
     ],
-    "type": "FIGHTING",
-    "baby": false
+    "type": "FIGHTING"
   },
   {
     "id": "A4-222",
@@ -2911,8 +2700,7 @@
     "origins": [
       "HO_OH"
     ],
-    "type": "FIGHTING",
-    "baby": false
+    "type": "FIGHTING"
   },
   {
     "id": "A4-223",
@@ -2924,8 +2712,7 @@
     "origins": [
       "LUGIA"
     ],
-    "type": "DARKNESS",
-    "baby": false
+    "type": "DARKNESS"
   },
   {
     "id": "A4-224",
@@ -2937,8 +2724,7 @@
     "origins": [
       "LUGIA"
     ],
-    "type": "DARKNESS",
-    "baby": false
+    "type": "DARKNESS"
   },
   {
     "id": "A4-225",
@@ -2950,8 +2736,7 @@
     "origins": [
       "LUGIA"
     ],
-    "type": "DARKNESS",
-    "baby": false
+    "type": "DARKNESS"
   },
   {
     "id": "A4-226",
@@ -2963,8 +2748,7 @@
     "origins": [
       "HO_OH"
     ],
-    "type": "DARKNESS",
-    "baby": false
+    "type": "DARKNESS"
   },
   {
     "id": "A4-227",
@@ -2976,8 +2760,7 @@
     "origins": [
       "HO_OH"
     ],
-    "type": "DARKNESS",
-    "baby": false
+    "type": "DARKNESS"
   },
   {
     "id": "A4-228",
@@ -2989,8 +2772,7 @@
     "origins": [
       "HO_OH"
     ],
-    "type": "DARKNESS",
-    "baby": false
+    "type": "DARKNESS"
   },
   {
     "id": "A4-229",
@@ -3002,8 +2784,7 @@
     "origins": [
       "LUGIA"
     ],
-    "type": "DARKNESS",
-    "baby": false
+    "type": "DARKNESS"
   },
   {
     "id": "A4-230",
@@ -3015,8 +2796,7 @@
     "origins": [
       "HO_OH"
     ],
-    "type": "COLORLESS",
-    "baby": false
+    "type": "COLORLESS"
   },
   {
     "id": "A4-231",
@@ -3028,8 +2808,7 @@
     "origins": [
       "HO_OH"
     ],
-    "type": "COLORLESS",
-    "baby": false
+    "type": "COLORLESS"
   },
   {
     "id": "A4-232",
@@ -3041,8 +2820,7 @@
     "origins": [
       "HO_OH"
     ],
-    "type": "GRASS",
-    "baby": false
+    "type": "GRASS"
   },
   {
     "id": "A4-233",
@@ -3054,8 +2832,7 @@
     "origins": [
       "HO_OH"
     ],
-    "type": "GRASS",
-    "baby": false
+    "type": "GRASS"
   },
   {
     "id": "A4-234",
@@ -3067,8 +2844,7 @@
     "origins": [
       "LUGIA"
     ],
-    "type": "WATER",
-    "baby": false
+    "type": "WATER"
   },
   {
     "id": "A4-235",
@@ -3080,8 +2856,7 @@
     "origins": [
       "LUGIA"
     ],
-    "type": "WATER",
-    "baby": false
+    "type": "WATER"
   },
   {
     "id": "A4-236",
@@ -3093,8 +2868,7 @@
     "origins": [
       "LUGIA"
     ],
-    "type": "LIGHTNING",
-    "baby": false
+    "type": "LIGHTNING"
   },
   {
     "id": "A4-237",
@@ -3106,8 +2880,7 @@
     "origins": [
       "HO_OH"
     ],
-    "type": "Psychic",
-    "baby": false
+    "type": "Psychic"
   },
   {
     "id": "A4-238",
@@ -3119,8 +2892,7 @@
     "origins": [
       "LUGIA"
     ],
-    "type": "DARKNESS",
-    "baby": false
+    "type": "DARKNESS"
   },
   {
     "id": "A4-239",
@@ -3132,8 +2904,7 @@
     "origins": [
       "HO_OH"
     ],
-    "type": "COLORLESS",
-    "baby": false
+    "type": "COLORLESS"
   },
   {
     "id": "A4-240",
@@ -3146,8 +2917,7 @@
       "LUGIA",
       "HO_OH"
     ],
-    "type": "FIRE",
-    "baby": false
+    "type": "FIRE"
   },
   {
     "id": "A4-241",
@@ -3160,7 +2930,6 @@
       "LUGIA",
       "HO_OH"
     ],
-    "type": "COLORLESS",
-    "baby": false
+    "type": "COLORLESS"
   }
 ]
