@@ -9,8 +9,7 @@
     "origins": [
       "MEWTWO"
     ],
-    "type": "GRASS",
-    "baby": false
+    "type": "GRASS"
   },
   {
     "id": "A1-002",
@@ -22,8 +21,7 @@
     "origins": [
       "MEWTWO"
     ],
-    "type": "GRASS",
-    "baby": false
+    "type": "GRASS"
   },
   {
     "id": "A1-003",
@@ -35,8 +33,7 @@
     "origins": [
       "MEWTWO"
     ],
-    "type": "GRASS",
-    "baby": false
+    "type": "GRASS"
   },
   {
     "id": "A1-004",
@@ -48,8 +45,7 @@
     "origins": [
       "MEWTWO"
     ],
-    "type": "GRASS",
-    "baby": false
+    "type": "GRASS"
   },
   {
     "id": "A1-005",
@@ -61,8 +57,7 @@
     "origins": [
       "PIKACHU"
     ],
-    "type": "GRASS",
-    "baby": false
+    "type": "GRASS"
   },
   {
     "id": "A1-006",
@@ -74,8 +69,7 @@
     "origins": [
       "PIKACHU"
     ],
-    "type": "GRASS",
-    "baby": false
+    "type": "GRASS"
   },
   {
     "id": "A1-007",
@@ -87,8 +81,7 @@
     "origins": [
       "PIKACHU"
     ],
-    "type": "GRASS",
-    "baby": false
+    "type": "GRASS"
   },
   {
     "id": "A1-008",
@@ -100,8 +93,7 @@
     "origins": [
       "MEWTWO"
     ],
-    "type": "GRASS",
-    "baby": false
+    "type": "GRASS"
   },
   {
     "id": "A1-009",
@@ -113,8 +105,7 @@
     "origins": [
       "MEWTWO"
     ],
-    "type": "GRASS",
-    "baby": false
+    "type": "GRASS"
   },
   {
     "id": "A1-010",
@@ -126,8 +117,7 @@
     "origins": [
       "MEWTWO"
     ],
-    "type": "GRASS",
-    "baby": false
+    "type": "GRASS"
   },
   {
     "id": "A1-011",
@@ -139,8 +129,7 @@
     "origins": [
       "CHARIZARD"
     ],
-    "type": "GRASS",
-    "baby": false
+    "type": "GRASS"
   },
   {
     "id": "A1-012",
@@ -152,8 +141,7 @@
     "origins": [
       "CHARIZARD"
     ],
-    "type": "GRASS",
-    "baby": false
+    "type": "GRASS"
   },
   {
     "id": "A1-013",
@@ -165,8 +153,7 @@
     "origins": [
       "CHARIZARD"
     ],
-    "type": "GRASS",
-    "baby": false
+    "type": "GRASS"
   },
   {
     "id": "A1-014",
@@ -178,8 +165,7 @@
     "origins": [
       "PIKACHU"
     ],
-    "type": "GRASS",
-    "baby": false
+    "type": "GRASS"
   },
   {
     "id": "A1-015",
@@ -191,8 +177,7 @@
     "origins": [
       "PIKACHU"
     ],
-    "type": "GRASS",
-    "baby": false
+    "type": "GRASS"
   },
   {
     "id": "A1-016",
@@ -204,8 +189,7 @@
     "origins": [
       "MEWTWO"
     ],
-    "type": "GRASS",
-    "baby": false
+    "type": "GRASS"
   },
   {
     "id": "A1-017",
@@ -217,8 +201,7 @@
     "origins": [
       "MEWTWO"
     ],
-    "type": "GRASS",
-    "baby": false
+    "type": "GRASS"
   },
   {
     "id": "A1-018",
@@ -230,8 +213,7 @@
     "origins": [
       "CHARIZARD"
     ],
-    "type": "GRASS",
-    "baby": false
+    "type": "GRASS"
   },
   {
     "id": "A1-019",
@@ -243,8 +225,7 @@
     "origins": [
       "CHARIZARD"
     ],
-    "type": "GRASS",
-    "baby": false
+    "type": "GRASS"
   },
   {
     "id": "A1-020",
@@ -256,8 +237,7 @@
     "origins": [
       "CHARIZARD"
     ],
-    "type": "GRASS",
-    "baby": false
+    "type": "GRASS"
   },
   {
     "id": "A1-021",
@@ -269,8 +249,7 @@
     "origins": [
       "CHARIZARD"
     ],
-    "type": "GRASS",
-    "baby": false
+    "type": "GRASS"
   },
   {
     "id": "A1-022",
@@ -282,8 +261,7 @@
     "origins": [
       "CHARIZARD"
     ],
-    "type": "GRASS",
-    "baby": false
+    "type": "GRASS"
   },
   {
     "id": "A1-023",
@@ -295,8 +273,7 @@
     "origins": [
       "CHARIZARD"
     ],
-    "type": "GRASS",
-    "baby": false
+    "type": "GRASS"
   },
   {
     "id": "A1-024",
@@ -308,8 +285,7 @@
     "origins": [
       "CHARIZARD"
     ],
-    "type": "GRASS",
-    "baby": false
+    "type": "GRASS"
   },
   {
     "id": "A1-025",
@@ -321,8 +297,7 @@
     "origins": [
       "MEWTWO"
     ],
-    "type": "GRASS",
-    "baby": false
+    "type": "GRASS"
   },
   {
     "id": "A1-026",
@@ -336,8 +311,7 @@
       "CHARIZARD",
       "PIKACHU"
     ],
-    "type": "GRASS",
-    "baby": false
+    "type": "GRASS"
   },
   {
     "id": "A1-027",
@@ -351,8 +325,7 @@
       "CHARIZARD",
       "PIKACHU"
     ],
-    "type": "GRASS",
-    "baby": false
+    "type": "GRASS"
   },
   {
     "id": "A1-028",
@@ -366,8 +339,7 @@
       "CHARIZARD",
       "PIKACHU"
     ],
-    "type": "GRASS",
-    "baby": false
+    "type": "GRASS"
   },
   {
     "id": "A1-029",
@@ -381,8 +353,7 @@
       "CHARIZARD",
       "PIKACHU"
     ],
-    "type": "GRASS",
-    "baby": false
+    "type": "GRASS"
   },
   {
     "id": "A1-030",
@@ -396,8 +367,7 @@
       "CHARIZARD",
       "PIKACHU"
     ],
-    "type": "GRASS",
-    "baby": false
+    "type": "GRASS"
   },
   {
     "id": "A1-031",
@@ -409,8 +379,7 @@
     "origins": [
       "CHARIZARD"
     ],
-    "type": "GRASS",
-    "baby": false
+    "type": "GRASS"
   },
   {
     "id": "A1-032",
@@ -422,8 +391,7 @@
     "origins": [
       "CHARIZARD"
     ],
-    "type": "GRASS",
-    "baby": false
+    "type": "GRASS"
   },
   {
     "id": "A1-033",
@@ -435,8 +403,7 @@
     "origins": [
       "CHARIZARD"
     ],
-    "type": "FIRE",
-    "baby": false
+    "type": "FIRE"
   },
   {
     "id": "A1-034",
@@ -448,8 +415,7 @@
     "origins": [
       "CHARIZARD"
     ],
-    "type": "FIRE",
-    "baby": false
+    "type": "FIRE"
   },
   {
     "id": "A1-035",
@@ -461,8 +427,7 @@
     "origins": [
       "CHARIZARD"
     ],
-    "type": "FIRE",
-    "baby": false
+    "type": "FIRE"
   },
   {
     "id": "A1-036",
@@ -474,8 +439,7 @@
     "origins": [
       "CHARIZARD"
     ],
-    "type": "FIRE",
-    "baby": false
+    "type": "FIRE"
   },
   {
     "id": "A1-037",
@@ -487,8 +451,7 @@
     "origins": [
       "CHARIZARD"
     ],
-    "type": "FIRE",
-    "baby": false
+    "type": "FIRE"
   },
   {
     "id": "A1-038",
@@ -500,8 +463,7 @@
     "origins": [
       "CHARIZARD"
     ],
-    "type": "FIRE",
-    "baby": false
+    "type": "FIRE"
   },
   {
     "id": "A1-039",
@@ -513,8 +475,7 @@
     "origins": [
       "PIKACHU"
     ],
-    "type": "FIRE",
-    "baby": false
+    "type": "FIRE"
   },
   {
     "id": "A1-040",
@@ -526,8 +487,7 @@
     "origins": [
       "PIKACHU"
     ],
-    "type": "FIRE",
-    "baby": false
+    "type": "FIRE"
   },
   {
     "id": "A1-041",
@@ -539,8 +499,7 @@
     "origins": [
       "PIKACHU"
     ],
-    "type": "FIRE",
-    "baby": false
+    "type": "FIRE"
   },
   {
     "id": "A1-042",
@@ -554,8 +513,7 @@
       "CHARIZARD",
       "PIKACHU"
     ],
-    "type": "FIRE",
-    "baby": false
+    "type": "FIRE"
   },
   {
     "id": "A1-043",
@@ -569,8 +527,7 @@
       "CHARIZARD",
       "PIKACHU"
     ],
-    "type": "FIRE",
-    "baby": false
+    "type": "FIRE"
   },
   {
     "id": "A1-044",
@@ -582,8 +539,7 @@
     "origins": [
       "CHARIZARD"
     ],
-    "type": "FIRE",
-    "baby": false
+    "type": "FIRE"
   },
   {
     "id": "A1-045",
@@ -595,8 +551,7 @@
     "origins": [
       "CHARIZARD"
     ],
-    "type": "FIRE",
-    "baby": false
+    "type": "FIRE"
   },
   {
     "id": "A1-046",
@@ -608,8 +563,7 @@
     "origins": [
       "CHARIZARD"
     ],
-    "type": "FIRE",
-    "baby": false
+    "type": "FIRE"
   },
   {
     "id": "A1-047",
@@ -621,8 +575,7 @@
     "origins": [
       "CHARIZARD"
     ],
-    "type": "FIRE",
-    "baby": false
+    "type": "FIRE"
   },
   {
     "id": "A1-048",
@@ -636,8 +589,7 @@
       "CHARIZARD",
       "PIKACHU"
     ],
-    "type": "FIRE",
-    "baby": false
+    "type": "FIRE"
   },
   {
     "id": "A1-049",
@@ -649,8 +601,7 @@
     "origins": [
       "MEWTWO"
     ],
-    "type": "FIRE",
-    "baby": false
+    "type": "FIRE"
   },
   {
     "id": "A1-050",
@@ -662,8 +613,7 @@
     "origins": [
       "MEWTWO"
     ],
-    "type": "FIRE",
-    "baby": false
+    "type": "FIRE"
   },
   {
     "id": "A1-051",
@@ -677,8 +627,7 @@
       "CHARIZARD",
       "PIKACHU"
     ],
-    "type": "FIRE",
-    "baby": false
+    "type": "FIRE"
   },
   {
     "id": "A1-052",
@@ -692,8 +641,7 @@
       "CHARIZARD",
       "PIKACHU"
     ],
-    "type": "FIRE",
-    "baby": false
+    "type": "FIRE"
   },
   {
     "id": "A1-053",
@@ -705,8 +653,7 @@
     "origins": [
       "PIKACHU"
     ],
-    "type": "WATER",
-    "baby": false
+    "type": "WATER"
   },
   {
     "id": "A1-054",
@@ -718,8 +665,7 @@
     "origins": [
       "PIKACHU"
     ],
-    "type": "WATER",
-    "baby": false
+    "type": "WATER"
   },
   {
     "id": "A1-055",
@@ -731,8 +677,7 @@
     "origins": [
       "PIKACHU"
     ],
-    "type": "WATER",
-    "baby": false
+    "type": "WATER"
   },
   {
     "id": "A1-056",
@@ -744,8 +689,7 @@
     "origins": [
       "PIKACHU"
     ],
-    "type": "WATER",
-    "baby": false
+    "type": "WATER"
   },
   {
     "id": "A1-057",
@@ -759,8 +703,7 @@
       "CHARIZARD",
       "PIKACHU"
     ],
-    "type": "WATER",
-    "baby": false
+    "type": "WATER"
   },
   {
     "id": "A1-058",
@@ -774,8 +717,7 @@
       "CHARIZARD",
       "PIKACHU"
     ],
-    "type": "WATER",
-    "baby": false
+    "type": "WATER"
   },
   {
     "id": "A1-059",
@@ -787,8 +729,7 @@
     "origins": [
       "CHARIZARD"
     ],
-    "type": "WATER",
-    "baby": false
+    "type": "WATER"
   },
   {
     "id": "A1-060",
@@ -800,8 +741,7 @@
     "origins": [
       "CHARIZARD"
     ],
-    "type": "WATER",
-    "baby": false
+    "type": "WATER"
   },
   {
     "id": "A1-061",
@@ -813,8 +753,7 @@
     "origins": [
       "CHARIZARD"
     ],
-    "type": "WATER",
-    "baby": false
+    "type": "WATER"
   },
   {
     "id": "A1-062",
@@ -826,8 +765,7 @@
     "origins": [
       "MEWTWO"
     ],
-    "type": "WATER",
-    "baby": false
+    "type": "WATER"
   },
   {
     "id": "A1-063",
@@ -839,8 +777,7 @@
     "origins": [
       "MEWTWO"
     ],
-    "type": "WATER",
-    "baby": false
+    "type": "WATER"
   },
   {
     "id": "A1-064",
@@ -852,8 +789,7 @@
     "origins": [
       "PIKACHU"
     ],
-    "type": "WATER",
-    "baby": false
+    "type": "WATER"
   },
   {
     "id": "A1-065",
@@ -865,8 +801,7 @@
     "origins": [
       "PIKACHU"
     ],
-    "type": "WATER",
-    "baby": false
+    "type": "WATER"
   },
   {
     "id": "A1-066",
@@ -878,8 +813,7 @@
     "origins": [
       "MEWTWO"
     ],
-    "type": "WATER",
-    "baby": false
+    "type": "WATER"
   },
   {
     "id": "A1-067",
@@ -891,8 +825,7 @@
     "origins": [
       "MEWTWO"
     ],
-    "type": "WATER",
-    "baby": false
+    "type": "WATER"
   },
   {
     "id": "A1-068",
@@ -904,8 +837,7 @@
     "origins": [
       "MEWTWO"
     ],
-    "type": "WATER",
-    "baby": false
+    "type": "WATER"
   },
   {
     "id": "A1-069",
@@ -917,8 +849,7 @@
     "origins": [
       "MEWTWO"
     ],
-    "type": "WATER",
-    "baby": false
+    "type": "WATER"
   },
   {
     "id": "A1-070",
@@ -930,8 +861,7 @@
     "origins": [
       "PIKACHU"
     ],
-    "type": "WATER",
-    "baby": false
+    "type": "WATER"
   },
   {
     "id": "A1-071",
@@ -943,8 +873,7 @@
     "origins": [
       "PIKACHU"
     ],
-    "type": "WATER",
-    "baby": false
+    "type": "WATER"
   },
   {
     "id": "A1-072",
@@ -956,8 +885,7 @@
     "origins": [
       "PIKACHU"
     ],
-    "type": "WATER",
-    "baby": false
+    "type": "WATER"
   },
   {
     "id": "A1-073",
@@ -969,8 +897,7 @@
     "origins": [
       "PIKACHU"
     ],
-    "type": "WATER",
-    "baby": false
+    "type": "WATER"
   },
   {
     "id": "A1-074",
@@ -982,8 +909,7 @@
     "origins": [
       "CHARIZARD"
     ],
-    "type": "WATER",
-    "baby": false
+    "type": "WATER"
   },
   {
     "id": "A1-075",
@@ -995,8 +921,7 @@
     "origins": [
       "CHARIZARD"
     ],
-    "type": "WATER",
-    "baby": false
+    "type": "WATER"
   },
   {
     "id": "A1-076",
@@ -1008,8 +933,7 @@
     "origins": [
       "CHARIZARD"
     ],
-    "type": "WATER",
-    "baby": false
+    "type": "WATER"
   },
   {
     "id": "A1-077",
@@ -1021,8 +945,7 @@
     "origins": [
       "PIKACHU"
     ],
-    "type": "WATER",
-    "baby": false
+    "type": "WATER"
   },
   {
     "id": "A1-078",
@@ -1034,8 +957,7 @@
     "origins": [
       "PIKACHU"
     ],
-    "type": "WATER",
-    "baby": false
+    "type": "WATER"
   },
   {
     "id": "A1-079",
@@ -1047,8 +969,7 @@
     "origins": [
       "CHARIZARD"
     ],
-    "type": "WATER",
-    "baby": false
+    "type": "WATER"
   },
   {
     "id": "A1-080",
@@ -1060,8 +981,7 @@
     "origins": [
       "MEWTWO"
     ],
-    "type": "WATER",
-    "baby": false
+    "type": "WATER"
   },
   {
     "id": "A1-081",
@@ -1073,8 +993,7 @@
     "origins": [
       "PIKACHU"
     ],
-    "type": "WATER",
-    "baby": false
+    "type": "WATER"
   },
   {
     "id": "A1-082",
@@ -1086,8 +1005,7 @@
     "origins": [
       "PIKACHU"
     ],
-    "type": "WATER",
-    "baby": false
+    "type": "WATER"
   },
   {
     "id": "A1-083",
@@ -1099,8 +1017,7 @@
     "origins": [
       "MEWTWO"
     ],
-    "type": "WATER",
-    "baby": false
+    "type": "WATER"
   },
   {
     "id": "A1-084",
@@ -1112,8 +1029,7 @@
     "origins": [
       "MEWTWO"
     ],
-    "type": "WATER",
-    "baby": false
+    "type": "WATER"
   },
   {
     "id": "A1-085",
@@ -1125,8 +1041,7 @@
     "origins": [
       "CHARIZARD"
     ],
-    "type": "WATER",
-    "baby": false
+    "type": "WATER"
   },
   {
     "id": "A1-086",
@@ -1138,8 +1053,7 @@
     "origins": [
       "CHARIZARD"
     ],
-    "type": "WATER",
-    "baby": false
+    "type": "WATER"
   },
   {
     "id": "A1-087",
@@ -1151,8 +1065,7 @@
     "origins": [
       "CHARIZARD"
     ],
-    "type": "WATER",
-    "baby": false
+    "type": "WATER"
   },
   {
     "id": "A1-088",
@@ -1164,8 +1077,7 @@
     "origins": [
       "CHARIZARD"
     ],
-    "type": "WATER",
-    "baby": false
+    "type": "WATER"
   },
   {
     "id": "A1-089",
@@ -1177,8 +1089,7 @@
     "origins": [
       "CHARIZARD"
     ],
-    "type": "WATER",
-    "baby": false
+    "type": "WATER"
   },
   {
     "id": "A1-090",
@@ -1190,8 +1101,7 @@
     "origins": [
       "CHARIZARD"
     ],
-    "type": "WATER",
-    "baby": false
+    "type": "WATER"
   },
   {
     "id": "A1-091",
@@ -1205,8 +1115,7 @@
       "CHARIZARD",
       "PIKACHU"
     ],
-    "type": "WATER",
-    "baby": false
+    "type": "WATER"
   },
   {
     "id": "A1-092",
@@ -1220,8 +1129,7 @@
       "CHARIZARD",
       "PIKACHU"
     ],
-    "type": "WATER",
-    "baby": false
+    "type": "WATER"
   },
   {
     "id": "A1-093",
@@ -1235,8 +1143,7 @@
       "CHARIZARD",
       "PIKACHU"
     ],
-    "type": "WATER",
-    "baby": false
+    "type": "WATER"
   },
   {
     "id": "A1-094",
@@ -1248,8 +1155,7 @@
     "origins": [
       "PIKACHU"
     ],
-    "type": "LIGHTNING",
-    "baby": false
+    "type": "LIGHTNING"
   },
   {
     "id": "A1-095",
@@ -1261,8 +1167,7 @@
     "origins": [
       "PIKACHU"
     ],
-    "type": "LIGHTNING",
-    "baby": false
+    "type": "LIGHTNING"
   },
   {
     "id": "A1-096",
@@ -1274,8 +1179,7 @@
     "origins": [
       "PIKACHU"
     ],
-    "type": "LIGHTNING",
-    "baby": false
+    "type": "LIGHTNING"
   },
   {
     "id": "A1-097",
@@ -1287,8 +1191,7 @@
     "origins": [
       "PIKACHU"
     ],
-    "type": "LIGHTNING",
-    "baby": false
+    "type": "LIGHTNING"
   },
   {
     "id": "A1-098",
@@ -1300,8 +1203,7 @@
     "origins": [
       "PIKACHU"
     ],
-    "type": "LIGHTNING",
-    "baby": false
+    "type": "LIGHTNING"
   },
   {
     "id": "A1-099",
@@ -1313,8 +1215,7 @@
     "origins": [
       "PIKACHU"
     ],
-    "type": "LIGHTNING",
-    "baby": false
+    "type": "LIGHTNING"
   },
   {
     "id": "A1-100",
@@ -1326,8 +1227,7 @@
     "origins": [
       "PIKACHU"
     ],
-    "type": "LIGHTNING",
-    "baby": false
+    "type": "LIGHTNING"
   },
   {
     "id": "A1-101",
@@ -1339,8 +1239,7 @@
     "origins": [
       "PIKACHU"
     ],
-    "type": "LIGHTNING",
-    "baby": false
+    "type": "LIGHTNING"
   },
   {
     "id": "A1-102",
@@ -1352,8 +1251,7 @@
     "origins": [
       "PIKACHU"
     ],
-    "type": "LIGHTNING",
-    "baby": false
+    "type": "LIGHTNING"
   },
   {
     "id": "A1-103",
@@ -1365,8 +1263,7 @@
     "origins": [
       "PIKACHU"
     ],
-    "type": "LIGHTNING",
-    "baby": false
+    "type": "LIGHTNING"
   },
   {
     "id": "A1-104",
@@ -1378,8 +1275,7 @@
     "origins": [
       "PIKACHU"
     ],
-    "type": "LIGHTNING",
-    "baby": false
+    "type": "LIGHTNING"
   },
   {
     "id": "A1-105",
@@ -1393,8 +1289,7 @@
       "CHARIZARD",
       "PIKACHU"
     ],
-    "type": "LIGHTNING",
-    "baby": false
+    "type": "LIGHTNING"
   },
   {
     "id": "A1-106",
@@ -1408,8 +1303,7 @@
       "CHARIZARD",
       "PIKACHU"
     ],
-    "type": "LIGHTNING",
-    "baby": false
+    "type": "LIGHTNING"
   },
   {
     "id": "A1-107",
@@ -1421,8 +1315,7 @@
     "origins": [
       "MEWTWO"
     ],
-    "type": "LIGHTNING",
-    "baby": false
+    "type": "LIGHTNING"
   },
   {
     "id": "A1-108",
@@ -1434,8 +1327,7 @@
     "origins": [
       "MEWTWO"
     ],
-    "type": "LIGHTNING",
-    "baby": false
+    "type": "LIGHTNING"
   },
   {
     "id": "A1-109",
@@ -1447,8 +1339,7 @@
     "origins": [
       "MEWTWO"
     ],
-    "type": "LIGHTNING",
-    "baby": false
+    "type": "LIGHTNING"
   },
   {
     "id": "A1-110",
@@ -1462,8 +1353,7 @@
       "CHARIZARD",
       "PIKACHU"
     ],
-    "type": "LIGHTNING",
-    "baby": false
+    "type": "LIGHTNING"
   },
   {
     "id": "A1-111",
@@ -1477,8 +1367,7 @@
       "CHARIZARD",
       "PIKACHU"
     ],
-    "type": "LIGHTNING",
-    "baby": false
+    "type": "LIGHTNING"
   },
   {
     "id": "A1-112",
@@ -1492,8 +1381,7 @@
       "CHARIZARD",
       "PIKACHU"
     ],
-    "type": "LIGHTNING",
-    "baby": false
+    "type": "LIGHTNING"
   },
   {
     "id": "A1-113",
@@ -1505,8 +1393,7 @@
     "origins": [
       "PIKACHU"
     ],
-    "type": "PSYCHIC",
-    "baby": false
+    "type": "PSYCHIC"
   },
   {
     "id": "A1-114",
@@ -1518,8 +1405,7 @@
     "origins": [
       "PIKACHU"
     ],
-    "type": "PSYCHIC",
-    "baby": false
+    "type": "PSYCHIC"
   },
   {
     "id": "A1-115",
@@ -1531,8 +1417,7 @@
     "origins": [
       "CHARIZARD"
     ],
-    "type": "PSYCHIC",
-    "baby": false
+    "type": "PSYCHIC"
   },
   {
     "id": "A1-116",
@@ -1544,8 +1429,7 @@
     "origins": [
       "CHARIZARD"
     ],
-    "type": "PSYCHIC",
-    "baby": false
+    "type": "PSYCHIC"
   },
   {
     "id": "A1-117",
@@ -1557,8 +1441,7 @@
     "origins": [
       "CHARIZARD"
     ],
-    "type": "PSYCHIC",
-    "baby": false
+    "type": "PSYCHIC"
   },
   {
     "id": "A1-118",
@@ -1572,8 +1455,7 @@
       "CHARIZARD",
       "PIKACHU"
     ],
-    "type": "PSYCHIC",
-    "baby": false
+    "type": "PSYCHIC"
   },
   {
     "id": "A1-119",
@@ -1587,8 +1469,7 @@
       "CHARIZARD",
       "PIKACHU"
     ],
-    "type": "PSYCHIC",
-    "baby": false
+    "type": "PSYCHIC"
   },
   {
     "id": "A1-120",
@@ -1600,8 +1481,7 @@
     "origins": [
       "MEWTWO"
     ],
-    "type": "PSYCHIC",
-    "baby": false
+    "type": "PSYCHIC"
   },
   {
     "id": "A1-121",
@@ -1613,8 +1493,7 @@
     "origins": [
       "MEWTWO"
     ],
-    "type": "PSYCHIC",
-    "baby": false
+    "type": "PSYCHIC"
   },
   {
     "id": "A1-122",
@@ -1626,8 +1505,7 @@
     "origins": [
       "MEWTWO"
     ],
-    "type": "PSYCHIC",
-    "baby": false
+    "type": "PSYCHIC"
   },
   {
     "id": "A1-123",
@@ -1639,8 +1517,7 @@
     "origins": [
       "MEWTWO"
     ],
-    "type": "PSYCHIC",
-    "baby": false
+    "type": "PSYCHIC"
   },
   {
     "id": "A1-124",
@@ -1652,8 +1529,7 @@
     "origins": [
       "PIKACHU"
     ],
-    "type": "PSYCHIC",
-    "baby": false
+    "type": "PSYCHIC"
   },
   {
     "id": "A1-125",
@@ -1665,8 +1541,7 @@
     "origins": [
       "PIKACHU"
     ],
-    "type": "PSYCHIC",
-    "baby": false
+    "type": "PSYCHIC"
   },
   {
     "id": "A1-126",
@@ -1678,8 +1553,7 @@
     "origins": [
       "MEWTWO"
     ],
-    "type": "PSYCHIC",
-    "baby": false
+    "type": "PSYCHIC"
   },
   {
     "id": "A1-127",
@@ -1691,8 +1565,7 @@
     "origins": [
       "MEWTWO"
     ],
-    "type": "PSYCHIC",
-    "baby": false
+    "type": "PSYCHIC"
   },
   {
     "id": "A1-128",
@@ -1704,8 +1577,7 @@
     "origins": [
       "MEWTWO"
     ],
-    "type": "PSYCHIC",
-    "baby": false
+    "type": "PSYCHIC"
   },
   {
     "id": "A1-129",
@@ -1717,8 +1589,7 @@
     "origins": [
       "MEWTWO"
     ],
-    "type": "PSYCHIC",
-    "baby": false
+    "type": "PSYCHIC"
   },
   {
     "id": "A1-130",
@@ -1730,8 +1601,7 @@
     "origins": [
       "MEWTWO"
     ],
-    "type": "PSYCHIC",
-    "baby": false
+    "type": "PSYCHIC"
   },
   {
     "id": "A1-131",
@@ -1743,8 +1613,7 @@
     "origins": [
       "MEWTWO"
     ],
-    "type": "PSYCHIC",
-    "baby": false
+    "type": "PSYCHIC"
   },
   {
     "id": "A1-132",
@@ -1756,8 +1625,7 @@
     "origins": [
       "MEWTWO"
     ],
-    "type": "PSYCHIC",
-    "baby": false
+    "type": "PSYCHIC"
   },
   {
     "id": "A1-133",
@@ -1771,8 +1639,7 @@
       "CHARIZARD",
       "PIKACHU"
     ],
-    "type": "PSYCHIC",
-    "baby": false
+    "type": "PSYCHIC"
   },
   {
     "id": "A1-134",
@@ -1786,8 +1653,7 @@
       "CHARIZARD",
       "PIKACHU"
     ],
-    "type": "PSYCHIC",
-    "baby": false
+    "type": "PSYCHIC"
   },
   {
     "id": "A1-135",
@@ -1801,8 +1667,7 @@
       "CHARIZARD",
       "PIKACHU"
     ],
-    "type": "PSYCHIC",
-    "baby": false
+    "type": "PSYCHIC"
   },
   {
     "id": "A1-136",
@@ -1816,8 +1681,7 @@
       "CHARIZARD",
       "PIKACHU"
     ],
-    "type": "PSYCHIC",
-    "baby": false
+    "type": "PSYCHIC"
   },
   {
     "id": "A1-137",
@@ -1831,8 +1695,7 @@
       "CHARIZARD",
       "PIKACHU"
     ],
-    "type": "FIGHTING",
-    "baby": false
+    "type": "FIGHTING"
   },
   {
     "id": "A1-138",
@@ -1846,8 +1709,7 @@
       "CHARIZARD",
       "PIKACHU"
     ],
-    "type": "FIGHTING",
-    "baby": false
+    "type": "FIGHTING"
   },
   {
     "id": "A1-139",
@@ -1859,8 +1721,7 @@
     "origins": [
       "PIKACHU"
     ],
-    "type": "FIGHTING",
-    "baby": false
+    "type": "FIGHTING"
   },
   {
     "id": "A1-140",
@@ -1872,8 +1733,7 @@
     "origins": [
       "PIKACHU"
     ],
-    "type": "FIGHTING",
-    "baby": false
+    "type": "FIGHTING"
   },
   {
     "id": "A1-141",
@@ -1885,8 +1745,7 @@
     "origins": [
       "CHARIZARD"
     ],
-    "type": "FIGHTING",
-    "baby": false
+    "type": "FIGHTING"
   },
   {
     "id": "A1-142",
@@ -1898,8 +1757,7 @@
     "origins": [
       "CHARIZARD"
     ],
-    "type": "FIGHTING",
-    "baby": false
+    "type": "FIGHTING"
   },
   {
     "id": "A1-143",
@@ -1911,8 +1769,7 @@
     "origins": [
       "CHARIZARD"
     ],
-    "type": "FIGHTING",
-    "baby": false
+    "type": "FIGHTING"
   },
   {
     "id": "A1-144",
@@ -1924,8 +1781,7 @@
     "origins": [
       "CHARIZARD"
     ],
-    "type": "FIGHTING",
-    "baby": false
+    "type": "FIGHTING"
   },
   {
     "id": "A1-145",
@@ -1937,8 +1793,7 @@
     "origins": [
       "CHARIZARD"
     ],
-    "type": "FIGHTING",
-    "baby": false
+    "type": "FIGHTING"
   },
   {
     "id": "A1-146",
@@ -1950,8 +1805,7 @@
     "origins": [
       "CHARIZARD"
     ],
-    "type": "FIGHTING",
-    "baby": false
+    "type": "FIGHTING"
   },
   {
     "id": "A1-147",
@@ -1963,8 +1817,7 @@
     "origins": [
       "PIKACHU"
     ],
-    "type": "FIGHTING",
-    "baby": false
+    "type": "FIGHTING"
   },
   {
     "id": "A1-148",
@@ -1976,8 +1829,7 @@
     "origins": [
       "PIKACHU"
     ],
-    "type": "FIGHTING",
-    "baby": false
+    "type": "FIGHTING"
   },
   {
     "id": "A1-149",
@@ -1989,8 +1841,7 @@
     "origins": [
       "PIKACHU"
     ],
-    "type": "FIGHTING",
-    "baby": false
+    "type": "FIGHTING"
   },
   {
     "id": "A1-150",
@@ -2002,8 +1853,7 @@
     "origins": [
       "PIKACHU"
     ],
-    "type": "FIGHTING",
-    "baby": false
+    "type": "FIGHTING"
   },
   {
     "id": "A1-151",
@@ -2015,8 +1865,7 @@
     "origins": [
       "MEWTWO"
     ],
-    "type": "FIGHTING",
-    "baby": false
+    "type": "FIGHTING"
   },
   {
     "id": "A1-152",
@@ -2028,8 +1877,7 @@
     "origins": [
       "MEWTWO"
     ],
-    "type": "FIGHTING",
-    "baby": false
+    "type": "FIGHTING"
   },
   {
     "id": "A1-153",
@@ -2041,8 +1889,7 @@
     "origins": [
       "MEWTWO"
     ],
-    "type": "FIGHTING",
-    "baby": false
+    "type": "FIGHTING"
   },
   {
     "id": "A1-154",
@@ -2054,8 +1901,7 @@
     "origins": [
       "MEWTWO"
     ],
-    "type": "FIGHTING",
-    "baby": false
+    "type": "FIGHTING"
   },
   {
     "id": "A1-155",
@@ -2067,8 +1913,7 @@
     "origins": [
       "CHARIZARD"
     ],
-    "type": "FIGHTING",
-    "baby": false
+    "type": "FIGHTING"
   },
   {
     "id": "A1-156",
@@ -2080,8 +1925,7 @@
     "origins": [
       "MEWTWO"
     ],
-    "type": "FIGHTING",
-    "baby": false
+    "type": "FIGHTING"
   },
   {
     "id": "A1-157",
@@ -2093,8 +1937,7 @@
     "origins": [
       "MEWTWO"
     ],
-    "type": "FIGHTING",
-    "baby": false
+    "type": "FIGHTING"
   },
   {
     "id": "A1-158",
@@ -2106,8 +1949,7 @@
     "origins": [
       "CHARIZARD"
     ],
-    "type": "FIGHTING",
-    "baby": false
+    "type": "FIGHTING"
   },
   {
     "id": "A1-159",
@@ -2119,8 +1961,7 @@
     "origins": [
       "CHARIZARD"
     ],
-    "type": "FIGHTING",
-    "baby": false
+    "type": "FIGHTING"
   },
   {
     "id": "A1-160",
@@ -2132,8 +1973,7 @@
     "origins": [
       "PIKACHU"
     ],
-    "type": "FIGHTING",
-    "baby": false
+    "type": "FIGHTING"
   },
   {
     "id": "A1-161",
@@ -2145,8 +1985,7 @@
     "origins": [
       "PIKACHU"
     ],
-    "type": "FIGHTING",
-    "baby": false
+    "type": "FIGHTING"
   },
   {
     "id": "A1-162",
@@ -2160,8 +1999,7 @@
       "CHARIZARD",
       "PIKACHU"
     ],
-    "type": "FIGHTING",
-    "baby": false
+    "type": "FIGHTING"
   },
   {
     "id": "A1-163",
@@ -2175,8 +2013,7 @@
       "CHARIZARD",
       "PIKACHU"
     ],
-    "type": "FIGHTING",
-    "baby": false
+    "type": "FIGHTING"
   },
   {
     "id": "A1-164",
@@ -2190,8 +2027,7 @@
       "CHARIZARD",
       "PIKACHU"
     ],
-    "type": "DARKNESS",
-    "baby": false
+    "type": "DARKNESS"
   },
   {
     "id": "A1-165",
@@ -2205,8 +2041,7 @@
       "CHARIZARD",
       "PIKACHU"
     ],
-    "type": "DARKNESS",
-    "baby": false
+    "type": "DARKNESS"
   },
   {
     "id": "A1-166",
@@ -2218,8 +2053,7 @@
     "origins": [
       "PIKACHU"
     ],
-    "type": "DARKNESS",
-    "baby": false
+    "type": "DARKNESS"
   },
   {
     "id": "A1-167",
@@ -2231,8 +2065,7 @@
     "origins": [
       "PIKACHU"
     ],
-    "type": "DARKNESS",
-    "baby": false
+    "type": "DARKNESS"
   },
   {
     "id": "A1-168",
@@ -2244,8 +2077,7 @@
     "origins": [
       "PIKACHU"
     ],
-    "type": "DARKNESS",
-    "baby": false
+    "type": "DARKNESS"
   },
   {
     "id": "A1-169",
@@ -2257,8 +2089,7 @@
     "origins": [
       "PIKACHU"
     ],
-    "type": "DARKNESS",
-    "baby": false
+    "type": "DARKNESS"
   },
   {
     "id": "A1-170",
@@ -2270,8 +2101,7 @@
     "origins": [
       "PIKACHU"
     ],
-    "type": "DARKNESS",
-    "baby": false
+    "type": "DARKNESS"
   },
   {
     "id": "A1-171",
@@ -2283,8 +2113,7 @@
     "origins": [
       "PIKACHU"
     ],
-    "type": "DARKNESS",
-    "baby": false
+    "type": "DARKNESS"
   },
   {
     "id": "A1-172",
@@ -2296,8 +2125,7 @@
     "origins": [
       "MEWTWO"
     ],
-    "type": "DARKNESS",
-    "baby": false
+    "type": "DARKNESS"
   },
   {
     "id": "A1-173",
@@ -2309,8 +2137,7 @@
     "origins": [
       "MEWTWO"
     ],
-    "type": "DARKNESS",
-    "baby": false
+    "type": "DARKNESS"
   },
   {
     "id": "A1-174",
@@ -2322,8 +2149,7 @@
     "origins": [
       "MEWTWO"
     ],
-    "type": "DARKNESS",
-    "baby": false
+    "type": "DARKNESS"
   },
   {
     "id": "A1-175",
@@ -2335,8 +2161,7 @@
     "origins": [
       "MEWTWO"
     ],
-    "type": "DARKNESS",
-    "baby": false
+    "type": "DARKNESS"
   },
   {
     "id": "A1-176",
@@ -2348,8 +2173,7 @@
     "origins": [
       "MEWTWO"
     ],
-    "type": "DARKNESS",
-    "baby": false
+    "type": "DARKNESS"
   },
   {
     "id": "A1-177",
@@ -2361,8 +2185,7 @@
     "origins": [
       "MEWTWO"
     ],
-    "type": "DARKNESS",
-    "baby": false
+    "type": "DARKNESS"
   },
   {
     "id": "A1-178",
@@ -2374,8 +2197,7 @@
     "origins": [
       "CHARIZARD"
     ],
-    "type": "METAL",
-    "baby": false
+    "type": "METAL"
   },
   {
     "id": "A1-179",
@@ -2389,8 +2211,7 @@
       "CHARIZARD",
       "PIKACHU"
     ],
-    "type": "METAL",
-    "baby": false
+    "type": "METAL"
   },
   {
     "id": "A1-180",
@@ -2404,8 +2225,7 @@
       "CHARIZARD",
       "PIKACHU"
     ],
-    "type": "METAL",
-    "baby": false
+    "type": "METAL"
   },
   {
     "id": "A1-181",
@@ -2417,8 +2237,7 @@
     "origins": [
       "CHARIZARD"
     ],
-    "type": "METAL",
-    "baby": false
+    "type": "METAL"
   },
   {
     "id": "A1-182",
@@ -2430,8 +2249,7 @@
     "origins": [
       "CHARIZARD"
     ],
-    "type": "METAL",
-    "baby": false
+    "type": "METAL"
   },
   {
     "id": "A1-183",
@@ -2443,8 +2261,7 @@
     "origins": [
       "MEWTWO"
     ],
-    "type": "DRAGON",
-    "baby": false
+    "type": "DRAGON"
   },
   {
     "id": "A1-184",
@@ -2456,8 +2273,7 @@
     "origins": [
       "MEWTWO"
     ],
-    "type": "DRAGON",
-    "baby": false
+    "type": "DRAGON"
   },
   {
     "id": "A1-185",
@@ -2469,8 +2285,7 @@
     "origins": [
       "MEWTWO"
     ],
-    "type": "DRAGON",
-    "baby": false
+    "type": "DRAGON"
   },
   {
     "id": "A1-186",
@@ -2482,8 +2297,7 @@
     "origins": [
       "MEWTWO"
     ],
-    "type": "COLORLESS",
-    "baby": false
+    "type": "COLORLESS"
   },
   {
     "id": "A1-187",
@@ -2495,8 +2309,7 @@
     "origins": [
       "MEWTWO"
     ],
-    "type": "COLORLESS",
-    "baby": false
+    "type": "COLORLESS"
   },
   {
     "id": "A1-188",
@@ -2508,8 +2321,7 @@
     "origins": [
       "MEWTWO"
     ],
-    "type": "COLORLESS",
-    "baby": false
+    "type": "COLORLESS"
   },
   {
     "id": "A1-189",
@@ -2523,8 +2335,7 @@
       "CHARIZARD",
       "PIKACHU"
     ],
-    "type": "COLORLESS",
-    "baby": false
+    "type": "COLORLESS"
   },
   {
     "id": "A1-190",
@@ -2538,8 +2349,7 @@
       "CHARIZARD",
       "PIKACHU"
     ],
-    "type": "COLORLESS",
-    "baby": false
+    "type": "COLORLESS"
   },
   {
     "id": "A1-191",
@@ -2551,8 +2361,7 @@
     "origins": [
       "CHARIZARD"
     ],
-    "type": "COLORLESS",
-    "baby": false
+    "type": "COLORLESS"
   },
   {
     "id": "A1-192",
@@ -2564,8 +2373,7 @@
     "origins": [
       "CHARIZARD"
     ],
-    "type": "COLORLESS",
-    "baby": false
+    "type": "COLORLESS"
   },
   {
     "id": "A1-193",
@@ -2577,8 +2385,7 @@
     "origins": [
       "PIKACHU"
     ],
-    "type": "COLORLESS",
-    "baby": false
+    "type": "COLORLESS"
   },
   {
     "id": "A1-194",
@@ -2590,8 +2397,7 @@
     "origins": [
       "PIKACHU"
     ],
-    "type": "COLORLESS",
-    "baby": false
+    "type": "COLORLESS"
   },
   {
     "id": "A1-195",
@@ -2603,8 +2409,7 @@
     "origins": [
       "PIKACHU"
     ],
-    "type": "COLORLESS",
-    "baby": false
+    "type": "COLORLESS"
   },
   {
     "id": "A1-196",
@@ -2616,8 +2421,7 @@
     "origins": [
       "CHARIZARD"
     ],
-    "type": "COLORLESS",
-    "baby": false
+    "type": "COLORLESS"
   },
   {
     "id": "A1-197",
@@ -2629,8 +2433,7 @@
     "origins": [
       "CHARIZARD"
     ],
-    "type": "COLORLESS",
-    "baby": false
+    "type": "COLORLESS"
   },
   {
     "id": "A1-198",
@@ -2644,8 +2447,7 @@
       "CHARIZARD",
       "PIKACHU"
     ],
-    "type": "COLORLESS",
-    "baby": false
+    "type": "COLORLESS"
   },
   {
     "id": "A1-199",
@@ -2659,8 +2461,7 @@
       "CHARIZARD",
       "PIKACHU"
     ],
-    "type": "COLORLESS",
-    "baby": false
+    "type": "COLORLESS"
   },
   {
     "id": "A1-200",
@@ -2674,8 +2475,7 @@
       "CHARIZARD",
       "PIKACHU"
     ],
-    "type": "COLORLESS",
-    "baby": false
+    "type": "COLORLESS"
   },
   {
     "id": "A1-201",
@@ -2687,8 +2487,7 @@
     "origins": [
       "MEWTWO"
     ],
-    "type": "COLORLESS",
-    "baby": false
+    "type": "COLORLESS"
   },
   {
     "id": "A1-202",
@@ -2700,8 +2499,7 @@
     "origins": [
       "PIKACHU"
     ],
-    "type": "COLORLESS",
-    "baby": false
+    "type": "COLORLESS"
   },
   {
     "id": "A1-203",
@@ -2713,8 +2511,7 @@
     "origins": [
       "CHARIZARD"
     ],
-    "type": "COLORLESS",
-    "baby": false
+    "type": "COLORLESS"
   },
   {
     "id": "A1-204",
@@ -2726,8 +2523,7 @@
     "origins": [
       "CHARIZARD"
     ],
-    "type": "COLORLESS",
-    "baby": false
+    "type": "COLORLESS"
   },
   {
     "id": "A1-205",
@@ -2739,8 +2535,7 @@
     "origins": [
       "MEWTWO"
     ],
-    "type": "COLORLESS",
-    "baby": false
+    "type": "COLORLESS"
   },
   {
     "id": "A1-206",
@@ -2752,8 +2547,7 @@
     "origins": [
       "CHARIZARD"
     ],
-    "type": "COLORLESS",
-    "baby": false
+    "type": "COLORLESS"
   },
   {
     "id": "A1-207",
@@ -2765,8 +2559,7 @@
     "origins": [
       "MEWTWO"
     ],
-    "type": "COLORLESS",
-    "baby": false
+    "type": "COLORLESS"
   },
   {
     "id": "A1-208",
@@ -2778,8 +2571,7 @@
     "origins": [
       "PIKACHU"
     ],
-    "type": "COLORLESS",
-    "baby": false
+    "type": "COLORLESS"
   },
   {
     "id": "A1-209",
@@ -2791,8 +2583,7 @@
     "origins": [
       "MEWTWO"
     ],
-    "type": "COLORLESS",
-    "baby": false
+    "type": "COLORLESS"
   },
   {
     "id": "A1-210",
@@ -2804,8 +2595,7 @@
     "origins": [
       "MEWTWO"
     ],
-    "type": "COLORLESS",
-    "baby": false
+    "type": "COLORLESS"
   },
   {
     "id": "A1-211",
@@ -2817,8 +2607,7 @@
     "origins": [
       "PIKACHU"
     ],
-    "type": "COLORLESS",
-    "baby": false
+    "type": "COLORLESS"
   },
   {
     "id": "A1-212",
@@ -2832,8 +2621,7 @@
       "CHARIZARD",
       "PIKACHU"
     ],
-    "type": "COLORLESS",
-    "baby": false
+    "type": "COLORLESS"
   },
   {
     "id": "A1-213",
@@ -2847,8 +2635,7 @@
       "CHARIZARD",
       "PIKACHU"
     ],
-    "type": "COLORLESS",
-    "baby": false
+    "type": "COLORLESS"
   },
   {
     "id": "A1-214",
@@ -2862,8 +2649,7 @@
       "CHARIZARD",
       "PIKACHU"
     ],
-    "type": "COLORLESS",
-    "baby": false
+    "type": "COLORLESS"
   },
   {
     "id": "A1-215",
@@ -2877,8 +2663,7 @@
       "CHARIZARD",
       "PIKACHU"
     ],
-    "type": "COLORLESS",
-    "baby": false
+    "type": "COLORLESS"
   },
   {
     "id": "A1-216",
@@ -2890,8 +2675,7 @@
     "origins": [
       "PIKACHU"
     ],
-    "type": "TRAINER",
-    "baby": false
+    "type": "TRAINER"
   },
   {
     "id": "A1-217",
@@ -2903,8 +2687,7 @@
     "origins": [
       "CHARIZARD"
     ],
-    "type": "TRAINER",
-    "baby": false
+    "type": "TRAINER"
   },
   {
     "id": "A1-218",
@@ -2916,8 +2699,7 @@
     "origins": [
       "MEWTWO"
     ],
-    "type": "TRAINER",
-    "baby": false
+    "type": "TRAINER"
   },
   {
     "id": "A1-219",
@@ -2929,8 +2711,7 @@
     "origins": [
       "CHARIZARD"
     ],
-    "type": "TRAINER",
-    "baby": false
+    "type": "TRAINER"
   },
   {
     "id": "A1-220",
@@ -2942,8 +2723,7 @@
     "origins": [
       "PIKACHU"
     ],
-    "type": "TRAINER",
-    "baby": false
+    "type": "TRAINER"
   },
   {
     "id": "A1-221",
@@ -2955,8 +2735,7 @@
     "origins": [
       "CHARIZARD"
     ],
-    "type": "TRAINER",
-    "baby": false
+    "type": "TRAINER"
   },
   {
     "id": "A1-222",
@@ -2968,8 +2747,7 @@
     "origins": [
       "MEWTWO"
     ],
-    "type": "TRAINER",
-    "baby": false
+    "type": "TRAINER"
   },
   {
     "id": "A1-223",
@@ -2981,8 +2759,7 @@
     "origins": [
       "MEWTWO"
     ],
-    "type": "TRAINER",
-    "baby": false
+    "type": "TRAINER"
   },
   {
     "id": "A1-224",
@@ -2994,8 +2771,7 @@
     "origins": [
       "PIKACHU"
     ],
-    "type": "TRAINER",
-    "baby": false
+    "type": "TRAINER"
   },
   {
     "id": "A1-225",
@@ -3007,8 +2783,7 @@
     "origins": [
       "CHARIZARD"
     ],
-    "type": "TRAINER",
-    "baby": false
+    "type": "TRAINER"
   },
   {
     "id": "A1-226",
@@ -3020,8 +2795,7 @@
     "origins": [
       "PIKACHU"
     ],
-    "type": "TRAINER",
-    "baby": false
+    "type": "TRAINER"
   },
   {
     "id": "A1-227",
@@ -3033,8 +2807,7 @@
     "origins": [
       "MEWTWO"
     ],
-    "type": "GRASS",
-    "baby": false
+    "type": "GRASS"
   },
   {
     "id": "A1-228",
@@ -3046,8 +2819,7 @@
     "origins": [
       "CHARIZARD"
     ],
-    "type": "GRASS",
-    "baby": false
+    "type": "GRASS"
   },
   {
     "id": "A1-229",
@@ -3059,8 +2831,7 @@
     "origins": [
       "CHARIZARD"
     ],
-    "type": "GRASS",
-    "baby": false
+    "type": "GRASS"
   },
   {
     "id": "A1-230",
@@ -3072,8 +2843,7 @@
     "origins": [
       "CHARIZARD"
     ],
-    "type": "FIRE",
-    "baby": false
+    "type": "FIRE"
   },
   {
     "id": "A1-231",
@@ -3085,8 +2855,7 @@
     "origins": [
       "CHARIZARD"
     ],
-    "type": "FIRE",
-    "baby": false
+    "type": "FIRE"
   },
   {
     "id": "A1-232",
@@ -3098,8 +2867,7 @@
     "origins": [
       "PIKACHU"
     ],
-    "type": "WATER",
-    "baby": false
+    "type": "WATER"
   },
   {
     "id": "A1-233",
@@ -3111,8 +2879,7 @@
     "origins": [
       "PIKACHU"
     ],
-    "type": "WATER",
-    "baby": false
+    "type": "WATER"
   },
   {
     "id": "A1-234",
@@ -3124,8 +2891,7 @@
     "origins": [
       "CHARIZARD"
     ],
-    "type": "WATER",
-    "baby": false
+    "type": "WATER"
   },
   {
     "id": "A1-235",
@@ -3137,8 +2903,7 @@
     "origins": [
       "PIKACHU"
     ],
-    "type": "LIGHTNING",
-    "baby": false
+    "type": "LIGHTNING"
   },
   {
     "id": "A1-236",
@@ -3150,8 +2915,7 @@
     "origins": [
       "CHARIZARD"
     ],
-    "type": "PSYCHIC",
-    "baby": false
+    "type": "PSYCHIC"
   },
   {
     "id": "A1-237",
@@ -3163,8 +2927,7 @@
     "origins": [
       "CHARIZARD"
     ],
-    "type": "PSYCHIC",
-    "baby": false
+    "type": "PSYCHIC"
   },
   {
     "id": "A1-238",
@@ -3176,8 +2939,7 @@
     "origins": [
       "PIKACHU"
     ],
-    "type": "FIGHTING",
-    "baby": false
+    "type": "FIGHTING"
   },
   {
     "id": "A1-239",
@@ -3189,8 +2951,7 @@
     "origins": [
       "MEWTWO"
     ],
-    "type": "FIGHTING",
-    "baby": false
+    "type": "FIGHTING"
   },
   {
     "id": "A1-240",
@@ -3202,8 +2963,7 @@
     "origins": [
       "PIKACHU"
     ],
-    "type": "DARKNESS",
-    "baby": false
+    "type": "DARKNESS"
   },
   {
     "id": "A1-241",
@@ -3215,8 +2975,7 @@
     "origins": [
       "PIKACHU"
     ],
-    "type": "DARKNESS",
-    "baby": false
+    "type": "DARKNESS"
   },
   {
     "id": "A1-242",
@@ -3228,8 +2987,7 @@
     "origins": [
       "MEWTWO"
     ],
-    "type": "DARKNESS",
-    "baby": false
+    "type": "DARKNESS"
   },
   {
     "id": "A1-243",
@@ -3241,8 +2999,7 @@
     "origins": [
       "MEWTWO"
     ],
-    "type": "DARKNESS",
-    "baby": false
+    "type": "DARKNESS"
   },
   {
     "id": "A1-244",
@@ -3254,8 +3011,7 @@
     "origins": [
       "MEWTWO"
     ],
-    "type": "DRAGON",
-    "baby": false
+    "type": "DRAGON"
   },
   {
     "id": "A1-245",
@@ -3267,8 +3023,7 @@
     "origins": [
       "MEWTWO"
     ],
-    "type": "COLORLESS",
-    "baby": false
+    "type": "COLORLESS"
   },
   {
     "id": "A1-246",
@@ -3280,8 +3035,7 @@
     "origins": [
       "CHARIZARD"
     ],
-    "type": "COLORLESS",
-    "baby": false
+    "type": "COLORLESS"
   },
   {
     "id": "A1-247",
@@ -3293,8 +3047,7 @@
     "origins": [
       "MEWTWO"
     ],
-    "type": "COLORLESS",
-    "baby": false
+    "type": "COLORLESS"
   },
   {
     "id": "A1-248",
@@ -3306,8 +3059,7 @@
     "origins": [
       "PIKACHU"
     ],
-    "type": "COLORLESS",
-    "baby": false
+    "type": "COLORLESS"
   },
   {
     "id": "A1-249",
@@ -3319,8 +3071,7 @@
     "origins": [
       "MEWTWO"
     ],
-    "type": "COLORLESS",
-    "baby": false
+    "type": "COLORLESS"
   },
   {
     "id": "A1-250",
@@ -3332,8 +3083,7 @@
     "origins": [
       "PIKACHU"
     ],
-    "type": "COLORLESS",
-    "baby": false
+    "type": "COLORLESS"
   },
   {
     "id": "A1-251",
@@ -3345,8 +3095,7 @@
     "origins": [
       "MEWTWO"
     ],
-    "type": "GRASS",
-    "baby": false
+    "type": "GRASS"
   },
   {
     "id": "A1-252",
@@ -3358,8 +3107,7 @@
     "origins": [
       "CHARIZARD"
     ],
-    "type": "GRASS",
-    "baby": false
+    "type": "GRASS"
   },
   {
     "id": "A1-253",
@@ -3371,8 +3119,7 @@
     "origins": [
       "CHARIZARD"
     ],
-    "type": "FIRE",
-    "baby": false
+    "type": "FIRE"
   },
   {
     "id": "A1-254",
@@ -3384,8 +3131,7 @@
     "origins": [
       "PIKACHU"
     ],
-    "type": "FIRE",
-    "baby": false
+    "type": "FIRE"
   },
   {
     "id": "A1-255",
@@ -3397,8 +3143,7 @@
     "origins": [
       "CHARIZARD"
     ],
-    "type": "FIRE",
-    "baby": false
+    "type": "FIRE"
   },
   {
     "id": "A1-256",
@@ -3410,8 +3155,7 @@
     "origins": [
       "PIKACHU"
     ],
-    "type": "WATER",
-    "baby": false
+    "type": "WATER"
   },
   {
     "id": "A1-257",
@@ -3423,8 +3167,7 @@
     "origins": [
       "CHARIZARD"
     ],
-    "type": "WATER",
-    "baby": false
+    "type": "WATER"
   },
   {
     "id": "A1-258",
@@ -3436,8 +3179,7 @@
     "origins": [
       "MEWTWO"
     ],
-    "type": "WATER",
-    "baby": false
+    "type": "WATER"
   },
   {
     "id": "A1-259",
@@ -3449,8 +3191,7 @@
     "origins": [
       "PIKACHU"
     ],
-    "type": "LIGHTNING",
-    "baby": false
+    "type": "LIGHTNING"
   },
   {
     "id": "A1-260",
@@ -3462,8 +3203,7 @@
     "origins": [
       "PIKACHU"
     ],
-    "type": "LIGHTNING",
-    "baby": false
+    "type": "LIGHTNING"
   },
   {
     "id": "A1-261",
@@ -3475,8 +3215,7 @@
     "origins": [
       "MEWTWO"
     ],
-    "type": "PSYCHIC",
-    "baby": false
+    "type": "PSYCHIC"
   },
   {
     "id": "A1-262",
@@ -3488,8 +3227,7 @@
     "origins": [
       "MEWTWO"
     ],
-    "type": "PSYCHIC",
-    "baby": false
+    "type": "PSYCHIC"
   },
   {
     "id": "A1-263",
@@ -3501,8 +3239,7 @@
     "origins": [
       "CHARIZARD"
     ],
-    "type": "FIGHTING",
-    "baby": false
+    "type": "FIGHTING"
   },
   {
     "id": "A1-264",
@@ -3514,8 +3251,7 @@
     "origins": [
       "MEWTWO"
     ],
-    "type": "FIGHTING",
-    "baby": false
+    "type": "FIGHTING"
   },
   {
     "id": "A1-265",
@@ -3527,8 +3263,7 @@
     "origins": [
       "PIKACHU"
     ],
-    "type": "COLORLESS",
-    "baby": false
+    "type": "COLORLESS"
   },
   {
     "id": "A1-266",
@@ -3540,8 +3275,7 @@
     "origins": [
       "CHARIZARD"
     ],
-    "type": "TRAINER",
-    "baby": false
+    "type": "TRAINER"
   },
   {
     "id": "A1-267",
@@ -3553,8 +3287,7 @@
     "origins": [
       "PIKACHU"
     ],
-    "type": "TRAINER",
-    "baby": false
+    "type": "TRAINER"
   },
   {
     "id": "A1-268",
@@ -3566,8 +3299,7 @@
     "origins": [
       "CHARIZARD"
     ],
-    "type": "TRAINER",
-    "baby": false
+    "type": "TRAINER"
   },
   {
     "id": "A1-269",
@@ -3579,8 +3311,7 @@
     "origins": [
       "MEWTWO"
     ],
-    "type": "TRAINER",
-    "baby": false
+    "type": "TRAINER"
   },
   {
     "id": "A1-270",
@@ -3592,8 +3323,7 @@
     "origins": [
       "MEWTWO"
     ],
-    "type": "TRAINER",
-    "baby": false
+    "type": "TRAINER"
   },
   {
     "id": "A1-271",
@@ -3605,8 +3335,7 @@
     "origins": [
       "PIKACHU"
     ],
-    "type": "TRAINER",
-    "baby": false
+    "type": "TRAINER"
   },
   {
     "id": "A1-272",
@@ -3618,8 +3347,7 @@
     "origins": [
       "CHARIZARD"
     ],
-    "type": "TRAINER",
-    "baby": false
+    "type": "TRAINER"
   },
   {
     "id": "A1-273",
@@ -3631,8 +3359,7 @@
     "origins": [
       "PIKACHU"
     ],
-    "type": "TRAINER",
-    "baby": false
+    "type": "TRAINER"
   },
   {
     "id": "A1-274",
@@ -3644,8 +3371,7 @@
     "origins": [
       "CHARIZARD"
     ],
-    "type": "FIRE",
-    "baby": false
+    "type": "FIRE"
   },
   {
     "id": "A1-275",
@@ -3657,8 +3383,7 @@
     "origins": [
       "MEWTWO"
     ],
-    "type": "WATER",
-    "baby": false
+    "type": "WATER"
   },
   {
     "id": "A1-276",
@@ -3670,8 +3395,7 @@
     "origins": [
       "PIKACHU"
     ],
-    "type": "LIGHTNING",
-    "baby": false
+    "type": "LIGHTNING"
   },
   {
     "id": "A1-277",
@@ -3683,8 +3407,7 @@
     "origins": [
       "MEWTWO"
     ],
-    "type": "PSYCHIC",
-    "baby": false
+    "type": "PSYCHIC"
   },
   {
     "id": "A1-278",
@@ -3696,8 +3419,7 @@
     "origins": [
       "CHARIZARD"
     ],
-    "type": "FIGHTING",
-    "baby": false
+    "type": "FIGHTING"
   },
   {
     "id": "A1-279",
@@ -3709,8 +3431,7 @@
     "origins": [
       "PIKACHU"
     ],
-    "type": "COLORLESS",
-    "baby": false
+    "type": "COLORLESS"
   },
   {
     "id": "A1-280",
@@ -3722,8 +3443,7 @@
     "origins": [
       "CHARIZARD"
     ],
-    "type": "FIRE",
-    "baby": false
+    "type": "FIRE"
   },
   {
     "id": "A1-281",
@@ -3735,8 +3455,7 @@
     "origins": [
       "PIKACHU"
     ],
-    "type": "LIGHTNING",
-    "baby": false
+    "type": "LIGHTNING"
   },
   {
     "id": "A1-282",
@@ -3748,8 +3467,7 @@
     "origins": [
       "MEWTWO"
     ],
-    "type": "PSYCHIC",
-    "baby": false
+    "type": "PSYCHIC"
   },
   {
     "id": "A1-283",
@@ -3761,8 +3479,7 @@
     "origins": [
       "NONE"
     ],
-    "type": "PSYCHIC",
-    "baby": false
+    "type": "PSYCHIC"
   },
   {
     "id": "A1-284",
@@ -3776,8 +3493,7 @@
       "CHARIZARD",
       "PIKACHU"
     ],
-    "type": "FIRE",
-    "baby": false
+    "type": "FIRE"
   },
   {
     "id": "A1-285",
@@ -3791,8 +3507,7 @@
       "CHARIZARD",
       "PIKACHU"
     ],
-    "type": "LIGHTNING",
-    "baby": false
+    "type": "LIGHTNING"
   },
   {
     "id": "A1-286",
@@ -3806,7 +3521,6 @@
       "CHARIZARD",
       "PIKACHU"
     ],
-    "type": "PSYCHIC",
-    "baby": false
+    "type": "PSYCHIC"
   }
 ]

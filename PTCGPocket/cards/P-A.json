@@ -9,8 +9,7 @@
     "origins": [
       "SHOP"
     ],
-    "type": "TRAINER",
-    "baby": false
+    "type": "TRAINER"
   },
   {
     "id": "P-A-002",
@@ -22,8 +21,7 @@
     "origins": [
       "SHOP"
     ],
-    "type": "TRAINER",
-    "baby": false
+    "type": "TRAINER"
   },
   {
     "id": "P-A-003",
@@ -35,8 +33,7 @@
     "origins": [
       "SHOP"
     ],
-    "type": "TRAINER",
-    "baby": false
+    "type": "TRAINER"
   },
   {
     "id": "P-A-004",
@@ -48,8 +45,7 @@
     "origins": [
       "SHOP"
     ],
-    "type": "TRAINER",
-    "baby": false
+    "type": "TRAINER"
   },
   {
     "id": "P-A-005",
@@ -61,8 +57,7 @@
     "origins": [
       "SHOP"
     ],
-    "type": "TRAINER",
-    "baby": false
+    "type": "TRAINER"
   },
   {
     "id": "P-A-006",
@@ -74,8 +69,7 @@
     "origins": [
       "SHOP"
     ],
-    "type": "TRAINER",
-    "baby": false
+    "type": "TRAINER"
   },
   {
     "id": "P-A-007",
@@ -87,8 +81,7 @@
     "origins": [
       "SHOP"
     ],
-    "type": "TRAINER",
-    "baby": false
+    "type": "TRAINER"
   },
   {
     "id": "P-A-008",
@@ -100,8 +93,7 @@
     "origins": [
       "GIFT"
     ],
-    "type": "TRAINER",
-    "baby": false
+    "type": "TRAINER"
   },
   {
     "id": "P-A-009",
@@ -113,8 +105,7 @@
     "origins": [
       "PREMIUM"
     ],
-    "type": "LIGHTNING",
-    "baby": false
+    "type": "LIGHTNING"
   },
   {
     "id": "P-A-010",
@@ -126,8 +117,7 @@
     "origins": [
       "PREMIUM"
     ],
-    "type": "PSYCHIC",
-    "baby": false
+    "type": "PSYCHIC"
   },
   {
     "id": "P-A-011",
@@ -139,8 +129,7 @@
     "origins": [
       "WONDER_EVENT"
     ],
-    "type": "COLORLESS",
-    "baby": false
+    "type": "COLORLESS"
   },
   {
     "id": "P-A-012",
@@ -152,8 +141,7 @@
     "origins": [
       "WONDER_EVENT"
     ],
-    "type": "COLORLESS",
-    "baby": false
+    "type": "COLORLESS"
   },
   {
     "id": "P-A-013",
@@ -165,8 +153,7 @@
     "origins": [
       "DROP_EVENT"
     ],
-    "type": "GRASS",
-    "baby": false
+    "type": "GRASS"
   },
   {
     "id": "P-A-014",
@@ -178,8 +165,7 @@
     "origins": [
       "DROP_EVENT"
     ],
-    "type": "WATER",
-    "baby": false
+    "type": "WATER"
   },
   {
     "id": "P-A-015",
@@ -191,8 +177,7 @@
     "origins": [
       "DROP_EVENT"
     ],
-    "type": "LIGHTNING",
-    "baby": false
+    "type": "LIGHTNING"
   },
   {
     "id": "P-A-016",
@@ -204,8 +189,7 @@
     "origins": [
       "DROP_EVENT"
     ],
-    "type": "PSYCHIC",
-    "baby": false
+    "type": "PSYCHIC"
   },
   {
     "id": "P-A-017",
@@ -217,8 +201,7 @@
     "origins": [
       "DROP_EVENT"
     ],
-    "type": "FIGHTING",
-    "baby": false
+    "type": "FIGHTING"
   },
   {
     "id": "P-A-018",
@@ -230,8 +213,7 @@
     "origins": [
       "DROP_EVENT"
     ],
-    "type": "GRASS",
-    "baby": false
+    "type": "GRASS"
   },
   {
     "id": "P-A-019",
@@ -243,8 +225,7 @@
     "origins": [
       "DROP_EVENT"
     ],
-    "type": "WATER",
-    "baby": false
+    "type": "WATER"
   },
   {
     "id": "P-A-020",
@@ -256,8 +237,7 @@
     "origins": [
       "DROP_EVENT"
     ],
-    "type": "PSYCHIC",
-    "baby": false
+    "type": "PSYCHIC"
   },
   {
     "id": "P-A-021",
@@ -269,8 +249,7 @@
     "origins": [
       "DROP_EVENT"
     ],
-    "type": "FIGHTING",
-    "baby": false
+    "type": "FIGHTING"
   },
   {
     "id": "P-A-022",
@@ -282,8 +261,7 @@
     "origins": [
       "DROP_EVENT"
     ],
-    "type": "COLORLESS",
-    "baby": false
+    "type": "COLORLESS"
   },
   {
     "id": "P-A-023",
@@ -295,8 +273,7 @@
     "origins": [
       "WONDER_EVENT"
     ],
-    "type": "GRASS",
-    "baby": false
+    "type": "GRASS"
   },
   {
     "id": "P-A-024",
@@ -308,8 +285,7 @@
     "origins": [
       "WONDER_EVENT"
     ],
-    "type": "LIGHTNING",
-    "baby": false
+    "type": "LIGHTNING"
   },
   {
     "id": "P-A-025",
@@ -321,8 +297,7 @@
     "origins": [
       "PREMIUM"
     ],
-    "type": "FIRE",
-    "baby": false
+    "type": "FIRE"
   },
   {
     "id": "P-A-026",
@@ -334,8 +309,7 @@
     "origins": [
       "MISSION_EVENT"
     ],
-    "type": "LIGHTNING",
-    "baby": false
+    "type": "LIGHTNING"
   },
   {
     "id": "P-A-027",
@@ -347,8 +321,7 @@
     "origins": [
       "DROP_EVENT"
     ],
-    "type": "GRASS",
-    "baby": false
+    "type": "GRASS"
   },
   {
     "id": "P-A-028",
@@ -360,8 +333,7 @@
     "origins": [
       "DROP_EVENT"
     ],
-    "type": "FIRE",
-    "baby": false
+    "type": "FIRE"
   },
   {
     "id": "P-A-029",
@@ -373,8 +345,7 @@
     "origins": [
       "DROP_EVENT"
     ],
-    "type": "WATER",
-    "baby": false
+    "type": "WATER"
   },
   {
     "id": "P-A-030",
@@ -386,8 +357,7 @@
     "origins": [
       "DROP_EVENT"
     ],
-    "type": "COLORLESS",
-    "baby": false
+    "type": "COLORLESS"
   },
   {
     "id": "P-A-031",
@@ -399,8 +369,7 @@
     "origins": [
       "DROP_EVENT"
     ],
-    "type": "COLORLESS",
-    "baby": false
+    "type": "COLORLESS"
   },
   {
     "id": "P-A-032",
@@ -412,8 +381,7 @@
     "origins": [
       "WONDER_EVENT"
     ],
-    "type": "FIRE",
-    "baby": false
+    "type": "FIRE"
   },
   {
     "id": "P-A-033",
@@ -425,8 +393,7 @@
     "origins": [
       "WONDER_EVENT"
     ],
-    "type": "WATER",
-    "baby": false
+    "type": "WATER"
   },
   {
     "id": "P-A-034",
@@ -438,8 +405,7 @@
     "origins": [
       "PREMIUM"
     ],
-    "type": "WATER",
-    "baby": false
+    "type": "WATER"
   },
   {
     "id": "P-A-035",
@@ -451,8 +417,7 @@
     "origins": [
       "DROP_EVENT"
     ],
-    "type": "GRASS",
-    "baby": false
+    "type": "GRASS"
   },
   {
     "id": "P-A-036",
@@ -464,8 +429,7 @@
     "origins": [
       "DROP_EVENT"
     ],
-    "type": "LIGHTNING",
-    "baby": false
+    "type": "LIGHTNING"
   },
   {
     "id": "P-A-037",
@@ -477,8 +441,7 @@
     "origins": [
       "DROP_EVENT"
     ],
-    "type": "PSYCHIC",
-    "baby": false
+    "type": "PSYCHIC"
   },
   {
     "id": "P-A-038",
@@ -490,8 +453,7 @@
     "origins": [
       "DROP_EVENT"
     ],
-    "type": "PSYCHIC",
-    "baby": false
+    "type": "PSYCHIC"
   },
   {
     "id": "P-A-039",
@@ -503,8 +465,7 @@
     "origins": [
       "DROP_EVENT"
     ],
-    "type": "METAL",
-    "baby": false
+    "type": "METAL"
   },
   {
     "id": "P-A-040",
@@ -516,8 +477,7 @@
     "origins": [
       "WONDER_EVENT"
     ],
-    "type": "FIRE",
-    "baby": false
+    "type": "FIRE"
   },
   {
     "id": "P-A-041",
@@ -529,8 +489,7 @@
     "origins": [
       "WONDER_EVENT"
     ],
-    "type": "PSYCHIC",
-    "baby": false
+    "type": "PSYCHIC"
   },
   {
     "id": "P-A-042",
@@ -542,8 +501,7 @@
     "origins": [
       "PREMIUM"
     ],
-    "type": "DARKNESS",
-    "baby": false
+    "type": "DARKNESS"
   },
   {
     "id": "P-A-043",
@@ -555,8 +513,7 @@
     "origins": [
       "DROP_EVENT"
     ],
-    "type": "GRASS",
-    "baby": false
+    "type": "GRASS"
   },
   {
     "id": "P-A-044",
@@ -568,8 +525,7 @@
     "origins": [
       "DROP_EVENT"
     ],
-    "type": "LIGHTNING",
-    "baby": false
+    "type": "LIGHTNING"
   },
   {
     "id": "P-A-045",
@@ -581,8 +537,7 @@
     "origins": [
       "DROP_EVENT"
     ],
-    "type": "FIGHTING",
-    "baby": false
+    "type": "FIGHTING"
   },
   {
     "id": "P-A-046",
@@ -594,8 +549,7 @@
     "origins": [
       "DROP_EVENT"
     ],
-    "type": "FIGHTING",
-    "baby": false
+    "type": "FIGHTING"
   },
   {
     "id": "P-A-047",
@@ -607,8 +561,7 @@
     "origins": [
       "DROP_EVENT"
     ],
-    "type": "COLORLESS",
-    "baby": false
+    "type": "COLORLESS"
   },
   {
     "id": "P-A-048",
@@ -620,8 +573,7 @@
     "origins": [
       "WONDER_EVENT"
     ],
-    "type": "WATER",
-    "baby": false
+    "type": "WATER"
   },
   {
     "id": "P-A-049",
@@ -633,8 +585,7 @@
     "origins": [
       "WONDER_EVENT"
     ],
-    "type": "COLORLESS",
-    "baby": false
+    "type": "COLORLESS"
   },
   {
     "id": "P-A-050",
@@ -646,8 +597,7 @@
     "origins": [
       "INGOTS"
     ],
-    "type": "PSYCHIC",
-    "baby": false
+    "type": "PSYCHIC"
   },
   {
     "id": "P-A-051",
@@ -659,8 +609,7 @@
     "origins": [
       "MISSION_EVENT"
     ],
-    "type": "COLORLESS",
-    "baby": false
+    "type": "COLORLESS"
   },
   {
     "id": "P-A-052",
@@ -672,8 +621,7 @@
     "origins": [
       "PREMIUM"
     ],
-    "type": "GRASS",
-    "baby": false
+    "type": "GRASS"
   },
   {
     "id": "P-A-053",
@@ -685,8 +633,7 @@
     "origins": [
       "DROP_EVENT"
     ],
-    "type": "WATER",
-    "baby": false
+    "type": "WATER"
   },
   {
     "id": "P-A-054",
@@ -698,8 +645,7 @@
     "origins": [
       "DROP_EVENT"
     ],
-    "type": "LIGHTNING",
-    "baby": false
+    "type": "LIGHTNING"
   },
   {
     "id": "P-A-055",
@@ -711,8 +657,7 @@
     "origins": [
       "DROP_EVENT"
     ],
-    "type": "FIGHTING",
-    "baby": false
+    "type": "FIGHTING"
   },
   {
     "id": "P-A-056",
@@ -724,8 +669,7 @@
     "origins": [
       "DROP_EVENT"
     ],
-    "type": "DARKNESS",
-    "baby": false
+    "type": "DARKNESS"
   },
   {
     "id": "P-A-057",
@@ -737,8 +681,7 @@
     "origins": [
       "DROP_EVENT"
     ],
-    "type": "COLORLESS",
-    "baby": false
+    "type": "COLORLESS"
   },
   {
     "id": "P-A-058",
@@ -750,8 +693,7 @@
     "origins": [
       "WONDER_EVENT"
     ],
-    "type": "LIGHTNING",
-    "baby": false
+    "type": "LIGHTNING"
   },
   {
     "id": "P-A-059",
@@ -763,8 +705,7 @@
     "origins": [
       "WONDER_EVENT"
     ],
-    "type": "FIGHTING",
-    "baby": false
+    "type": "FIGHTING"
   },
   {
     "id": "P-A-060",
@@ -776,8 +717,7 @@
     "origins": [
       "DROP_EVENT"
     ],
-    "type": "GRASS",
-    "baby": false
+    "type": "GRASS"
   },
   {
     "id": "P-A-061",
@@ -789,8 +729,7 @@
     "origins": [
       "DROP_EVENT"
     ],
-    "type": "WATER",
-    "baby": false
+    "type": "WATER"
   },
   {
     "id": "P-A-062",
@@ -802,8 +741,7 @@
     "origins": [
       "DROP_EVENT"
     ],
-    "type": "COLORLESS",
-    "baby": false
+    "type": "COLORLESS"
   },
   {
     "id": "P-A-063",
@@ -815,8 +753,7 @@
     "origins": [
       "DROP_EVENT"
     ],
-    "type": "COLORLESS",
-    "baby": false
+    "type": "COLORLESS"
   },
   {
     "id": "P-A-064",
@@ -828,8 +765,7 @@
     "origins": [
       "DROP_EVENT"
     ],
-    "type": "COLORLESS",
-    "baby": false
+    "type": "COLORLESS"
   },
   {
     "id": "P-A-065",
@@ -841,8 +777,7 @@
     "origins": [
       "MISSION_EVENT"
     ],
-    "type": "COLORLESS",
-    "baby": false
+    "type": "COLORLESS"
   },
   {
     "id": "P-A-066",
@@ -854,8 +789,7 @@
     "origins": [
       "PREMIUM"
     ],
-    "type": "PSYCHIC",
-    "baby": false
+    "type": "PSYCHIC"
   },
   {
     "id": "P-A-067",
@@ -867,8 +801,7 @@
     "origins": [
       "WONDER_EVENT"
     ],
-    "type": "PSYCHIC",
-    "baby": false
+    "type": "PSYCHIC"
   },
   {
     "id": "P-A-068",
@@ -880,8 +813,7 @@
     "origins": [
       "WONDER_EVENT"
     ],
-    "type": "FIGHTING",
-    "baby": false
+    "type": "FIGHTING"
   },
   {
     "id": "P-A-069",
@@ -893,8 +825,7 @@
     "origins": [
       "DROP_EVENT"
     ],
-    "type": "GRASS",
-    "baby": false
+    "type": "GRASS"
   },
   {
     "id": "P-A-070",
@@ -906,8 +837,7 @@
     "origins": [
       "DROP_EVENT"
     ],
-    "type": "WATER",
-    "baby": false
+    "type": "WATER"
   },
   {
     "id": "P-A-071",
@@ -919,8 +849,7 @@
     "origins": [
       "DROP_EVENT"
     ],
-    "type": "FIGHTING",
-    "baby": false
+    "type": "FIGHTING"
   },
   {
     "id": "P-A-072",
@@ -932,8 +861,7 @@
     "origins": [
       "DROP_EVENT"
     ],
-    "type": "DARKNESS",
-    "baby": false
+    "type": "DARKNESS"
   },
   {
     "id": "P-A-073",
@@ -945,8 +873,7 @@
     "origins": [
       "DROP_EVENT"
     ],
-    "type": "COLORLESS",
-    "baby": false
+    "type": "COLORLESS"
   },
   {
     "id": "P-A-074",
@@ -958,8 +885,7 @@
     "origins": [
       "PREMIUM"
     ],
-    "type": "LIGHTNING",
-    "baby": false
+    "type": "LIGHTNING"
   },
   {
     "id": "P-A-075",
@@ -971,8 +897,7 @@
     "origins": [
       "DROP_EVENT"
     ],
-    "type": "GRASS",
-    "baby": false
+    "type": "GRASS"
   },
   {
     "id": "P-A-076",
@@ -984,8 +909,7 @@
     "origins": [
       "DROP_EVENT"
     ],
-    "type": "FIRE",
-    "baby": false
+    "type": "FIRE"
   },
   {
     "id": "P-A-077",
@@ -997,8 +921,7 @@
     "origins": [
       "DROP_EVENT"
     ],
-    "type": "LIGHTNING",
-    "baby": false
+    "type": "LIGHTNING"
   },
   {
     "id": "P-A-078",
@@ -1010,8 +933,7 @@
     "origins": [
       "DROP_EVENT"
     ],
-    "type": "PSYCHIC",
-    "baby": false
+    "type": "PSYCHIC"
   },
   {
     "id": "P-A-079",
@@ -1023,8 +945,7 @@
     "origins": [
       "DROP_EVENT"
     ],
-    "type": "METAL",
-    "baby": false
+    "type": "METAL"
   },
   {
     "id": "P-A-080",
@@ -1036,8 +957,7 @@
     "origins": [
       "DROP_EVENT"
     ],
-    "type": "METAL",
-    "baby": false
+    "type": "METAL"
   },
   {
     "id": "P-A-081",
@@ -1049,8 +969,7 @@
     "origins": [
       "DROP_EVENT"
     ],
-    "type": "DRAGON",
-    "baby": false
+    "type": "DRAGON"
   },
   {
     "id": "P-A-082",
@@ -1062,8 +981,7 @@
     "origins": [
       "WONDER_EVENT"
     ],
-    "type": "DARKNESS",
-    "baby": false
+    "type": "DARKNESS"
   },
   {
     "id": "P-A-083",
@@ -1075,8 +993,7 @@
     "origins": [
       "WONDER_EVENT"
     ],
-    "type": "COLORLESS",
-    "baby": false
+    "type": "COLORLESS"
   },
   {
     "id": "P-A-084",
@@ -1088,8 +1005,7 @@
     "origins": [
       "PREMIUM"
     ],
-    "type": "LIGHTNING",
-    "baby": false
+    "type": "LIGHTNING"
   },
   {
     "id": "P-A-085",
@@ -1101,8 +1017,7 @@
     "origins": [
       "DROP_EVENT"
     ],
-    "type": "WATER",
-    "baby": false
+    "type": "WATER"
   },
   {
     "id": "P-A-086",
@@ -1114,8 +1029,7 @@
     "origins": [
       "DROP_EVENT"
     ],
-    "type": "LIGHTNING",
-    "baby": false
+    "type": "LIGHTNING"
   },
   {
     "id": "P-A-087",
@@ -1127,8 +1041,7 @@
     "origins": [
       "DROP_EVENT"
     ],
-    "type": "PSYCHIC",
-    "baby": false
+    "type": "PSYCHIC"
   },
   {
     "id": "P-A-088",
@@ -1140,8 +1053,7 @@
     "origins": [
       "DROP_EVENT"
     ],
-    "type": "DRAGON",
-    "baby": false
+    "type": "DRAGON"
   },
   {
     "id": "P-A-089",
@@ -1153,8 +1065,7 @@
     "origins": [
       "DROP_EVENT"
     ],
-    "type": "COLORLESS",
-    "baby": false
+    "type": "COLORLESS"
   },
   {
     "id": "P-A-090",
@@ -1166,8 +1077,7 @@
     "origins": [
       "WONDER_EVENT"
     ],
-    "type": "METAL",
-    "baby": false
+    "type": "METAL"
   },
   {
     "id": "P-A-091",
@@ -1179,8 +1089,7 @@
     "origins": [
       "WONDER_EVENT"
     ],
-    "type": "COLORLESS",
-    "baby": false
+    "type": "COLORLESS"
   },
   {
     "id": "P-A-092",
@@ -1192,8 +1101,7 @@
     "origins": [
       "MISSION_EVENT"
     ],
-    "type": "COLORLESS",
-    "baby": false
+    "type": "COLORLESS"
   },
   {
     "id": "P-A-093",
@@ -1205,8 +1113,7 @@
     "origins": [
       "PREMIUM"
     ],
-    "type": "PSYCHIC",
-    "baby": false
+    "type": "PSYCHIC"
   },
   {
     "id": "P-A-094",
@@ -1218,8 +1125,7 @@
     "origins": [
       "DROP_EVENT"
     ],
-    "type": "WATER",
-    "baby": false
+    "type": "WATER"
   },
   {
     "id": "P-A-095",
@@ -1231,8 +1137,7 @@
     "origins": [
       "DROP_EVENT"
     ],
-    "type": "LIGHTNING",
-    "baby": false
+    "type": "LIGHTNING"
   },
   {
     "id": "P-A-096",
@@ -1244,8 +1149,7 @@
     "origins": [
       "DROP_EVENT"
     ],
-    "type": "DARKNESS",
-    "baby": false
+    "type": "DARKNESS"
   },
   {
     "id": "P-A-097",
@@ -1257,8 +1161,7 @@
     "origins": [
       "DROP_EVENT"
     ],
-    "type": "COLORLESS",
-    "baby": false
+    "type": "COLORLESS"
   },
   {
     "id": "P-A-098",
@@ -1270,8 +1173,7 @@
     "origins": [
       "DROP_EVENT"
     ],
-    "type": "COLORLESS",
-    "baby": false
+    "type": "COLORLESS"
   },
   {
     "id": "P-A-099",
@@ -1283,8 +1185,7 @@
     "origins": [
       "WONDER_EVENT"
     ],
-    "type": "WATER",
-    "baby": false
+    "type": "WATER"
   },
   {
     "id": "P-A-100",
@@ -1296,7 +1197,6 @@
     "origins": [
       "WONDER_EVENT"
     ],
-    "type": "DARKNESS",
-    "baby": false
+    "type": "DARKNESS"
   }
 ]

@@ -9,8 +9,7 @@
     "origins": [
       "SHINY_CHARIZARD"
     ],
-    "type": "GRASS",
-    "baby": false
+    "type": "GRASS"
   },
   {
     "id": "A2b-002",
@@ -22,8 +21,7 @@
     "origins": [
       "SHINY_CHARIZARD"
     ],
-    "type": "GRASS",
-    "baby": false
+    "type": "GRASS"
   },
   {
     "id": "A2b-003",
@@ -35,8 +33,7 @@
     "origins": [
       "SHINY_CHARIZARD"
     ],
-    "type": "GRASS",
-    "baby": false
+    "type": "GRASS"
   },
   {
     "id": "A2b-004",
@@ -48,8 +45,7 @@
     "origins": [
       "SHINY_CHARIZARD"
     ],
-    "type": "GRASS",
-    "baby": false
+    "type": "GRASS"
   },
   {
     "id": "A2b-005",
@@ -61,8 +57,7 @@
     "origins": [
       "SHINY_CHARIZARD"
     ],
-    "type": "GRASS",
-    "baby": false
+    "type": "GRASS"
   },
   {
     "id": "A2b-006",
@@ -74,8 +69,7 @@
     "origins": [
       "SHINY_CHARIZARD"
     ],
-    "type": "GRASS",
-    "baby": false
+    "type": "GRASS"
   },
   {
     "id": "A2b-007",
@@ -87,8 +81,7 @@
     "origins": [
       "SHINY_CHARIZARD"
     ],
-    "type": "GRASS",
-    "baby": false
+    "type": "GRASS"
   },
   {
     "id": "A2b-008",
@@ -100,8 +93,7 @@
     "origins": [
       "SHINY_CHARIZARD"
     ],
-    "type": "FIRE",
-    "baby": false
+    "type": "FIRE"
   },
   {
     "id": "A2b-009",
@@ -113,8 +105,7 @@
     "origins": [
       "SHINY_CHARIZARD"
     ],
-    "type": "FIRE",
-    "baby": false
+    "type": "FIRE"
   },
   {
     "id": "A2b-010",
@@ -126,8 +117,7 @@
     "origins": [
       "SHINY_CHARIZARD"
     ],
-    "type": "FIRE",
-    "baby": false
+    "type": "FIRE"
   },
   {
     "id": "A2b-011",
@@ -139,8 +129,7 @@
     "origins": [
       "SHINY_CHARIZARD"
     ],
-    "type": "FIRE",
-    "baby": false
+    "type": "FIRE"
   },
   {
     "id": "A2b-012",
@@ -152,8 +141,7 @@
     "origins": [
       "SHINY_CHARIZARD"
     ],
-    "type": "FIRE",
-    "baby": false
+    "type": "FIRE"
   },
   {
     "id": "A2b-013",
@@ -165,8 +153,7 @@
     "origins": [
       "SHINY_CHARIZARD"
     ],
-    "type": "FIRE",
-    "baby": false
+    "type": "FIRE"
   },
   {
     "id": "A2b-014",
@@ -178,8 +165,7 @@
     "origins": [
       "SHINY_CHARIZARD"
     ],
-    "type": "WATER",
-    "baby": false
+    "type": "WATER"
   },
   {
     "id": "A2b-015",
@@ -191,8 +177,7 @@
     "origins": [
       "SHINY_CHARIZARD"
     ],
-    "type": "WATER",
-    "baby": false
+    "type": "WATER"
   },
   {
     "id": "A2b-016",
@@ -204,8 +189,7 @@
     "origins": [
       "SHINY_CHARIZARD"
     ],
-    "type": "WATER",
-    "baby": false
+    "type": "WATER"
   },
   {
     "id": "A2b-017",
@@ -217,8 +201,7 @@
     "origins": [
       "SHINY_CHARIZARD"
     ],
-    "type": "WATER",
-    "baby": false
+    "type": "WATER"
   },
   {
     "id": "A2b-018",
@@ -230,8 +213,7 @@
     "origins": [
       "SHINY_CHARIZARD"
     ],
-    "type": "WATER",
-    "baby": false
+    "type": "WATER"
   },
   {
     "id": "A2b-019",
@@ -243,8 +225,7 @@
     "origins": [
       "SHINY_CHARIZARD"
     ],
-    "type": "WATER",
-    "baby": false
+    "type": "WATER"
   },
   {
     "id": "A2b-020",
@@ -256,8 +237,7 @@
     "origins": [
       "SHINY_CHARIZARD"
     ],
-    "type": "WATER",
-    "baby": false
+    "type": "WATER"
   },
   {
     "id": "A2b-021",
@@ -269,8 +249,7 @@
     "origins": [
       "SHINY_CHARIZARD"
     ],
-    "type": "WATER",
-    "baby": false
+    "type": "WATER"
   },
   {
     "id": "A2b-022",
@@ -282,8 +261,7 @@
     "origins": [
       "SHINY_CHARIZARD"
     ],
-    "type": "LIGHTNING",
-    "baby": false
+    "type": "LIGHTNING"
   },
   {
     "id": "A2b-023",
@@ -295,8 +273,7 @@
     "origins": [
       "SHINY_CHARIZARD"
     ],
-    "type": "LIGHTNING",
-    "baby": false
+    "type": "LIGHTNING"
   },
   {
     "id": "A2b-024",
@@ -308,8 +285,7 @@
     "origins": [
       "SHINY_CHARIZARD"
     ],
-    "type": "LIGHTNING",
-    "baby": false
+    "type": "LIGHTNING"
   },
   {
     "id": "A2b-025",
@@ -321,8 +297,7 @@
     "origins": [
       "SHINY_CHARIZARD"
     ],
-    "type": "LIGHTNING",
-    "baby": false
+    "type": "LIGHTNING"
   },
   {
     "id": "A2b-026",
@@ -334,8 +309,7 @@
     "origins": [
       "SHINY_CHARIZARD"
     ],
-    "type": "LIGHTNING",
-    "baby": false
+    "type": "LIGHTNING"
   },
   {
     "id": "A2b-027",
@@ -347,8 +321,7 @@
     "origins": [
       "SHINY_CHARIZARD"
     ],
-    "type": "LIGHTNING",
-    "baby": false
+    "type": "LIGHTNING"
   },
   {
     "id": "A2b-028",
@@ -360,8 +333,7 @@
     "origins": [
       "SHINY_CHARIZARD"
     ],
-    "type": "LIGHTNING",
-    "baby": false
+    "type": "LIGHTNING"
   },
   {
     "id": "A2b-029",
@@ -373,8 +345,7 @@
     "origins": [
       "SHINY_CHARIZARD"
     ],
-    "type": "PSYCHIC",
-    "baby": false
+    "type": "PSYCHIC"
   },
   {
     "id": "A2b-030",
@@ -386,8 +357,7 @@
     "origins": [
       "SHINY_CHARIZARD"
     ],
-    "type": "PSYCHIC",
-    "baby": false
+    "type": "PSYCHIC"
   },
   {
     "id": "A2b-031",
@@ -399,8 +369,7 @@
     "origins": [
       "SHINY_CHARIZARD"
     ],
-    "type": "PSYCHIC",
-    "baby": false
+    "type": "PSYCHIC"
   },
   {
     "id": "A2b-032",
@@ -412,8 +381,7 @@
     "origins": [
       "SHINY_CHARIZARD"
     ],
-    "type": "PSYCHIC",
-    "baby": false
+    "type": "PSYCHIC"
   },
   {
     "id": "A2b-033",
@@ -425,8 +393,7 @@
     "origins": [
       "SHINY_CHARIZARD"
     ],
-    "type": "PSYCHIC",
-    "baby": false
+    "type": "PSYCHIC"
   },
   {
     "id": "A2b-034",
@@ -438,8 +405,7 @@
     "origins": [
       "SHINY_CHARIZARD"
     ],
-    "type": "PSYCHIC",
-    "baby": false
+    "type": "PSYCHIC"
   },
   {
     "id": "A2b-035",
@@ -451,8 +417,7 @@
     "origins": [
       "SHINY_CHARIZARD"
     ],
-    "type": "PSYCHIC",
-    "baby": false
+    "type": "PSYCHIC"
   },
   {
     "id": "A2b-036",
@@ -464,8 +429,7 @@
     "origins": [
       "SHINY_CHARIZARD"
     ],
-    "type": "PSYCHIC",
-    "baby": false
+    "type": "PSYCHIC"
   },
   {
     "id": "A2b-037",
@@ -477,8 +441,7 @@
     "origins": [
       "SHINY_CHARIZARD"
     ],
-    "type": "FIGHTING",
-    "baby": false
+    "type": "FIGHTING"
   },
   {
     "id": "A2b-038",
@@ -490,8 +453,7 @@
     "origins": [
       "SHINY_CHARIZARD"
     ],
-    "type": "FIGHTING",
-    "baby": false
+    "type": "FIGHTING"
   },
   {
     "id": "A2b-039",
@@ -503,8 +465,7 @@
     "origins": [
       "SHINY_CHARIZARD"
     ],
-    "type": "FIGHTING",
-    "baby": false
+    "type": "FIGHTING"
   },
   {
     "id": "A2b-040",
@@ -516,8 +477,7 @@
     "origins": [
       "SHINY_CHARIZARD"
     ],
-    "type": "FIGHTING",
-    "baby": false
+    "type": "FIGHTING"
   },
   {
     "id": "A2b-041",
@@ -529,8 +489,7 @@
     "origins": [
       "SHINY_CHARIZARD"
     ],
-    "type": "FIGHTING",
-    "baby": false
+    "type": "FIGHTING"
   },
   {
     "id": "A2b-042",
@@ -542,8 +501,7 @@
     "origins": [
       "SHINY_CHARIZARD"
     ],
-    "type": "FIGHTING",
-    "baby": false
+    "type": "FIGHTING"
   },
   {
     "id": "A2b-043",
@@ -555,8 +513,7 @@
     "origins": [
       "SHINY_CHARIZARD"
     ],
-    "type": "FIGHTING",
-    "baby": false
+    "type": "FIGHTING"
   },
   {
     "id": "A2b-044",
@@ -568,8 +525,7 @@
     "origins": [
       "SHINY_CHARIZARD"
     ],
-    "type": "FIGHTING",
-    "baby": false
+    "type": "FIGHTING"
   },
   {
     "id": "A2b-045",
@@ -581,8 +537,7 @@
     "origins": [
       "SHINY_CHARIZARD"
     ],
-    "type": "DARKNESS",
-    "baby": false
+    "type": "DARKNESS"
   },
   {
     "id": "A2b-046",
@@ -594,8 +549,7 @@
     "origins": [
       "SHINY_CHARIZARD"
     ],
-    "type": "DARKNESS",
-    "baby": false
+    "type": "DARKNESS"
   },
   {
     "id": "A2b-047",
@@ -607,8 +561,7 @@
     "origins": [
       "SHINY_CHARIZARD"
     ],
-    "type": "DARKNESS",
-    "baby": false
+    "type": "DARKNESS"
   },
   {
     "id": "A2b-048",
@@ -620,8 +573,7 @@
     "origins": [
       "SHINY_CHARIZARD"
     ],
-    "type": "DARKNESS",
-    "baby": false
+    "type": "DARKNESS"
   },
   {
     "id": "A2b-049",
@@ -633,8 +585,7 @@
     "origins": [
       "SHINY_CHARIZARD"
     ],
-    "type": "DARKNESS",
-    "baby": false
+    "type": "DARKNESS"
   },
   {
     "id": "A2b-050",
@@ -646,8 +597,7 @@
     "origins": [
       "SHINY_CHARIZARD"
     ],
-    "type": "DARKNESS",
-    "baby": false
+    "type": "DARKNESS"
   },
   {
     "id": "A2b-051",
@@ -659,8 +609,7 @@
     "origins": [
       "SHINY_CHARIZARD"
     ],
-    "type": "DARKNESS",
-    "baby": false
+    "type": "DARKNESS"
   },
   {
     "id": "A2b-052",
@@ -672,8 +621,7 @@
     "origins": [
       "SHINY_CHARIZARD"
     ],
-    "type": "METAL",
-    "baby": false
+    "type": "METAL"
   },
   {
     "id": "A2b-053",
@@ -685,8 +633,7 @@
     "origins": [
       "SHINY_CHARIZARD"
     ],
-    "type": "METAL",
-    "baby": false
+    "type": "METAL"
   },
   {
     "id": "A2b-054",
@@ -698,8 +645,7 @@
     "origins": [
       "SHINY_CHARIZARD"
     ],
-    "type": "METAL",
-    "baby": false
+    "type": "METAL"
   },
   {
     "id": "A2b-055",
@@ -711,8 +657,7 @@
     "origins": [
       "SHINY_CHARIZARD"
     ],
-    "type": "METAL",
-    "baby": false
+    "type": "METAL"
   },
   {
     "id": "A2b-056",
@@ -724,8 +669,7 @@
     "origins": [
       "SHINY_CHARIZARD"
     ],
-    "type": "METAL",
-    "baby": false
+    "type": "METAL"
   },
   {
     "id": "A2b-057",
@@ -737,8 +681,7 @@
     "origins": [
       "SHINY_CHARIZARD"
     ],
-    "type": "METAL",
-    "baby": false
+    "type": "METAL"
   },
   {
     "id": "A2b-058",
@@ -750,8 +693,7 @@
     "origins": [
       "SHINY_CHARIZARD"
     ],
-    "type": "COLORLESS",
-    "baby": false
+    "type": "COLORLESS"
   },
   {
     "id": "A2b-059",
@@ -763,8 +705,7 @@
     "origins": [
       "SHINY_CHARIZARD"
     ],
-    "type": "COLORLESS",
-    "baby": false
+    "type": "COLORLESS"
   },
   {
     "id": "A2b-060",
@@ -776,8 +717,7 @@
     "origins": [
       "SHINY_CHARIZARD"
     ],
-    "type": "COLORLESS",
-    "baby": false
+    "type": "COLORLESS"
   },
   {
     "id": "A2b-061",
@@ -789,8 +729,7 @@
     "origins": [
       "SHINY_CHARIZARD"
     ],
-    "type": "COLORLESS",
-    "baby": false
+    "type": "COLORLESS"
   },
   {
     "id": "A2b-062",
@@ -802,8 +741,7 @@
     "origins": [
       "SHINY_CHARIZARD"
     ],
-    "type": "COLORLESS",
-    "baby": false
+    "type": "COLORLESS"
   },
   {
     "id": "A2b-063",
@@ -815,8 +753,7 @@
     "origins": [
       "SHINY_CHARIZARD"
     ],
-    "type": "COLORLESS",
-    "baby": false
+    "type": "COLORLESS"
   },
   {
     "id": "A2b-064",
@@ -828,8 +765,7 @@
     "origins": [
       "SHINY_CHARIZARD"
     ],
-    "type": "COLORLESS",
-    "baby": false
+    "type": "COLORLESS"
   },
   {
     "id": "A2b-065",
@@ -841,8 +777,7 @@
     "origins": [
       "SHINY_CHARIZARD"
     ],
-    "type": "COLORLESS",
-    "baby": false
+    "type": "COLORLESS"
   },
   {
     "id": "A2b-066",
@@ -854,8 +789,7 @@
     "origins": [
       "SHINY_CHARIZARD"
     ],
-    "type": "COLORLESS",
-    "baby": false
+    "type": "COLORLESS"
   },
   {
     "id": "A2b-067",
@@ -867,8 +801,7 @@
     "origins": [
       "SHINY_CHARIZARD"
     ],
-    "type": "COLORLESS",
-    "baby": false
+    "type": "COLORLESS"
   },
   {
     "id": "A2b-068",
@@ -880,8 +813,7 @@
     "origins": [
       "SHINY_CHARIZARD"
     ],
-    "type": "COLORLESS",
-    "baby": false
+    "type": "COLORLESS"
   },
   {
     "id": "A2b-069",
@@ -893,8 +825,7 @@
     "origins": [
       "SHINY_CHARIZARD"
     ],
-    "type": "TRAINER",
-    "baby": false
+    "type": "TRAINER"
   },
   {
     "id": "A2b-070",
@@ -906,8 +837,7 @@
     "origins": [
       "SHINY_CHARIZARD"
     ],
-    "type": "TRAINER",
-    "baby": false
+    "type": "TRAINER"
   },
   {
     "id": "A2b-071",
@@ -919,8 +849,7 @@
     "origins": [
       "SHINY_CHARIZARD"
     ],
-    "type": "TRAINER",
-    "baby": false
+    "type": "TRAINER"
   },
   {
     "id": "A2b-072",
@@ -932,8 +861,7 @@
     "origins": [
       "SHINY_CHARIZARD"
     ],
-    "type": "TRAINER",
-    "baby": false
+    "type": "TRAINER"
   },
   {
     "id": "A2b-073",
@@ -945,8 +873,7 @@
     "origins": [
       "SHINY_CHARIZARD"
     ],
-    "type": "GRASS",
-    "baby": false
+    "type": "GRASS"
   },
   {
     "id": "A2b-074",
@@ -958,8 +885,7 @@
     "origins": [
       "SHINY_CHARIZARD"
     ],
-    "type": "WATER",
-    "baby": false
+    "type": "WATER"
   },
   {
     "id": "A2b-075",
@@ -971,8 +897,7 @@
     "origins": [
       "SHINY_CHARIZARD"
     ],
-    "type": "WATER",
-    "baby": false
+    "type": "WATER"
   },
   {
     "id": "A2b-076",
@@ -984,8 +909,7 @@
     "origins": [
       "SHINY_CHARIZARD"
     ],
-    "type": "DARKNESS",
-    "baby": false
+    "type": "DARKNESS"
   },
   {
     "id": "A2b-077",
@@ -997,8 +921,7 @@
     "origins": [
       "SHINY_CHARIZARD"
     ],
-    "type": "METAL",
-    "baby": false
+    "type": "METAL"
   },
   {
     "id": "A2b-078",
@@ -1010,8 +933,7 @@
     "origins": [
       "SHINY_CHARIZARD"
     ],
-    "type": "COLORLESS",
-    "baby": false
+    "type": "COLORLESS"
   },
   {
     "id": "A2b-079",
@@ -1023,8 +945,7 @@
     "origins": [
       "SHINY_CHARIZARD"
     ],
-    "type": "GRASS",
-    "baby": false
+    "type": "GRASS"
   },
   {
     "id": "A2b-080",
@@ -1036,8 +957,7 @@
     "origins": [
       "SHINY_CHARIZARD"
     ],
-    "type": "FIRE",
-    "baby": false
+    "type": "FIRE"
   },
   {
     "id": "A2b-081",
@@ -1049,8 +969,7 @@
     "origins": [
       "SHINY_CHARIZARD"
     ],
-    "type": "WATER",
-    "baby": false
+    "type": "WATER"
   },
   {
     "id": "A2b-082",
@@ -1062,8 +981,7 @@
     "origins": [
       "SHINY_CHARIZARD"
     ],
-    "type": "LIGHTNING",
-    "baby": false
+    "type": "LIGHTNING"
   },
   {
     "id": "A2b-083",
@@ -1075,8 +993,7 @@
     "origins": [
       "SHINY_CHARIZARD"
     ],
-    "type": "PSYCHIC",
-    "baby": false
+    "type": "PSYCHIC"
   },
   {
     "id": "A2b-084",
@@ -1088,8 +1005,7 @@
     "origins": [
       "SHINY_CHARIZARD"
     ],
-    "type": "FIGHTING",
-    "baby": false
+    "type": "FIGHTING"
   },
   {
     "id": "A2b-085",
@@ -1101,8 +1017,7 @@
     "origins": [
       "SHINY_CHARIZARD"
     ],
-    "type": "DARKNESS",
-    "baby": false
+    "type": "DARKNESS"
   },
   {
     "id": "A2b-086",
@@ -1114,8 +1029,7 @@
     "origins": [
       "SHINY_CHARIZARD"
     ],
-    "type": "METAL",
-    "baby": false
+    "type": "METAL"
   },
   {
     "id": "A2b-087",
@@ -1127,8 +1041,7 @@
     "origins": [
       "SHINY_CHARIZARD"
     ],
-    "type": "COLORLESS",
-    "baby": false
+    "type": "COLORLESS"
   },
   {
     "id": "A2b-088",
@@ -1140,8 +1053,7 @@
     "origins": [
       "SHINY_CHARIZARD"
     ],
-    "type": "TRAINER",
-    "baby": false
+    "type": "TRAINER"
   },
   {
     "id": "A2b-089",
@@ -1153,8 +1065,7 @@
     "origins": [
       "SHINY_CHARIZARD"
     ],
-    "type": "TRAINER",
-    "baby": false
+    "type": "TRAINER"
   },
   {
     "id": "A2b-090",
@@ -1166,8 +1077,7 @@
     "origins": [
       "SHINY_CHARIZARD"
     ],
-    "type": "TRAINER",
-    "baby": false
+    "type": "TRAINER"
   },
   {
     "id": "A2b-091",
@@ -1179,8 +1089,7 @@
     "origins": [
       "SHINY_CHARIZARD"
     ],
-    "type": "TRAINER",
-    "baby": false
+    "type": "TRAINER"
   },
   {
     "id": "A2b-092",
@@ -1192,8 +1101,7 @@
     "origins": [
       "SHINY_CHARIZARD"
     ],
-    "type": "LIGHTNING",
-    "baby": false
+    "type": "LIGHTNING"
   },
   {
     "id": "A2b-093",
@@ -1205,8 +1113,7 @@
     "origins": [
       "SHINY_CHARIZARD"
     ],
-    "type": "DARKNESS",
-    "baby": false
+    "type": "DARKNESS"
   },
   {
     "id": "A2b-094",
@@ -1218,8 +1125,7 @@
     "origins": [
       "SHINY_CHARIZARD"
     ],
-    "type": "METAL",
-    "baby": false
+    "type": "METAL"
   },
   {
     "id": "A2b-095",
@@ -1231,8 +1137,7 @@
     "origins": [
       "SHINY_CHARIZARD"
     ],
-    "type": "COLORLESS",
-    "baby": false
+    "type": "COLORLESS"
   },
   {
     "id": "A2b-096",
@@ -1244,8 +1149,7 @@
     "origins": [
       "SHINY_CHARIZARD"
     ],
-    "type": "PSYCHIC",
-    "baby": false
+    "type": "PSYCHIC"
   },
   {
     "id": "A2b-097",
@@ -1257,8 +1161,7 @@
     "origins": [
       "SHINY_CHARIZARD"
     ],
-    "type": "GRASS",
-    "baby": false
+    "type": "GRASS"
   },
   {
     "id": "A2b-098",
@@ -1270,8 +1173,7 @@
     "origins": [
       "SHINY_CHARIZARD"
     ],
-    "type": "GRASS",
-    "baby": false
+    "type": "GRASS"
   },
   {
     "id": "A2b-099",
@@ -1283,8 +1185,7 @@
     "origins": [
       "SHINY_CHARIZARD"
     ],
-    "type": "FIRE",
-    "baby": false
+    "type": "FIRE"
   },
   {
     "id": "A2b-100",
@@ -1296,8 +1197,7 @@
     "origins": [
       "SHINY_CHARIZARD"
     ],
-    "type": "FIRE",
-    "baby": false
+    "type": "FIRE"
   },
   {
     "id": "A2b-101",
@@ -1309,8 +1209,7 @@
     "origins": [
       "SHINY_CHARIZARD"
     ],
-    "type": "WATER",
-    "baby": false
+    "type": "WATER"
   },
   {
     "id": "A2b-102",
@@ -1322,8 +1221,7 @@
     "origins": [
       "SHINY_CHARIZARD"
     ],
-    "type": "WATER",
-    "baby": false
+    "type": "WATER"
   },
   {
     "id": "A2b-103",
@@ -1335,8 +1233,7 @@
     "origins": [
       "SHINY_CHARIZARD"
     ],
-    "type": "LIGHTNING",
-    "baby": false
+    "type": "LIGHTNING"
   },
   {
     "id": "A2b-104",
@@ -1348,8 +1245,7 @@
     "origins": [
       "SHINY_CHARIZARD"
     ],
-    "type": "FIGHTING",
-    "baby": false
+    "type": "FIGHTING"
   },
   {
     "id": "A2b-105",
@@ -1361,8 +1257,7 @@
     "origins": [
       "SHINY_CHARIZARD"
     ],
-    "type": "METAL",
-    "baby": false
+    "type": "METAL"
   },
   {
     "id": "A2b-106",
@@ -1374,8 +1269,7 @@
     "origins": [
       "SHINY_CHARIZARD"
     ],
-    "type": "METAL",
-    "baby": false
+    "type": "METAL"
   },
   {
     "id": "A2b-107",
@@ -1387,8 +1281,7 @@
     "origins": [
       "SHINY_CHARIZARD"
     ],
-    "type": "GRASS",
-    "baby": false
+    "type": "GRASS"
   },
   {
     "id": "A2b-108",
@@ -1400,8 +1293,7 @@
     "origins": [
       "SHINY_CHARIZARD"
     ],
-    "type": "FIRE",
-    "baby": false
+    "type": "FIRE"
   },
   {
     "id": "A2b-109",
@@ -1413,8 +1305,7 @@
     "origins": [
       "SHINY_CHARIZARD"
     ],
-    "type": "WATER",
-    "baby": false
+    "type": "WATER"
   },
   {
     "id": "A2b-110",
@@ -1426,8 +1317,7 @@
     "origins": [
       "SHINY_CHARIZARD"
     ],
-    "type": "FIGHTING",
-    "baby": false
+    "type": "FIGHTING"
   },
   {
     "id": "A2b-111",
@@ -1439,7 +1329,6 @@
     "origins": [
       "SHINY_CHARIZARD"
     ],
-    "type": "TRAINER",
-    "baby": false
+    "type": "TRAINER"
   }
 ]
