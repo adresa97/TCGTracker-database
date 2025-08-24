@@ -362,5 +362,27 @@
       "TWO_SHINY": [0.0, 0.083, 0.333],
       "CROWN": [0.0, 0.02, 0.08]
     }
+  },
+  {
+    "id": "SUICUNE",
+    "name": {
+      "en": "Suicune",
+      "es": "Suicune"
+    },
+    "type": "BOOSTER",
+    "color": [189.0, 101.0, 220.0],
+    "cardCount": 0,
+    "odds": {
+      "ONE_DIAMOND": [2.381, 0.0, 0.0],
+      "TWO_DIAMOND": [0.0, 2.871, 1.806],
+      "THREE_DIAMOND": [0.0, 0.354, 1.415],
+      "FOUR_DIAMOND": [0.0, 0.333, 1.333],
+      "ONE_STAR": [0.0, 0.234, 0.935],
+      "TWO_STAR": [0.0, 0.042, 0.167],
+      "THREE_STAR": [0.0, 0.222, 0.888],
+      "ONE_SHINY": [0.0, 0.071, 0.286],
+      "TWO_SHINY": [0.0, 0.083, 0.333],
+      "CROWN": [0.0, 0.02, 0.08]
+    }
   }
 ]
