@@ -1198,5 +1198,101 @@
       "WONDER_EVENT"
     ],
     "type": "DARKNESS"
+  },
+  {
+    "id": "P-A-101",
+    "name": {
+      "en": "Latias",
+      "es": "Latias"
+    },
+    "rarity": "NONE",
+    "origins": [
+      "PREMIUM"
+    ],
+    "type": "PSYCHIC"
+  },
+  {
+    "id": "P-A-102",
+    "name": {
+      "en": "Tropius",
+      "es": "Tropius"
+    },
+    "rarity": "NONE",
+    "origins": [
+      "DROP_EVENT"
+    ],
+    "type": "GRASS"
+  },
+  {
+    "id": "P-A-103",
+    "name": {
+      "en": "Poliwag",
+      "es": "Poliwag"
+    },
+    "rarity": "NONE",
+    "origins": [
+      "DROP_EVENT"
+    ],
+    "type": "WATER"
+  },
+  {
+    "id": "P-A-104",
+    "name": {
+      "en": "Milotic",
+      "es": "Milotic"
+    },
+    "rarity": "NONE",
+    "origins": [
+      "DROP_EVENT"
+    ],
+    "type": "WATER"
+  },
+  {
+    "id": "P-A-105",
+    "name": {
+      "en": "Zorua",
+      "es": "Zorua"
+    },
+    "rarity": "NONE",
+    "origins": [
+      "DROP_EVENT"
+    ],
+    "type": "DARKNESS"
+  },
+  {
+    "id": "P-A-106",
+    "name": {
+      "en": "Zoroark",
+      "es": "Zoroark"
+    },
+    "rarity": "NONE",
+    "origins": [
+      "DROP_EVENT"
+    ],
+    "type": "DARKNESS"
+  },
+  {
+    "id": "P-A-107",
+    "name": {
+      "en": "Miltank",
+      "es": "Miltank"
+    },
+    "rarity": "NONE",
+    "origins": [
+      "WONDER_EVENT"
+    ],
+    "type": "COLORLESS"
+  },
+  {
+    "id": "P-A-108",
+    "name": {
+      "en": "Phanpy",
+      "es": "Phanpy"
+    },
+    "rarity": "NONE",
+    "origins": [
+      "WONDER_EVENT"
+    ],
+    "type": "FIGHTING"
   }
 ]
