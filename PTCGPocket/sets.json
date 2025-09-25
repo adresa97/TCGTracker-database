@@ -141,5 +141,18 @@
     "color": [65.0, 177.0, 240.0],
     "cardCount": 105,
     "origins": ["SUICUNE"]
+  },
+  {
+    "set": "A4b",
+    "expansion": "A4",
+    "series": "A",
+    "name": {
+      "en": "Deluxe Pack ex",
+      "es": "Sobre Deluxe ex"
+    },
+    "cover": "https://raw.githubusercontent.com/adresa97/TCGTracker-database/refs/heads/main/PTCGPocket/covers/a4b_deluxe_pack_en.png",
+    "color": [233.0, 196.0, 74.0],
+    "cardCount": 0,
+    "origins": ["DELUXE_2025"]
   }
 ]

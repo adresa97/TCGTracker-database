@@ -384,5 +384,27 @@
       "TWO_SHINY": [0.0, 0.083, 0.333],
       "CROWN": [0.0, 0.04, 0.16]
     }
+  },
+  {
+    "id": "DELUXE_2025",
+    "name": {
+      "en": "Deluxe ex",
+      "es": "Deluxe ex"
+    },
+    "type": "BOOSTER",
+    "color": [254.0, 49.0, 70.0],
+    "cardCount": 0,
+    "odds": {
+      "ONE_DIAMOND": [3.125, 0.0, 0.0],
+      "TWO_DIAMOND": [0.0, 3.869, 0.0],
+      "THREE_DIAMOND": [0.0, 0.619, 0.0],
+      "FOUR_DIAMOND": [0.0, 0.333, 0.0],
+      "ONE_STAR": [0.0, 0.514, 0.0],
+      "TWO_STAR": [0.0, 0.042, 0.0],
+      "THREE_STAR": [0.0, 0.222, 0.0],
+      "ONE_SHINY": [0.0, 0.071, 0.0],
+      "TWO_SHINY": [0.0, 0.083, 0.0],
+      "CROWN": [0.0, 0.04, 0.0]
+    }
   }
 ]
