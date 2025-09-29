@@ -393,7 +393,7 @@
     },
     "type": "BOOSTER",
     "color": [254.0, 49.0, 70.0],
-    "cardCount": 0,
+    "cardCount": 379,
     "odds": {
       "ONE_DIAMOND": [3.125, 0.0, 0.0],
       "TWO_DIAMOND": [0.0, 3.869, 0.0],
