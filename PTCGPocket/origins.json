@@ -17,7 +17,7 @@
     },
     "type": "PROMO",
     "color": [255.0, 229.0, 153.0],
-    "cardCount": 10
+    "cardCount": 12
   },
   {
     "id": "GIFT",
@@ -47,7 +47,7 @@
     },
     "type": "PROMO",
     "color": [249.0, 203.0, 156.0],
-    "cardCount": 20
+    "cardCount": 24
   },
   {
     "id": "DROP_EVENT",
@@ -57,7 +57,7 @@
     },
     "type": "PROMO",
     "color": [159.0, 197.0, 232.0],
-    "cardCount": 57
+    "cardCount": 67
   },
   {
     "id": "MISSION_EVENT",
@@ -67,7 +67,7 @@
     },
     "type": "PROMO",
     "color": [128.0, 218.0, 155.0],
-    "cardCount": 4
+    "cardCount": 5
   },
   {
     "id": "MEWTWO",
