@@ -26,5 +26,10 @@
         "ONE_SHINY": "⛭",
         "TWO_SHINY": "⛭⛭",
         "CROWN": "♛"
+    },
+    "parallel": {
+        "ONE_DIAMOND": "ONE_FOIL",
+        "TWO_DIAMOND": "TWO_FOIL",
+        "THREE_DIAMOND": "THREE_FOIL"
     }
 }
