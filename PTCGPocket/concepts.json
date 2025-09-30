@@ -17,11 +17,19 @@
         "TWO_DIAMOND": "♢♢",
         "THREE_DIAMOND": "♢♢♢",
         "FOUR_DIAMOND": "♢♢♢♢",
+        "ONE_DIAMOND_FOIL": "♦",
+        "TWO_DIAMOND_FOIL": "♦♦",
+        "THREE_DIAMOND_FOIL": "♦♦♦",
         "ONE_STAR": "☆",
         "TWO_STAR": "☆☆",
         "THREE_STAR": "☆☆☆",
         "ONE_SHINY": "⛭",
         "TWO_SHINY": "⛭⛭",
         "CROWN": "♛"
+    },
+    "parallel": {
+        "ONE_DIAMOND": "ONE_DIAMOND_FOIL",
+        "TWO_DIAMOND": "TWO_DIAMOND_FOIL",
+        "THREE_DIAMOND": "THREE_DIAMOND_FOIL"
     }
 }

@@ -1294,5 +1294,113 @@
       "WONDER_EVENT"
     ],
     "type": "FIGHTING"
+  },
+  {
+    "id": "P-A-109",
+    "name": {
+      "en": "Eevee ex",
+      "es": "Eevee ex"
+    },
+    "rarity": "NONE",
+    "origins": [
+      "MISSION_EVENT"
+    ],
+    "type": "COLORLESS"
+  },
+  {
+    "id": "P-A-110",
+    "name": {
+      "en": "Entei ex",
+      "es": "Entei ex"
+    },
+    "rarity": "NONE",
+    "origins": [
+      "PREMIUM"
+    ],
+    "type": "FIRE"
+  },
+  {
+    "id": "P-A-111",
+    "name": {
+      "en": "Pikachu",
+      "es": "Pikachu"
+    },
+    "rarity": "NONE",
+    "origins": [
+      "DROP_EVENT"
+    ],
+    "type": "LIGHTNING"
+  },
+  {
+    "id": "P-A-112",
+    "name": {
+      "en": "Raichu ex",
+      "es": "Raichu ex"
+    },
+    "rarity": "NONE",
+    "origins": [
+      "DROP_EVENT"
+    ],
+    "type": "LIGHTNING"
+  },
+  {
+    "id": "P-A-113",
+    "name": {
+      "en": "Mimikyu",
+      "es": "Mimikyu"
+    },
+    "rarity": "NONE",
+    "origins": [
+      "DROP_EVENT"
+    ],
+    "type": "PSYCHIC"
+  },
+  {
+    "id": "P-A-114",
+    "name": {
+      "en": "Machamp",
+      "es": "Machamp"
+    },
+    "rarity": "NONE",
+    "origins": [
+      "DROP_EVENT"
+    ],
+    "type": "FIGHTING"
+  },
+  {
+    "id": "P-A-115",
+    "name": {
+      "en": "Regigigas",
+      "es": "Regigigas"
+    },
+    "rarity": "NONE",
+    "origins": [
+      "DROP_EVENT"
+    ],
+    "type": "COLORLESS"
+  },
+  {
+    "id": "P-A-116",
+    "name": {
+      "en": "Shaymin",
+      "es": "Shaymin"
+    },
+    "rarity": "NONE",
+    "origins": [
+      "WONDER_EVENT"
+    ],
+    "type": "GRASS"
+  },
+  {
+    "id": "P-A-117",
+    "name": {
+      "en": "Absol",
+      "es": "Absol"
+    },
+    "rarity": "NONE",
+    "origins": [
+      "WONDER_EVENT"
+    ],
+    "type": "DARKNESS"
   }
 ]
