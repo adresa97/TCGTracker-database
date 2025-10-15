@@ -424,5 +424,74 @@
       "TWO_SHINY": [0.0, 0.0, 0.833, 0.0],
       "CROWN": [0.0, 0.0, 0.198, 0.0]
     }
+  },
+  {
+    "id": "MEGA_BLAZIKEN",
+    "name": {
+      "en": "Mega-Blaziken",
+      "es": "Mega-Blaziken"
+    },
+    "type": "BOOSTER",
+    "color": [212.0, 50.0, 38.0],
+    "cardCount": 0,
+    "packSize": 5,
+    "odds": {
+      "ONE_DIAMOND": [0.0, 0.0, 0.0, 0.0, 0.0],
+      "TWO_DIAMOND": [0.0, 0.0, 0.0, 0.0, 0.0],
+      "THREE_DIAMOND": [0.0, 0.0, 0.0, 0.0, 0.0],
+      "FOUR_DIAMOND": [0.0, 0.0, 0.0, 0.0, 0.0],
+      "ONE_STAR": [0.0, 0.0, 0.0, 0.0, 0.0],
+      "TWO_STAR": [0.0, 0.0, 0.0, 0.0, 0.0],
+      "THREE_STAR": [0.0, 0.0, 0.0, 0.0, 0.0],
+      "ONE_SHINY": [0.0, 0.0, 0.0, 0.0, 0.0],
+      "TWO_SHINY": [0.0, 0.0, 0.0, 0.0, 0.0],
+      "CROWN": [0.0, 0.0, 0.0, 0.0, 0.0]
+    }
+  },
+  {
+    "id": "MEGA_GYARADOS",
+    "name": {
+      "en": "Mega-Gyarados",
+      "es": "Mega-Gyarados"
+    },
+    "type": "BOOSTER",
+    "color": [78.0, 107.0, 113.0],
+    "cardCount": 0,
+    "packSize": 5,
+    "odds": {
+      "ONE_DIAMOND": [0.0, 0.0, 0.0, 0.0, 0.0],
+      "TWO_DIAMOND": [0.0, 0.0, 0.0, 0.0, 0.0],
+      "THREE_DIAMOND": [0.0, 0.0, 0.0, 0.0, 0.0],
+      "FOUR_DIAMOND": [0.0, 0.0, 0.0, 0.0, 0.0],
+      "ONE_STAR": [0.0, 0.0, 0.0, 0.0, 0.0],
+      "TWO_STAR": [0.0, 0.0, 0.0, 0.0, 0.0],
+      "THREE_STAR": [0.0, 0.0, 0.0, 0.0, 0.0],
+      "ONE_SHINY": [0.0, 0.0, 0.0, 0.0, 0.0],
+      "TWO_SHINY": [0.0, 0.0, 0.0, 0.0, 0.0],
+      "CROWN": [0.0, 0.0, 0.0, 0.0, 0.0]
+    }
+  },
+  {
+    "id": "MEGA_ALTARIA",
+    "name": {
+      "en": "Mega-Altaria",
+      "es": "Mega-Altaria"
+    },
+    "type": "BOOSTER",
+    "color": [168.0, 250.0, 251.0],
+    "cardCount": 0,
+    "packSize": 5,
+    "odds": {
+      "ONE_DIAMOND": [0.0, 0.0, 0.0, 0.0, 0.0],
+      "TWO_DIAMOND": [0.0, 0.0, 0.0, 0.0, 0.0],
+      "THREE_DIAMOND": [0.0, 0.0, 0.0, 0.0, 0.0],
+      "FOUR_DIAMOND": [0.0, 0.0, 0.0, 0.0, 0.0],
+      "ONE_STAR": [0.0, 0.0, 0.0, 0.0, 0.0],
+      "TWO_STAR": [0.0, 0.0, 0.0, 0.0, 0.0],
+      "THREE_STAR": [0.0, 0.0, 0.0, 0.0, 0.0],
+      "ONE_SHINY": [0.0, 0.0, 0.0, 0.0, 0.0],
+      "TWO_SHINY": [0.0, 0.0, 0.0, 0.0, 0.0],
+      "CROWN": [0.0, 0.0, 0.0, 0.0, 0.0]
+    }
   }
 ]
