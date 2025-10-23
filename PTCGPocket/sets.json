@@ -13,19 +13,6 @@
     "origins": ["SHOP", "PREMIUM", "GIFT", "INGOTS", "WONDER_EVENT", "DROP_EVENT", "MISION_EVENT"]
   },
   {
-    "set": "P-B",
-    "expansion": "P-B",
-    "series": "B",
-    "name": {
-      "en": "Promo B",
-      "es": "Promo B"
-    },
-    "cover": "https://raw.githubusercontent.com/adresa97/TCGTracker-database/refs/heads/main/PTCGPocket/covers/b_promo_en.png",
-    "color": [47.0, 110.0, 255.0],
-    "cardCount": 0,
-    "origins": ["SHOP", "PREMIUM", "GIFT", "INGOTS", "WONDER_EVENT", "DROP_EVENT", "MISION_EVENT"]
-  },
-  {
     "set": "A1",
     "expansion": "A1",
     "series": "A",
@@ -169,12 +156,25 @@
     "origins": ["DELUXE_2025"]
   },
   {
+    "set": "P-B",
+    "expansion": "P-B",
+    "series": "B",
+    "name": {
+      "en": "Promo B",
+      "es": "Promo B"
+    },
+    "cover": "https://raw.githubusercontent.com/adresa97/TCGTracker-database/refs/heads/main/PTCGPocket/covers/b_promo_en.png",
+    "color": [47.0, 110.0, 255.0],
+    "cardCount": 0,
+    "origins": ["SHOP", "PREMIUM", "GIFT", "INGOTS", "WONDER_EVENT", "DROP_EVENT", "MISION_EVENT"]
+  },
+  {
     "set": "B1",
     "expansion": "B1",
     "series": "B",
     "name": {
       "en": "Mega Rising",
-      "es": "TBA"
+      "es": "Megaascenso"
     },
     "cover": "https://raw.githubusercontent.com/adresa97/TCGTracker-database/refs/heads/main/PTCGPocket/covers/b1_a_a_en.png",
     "color": [66.0, 123.0, 236.0],

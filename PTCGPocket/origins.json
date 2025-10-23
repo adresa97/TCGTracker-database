@@ -429,10 +429,10 @@
     "id": "MEGA_BLAZIKEN",
     "name": {
       "en": "Mega-Blaziken",
-      "es": "Mega-Blaziken"
+      "es": "Mega Blaziken"
     },
     "type": "BOOSTER",
-    "color": [212.0, 50.0, 38.0],
+    "color": [246.0, 65.0, 1.0],
     "cardCount": 0,
     "packSize": 5,
     "odds": {
@@ -452,10 +452,10 @@
     "id": "MEGA_GYARADOS",
     "name": {
       "en": "Mega-Gyarados",
-      "es": "Mega-Gyarados"
+      "es": "Mega Gyarados"
     },
     "type": "BOOSTER",
-    "color": [78.0, 107.0, 113.0],
+    "color": [153.0, 0.0, 255.0],
     "cardCount": 0,
     "packSize": 5,
     "odds": {
@@ -475,10 +475,10 @@
     "id": "MEGA_ALTARIA",
     "name": {
       "en": "Mega-Altaria",
-      "es": "Mega-Altaria"
+      "es": "Mega Altaria"
     },
     "type": "BOOSTER",
-    "color": [168.0, 250.0, 251.0],
+    "color": [0.0, 253.0, 255.0],
     "cardCount": 0,
     "packSize": 5,
     "odds": {
