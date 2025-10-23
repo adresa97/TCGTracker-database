@@ -428,8 +428,8 @@
   {
     "id": "MEGA_BLAZIKEN",
     "name": {
-      "en": "Mega-Blaziken",
-      "es": "Mega Blaziken"
+      "en": "Mega Blaziken",
+      "es": "Mega-Blaziken"
     },
     "type": "BOOSTER",
     "color": [246.0, 65.0, 1.0],
@@ -451,8 +451,8 @@
   {
     "id": "MEGA_GYARADOS",
     "name": {
-      "en": "Mega-Gyarados",
-      "es": "Mega Gyarados"
+      "en": "Mega Gyarados",
+      "es": "Mega-Gyarados"
     },
     "type": "BOOSTER",
     "color": [153.0, 0.0, 255.0],
@@ -474,8 +474,8 @@
   {
     "id": "MEGA_ALTARIA",
     "name": {
-      "en": "Mega-Altaria",
-      "es": "Mega Altaria"
+      "en": "Mega Altaria",
+      "es": "Mega-Altaria"
     },
     "type": "BOOSTER",
     "color": [0.0, 253.0, 255.0],
