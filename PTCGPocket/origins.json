@@ -17,7 +17,7 @@
     },
     "type": "PROMO",
     "color": [255.0, 229.0, 153.0],
-    "cardCount": 12
+    "cardCount": 14
   },
   {
     "id": "GIFT",
@@ -47,7 +47,7 @@
     },
     "type": "PROMO",
     "color": [249.0, 203.0, 156.0],
-    "cardCount": 24
+    "cardCount": 28
   },
   {
     "id": "DROP_EVENT",
@@ -57,7 +57,7 @@
     },
     "type": "PROMO",
     "color": [159.0, 197.0, 232.0],
-    "cardCount": 67
+    "cardCount": 72
   },
   {
     "id": "MISSION_EVENT",
@@ -423,6 +423,75 @@
       "THREE_STAR": [0.0, 0.0, 1.111, 0.0],
       "TWO_SHINY": [0.0, 0.0, 0.833, 0.0],
       "CROWN": [0.0, 0.0, 0.198, 0.0]
+    }
+  },
+  {
+    "id": "MEGA_BLAZIKEN",
+    "name": {
+      "en": "Mega Blaziken",
+      "es": "Mega-Blaziken"
+    },
+    "type": "BOOSTER",
+    "color": [246.0, 65.0, 1.0],
+    "cardCount": 139,
+    "packSize": 5,
+    "odds": {
+      "ONE_DIAMOND": [2.040, 2.040, 2.040, 0.0, 0.0],
+      "TWO_DIAMOND": [0.0, 0.0, 0.0, 2.727, 1.818],
+      "THREE_DIAMOND": [0.0, 0.0, 0.0, 0.333, 1.333],
+      "FOUR_DIAMOND": [0.0, 0.0, 0.0, 0.333, 1.333],
+      "ONE_STAR": [0.0, 0.0, 0.0, 0.321, 1.285],
+      "TWO_STAR": [0.0, 0.0, 0.0, 0.045, 0.181],
+      "THREE_STAR": [0.0, 0.0, 0.0, 0.222, 0.889],
+      "ONE_SHINY": [0.0, 0.0, 0.0, 0.0, 0.0],
+      "TWO_SHINY": [0.0, 0.0, 0.0, 0.0, 0.0],
+      "CROWN": [0.0, 0.0, 0.0, 0.013, 0.053]
+    }
+  },
+  {
+    "id": "MEGA_GYARADOS",
+    "name": {
+      "en": "Mega Gyarados",
+      "es": "Mega-Gyarados"
+    },
+    "type": "BOOSTER",
+    "color": [153.0, 0.0, 255.0],
+    "cardCount": 139,
+    "packSize": 5,
+    "odds": {
+      "ONE_DIAMOND": [2.040, 2.040, 2.040, 0.0, 0.0],
+      "TWO_DIAMOND": [0.0, 0.0, 0.0, 2.727, 1.818],
+      "THREE_DIAMOND": [0.0, 0.0, 0.0, 0.333, 1.333],
+      "FOUR_DIAMOND": [0.0, 0.0, 0.0, 0.333, 1.333],
+      "ONE_STAR": [0.0, 0.0, 0.0, 0.321, 1.285],
+      "TWO_STAR": [0.0, 0.0, 0.0, 0.045, 0.181],
+      "THREE_STAR": [0.0, 0.0, 0.0, 0.222, 0.889],
+      "ONE_SHINY": [0.0, 0.0, 0.0, 0.0, 0.0],
+      "TWO_SHINY": [0.0, 0.0, 0.0, 0.0, 0.0],
+      "CROWN": [0.0, 0.0, 0.0, 0.013, 0.053]
+    }
+  },
+  {
+    "id": "MEGA_ALTARIA",
+    "name": {
+      "en": "Mega Altaria",
+      "es": "Mega-Altaria"
+    },
+    "type": "BOOSTER",
+    "color": [0.0, 253.0, 255.0],
+    "cardCount": 139,
+    "packSize": 5,
+    "odds": {
+      "ONE_DIAMOND": [2.040, 2.040, 2.040, 0.0, 0.0],
+      "TWO_DIAMOND": [0.0, 0.0, 0.0, 2.727, 1.818],
+      "THREE_DIAMOND": [0.0, 0.0, 0.0, 0.333, 1.333],
+      "FOUR_DIAMOND": [0.0, 0.0, 0.0, 0.333, 1.333],
+      "ONE_STAR": [0.0, 0.0, 0.0, 0.321, 1.285],
+      "TWO_STAR": [0.0, 0.0, 0.0, 0.045, 0.181],
+      "THREE_STAR": [0.0, 0.0, 0.0, 0.222, 0.889],
+      "ONE_SHINY": [0.0, 0.0, 0.0, 0.0, 0.0],
+      "TWO_SHINY": [0.0, 0.0, 0.0, 0.0, 0.0],
+      "CROWN": [0.0, 0.0, 0.0, 0.013, 0.053]
     }
   }
 ]
