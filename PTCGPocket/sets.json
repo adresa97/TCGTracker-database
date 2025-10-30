@@ -164,8 +164,8 @@
       "es": "Promo B"
     },
     "cover": "https://raw.githubusercontent.com/adresa97/TCGTracker-database/refs/heads/main/PTCGPocket/covers/b_promo_en.png",
-    "color": [47.0, 110.0, 255.0],
-    "cardCount": 0,
+    "color": [247.0, 108.0, 255.0],
+    "cardCount": 11,
     "origins": ["SHOP", "PREMIUM", "GIFT", "INGOTS", "WONDER_EVENT", "DROP_EVENT", "MISION_EVENT"]
   },
   {
@@ -178,7 +178,7 @@
     },
     "cover": "https://raw.githubusercontent.com/adresa97/TCGTracker-database/refs/heads/main/PTCGPocket/covers/b1_mega_rising_en.png",
     "color": [66.0, 123.0, 236.0],
-    "cardCount": 0,
+    "cardCount": 331,
     "origins": ["MEGA_BLAZIKEN, MEGA_GYARADOS, MEGA_ALTARIA"]
   }
 ]

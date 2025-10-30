@@ -1,0 +1,134 @@
+[
+  {
+    "id": "P-B-001",
+    "name": {
+      "en": "Pikachu",
+      "es": "Pikachu"
+    },
+    "rarity": "NONE",
+    "origins": [
+      "PREMIUM"
+    ],
+    "type": "LIGHTNING"
+  },
+  {
+    "id": "P-B-002",
+    "name": {
+      "en": "Petilil",
+      "es": "Petilil"
+    },
+    "rarity": "NONE",
+    "origins": [
+      "DROP_EVENT"
+    ],
+    "type": "GRASS"
+  },
+  {
+    "id": "P-B-003",
+    "name": {
+      "en": "Froakie",
+      "es": "Froakie"
+    },
+    "rarity": "NONE",
+    "origins": [
+      "DROP_EVENT"
+    ],
+    "type": "WATER"
+  },
+  {
+    "id": "P-B-004",
+    "name": {
+      "en": "Luxray",
+      "es": "Luxray"
+    },
+    "rarity": "NONE",
+    "origins": [
+      "DROP_EVENT"
+    ],
+    "type": "LIGHTNING"
+  },
+  {
+    "id": "P-B-005",
+    "name": {
+      "en": "Pidgey",
+      "es": "Pidgey"
+    },
+    "rarity": "NONE",
+    "origins": [
+      "DROP_EVENT"
+    ],
+    "type": "COLORLESS"
+  },
+  {
+    "id": "P-B-006",
+    "name": {
+      "en": "Mega Pidgeot ex",
+      "es": "Mega-Pidgeot ex"
+    },
+    "rarity": "NONE",
+    "origins": [
+      "DROP_EVENT"
+    ],
+    "type": "COLORLESS"
+  },
+  {
+    "id": "P-B-007",
+    "name": {
+      "en": "Torchic",
+      "es": "Torchic"
+    },
+    "rarity": "NONE",
+    "origins": [
+      "WONDER_EVENT"
+    ],
+    "type": "FIRE"
+  },
+  {
+    "id": "P-B-008",
+    "name": {
+      "en": "Psyduck",
+      "es": "Psyduck"
+    },
+    "rarity": "NONE",
+    "origins": [
+      "WONDER_EVENT"
+    ],
+    "type": "WATER"
+  },
+  {
+    "id": "P-B-009",
+    "name": {
+      "en": "Mega Absol ex",
+      "es": "Mega-Absol ex"
+    },
+    "rarity": "NONE",
+    "origins": [
+      "PREMIUM"
+    ],
+    "type": "DARKNESS"
+  },
+  {
+    "id": "P-B-010",
+    "name": {
+      "en": "Drifblim",
+      "es": "Drifblim"
+    },
+    "rarity": "NONE",
+    "origins": [
+      "WONDER_EVENT"
+    ],
+    "type": "PSYCHIC"
+  },
+  {
+    "id": "P-B-011",
+    "name": {
+      "en": "Eevee",
+      "es": "Eevee"
+    },
+    "rarity": "NONE",
+    "origins": [
+      "WONDER_EVENT"
+    ],
+    "type": "COLORLESS"
+  }
+]
