@@ -1,0 +1,4102 @@
+[
+  {
+    "id": "B1-001",
+    "name": {
+      "en": "Pinsir",
+      "es": "Pinsir"
+    },
+    "rarity": "ONE_DIAMOND",
+    "origins": [
+      "MEGA_BLAZIKEN"
+    ],
+    "type": "GRASS"
+  },
+  {
+    "id": "B1-002",
+    "name": {
+      "en": "Mega Pinsir ex",
+      "es": "Mega-Pinsir ex"
+    },
+    "rarity": "FOUR_DIAMOND",
+    "origins": [
+      "MEGA_BLAZIKEN"
+    ],
+    "type": "GRASS"
+  },
+  {
+    "id": "B1-003",
+    "name": {
+      "en": "Wurmple",
+      "es": "Wurmple"
+    },
+    "rarity": "ONE_DIAMOND",
+    "origins": [
+      "MEGA_BLAZIKEN"
+    ],
+    "type": "GRASS"
+  },
+  {
+    "id": "B1-004",
+    "name": {
+      "en": "Silcoon",
+      "es": "Silcoon"
+    },
+    "rarity": "ONE_DIAMOND",
+    "origins": [
+      "MEGA_BLAZIKEN"
+    ],
+    "type": "GRASS"
+  },
+  {
+    "id": "B1-005",
+    "name": {
+      "en": "Beautifly",
+      "es": "Beautifly"
+    },
+    "rarity": "THREE_DIAMOND",
+    "origins": [
+      "MEGA_BLAZIKEN"
+    ],
+    "type": "GRASS"
+  },
+  {
+    "id": "B1-006",
+    "name": {
+      "en": "Cascoon",
+      "es": "Cascoon"
+    },
+    "rarity": "ONE_DIAMOND",
+    "origins": [
+      "MEGA_BLAZIKEN"
+    ],
+    "type": "GRASS"
+  },
+  {
+    "id": "B1-007",
+    "name": {
+      "en": "Dustox",
+      "es": "Dustox"
+    },
+    "rarity": "THREE_DIAMOND",
+    "origins": [
+      "MEGA_BLAZIKEN"
+    ],
+    "type": "GRASS"
+  },
+  {
+    "id": "B1-008",
+    "name": {
+      "en": "Seedot",
+      "es": "Seedot"
+    },
+    "rarity": "ONE_DIAMOND",
+    "origins": [
+      "MEGA_BLAZIKEN"
+    ],
+    "type": "GRASS"
+  },
+  {
+    "id": "B1-009",
+    "name": {
+      "en": "Nuzleaf",
+      "es": "Nuzleaf"
+    },
+    "rarity": "TWO_DIAMOND",
+    "origins": [
+      "MEGA_BLAZIKEN"
+    ],
+    "type": "GRASS"
+  },
+  {
+    "id": "B1-010",
+    "name": {
+      "en": "Shiftry",
+      "es": "Shiftry"
+    },
+    "rarity": "THREE_DIAMOND",
+    "origins": [
+      "MEGA_BLAZIKEN"
+    ],
+    "type": "GRASS"
+  },
+  {
+    "id": "B1-011",
+    "name": {
+      "en": "Shroomish",
+      "es": "Shroomish"
+    },
+    "rarity": "ONE_DIAMOND",
+    "origins": [
+      "MEGA_BLAZIKEN",
+      "MEGA_GYARADOS",
+      "MEGA_ALTARIA"
+    ],
+    "type": "GRASS"
+  },
+  {
+    "id": "B1-012",
+    "name": {
+      "en": "Breloom",
+      "es": "Breloom"
+    },
+    "rarity": "TWO_DIAMOND",
+    "origins": [
+      "MEGA_BLAZIKEN",
+      "MEGA_GYARADOS",
+      "MEGA_ALTARIA"
+    ],
+    "type": "GRASS"
+  },
+  {
+    "id": "B1-013",
+    "name": {
+      "en": "Pansage",
+      "es": "Pansage"
+    },
+    "rarity": "ONE_DIAMOND",
+    "origins": [
+      "MEGA_GYARADOS"
+    ],
+    "type": "GRASS"
+  },
+  {
+    "id": "B1-014",
+    "name": {
+      "en": "Simisage",
+      "es": "Simisage"
+    },
+    "rarity": "ONE_DIAMOND",
+    "origins": [
+      "MEGA_GYARADOS"
+    ],
+    "type": "GRASS"
+  },
+  {
+    "id": "B1-015",
+    "name": {
+      "en": "Cottonee",
+      "es": "Cottonee"
+    },
+    "rarity": "ONE_DIAMOND",
+    "origins": [
+      "MEGA_ALTARIA"
+    ],
+    "type": "GRASS"
+  },
+  {
+    "id": "B1-016",
+    "name": {
+      "en": "Whimsicott ex",
+      "es": "Whimsicott ex"
+    },
+    "rarity": "FOUR_DIAMOND",
+    "origins": [
+      "MEGA_ALTARIA"
+    ],
+    "type": "GRASS"
+  },
+  {
+    "id": "B1-017",
+    "name": {
+      "en": "Petilil",
+      "es": "Petilil"
+    },
+    "rarity": "ONE_DIAMOND",
+    "origins": [
+      "MEGA_ALTARIA"
+    ],
+    "type": "GRASS"
+  },
+  {
+    "id": "B1-018",
+    "name": {
+      "en": "Lilligant",
+      "es": "Lilligant"
+    },
+    "rarity": "THREE_DIAMOND",
+    "origins": [
+      "MEGA_ALTARIA"
+    ],
+    "type": "GRASS"
+  },
+  {
+    "id": "B1-019",
+    "name": {
+      "en": "Maractus",
+      "es": "Maractus"
+    },
+    "rarity": "ONE_DIAMOND",
+    "origins": [
+      "MEGA_BLAZIKEN",
+      "MEGA_GYARADOS",
+      "MEGA_ALTARIA"
+    ],
+    "type": "GRASS"
+  },
+  {
+    "id": "B1-020",
+    "name": {
+      "en": "Virizion",
+      "es": "Virizion"
+    },
+    "rarity": "THREE_DIAMOND",
+    "origins": [
+      "MEGA_ALTARIA"
+    ],
+    "type": "GRASS"
+  },
+  {
+    "id": "B1-021",
+    "name": {
+      "en": "Skiddo",
+      "es": "Skiddo"
+    },
+    "rarity": "ONE_DIAMOND",
+    "origins": [
+      "MEGA_ALTARIA"
+    ],
+    "type": "GRASS"
+  },
+  {
+    "id": "B1-022",
+    "name": {
+      "en": "Gogoat",
+      "es": "Gogoat"
+    },
+    "rarity": "ONE_DIAMOND",
+    "origins": [
+      "MEGA_ALTARIA"
+    ],
+    "type": "GRASS"
+  },
+  {
+    "id": "B1-023",
+    "name": {
+      "en": "Phantump",
+      "es": "Phantump"
+    },
+    "rarity": "ONE_DIAMOND",
+    "origins": [
+      "MEGA_BLAZIKEN",
+      "MEGA_GYARADOS",
+      "MEGA_ALTARIA"
+    ],
+    "type": "GRASS"
+  },
+  {
+    "id": "B1-024",
+    "name": {
+      "en": "Trevenant",
+      "es": "Trevenant"
+    },
+    "rarity": "TWO_DIAMOND",
+    "origins": [
+      "MEGA_BLAZIKEN",
+      "MEGA_GYARADOS",
+      "MEGA_ALTARIA"
+    ],
+    "type": "GRASS"
+  },
+  {
+    "id": "B1-025",
+    "name": {
+      "en": "Grookey",
+      "es": "Grookey"
+    },
+    "rarity": "ONE_DIAMOND",
+    "origins": [
+      "MEGA_ALTARIA"
+    ],
+    "type": "GRASS"
+  },
+  {
+    "id": "B1-026",
+    "name": {
+      "en": "Thwackey",
+      "es": "Thwackey"
+    },
+    "rarity": "TWO_DIAMOND",
+    "origins": [
+      "MEGA_ALTARIA"
+    ],
+    "type": "GRASS"
+  },
+  {
+    "id": "B1-027",
+    "name": {
+      "en": "Rillaboom",
+      "es": "Rillaboom"
+    },
+    "rarity": "THREE_DIAMOND",
+    "origins": [
+      "MEGA_ALTARIA"
+    ],
+    "type": "GRASS"
+  },
+  {
+    "id": "B1-028",
+    "name": {
+      "en": "Growlithe",
+      "es": "Growlithe"
+    },
+    "rarity": "ONE_DIAMOND",
+    "origins": [
+      "MEGA_BLAZIKEN"
+    ],
+    "type": "FIRE"
+  },
+  {
+    "id": "B1-029",
+    "name": {
+      "en": "Arcanine",
+      "es": "Arcanine"
+    },
+    "rarity": "TWO_DIAMOND",
+    "origins": [
+      "MEGA_BLAZIKEN"
+    ],
+    "type": "FIRE"
+  },
+  {
+    "id": "B1-030",
+    "name": {
+      "en": "Ponyta",
+      "es": "Ponyta"
+    },
+    "rarity": "ONE_DIAMOND",
+    "origins": [
+      "MEGA_BLAZIKEN"
+    ],
+    "type": "FIRE"
+  },
+  {
+    "id": "B1-031",
+    "name": {
+      "en": "Rapidash ex",
+      "es": "Rapidash ex"
+    },
+    "rarity": "FOUR_DIAMOND",
+    "origins": [
+      "MEGA_BLAZIKEN"
+    ],
+    "type": "FIRE"
+  },
+  {
+    "id": "B1-032",
+    "name": {
+      "en": "Ho-Oh",
+      "es": "Ho-Oh"
+    },
+    "rarity": "THREE_DIAMOND",
+    "origins": [
+      "MEGA_BLAZIKEN"
+    ],
+    "type": "FIRE"
+  },
+  {
+    "id": "B1-033",
+    "name": {
+      "en": "Torchic",
+      "es": "Torchic"
+    },
+    "rarity": "ONE_DIAMOND",
+    "origins": [
+      "MEGA_BLAZIKEN"
+    ],
+    "type": "FIRE"
+  },
+  {
+    "id": "B1-034",
+    "name": {
+      "en": "Combusken",
+      "es": "Combusken"
+    },
+    "rarity": "TWO_DIAMOND",
+    "origins": [
+      "MEGA_BLAZIKEN"
+    ],
+    "type": "FIRE"
+  },
+  {
+    "id": "B1-035",
+    "name": {
+      "en": "Blaziken",
+      "es": "Blaziken"
+    },
+    "rarity": "THREE_DIAMOND",
+    "origins": [
+      "MEGA_BLAZIKEN"
+    ],
+    "type": "FIRE"
+  },
+  {
+    "id": "B1-036",
+    "name": {
+      "en": "Mega Blaziken ex",
+      "es": "Mega-Blaziken ex"
+    },
+    "rarity": "FOUR_DIAMOND",
+    "origins": [
+      "MEGA_BLAZIKEN"
+    ],
+    "type": "FIRE"
+  },
+  {
+    "id": "B1-037",
+    "name": {
+      "en": "Pansear",
+      "es": "Pansear"
+    },
+    "rarity": "ONE_DIAMOND",
+    "origins": [
+      "MEGA_BLAZIKEN"
+    ],
+    "type": "FIRE"
+  },
+  {
+    "id": "B1-038",
+    "name": {
+      "en": "Simisear",
+      "es": "Simisear"
+    },
+    "rarity": "ONE_DIAMOND",
+    "origins": [
+      "MEGA_BLAZIKEN"
+    ],
+    "type": "FIRE"
+  },
+  {
+    "id": "B1-039",
+    "name": {
+      "en": "Darumaka",
+      "es": "Darumaka"
+    },
+    "rarity": "ONE_DIAMOND",
+    "origins": [
+      "MEGA_GYARADOS"
+    ],
+    "type": "FIRE"
+  },
+  {
+    "id": "B1-040",
+    "name": {
+      "en": "Darmanitan",
+      "es": "Darmanitan"
+    },
+    "rarity": "TWO_DIAMOND",
+    "origins": [
+      "MEGA_GYARADOS"
+    ],
+    "type": "FIRE"
+  },
+  {
+    "id": "B1-041",
+    "name": {
+      "en": "Litwick",
+      "es": "Litwick"
+    },
+    "rarity": "ONE_DIAMOND",
+    "origins": [
+      "MEGA_ALTARIA"
+    ],
+    "type": "FIRE"
+  },
+  {
+    "id": "B1-042",
+    "name": {
+      "en": "Lampent",
+      "es": "Lampent"
+    },
+    "rarity": "TWO_DIAMOND",
+    "origins": [
+      "MEGA_ALTARIA"
+    ],
+    "type": "FIRE"
+  },
+  {
+    "id": "B1-043",
+    "name": {
+      "en": "Chandelure",
+      "es": "Chandelure"
+    },
+    "rarity": "THREE_DIAMOND",
+    "origins": [
+      "MEGA_ALTARIA"
+    ],
+    "type": "FIRE"
+  },
+  {
+    "id": "B1-044",
+    "name": {
+      "en": "Heatmor",
+      "es": "Heatmor"
+    },
+    "rarity": "ONE_DIAMOND",
+    "origins": [
+      "MEGA_BLAZIKEN",
+      "MEGA_GYARADOS",
+      "MEGA_ALTARIA"
+    ],
+    "type": "FIRE"
+  },
+  {
+    "id": "B1-045",
+    "name": {
+      "en": "Litleo",
+      "es": "Litleo"
+    },
+    "rarity": "ONE_DIAMOND",
+    "origins": [
+      "MEGA_BLAZIKEN"
+    ],
+    "type": "FIRE"
+  },
+  {
+    "id": "B1-046",
+    "name": {
+      "en": "Pyroar",
+      "es": "Pyroar"
+    },
+    "rarity": "THREE_DIAMOND",
+    "origins": [
+      "MEGA_BLAZIKEN"
+    ],
+    "type": "FIRE"
+  },
+  {
+    "id": "B1-047",
+    "name": {
+      "en": "Turtonator",
+      "es": "Turtonator"
+    },
+    "rarity": "TWO_DIAMOND",
+    "origins": [
+      "MEGA_GYARADOS"
+    ],
+    "type": "FIRE"
+  },
+  {
+    "id": "B1-048",
+    "name": {
+      "en": "Psyduck",
+      "es": "Psyduck"
+    },
+    "rarity": "ONE_DIAMOND",
+    "origins": [
+      "MEGA_BLAZIKEN"
+    ],
+    "type": "WATER"
+  },
+  {
+    "id": "B1-049",
+    "name": {
+      "en": "Golduck",
+      "es": "Golduck"
+    },
+    "rarity": "ONE_DIAMOND",
+    "origins": [
+      "MEGA_BLAZIKEN"
+    ],
+    "type": "WATER"
+  },
+  {
+    "id": "B1-050",
+    "name": {
+      "en": "Magikarp",
+      "es": "Magikarp"
+    },
+    "rarity": "ONE_DIAMOND",
+    "origins": [
+      "MEGA_GYARADOS"
+    ],
+    "type": "WATER"
+  },
+  {
+    "id": "B1-051",
+    "name": {
+      "en": "Gyarados",
+      "es": "Gyarados"
+    },
+    "rarity": "THREE_DIAMOND",
+    "origins": [
+      "MEGA_GYARADOS"
+    ],
+    "type": "WATER"
+  },
+  {
+    "id": "B1-052",
+    "name": {
+      "en": "Mega Gyarados ex",
+      "es": "Mega-Gyarados ex"
+    },
+    "rarity": "FOUR_DIAMOND",
+    "origins": [
+      "MEGA_GYARADOS"
+    ],
+    "type": "WATER"
+  },
+  {
+    "id": "B1-053",
+    "name": {
+      "en": "Lotad",
+      "es": "Lotad"
+    },
+    "rarity": "ONE_DIAMOND",
+    "origins": [
+      "MEGA_ALTARIA"
+    ],
+    "type": "WATER"
+  },
+  {
+    "id": "B1-054",
+    "name": {
+      "en": "Lombre",
+      "es": "Lombre"
+    },
+    "rarity": "TWO_DIAMOND",
+    "origins": [
+      "MEGA_ALTARIA"
+    ],
+    "type": "WATER"
+  },
+  {
+    "id": "B1-055",
+    "name": {
+      "en": "Ludicolo",
+      "es": "Ludicolo"
+    },
+    "rarity": "THREE_DIAMOND",
+    "origins": [
+      "MEGA_ALTARIA"
+    ],
+    "type": "WATER"
+  },
+  {
+    "id": "B1-056",
+    "name": {
+      "en": "Wailmer",
+      "es": "Wailmer"
+    },
+    "rarity": "ONE_DIAMOND",
+    "origins": [
+      "MEGA_GYARADOS"
+    ],
+    "type": "WATER"
+  },
+  {
+    "id": "B1-057",
+    "name": {
+      "en": "Wailord",
+      "es": "Wailord"
+    },
+    "rarity": "THREE_DIAMOND",
+    "origins": [
+      "MEGA_GYARADOS"
+    ],
+    "type": "WATER"
+  },
+  {
+    "id": "B1-058",
+    "name": {
+      "en": "Corphish",
+      "es": "Corphish"
+    },
+    "rarity": "ONE_DIAMOND",
+    "origins": [
+      "MEGA_BLAZIKEN",
+      "MEGA_GYARADOS",
+      "MEGA_ALTARIA"
+    ],
+    "type": "WATER"
+  },
+  {
+    "id": "B1-059",
+    "name": {
+      "en": "Crawdaunt",
+      "es": "Crawdaunt"
+    },
+    "rarity": "TWO_DIAMOND",
+    "origins": [
+      "MEGA_BLAZIKEN",
+      "MEGA_GYARADOS",
+      "MEGA_ALTARIA"
+    ],
+    "type": "WATER"
+  },
+  {
+    "id": "B1-060",
+    "name": {
+      "en": "Luvdisc",
+      "es": "Luvdisc"
+    },
+    "rarity": "ONE_DIAMOND",
+    "origins": [
+      "MEGA_ALTARIA"
+    ],
+    "type": "WATER"
+  },
+  {
+    "id": "B1-061",
+    "name": {
+      "en": "Panpour",
+      "es": "Panpour"
+    },
+    "rarity": "ONE_DIAMOND",
+    "origins": [
+      "MEGA_ALTARIA"
+    ],
+    "type": "WATER"
+  },
+  {
+    "id": "B1-062",
+    "name": {
+      "en": "Simipour",
+      "es": "Simipour"
+    },
+    "rarity": "ONE_DIAMOND",
+    "origins": [
+      "MEGA_ALTARIA"
+    ],
+    "type": "WATER"
+  },
+  {
+    "id": "B1-063",
+    "name": {
+      "en": "Tympole",
+      "es": "Tympole"
+    },
+    "rarity": "ONE_DIAMOND",
+    "origins": [
+      "MEGA_BLAZIKEN",
+      "MEGA_GYARADOS",
+      "MEGA_ALTARIA"
+    ],
+    "type": "WATER"
+  },
+  {
+    "id": "B1-064",
+    "name": {
+      "en": "Palpitoad",
+      "es": "Palpitoad"
+    },
+    "rarity": "ONE_DIAMOND",
+    "origins": [
+      "MEGA_BLAZIKEN",
+      "MEGA_GYARADOS",
+      "MEGA_ALTARIA"
+    ],
+    "type": "WATER"
+  },
+  {
+    "id": "B1-065",
+    "name": {
+      "en": "Seismitoad",
+      "es": "Seismitoad"
+    },
+    "rarity": "TWO_DIAMOND",
+    "origins": [
+      "MEGA_BLAZIKEN",
+      "MEGA_GYARADOS",
+      "MEGA_ALTARIA"
+    ],
+    "type": "WATER"
+  },
+  {
+    "id": "B1-066",
+    "name": {
+      "en": "Tirtouga",
+      "es": "Tirtouga"
+    },
+    "rarity": "TWO_DIAMOND",
+    "origins": [
+      "MEGA_GYARADOS"
+    ],
+    "type": "WATER"
+  },
+  {
+    "id": "B1-067",
+    "name": {
+      "en": "Carracosta",
+      "es": "Carracosta"
+    },
+    "rarity": "THREE_DIAMOND",
+    "origins": [
+      "MEGA_GYARADOS"
+    ],
+    "type": "WATER"
+  },
+  {
+    "id": "B1-068",
+    "name": {
+      "en": "Frillish",
+      "es": "Frillish"
+    },
+    "rarity": "ONE_DIAMOND",
+    "origins": [
+      "MEGA_GYARADOS"
+    ],
+    "type": "WATER"
+  },
+  {
+    "id": "B1-069",
+    "name": {
+      "en": "Jellicent",
+      "es": "Jellicent"
+    },
+    "rarity": "THREE_DIAMOND",
+    "origins": [
+      "MEGA_GYARADOS"
+    ],
+    "type": "WATER"
+  },
+  {
+    "id": "B1-070",
+    "name": {
+      "en": "Keldeo",
+      "es": "Keldeo"
+    },
+    "rarity": "THREE_DIAMOND",
+    "origins": [
+      "MEGA_BLAZIKEN"
+    ],
+    "type": "WATER"
+  },
+  {
+    "id": "B1-071",
+    "name": {
+      "en": "Froakie",
+      "es": "Froakie"
+    },
+    "rarity": "ONE_DIAMOND",
+    "origins": [
+      "MEGA_GYARADOS"
+    ],
+    "type": "WATER"
+  },
+  {
+    "id": "B1-072",
+    "name": {
+      "en": "Frogadier",
+      "es": "Frogadier"
+    },
+    "rarity": "TWO_DIAMOND",
+    "origins": [
+      "MEGA_GYARADOS"
+    ],
+    "type": "WATER"
+  },
+  {
+    "id": "B1-073",
+    "name": {
+      "en": "Greninja ex",
+      "es": "Greninja ex"
+    },
+    "rarity": "FOUR_DIAMOND",
+    "origins": [
+      "MEGA_GYARADOS"
+    ],
+    "type": "WATER"
+  },
+  {
+    "id": "B1-074",
+    "name": {
+      "en": "Bergmite",
+      "es": "Bergmite"
+    },
+    "rarity": "ONE_DIAMOND",
+    "origins": [
+      "MEGA_GYARADOS"
+    ],
+    "type": "WATER"
+  },
+  {
+    "id": "B1-075",
+    "name": {
+      "en": "Avalugg",
+      "es": "Avalugg"
+    },
+    "rarity": "TWO_DIAMOND",
+    "origins": [
+      "MEGA_GYARADOS"
+    ],
+    "type": "WATER"
+  },
+  {
+    "id": "B1-076",
+    "name": {
+      "en": "Chewtle",
+      "es": "Chewtle"
+    },
+    "rarity": "ONE_DIAMOND",
+    "origins": [
+      "MEGA_GYARADOS"
+    ],
+    "type": "WATER"
+  },
+  {
+    "id": "B1-077",
+    "name": {
+      "en": "Drednaw",
+      "es": "Drednaw"
+    },
+    "rarity": "TWO_DIAMOND",
+    "origins": [
+      "MEGA_GYARADOS"
+    ],
+    "type": "WATER"
+  },
+  {
+    "id": "B1-078",
+    "name": {
+      "en": "Arrokuda",
+      "es": "Arrokuda"
+    },
+    "rarity": "ONE_DIAMOND",
+    "origins": [
+      "MEGA_GYARADOS"
+    ],
+    "type": "WATER"
+  },
+  {
+    "id": "B1-079",
+    "name": {
+      "en": "Barraskewda",
+      "es": "Barraskewda"
+    },
+    "rarity": "TWO_DIAMOND",
+    "origins": [
+      "MEGA_GYARADOS"
+    ],
+    "type": "WATER"
+  },
+  {
+    "id": "B1-080",
+    "name": {
+      "en": "Eiscue",
+      "es": "Eiscue"
+    },
+    "rarity": "THREE_DIAMOND",
+    "origins": [
+      "MEGA_ALTARIA"
+    ],
+    "type": "WATER"
+  },
+  {
+    "id": "B1-081",
+    "name": {
+      "en": "Jolteon ex",
+      "es": "Jolteon ex"
+    },
+    "rarity": "FOUR_DIAMOND",
+    "origins": [
+      "MEGA_GYARADOS"
+    ],
+    "type": "LIGHTNING"
+  },
+  {
+    "id": "B1-082",
+    "name": {
+      "en": "Mareep",
+      "es": "Mareep"
+    },
+    "rarity": "ONE_DIAMOND",
+    "origins": [
+      "MEGA_ALTARIA"
+    ],
+    "type": "LIGHTNING"
+  },
+  {
+    "id": "B1-083",
+    "name": {
+      "en": "Flaaffy",
+      "es": "Flaaffy"
+    },
+    "rarity": "TWO_DIAMOND",
+    "origins": [
+      "MEGA_ALTARIA"
+    ],
+    "type": "LIGHTNING"
+  },
+  {
+    "id": "B1-084",
+    "name": {
+      "en": "Ampharos",
+      "es": "Ampharos"
+    },
+    "rarity": "THREE_DIAMOND",
+    "origins": [
+      "MEGA_ALTARIA"
+    ],
+    "type": "LIGHTNING"
+  },
+  {
+    "id": "B1-085",
+    "name": {
+      "en": "Mega Ampharos ex",
+      "es": "Mega-Ampharos ex"
+    },
+    "rarity": "FOUR_DIAMOND",
+    "origins": [
+      "MEGA_ALTARIA"
+    ],
+    "type": "LIGHTNING"
+  },
+  {
+    "id": "B1-086",
+    "name": {
+      "en": "Shinx",
+      "es": "Shinx"
+    },
+    "rarity": "ONE_DIAMOND",
+    "origins": [
+      "MEGA_BLAZIKEN"
+    ],
+    "type": "LIGHTNING"
+  },
+  {
+    "id": "B1-087",
+    "name": {
+      "en": "Luxio",
+      "es": "Luxio"
+    },
+    "rarity": "TWO_DIAMOND",
+    "origins": [
+      "MEGA_BLAZIKEN"
+    ],
+    "type": "LIGHTNING"
+  },
+  {
+    "id": "B1-088",
+    "name": {
+      "en": "Luxray",
+      "es": "Luxray"
+    },
+    "rarity": "THREE_DIAMOND",
+    "origins": [
+      "MEGA_BLAZIKEN"
+    ],
+    "type": "LIGHTNING"
+  },
+  {
+    "id": "B1-089",
+    "name": {
+      "en": "Pachirisu",
+      "es": "Pachirisu"
+    },
+    "rarity": "ONE_DIAMOND",
+    "origins": [
+      "MEGA_BLAZIKEN",
+      "MEGA_GYARADOS",
+      "MEGA_ALTARIA"
+    ],
+    "type": "LIGHTNING"
+  },
+  {
+    "id": "B1-090",
+    "name": {
+      "en": "Blitzle",
+      "es": "Blitzle"
+    },
+    "rarity": "ONE_DIAMOND",
+    "origins": [
+      "MEGA_BLAZIKEN"
+    ],
+    "type": "LIGHTNING"
+  },
+  {
+    "id": "B1-091",
+    "name": {
+      "en": "Zebstrika",
+      "es": "Zebstrika"
+    },
+    "rarity": "TWO_DIAMOND",
+    "origins": [
+      "MEGA_BLAZIKEN"
+    ],
+    "type": "LIGHTNING"
+  },
+  {
+    "id": "B1-092",
+    "name": {
+      "en": "Joltik",
+      "es": "Joltik"
+    },
+    "rarity": "ONE_DIAMOND",
+    "origins": [
+      "MEGA_BLAZIKEN",
+      "MEGA_GYARADOS",
+      "MEGA_ALTARIA"
+    ],
+    "type": "LIGHTNING"
+  },
+  {
+    "id": "B1-093",
+    "name": {
+      "en": "Galvantula",
+      "es": "Galvantula"
+    },
+    "rarity": "TWO_DIAMOND",
+    "origins": [
+      "MEGA_BLAZIKEN",
+      "MEGA_GYARADOS",
+      "MEGA_ALTARIA"
+    ],
+    "type": "LIGHTNING"
+  },
+  {
+    "id": "B1-094",
+    "name": {
+      "en": "Dedenne",
+      "es": "Dedenne"
+    },
+    "rarity": "ONE_DIAMOND",
+    "origins": [
+      "MEGA_ALTARIA"
+    ],
+    "type": "LIGHTNING"
+  },
+  {
+    "id": "B1-095",
+    "name": {
+      "en": "Yamper",
+      "es": "Yamper"
+    },
+    "rarity": "ONE_DIAMOND",
+    "origins": [
+      "MEGA_ALTARIA"
+    ],
+    "type": "LIGHTNING"
+  },
+  {
+    "id": "B1-096",
+    "name": {
+      "en": "Boltund",
+      "es": "Boltund"
+    },
+    "rarity": "TWO_DIAMOND",
+    "origins": [
+      "MEGA_ALTARIA"
+    ],
+    "type": "LIGHTNING"
+  },
+  {
+    "id": "B1-097",
+    "name": {
+      "en": "Natu",
+      "es": "Natu"
+    },
+    "rarity": "ONE_DIAMOND",
+    "origins": [
+      "MEGA_BLAZIKEN",
+      "MEGA_GYARADOS",
+      "MEGA_ALTARIA"
+    ],
+    "type": "PSYCHIC"
+  },
+  {
+    "id": "B1-098",
+    "name": {
+      "en": "Xatu",
+      "es": "Xatu"
+    },
+    "rarity": "TWO_DIAMOND",
+    "origins": [
+      "MEGA_BLAZIKEN",
+      "MEGA_GYARADOS",
+      "MEGA_ALTARIA"
+    ],
+    "type": "PSYCHIC"
+  },
+  {
+    "id": "B1-099",
+    "name": {
+      "en": "Misdreavus",
+      "es": "Misdreavus"
+    },
+    "rarity": "ONE_DIAMOND",
+    "origins": [
+      "MEGA_BLAZIKEN",
+      "MEGA_GYARADOS",
+      "MEGA_ALTARIA"
+    ],
+    "type": "PSYCHIC"
+  },
+  {
+    "id": "B1-100",
+    "name": {
+      "en": "Mismagius",
+      "es": "Mismagius"
+    },
+    "rarity": "TWO_DIAMOND",
+    "origins": [
+      "MEGA_BLAZIKEN",
+      "MEGA_GYARADOS",
+      "MEGA_ALTARIA"
+    ],
+    "type": "PSYCHIC"
+  },
+  {
+    "id": "B1-101",
+    "name": {
+      "en": "Sableye",
+      "es": "Sableye"
+    },
+    "rarity": "ONE_DIAMOND",
+    "origins": [
+      "MEGA_ALTARIA"
+    ],
+    "type": "PSYCHIC"
+  },
+  {
+    "id": "B1-102",
+    "name": {
+      "en": "Mega Altaria ex",
+      "es": "Mega-Altaria ex"
+    },
+    "rarity": "FOUR_DIAMOND",
+    "origins": [
+      "MEGA_ALTARIA"
+    ],
+    "type": "PSYCHIC"
+  },
+  {
+    "id": "B1-103",
+    "name": {
+      "en": "Duskull",
+      "es": "Duskull"
+    },
+    "rarity": "ONE_DIAMOND",
+    "origins": [
+      "MEGA_BLAZIKEN"
+    ],
+    "type": "PSYCHIC"
+  },
+  {
+    "id": "B1-104",
+    "name": {
+      "en": "Dusclops",
+      "es": "Dusclops"
+    },
+    "rarity": "TWO_DIAMOND",
+    "origins": [
+      "MEGA_BLAZIKEN"
+    ],
+    "type": "PSYCHIC"
+  },
+  {
+    "id": "B1-105",
+    "name": {
+      "en": "Dusknoir",
+      "es": "Dusknoir"
+    },
+    "rarity": "THREE_DIAMOND",
+    "origins": [
+      "MEGA_BLAZIKEN"
+    ],
+    "type": "PSYCHIC"
+  },
+  {
+    "id": "B1-106",
+    "name": {
+      "en": "Jirachi",
+      "es": "Jirachi"
+    },
+    "rarity": "THREE_DIAMOND",
+    "origins": [
+      "MEGA_ALTARIA"
+    ],
+    "type": "PSYCHIC"
+  },
+  {
+    "id": "B1-107",
+    "name": {
+      "en": "Drifloon",
+      "es": "Drifloon"
+    },
+    "rarity": "ONE_DIAMOND",
+    "origins": [
+      "MEGA_ALTARIA"
+    ],
+    "type": "PSYCHIC"
+  },
+  {
+    "id": "B1-108",
+    "name": {
+      "en": "Drifblim",
+      "es": "Drifblim"
+    },
+    "rarity": "TWO_DIAMOND",
+    "origins": [
+      "MEGA_ALTARIA"
+    ],
+    "type": "PSYCHIC"
+  },
+  {
+    "id": "B1-109",
+    "name": {
+      "en": "Chingling",
+      "es": "Chingling"
+    },
+    "rarity": "THREE_DIAMOND",
+    "origins": [
+      "MEGA_BLAZIKEN",
+      "MEGA_GYARADOS",
+      "MEGA_ALTARIA"
+    ],
+    "type": "PSYCHIC"
+  },
+  {
+    "id": "B1-110",
+    "name": {
+      "en": "Yamask",
+      "es": "Yamask"
+    },
+    "rarity": "ONE_DIAMOND",
+    "origins": [
+      "MEGA_GYARADOS"
+    ],
+    "type": "PSYCHIC"
+  },
+  {
+    "id": "B1-111",
+    "name": {
+      "en": "Cofagrigus",
+      "es": "Cofagrigus"
+    },
+    "rarity": "THREE_DIAMOND",
+    "origins": [
+      "MEGA_GYARADOS"
+    ],
+    "type": "PSYCHIC"
+  },
+  {
+    "id": "B1-112",
+    "name": {
+      "en": "Gothita",
+      "es": "Gothita"
+    },
+    "rarity": "ONE_DIAMOND",
+    "origins": [
+      "MEGA_ALTARIA"
+    ],
+    "type": "PSYCHIC"
+  },
+  {
+    "id": "B1-113",
+    "name": {
+      "en": "Gothorita",
+      "es": "Gothorita"
+    },
+    "rarity": "TWO_DIAMOND",
+    "origins": [
+      "MEGA_ALTARIA"
+    ],
+    "type": "PSYCHIC"
+  },
+  {
+    "id": "B1-114",
+    "name": {
+      "en": "Gothitelle",
+      "es": "Gothitelle"
+    },
+    "rarity": "THREE_DIAMOND",
+    "origins": [
+      "MEGA_ALTARIA"
+    ],
+    "type": "PSYCHIC"
+  },
+  {
+    "id": "B1-115",
+    "name": {
+      "en": "Spritzee",
+      "es": "Spritzee"
+    },
+    "rarity": "ONE_DIAMOND",
+    "origins": [
+      "MEGA_BLAZIKEN",
+      "MEGA_GYARADOS",
+      "MEGA_ALTARIA"
+    ],
+    "type": "PSYCHIC"
+  },
+  {
+    "id": "B1-116",
+    "name": {
+      "en": "Aromatisse",
+      "es": "Aromatisse"
+    },
+    "rarity": "TWO_DIAMOND",
+    "origins": [
+      "MEGA_BLAZIKEN",
+      "MEGA_GYARADOS",
+      "MEGA_ALTARIA"
+    ],
+    "type": "PSYCHIC"
+  },
+  {
+    "id": "B1-117",
+    "name": {
+      "en": "Swirlix",
+      "es": "Swirlix"
+    },
+    "rarity": "ONE_DIAMOND",
+    "origins": [
+      "MEGA_ALTARIA"
+    ],
+    "type": "PSYCHIC"
+  },
+  {
+    "id": "B1-118",
+    "name": {
+      "en": "Slurpuff",
+      "es": "Slurpuff"
+    },
+    "rarity": "TWO_DIAMOND",
+    "origins": [
+      "MEGA_ALTARIA"
+    ],
+    "type": "PSYCHIC"
+  },
+  {
+    "id": "B1-119",
+    "name": {
+      "en": "Carbink",
+      "es": "Carbink"
+    },
+    "rarity": "ONE_DIAMOND",
+    "origins": [
+      "MEGA_ALTARIA"
+    ],
+    "type": "PSYCHIC"
+  },
+  {
+    "id": "B1-120",
+    "name": {
+      "en": "Klefki",
+      "es": "Klefki"
+    },
+    "rarity": "THREE_DIAMOND",
+    "origins": [
+      "MEGA_GYARADOS"
+    ],
+    "type": "PSYCHIC"
+  },
+  {
+    "id": "B1-121",
+    "name": {
+      "en": "Indeedee ex",
+      "es": "Indeedee ex"
+    },
+    "rarity": "FOUR_DIAMOND",
+    "origins": [
+      "MEGA_ALTARIA"
+    ],
+    "type": "PSYCHIC"
+  },
+  {
+    "id": "B1-122",
+    "name": {
+      "en": "Sandshrew",
+      "es": "Sandshrew"
+    },
+    "rarity": "ONE_DIAMOND",
+    "origins": [
+      "MEGA_BLAZIKEN",
+      "MEGA_GYARADOS",
+      "MEGA_ALTARIA"
+    ],
+    "type": "FIGHTING"
+  },
+  {
+    "id": "B1-123",
+    "name": {
+      "en": "Sandslash",
+      "es": "Sandslash"
+    },
+    "rarity": "TWO_DIAMOND",
+    "origins": [
+      "MEGA_BLAZIKEN",
+      "MEGA_GYARADOS",
+      "MEGA_ALTARIA"
+    ],
+    "type": "FIGHTING"
+  },
+  {
+    "id": "B1-124",
+    "name": {
+      "en": "Hitmonchan ex",
+      "es": "Hitmonchan ex"
+    },
+    "rarity": "FOUR_DIAMOND",
+    "origins": [
+      "MEGA_BLAZIKEN"
+    ],
+    "type": "FIGHTING"
+  },
+  {
+    "id": "B1-125",
+    "name": {
+      "en": "Sudowoodo",
+      "es": "Sudowoodo"
+    },
+    "rarity": "ONE_DIAMOND",
+    "origins": [
+      "MEGA_BLAZIKEN",
+      "MEGA_GYARADOS",
+      "MEGA_ALTARIA"
+    ],
+    "type": "FIGHTING"
+  },
+  {
+    "id": "B1-126",
+    "name": {
+      "en": "Makuhita",
+      "es": "Makuhita"
+    },
+    "rarity": "ONE_DIAMOND",
+    "origins": [
+      "MEGA_BLAZIKEN"
+    ],
+    "type": "FIGHTING"
+  },
+  {
+    "id": "B1-127",
+    "name": {
+      "en": "Hariyama",
+      "es": "Hariyama"
+    },
+    "rarity": "TWO_DIAMOND",
+    "origins": [
+      "MEGA_BLAZIKEN"
+    ],
+    "type": "FIGHTING"
+  },
+  {
+    "id": "B1-128",
+    "name": {
+      "en": "Hippopotas",
+      "es": "Hippopotas"
+    },
+    "rarity": "ONE_DIAMOND",
+    "origins": [
+      "MEGA_GYARADOS"
+    ],
+    "type": "FIGHTING"
+  },
+  {
+    "id": "B1-129",
+    "name": {
+      "en": "Hippowdon",
+      "es": "Hippowdon"
+    },
+    "rarity": "TWO_DIAMOND",
+    "origins": [
+      "MEGA_GYARADOS"
+    ],
+    "type": "FIGHTING"
+  },
+  {
+    "id": "B1-130",
+    "name": {
+      "en": "Sandile",
+      "es": "Sandile"
+    },
+    "rarity": "ONE_DIAMOND",
+    "origins": [
+      "MEGA_GYARADOS"
+    ],
+    "type": "FIGHTING"
+  },
+  {
+    "id": "B1-131",
+    "name": {
+      "en": "Krokorok",
+      "es": "Krokorok"
+    },
+    "rarity": "TWO_DIAMOND",
+    "origins": [
+      "MEGA_GYARADOS"
+    ],
+    "type": "FIGHTING"
+  },
+  {
+    "id": "B1-132",
+    "name": {
+      "en": "Krookodile",
+      "es": "Krookodile"
+    },
+    "rarity": "THREE_DIAMOND",
+    "origins": [
+      "MEGA_GYARADOS"
+    ],
+    "type": "FIGHTING"
+  },
+  {
+    "id": "B1-133",
+    "name": {
+      "en": "Archen",
+      "es": "Archen"
+    },
+    "rarity": "TWO_DIAMOND",
+    "origins": [
+      "MEGA_BLAZIKEN"
+    ],
+    "type": "FIGHTING"
+  },
+  {
+    "id": "B1-134",
+    "name": {
+      "en": "Archeops",
+      "es": "Archeops"
+    },
+    "rarity": "THREE_DIAMOND",
+    "origins": [
+      "MEGA_BLAZIKEN"
+    ],
+    "type": "FIGHTING"
+  },
+  {
+    "id": "B1-135",
+    "name": {
+      "en": "Golett",
+      "es": "Golett"
+    },
+    "rarity": "ONE_DIAMOND",
+    "origins": [
+      "MEGA_BLAZIKEN"
+    ],
+    "type": "FIGHTING"
+  },
+  {
+    "id": "B1-136",
+    "name": {
+      "en": "Golurk",
+      "es": "Golurk"
+    },
+    "rarity": "THREE_DIAMOND",
+    "origins": [
+      "MEGA_BLAZIKEN"
+    ],
+    "type": "FIGHTING"
+  },
+  {
+    "id": "B1-137",
+    "name": {
+      "en": "Terrakion",
+      "es": "Terrakion"
+    },
+    "rarity": "THREE_DIAMOND",
+    "origins": [
+      "MEGA_GYARADOS"
+    ],
+    "type": "FIGHTING"
+  },
+  {
+    "id": "B1-138",
+    "name": {
+      "en": "Pancham",
+      "es": "Pancham"
+    },
+    "rarity": "ONE_DIAMOND",
+    "origins": [
+      "MEGA_GYARADOS"
+    ],
+    "type": "FIGHTING"
+  },
+  {
+    "id": "B1-139",
+    "name": {
+      "en": "Crabrawler",
+      "es": "Crabrawler"
+    },
+    "rarity": "ONE_DIAMOND",
+    "origins": [
+      "MEGA_BLAZIKEN"
+    ],
+    "type": "FIGHTING"
+  },
+  {
+    "id": "B1-140",
+    "name": {
+      "en": "Crabominable",
+      "es": "Crabominable"
+    },
+    "rarity": "TWO_DIAMOND",
+    "origins": [
+      "MEGA_BLAZIKEN"
+    ],
+    "type": "FIGHTING"
+  },
+  {
+    "id": "B1-141",
+    "name": {
+      "en": "Stufful",
+      "es": "Stufful"
+    },
+    "rarity": "ONE_DIAMOND",
+    "origins": [
+      "MEGA_BLAZIKEN"
+    ],
+    "type": "FIGHTING"
+  },
+  {
+    "id": "B1-142",
+    "name": {
+      "en": "Bewear",
+      "es": "Bewear"
+    },
+    "rarity": "TWO_DIAMOND",
+    "origins": [
+      "MEGA_BLAZIKEN"
+    ],
+    "type": "FIGHTING"
+  },
+  {
+    "id": "B1-143",
+    "name": {
+      "en": "Sandygast",
+      "es": "Sandygast"
+    },
+    "rarity": "ONE_DIAMOND",
+    "origins": [
+      "MEGA_BLAZIKEN",
+      "MEGA_GYARADOS",
+      "MEGA_ALTARIA"
+    ],
+    "type": "FIGHTING"
+  },
+  {
+    "id": "B1-144",
+    "name": {
+      "en": "Palossand",
+      "es": "Palossand"
+    },
+    "rarity": "TWO_DIAMOND",
+    "origins": [
+      "MEGA_BLAZIKEN",
+      "MEGA_GYARADOS",
+      "MEGA_ALTARIA"
+    ],
+    "type": "FIGHTING"
+  },
+  {
+    "id": "B1-145",
+    "name": {
+      "en": "Rolycoly",
+      "es": "Rolycoly"
+    },
+    "rarity": "ONE_DIAMOND",
+    "origins": [
+      "MEGA_GYARADOS"
+    ],
+    "type": "FIGHTING"
+  },
+  {
+    "id": "B1-146",
+    "name": {
+      "en": "Carkol",
+      "es": "Carkol"
+    },
+    "rarity": "TWO_DIAMOND",
+    "origins": [
+      "MEGA_GYARADOS"
+    ],
+    "type": "FIGHTING"
+  },
+  {
+    "id": "B1-147",
+    "name": {
+      "en": "Coalossal",
+      "es": "Coalossal"
+    },
+    "rarity": "THREE_DIAMOND",
+    "origins": [
+      "MEGA_GYARADOS"
+    ],
+    "type": "FIGHTING"
+  },
+  {
+    "id": "B1-148",
+    "name": {
+      "en": "Murkrow",
+      "es": "Murkrow"
+    },
+    "rarity": "ONE_DIAMOND",
+    "origins": [
+      "MEGA_GYARADOS"
+    ],
+    "type": "DARKNESS"
+  },
+  {
+    "id": "B1-149",
+    "name": {
+      "en": "Honchkrow",
+      "es": "Honchkrow"
+    },
+    "rarity": "THREE_DIAMOND",
+    "origins": [
+      "MEGA_GYARADOS"
+    ],
+    "type": "DARKNESS"
+  },
+  {
+    "id": "B1-150",
+    "name": {
+      "en": "Absol",
+      "es": "Absol"
+    },
+    "rarity": "TWO_DIAMOND",
+    "origins": [
+      "MEGA_GYARADOS"
+    ],
+    "type": "DARKNESS"
+  },
+  {
+    "id": "B1-151",
+    "name": {
+      "en": "Mega Absol ex",
+      "es": "Mega-Absol ex"
+    },
+    "rarity": "FOUR_DIAMOND",
+    "origins": [
+      "MEGA_GYARADOS"
+    ],
+    "type": "DARKNESS"
+  },
+  {
+    "id": "B1-152",
+    "name": {
+      "en": "Skorupi",
+      "es": "Skorupi"
+    },
+    "rarity": "ONE_DIAMOND",
+    "origins": [
+      "MEGA_GYARADOS"
+    ],
+    "type": "DARKNESS"
+  },
+  {
+    "id": "B1-153",
+    "name": {
+      "en": "Drapion",
+      "es": "Drapion"
+    },
+    "rarity": "TWO_DIAMOND",
+    "origins": [
+      "MEGA_GYARADOS"
+    ],
+    "type": "DARKNESS"
+  },
+  {
+    "id": "B1-154",
+    "name": {
+      "en": "Darkrai",
+      "es": "Darkrai"
+    },
+    "rarity": "THREE_DIAMOND",
+    "origins": [
+      "MEGA_ALTARIA"
+    ],
+    "type": "DARKNESS"
+  },
+  {
+    "id": "B1-155",
+    "name": {
+      "en": "Deino",
+      "es": "Deino"
+    },
+    "rarity": "ONE_DIAMOND",
+    "origins": [
+      "MEGA_GYARADOS"
+    ],
+    "type": "DARKNESS"
+  },
+  {
+    "id": "B1-156",
+    "name": {
+      "en": "Zweilous",
+      "es": "Zweilous"
+    },
+    "rarity": "TWO_DIAMOND",
+    "origins": [
+      "MEGA_GYARADOS"
+    ],
+    "type": "DARKNESS"
+  },
+  {
+    "id": "B1-157",
+    "name": {
+      "en": "Hydreigon",
+      "es": "Hydreigon"
+    },
+    "rarity": "THREE_DIAMOND",
+    "origins": [
+      "MEGA_GYARADOS"
+    ],
+    "type": "DARKNESS"
+  },
+  {
+    "id": "B1-158",
+    "name": {
+      "en": "Pangoro",
+      "es": "Pangoro"
+    },
+    "rarity": "THREE_DIAMOND",
+    "origins": [
+      "MEGA_GYARADOS"
+    ],
+    "type": "DARKNESS"
+  },
+  {
+    "id": "B1-159",
+    "name": {
+      "en": "Skrelp",
+      "es": "Skrelp"
+    },
+    "rarity": "ONE_DIAMOND",
+    "origins": [
+      "MEGA_BLAZIKEN"
+    ],
+    "type": "DARKNESS"
+  },
+  {
+    "id": "B1-160",
+    "name": {
+      "en": "Dragalge ex",
+      "es": "Dragalge ex"
+    },
+    "rarity": "FOUR_DIAMOND",
+    "origins": [
+      "MEGA_BLAZIKEN"
+    ],
+    "type": "DARKNESS"
+  },
+  {
+    "id": "B1-161",
+    "name": {
+      "en": "Mareanie",
+      "es": "Mareanie"
+    },
+    "rarity": "ONE_DIAMOND",
+    "origins": [
+      "MEGA_BLAZIKEN",
+      "MEGA_GYARADOS",
+      "MEGA_ALTARIA"
+    ],
+    "type": "DARKNESS"
+  },
+  {
+    "id": "B1-162",
+    "name": {
+      "en": "Toxapex",
+      "es": "Toxapex"
+    },
+    "rarity": "TWO_DIAMOND",
+    "origins": [
+      "MEGA_BLAZIKEN",
+      "MEGA_GYARADOS",
+      "MEGA_ALTARIA"
+    ],
+    "type": "DARKNESS"
+  },
+  {
+    "id": "B1-163",
+    "name": {
+      "en": "Impidimp",
+      "es": "Impidimp"
+    },
+    "rarity": "ONE_DIAMOND",
+    "origins": [
+      "MEGA_ALTARIA"
+    ],
+    "type": "DARKNESS"
+  },
+  {
+    "id": "B1-164",
+    "name": {
+      "en": "Morgrem",
+      "es": "Morgrem"
+    },
+    "rarity": "TWO_DIAMOND",
+    "origins": [
+      "MEGA_ALTARIA"
+    ],
+    "type": "DARKNESS"
+  },
+  {
+    "id": "B1-165",
+    "name": {
+      "en": "Grimmsnarl",
+      "es": "Grimmsnarl"
+    },
+    "rarity": "THREE_DIAMOND",
+    "origins": [
+      "MEGA_ALTARIA"
+    ],
+    "type": "DARKNESS"
+  },
+  {
+    "id": "B1-166",
+    "name": {
+      "en": "Ferroseed",
+      "es": "Ferroseed"
+    },
+    "rarity": "ONE_DIAMOND",
+    "origins": [
+      "MEGA_BLAZIKEN",
+      "MEGA_GYARADOS",
+      "MEGA_ALTARIA"
+    ],
+    "type": "METAL"
+  },
+  {
+    "id": "B1-167",
+    "name": {
+      "en": "Ferrothorn",
+      "es": "Ferrothorn"
+    },
+    "rarity": "TWO_DIAMOND",
+    "origins": [
+      "MEGA_BLAZIKEN",
+      "MEGA_GYARADOS",
+      "MEGA_ALTARIA"
+    ],
+    "type": "METAL"
+  },
+  {
+    "id": "B1-168",
+    "name": {
+      "en": "Durant",
+      "es": "Durant"
+    },
+    "rarity": "ONE_DIAMOND",
+    "origins": [
+      "MEGA_BLAZIKEN",
+      "MEGA_GYARADOS",
+      "MEGA_ALTARIA"
+    ],
+    "type": "METAL"
+  },
+  {
+    "id": "B1-169",
+    "name": {
+      "en": "Cobalion",
+      "es": "Cobalion"
+    },
+    "rarity": "THREE_DIAMOND",
+    "origins": [
+      "MEGA_BLAZIKEN"
+    ],
+    "type": "METAL"
+  },
+  {
+    "id": "B1-170",
+    "name": {
+      "en": "Honedge",
+      "es": "Honedge"
+    },
+    "rarity": "ONE_DIAMOND",
+    "origins": [
+      "MEGA_BLAZIKEN"
+    ],
+    "type": "METAL"
+  },
+  {
+    "id": "B1-171",
+    "name": {
+      "en": "Doublade",
+      "es": "Doublade"
+    },
+    "rarity": "TWO_DIAMOND",
+    "origins": [
+      "MEGA_BLAZIKEN"
+    ],
+    "type": "METAL"
+  },
+  {
+    "id": "B1-172",
+    "name": {
+      "en": "Aegislash",
+      "es": "Aegislash"
+    },
+    "rarity": "THREE_DIAMOND",
+    "origins": [
+      "MEGA_BLAZIKEN"
+    ],
+    "type": "METAL"
+  },
+  {
+    "id": "B1-173",
+    "name": {
+      "en": "Meltan",
+      "es": "Meltan"
+    },
+    "rarity": "ONE_DIAMOND",
+    "origins": [
+      "MEGA_GYARADOS"
+    ],
+    "type": "METAL"
+  },
+  {
+    "id": "B1-174",
+    "name": {
+      "en": "Melmetal ex",
+      "es": "Melmetal ex"
+    },
+    "rarity": "FOUR_DIAMOND",
+    "origins": [
+      "MEGA_GYARADOS"
+    ],
+    "type": "METAL"
+  },
+  {
+    "id": "B1-175",
+    "name": {
+      "en": "Corviknight",
+      "es": "Corviknight"
+    },
+    "rarity": "THREE_DIAMOND",
+    "origins": [
+      "MEGA_BLAZIKEN"
+    ],
+    "type": "METAL"
+  },
+  {
+    "id": "B1-176",
+    "name": {
+      "en": "Druddigon",
+      "es": "Druddigon"
+    },
+    "rarity": "ONE_DIAMOND",
+    "origins": [
+      "MEGA_GYARADOS"
+    ],
+    "type": "DRAGON"
+  },
+  {
+    "id": "B1-177",
+    "name": {
+      "en": "Goomy",
+      "es": "Goomy"
+    },
+    "rarity": "ONE_DIAMOND",
+    "origins": [
+      "MEGA_ALTARIA"
+    ],
+    "type": "DRAGON"
+  },
+  {
+    "id": "B1-178",
+    "name": {
+      "en": "Sliggoo",
+      "es": "Sliggoo"
+    },
+    "rarity": "TWO_DIAMOND",
+    "origins": [
+      "MEGA_ALTARIA"
+    ],
+    "type": "DRAGON"
+  },
+  {
+    "id": "B1-179",
+    "name": {
+      "en": "Goodra",
+      "es": "Goodra"
+    },
+    "rarity": "THREE_DIAMOND",
+    "origins": [
+      "MEGA_ALTARIA"
+    ],
+    "type": "DRAGON"
+  },
+  {
+    "id": "B1-180",
+    "name": {
+      "en": "Pidgey",
+      "es": "Pidgey"
+    },
+    "rarity": "ONE_DIAMOND",
+    "origins": [
+      "MEGA_BLAZIKEN",
+      "MEGA_GYARADOS",
+      "MEGA_ALTARIA"
+    ],
+    "type": "COLORLESS"
+  },
+  {
+    "id": "B1-181",
+    "name": {
+      "en": "Pidgeotto",
+      "es": "Pidgeotto"
+    },
+    "rarity": "ONE_DIAMOND",
+    "origins": [
+      "MEGA_BLAZIKEN",
+      "MEGA_GYARADOS",
+      "MEGA_ALTARIA"
+    ],
+    "type": "COLORLESS"
+  },
+  {
+    "id": "B1-182",
+    "name": {
+      "en": "Pidgeot",
+      "es": "Pidgeot"
+    },
+    "rarity": "TWO_DIAMOND",
+    "origins": [
+      "MEGA_BLAZIKEN",
+      "MEGA_GYARADOS",
+      "MEGA_ALTARIA"
+    ],
+    "type": "COLORLESS"
+  },
+  {
+    "id": "B1-183",
+    "name": {
+      "en": "Tauros ex",
+      "es": "Tauros ex"
+    },
+    "rarity": "FOUR_DIAMOND",
+    "origins": [
+      "MEGA_ALTARIA"
+    ],
+    "type": "COLORLESS"
+  },
+  {
+    "id": "B1-184",
+    "name": {
+      "en": "Eevee",
+      "es": "Eevee"
+    },
+    "rarity": "ONE_DIAMOND",
+    "origins": [
+      "MEGA_GYARADOS"
+    ],
+    "type": "COLORLESS"
+  },
+  {
+    "id": "B1-185",
+    "name": {
+      "en": "Aipom",
+      "es": "Aipom"
+    },
+    "rarity": "ONE_DIAMOND",
+    "origins": [
+      "MEGA_ALTARIA"
+    ],
+    "type": "COLORLESS"
+  },
+  {
+    "id": "B1-186",
+    "name": {
+      "en": "Ambipom",
+      "es": "Ambipom"
+    },
+    "rarity": "TWO_DIAMOND",
+    "origins": [
+      "MEGA_ALTARIA"
+    ],
+    "type": "COLORLESS"
+  },
+  {
+    "id": "B1-187",
+    "name": {
+      "en": "Miltank",
+      "es": "Miltank"
+    },
+    "rarity": "ONE_DIAMOND",
+    "origins": [
+      "MEGA_BLAZIKEN",
+      "MEGA_GYARADOS",
+      "MEGA_ALTARIA"
+    ],
+    "type": "COLORLESS"
+  },
+  {
+    "id": "B1-188",
+    "name": {
+      "en": "Zigzagoon",
+      "es": "Zigzagoon"
+    },
+    "rarity": "ONE_DIAMOND",
+    "origins": [
+      "MEGA_BLAZIKEN",
+      "MEGA_GYARADOS",
+      "MEGA_ALTARIA"
+    ],
+    "type": "COLORLESS"
+  },
+  {
+    "id": "B1-189",
+    "name": {
+      "en": "Linoone",
+      "es": "Linoone"
+    },
+    "rarity": "TWO_DIAMOND",
+    "origins": [
+      "MEGA_BLAZIKEN",
+      "MEGA_GYARADOS",
+      "MEGA_ALTARIA"
+    ],
+    "type": "COLORLESS"
+  },
+  {
+    "id": "B1-190",
+    "name": {
+      "en": "Whismur",
+      "es": "Whismur"
+    },
+    "rarity": "ONE_DIAMOND",
+    "origins": [
+      "MEGA_GYARADOS"
+    ],
+    "type": "COLORLESS"
+  },
+  {
+    "id": "B1-191",
+    "name": {
+      "en": "Loudred",
+      "es": "Loudred"
+    },
+    "rarity": "ONE_DIAMOND",
+    "origins": [
+      "MEGA_GYARADOS"
+    ],
+    "type": "COLORLESS"
+  },
+  {
+    "id": "B1-192",
+    "name": {
+      "en": "Exploud",
+      "es": "Exploud"
+    },
+    "rarity": "THREE_DIAMOND",
+    "origins": [
+      "MEGA_GYARADOS"
+    ],
+    "type": "COLORLESS"
+  },
+  {
+    "id": "B1-193",
+    "name": {
+      "en": "Skitty",
+      "es": "Skitty"
+    },
+    "rarity": "ONE_DIAMOND",
+    "origins": [
+      "MEGA_GYARADOS"
+    ],
+    "type": "COLORLESS"
+  },
+  {
+    "id": "B1-194",
+    "name": {
+      "en": "Delcatty",
+      "es": "Delcatty"
+    },
+    "rarity": "THREE_DIAMOND",
+    "origins": [
+      "MEGA_GYARADOS"
+    ],
+    "type": "COLORLESS"
+  },
+  {
+    "id": "B1-195",
+    "name": {
+      "en": "Spinda",
+      "es": "Spinda"
+    },
+    "rarity": "ONE_DIAMOND",
+    "origins": [
+      "MEGA_ALTARIA"
+    ],
+    "type": "COLORLESS"
+  },
+  {
+    "id": "B1-196",
+    "name": {
+      "en": "Swablu",
+      "es": "Swablu"
+    },
+    "rarity": "ONE_DIAMOND",
+    "origins": [
+      "MEGA_ALTARIA"
+    ],
+    "type": "COLORLESS"
+  },
+  {
+    "id": "B1-197",
+    "name": {
+      "en": "Altaria",
+      "es": "Altaria"
+    },
+    "rarity": "THREE_DIAMOND",
+    "origins": [
+      "MEGA_ALTARIA"
+    ],
+    "type": "COLORLESS"
+  },
+  {
+    "id": "B1-198",
+    "name": {
+      "en": "Chatot",
+      "es": "Chatot"
+    },
+    "rarity": "ONE_DIAMOND",
+    "origins": [
+      "MEGA_BLAZIKEN",
+      "MEGA_GYARADOS",
+      "MEGA_ALTARIA"
+    ],
+    "type": "COLORLESS"
+  },
+  {
+    "id": "B1-199",
+    "name": {
+      "en": "Patrat",
+      "es": "Patrat"
+    },
+    "rarity": "ONE_DIAMOND",
+    "origins": [
+      "MEGA_BLAZIKEN",
+      "MEGA_GYARADOS",
+      "MEGA_ALTARIA"
+    ],
+    "type": "COLORLESS"
+  },
+  {
+    "id": "B1-200",
+    "name": {
+      "en": "Watchog",
+      "es": "Watchog"
+    },
+    "rarity": "TWO_DIAMOND",
+    "origins": [
+      "MEGA_BLAZIKEN",
+      "MEGA_GYARADOS",
+      "MEGA_ALTARIA"
+    ],
+    "type": "COLORLESS"
+  },
+  {
+    "id": "B1-201",
+    "name": {
+      "en": "Lillipup",
+      "es": "Lillipup"
+    },
+    "rarity": "ONE_DIAMOND",
+    "origins": [
+      "MEGA_ALTARIA"
+    ],
+    "type": "COLORLESS"
+  },
+  {
+    "id": "B1-202",
+    "name": {
+      "en": "Herdier",
+      "es": "Herdier"
+    },
+    "rarity": "TWO_DIAMOND",
+    "origins": [
+      "MEGA_ALTARIA"
+    ],
+    "type": "COLORLESS"
+  },
+  {
+    "id": "B1-203",
+    "name": {
+      "en": "Stoutland",
+      "es": "Stoutland"
+    },
+    "rarity": "THREE_DIAMOND",
+    "origins": [
+      "MEGA_ALTARIA"
+    ],
+    "type": "COLORLESS"
+  },
+  {
+    "id": "B1-204",
+    "name": {
+      "en": "Rufflet",
+      "es": "Rufflet"
+    },
+    "rarity": "ONE_DIAMOND",
+    "origins": [
+      "MEGA_BLAZIKEN"
+    ],
+    "type": "COLORLESS"
+  },
+  {
+    "id": "B1-205",
+    "name": {
+      "en": "Braviary",
+      "es": "Braviary"
+    },
+    "rarity": "TWO_DIAMOND",
+    "origins": [
+      "MEGA_BLAZIKEN"
+    ],
+    "type": "COLORLESS"
+  },
+  {
+    "id": "B1-206",
+    "name": {
+      "en": "Furfrou",
+      "es": "Furfrou"
+    },
+    "rarity": "TWO_DIAMOND",
+    "origins": [
+      "MEGA_BLAZIKEN"
+    ],
+    "type": "COLORLESS"
+  },
+  {
+    "id": "B1-207",
+    "name": {
+      "en": "Furfrou",
+      "es": "Furfrou"
+    },
+    "rarity": "TWO_DIAMOND",
+    "origins": [
+      "MEGA_ALTARIA"
+    ],
+    "type": "COLORLESS"
+  },
+  {
+    "id": "B1-208",
+    "name": {
+      "en": "Furfrou",
+      "es": "Furfrou"
+    },
+    "rarity": "TWO_DIAMOND",
+    "origins": [
+      "MEGA_GYARADOS"
+    ],
+    "type": "COLORLESS"
+  },
+  {
+    "id": "B1-209",
+    "name": {
+      "en": "Rookidee",
+      "es": "Rookidee"
+    },
+    "rarity": "ONE_DIAMOND",
+    "origins": [
+      "MEGA_BLAZIKEN"
+    ],
+    "type": "COLORLESS"
+  },
+  {
+    "id": "B1-210",
+    "name": {
+      "en": "Corvisquire",
+      "es": "Corvisquire"
+    },
+    "rarity": "TWO_DIAMOND",
+    "origins": [
+      "MEGA_BLAZIKEN"
+    ],
+    "type": "COLORLESS"
+  },
+  {
+    "id": "B1-211",
+    "name": {
+      "en": "Wooloo",
+      "es": "Wooloo"
+    },
+    "rarity": "ONE_DIAMOND",
+    "origins": [
+      "MEGA_ALTARIA"
+    ],
+    "type": "COLORLESS"
+  },
+  {
+    "id": "B1-212",
+    "name": {
+      "en": "Dubwool",
+      "es": "Dubwool"
+    },
+    "rarity": "TWO_DIAMOND",
+    "origins": [
+      "MEGA_ALTARIA"
+    ],
+    "type": "COLORLESS"
+  },
+  {
+    "id": "B1-213",
+    "name": {
+      "en": "Prank Spinner",
+      "es": "Ruleta Jugarreta"
+    },
+    "rarity": "TWO_DIAMOND",
+    "origins": [
+      "MEGA_BLAZIKEN"
+    ],
+    "type": "TRAINER"
+  },
+  {
+    "id": "B1-214",
+    "name": {
+      "en": "Plume Fossil",
+      "es": "Fósil Pluma"
+    },
+    "rarity": "ONE_DIAMOND",
+    "origins": [
+      "MEGA_BLAZIKEN"
+    ],
+    "type": "TRAINER"
+  },
+  {
+    "id": "B1-215",
+    "name": {
+      "en": "Hitting Hammer",
+      "es": "Mazo Golpeador"
+    },
+    "rarity": "TWO_DIAMOND",
+    "origins": [
+      "MEGA_GYARADOS"
+    ],
+    "type": "TRAINER"
+  },
+  {
+    "id": "B1-216",
+    "name": {
+      "en": "Cover Fossil",
+      "es": "Fósil Tapa"
+    },
+    "rarity": "ONE_DIAMOND",
+    "origins": [
+      "MEGA_GYARADOS"
+    ],
+    "type": "TRAINER"
+  },
+  {
+    "id": "B1-217",
+    "name": {
+      "en": "Flame Patch",
+      "es": "Refuerzo Fuego"
+    },
+    "rarity": "TWO_DIAMOND",
+    "origins": [
+      "MEGA_BLAZIKEN"
+    ],
+    "type": "TRAINER"
+  },
+  {
+    "id": "B1-218",
+    "name": {
+      "en": "Sitrus Berry",
+      "es": "Baya Zidra"
+    },
+    "rarity": "TWO_DIAMOND",
+    "origins": [
+      "MEGA_ALTARIA"
+    ],
+    "type": "TRAINER"
+  },
+  {
+    "id": "B1-219",
+    "name": {
+      "en": "Heavy Helmet",
+      "es": "Casco Pesado"
+    },
+    "rarity": "TWO_DIAMOND",
+    "origins": [
+      "MEGA_GYARADOS"
+    ],
+    "type": "TRAINER"
+  },
+  {
+    "id": "B1-220",
+    "name": {
+      "en": "Lucky Mittens",
+      "es": "Manoplas Suerte"
+    },
+    "rarity": "TWO_DIAMOND",
+    "origins": [
+      "MEGA_ALTARIA"
+    ],
+    "type": "TRAINER"
+  },
+  {
+    "id": "B1-221",
+    "name": {
+      "en": "Marlon",
+      "es": "Ciprián"
+    },
+    "rarity": "TWO_DIAMOND",
+    "origins": [
+      "MEGA_GYARADOS"
+    ],
+    "type": "TRAINER"
+  },
+  {
+    "id": "B1-222",
+    "name": {
+      "en": "Hala",
+      "es": "Kaudan"
+    },
+    "rarity": "TWO_DIAMOND",
+    "origins": [
+      "MEGA_BLAZIKEN"
+    ],
+    "type": "TRAINER"
+  },
+  {
+    "id": "B1-223",
+    "name": {
+      "en": "May",
+      "es": "Aura"
+    },
+    "rarity": "TWO_DIAMOND",
+    "origins": [
+      "MEGA_BLAZIKEN"
+    ],
+    "type": "TRAINER"
+  },
+  {
+    "id": "B1-224",
+    "name": {
+      "en": "Fantina",
+      "es": "Fantina"
+    },
+    "rarity": "TWO_DIAMOND",
+    "origins": [
+      "MEGA_ALTARIA"
+    ],
+    "type": "TRAINER"
+  },
+  {
+    "id": "B1-225",
+    "name": {
+      "en": "Copycat",
+      "es": "Copiona"
+    },
+    "rarity": "TWO_DIAMOND",
+    "origins": [
+      "MEGA_GYARADOS"
+    ],
+    "type": "TRAINER"
+  },
+  {
+    "id": "B1-226",
+    "name": {
+      "en": "Lisia",
+      "es": "Ariana"
+    },
+    "rarity": "TWO_DIAMOND",
+    "origins": [
+      "MEGA_ALTARIA"
+    ],
+    "type": "TRAINER"
+  },
+  {
+    "id": "B1-227",
+    "name": {
+      "en": "Beautifly",
+      "es": "Beautifly"
+    },
+    "rarity": "ONE_STAR",
+    "origins": [
+      "MEGA_BLAZIKEN"
+    ],
+    "type": "GRASS"
+  },
+  {
+    "id": "B1-228",
+    "name": {
+      "en": "Skiddo",
+      "es": "Skiddo"
+    },
+    "rarity": "ONE_STAR",
+    "origins": [
+      "MEGA_ALTARIA"
+    ],
+    "type": "GRASS"
+  },
+  {
+    "id": "B1-229",
+    "name": {
+      "en": "Rillaboom",
+      "es": "Rillaboom"
+    },
+    "rarity": "ONE_STAR",
+    "origins": [
+      "MEGA_ALTARIA"
+    ],
+    "type": "GRASS"
+  },
+  {
+    "id": "B1-230",
+    "name": {
+      "en": "Growlithe",
+      "es": "Growlithe"
+    },
+    "rarity": "ONE_STAR",
+    "origins": [
+      "MEGA_BLAZIKEN"
+    ],
+    "type": "FIRE"
+  },
+  {
+    "id": "B1-231",
+    "name": {
+      "en": "Chandelure",
+      "es": "Chandelure"
+    },
+    "rarity": "ONE_STAR",
+    "origins": [
+      "MEGA_ALTARIA"
+    ],
+    "type": "FIRE"
+  },
+  {
+    "id": "B1-232",
+    "name": {
+      "en": "Magikarp",
+      "es": "Magikarp"
+    },
+    "rarity": "ONE_STAR",
+    "origins": [
+      "MEGA_GYARADOS"
+    ],
+    "type": "WATER"
+  },
+  {
+    "id": "B1-233",
+    "name": {
+      "en": "Ludicolo",
+      "es": "Ludicolo"
+    },
+    "rarity": "ONE_STAR",
+    "origins": [
+      "MEGA_ALTARIA"
+    ],
+    "type": "WATER"
+  },
+  {
+    "id": "B1-234",
+    "name": {
+      "en": "Jellicent",
+      "es": "Jellicent"
+    },
+    "rarity": "ONE_STAR",
+    "origins": [
+      "MEGA_GYARADOS"
+    ],
+    "type": "WATER"
+  },
+  {
+    "id": "B1-235",
+    "name": {
+      "en": "Keldeo",
+      "es": "Keldeo"
+    },
+    "rarity": "ONE_STAR",
+    "origins": [
+      "MEGA_BLAZIKEN"
+    ],
+    "type": "WATER"
+  },
+  {
+    "id": "B1-236",
+    "name": {
+      "en": "Eiscue",
+      "es": "Eiscue"
+    },
+    "rarity": "ONE_STAR",
+    "origins": [
+      "MEGA_ALTARIA"
+    ],
+    "type": "WATER"
+  },
+  {
+    "id": "B1-237",
+    "name": {
+      "en": "Luxray",
+      "es": "Luxray"
+    },
+    "rarity": "ONE_STAR",
+    "origins": [
+      "MEGA_BLAZIKEN"
+    ],
+    "type": "LIGHTNING"
+  },
+  {
+    "id": "B1-238",
+    "name": {
+      "en": "Cofagrigus",
+      "es": "Cofagrigus"
+    },
+    "rarity": "ONE_STAR",
+    "origins": [
+      "MEGA_GYARADOS"
+    ],
+    "type": "PSYCHIC"
+  },
+  {
+    "id": "B1-239",
+    "name": {
+      "en": "Gothita",
+      "es": "Gothita"
+    },
+    "rarity": "ONE_STAR",
+    "origins": [
+      "MEGA_ALTARIA"
+    ],
+    "type": "PSYCHIC"
+  },
+  {
+    "id": "B1-240",
+    "name": {
+      "en": "Makuhita",
+      "es": "Makuhita"
+    },
+    "rarity": "ONE_STAR",
+    "origins": [
+      "MEGA_BLAZIKEN"
+    ],
+    "type": "FIGHTING"
+  },
+  {
+    "id": "B1-241",
+    "name": {
+      "en": "Hippowdon",
+      "es": "Hippowdon"
+    },
+    "rarity": "ONE_STAR",
+    "origins": [
+      "MEGA_GYARADOS"
+    ],
+    "type": "FIGHTING"
+  },
+  {
+    "id": "B1-242",
+    "name": {
+      "en": "Archeops",
+      "es": "Archeops"
+    },
+    "rarity": "ONE_STAR",
+    "origins": [
+      "MEGA_BLAZIKEN"
+    ],
+    "type": "FIGHTING"
+  },
+  {
+    "id": "B1-243",
+    "name": {
+      "en": "Pancham",
+      "es": "Pancham"
+    },
+    "rarity": "ONE_STAR",
+    "origins": [
+      "MEGA_GYARADOS"
+    ],
+    "type": "FIGHTING"
+  },
+  {
+    "id": "B1-244",
+    "name": {
+      "en": "Honchkrow",
+      "es": "Honchkrow"
+    },
+    "rarity": "ONE_STAR",
+    "origins": [
+      "MEGA_GYARADOS"
+    ],
+    "type": "DARKNESS"
+  },
+  {
+    "id": "B1-245",
+    "name": {
+      "en": "Hydreigon",
+      "es": "Hydreigon"
+    },
+    "rarity": "ONE_STAR",
+    "origins": [
+      "MEGA_GYARADOS"
+    ],
+    "type": "DARKNESS"
+  },
+  {
+    "id": "B1-246",
+    "name": {
+      "en": "Corviknight",
+      "es": "Corviknight"
+    },
+    "rarity": "ONE_STAR",
+    "origins": [
+      "MEGA_BLAZIKEN"
+    ],
+    "type": "METAL"
+  },
+  {
+    "id": "B1-247",
+    "name": {
+      "en": "Goomy",
+      "es": "Goomy"
+    },
+    "rarity": "ONE_STAR",
+    "origins": [
+      "MEGA_ALTARIA"
+    ],
+    "type": "DRAGON"
+  },
+  {
+    "id": "B1-248",
+    "name": {
+      "en": "Delcatty",
+      "es": "Delcatty"
+    },
+    "rarity": "ONE_STAR",
+    "origins": [
+      "MEGA_GYARADOS"
+    ],
+    "type": "COLORLESS"
+  },
+  {
+    "id": "B1-249",
+    "name": {
+      "en": "Stoutland",
+      "es": "Stoutland"
+    },
+    "rarity": "ONE_STAR",
+    "origins": [
+      "MEGA_ALTARIA"
+    ],
+    "type": "COLORLESS"
+  },
+  {
+    "id": "B1-250",
+    "name": {
+      "en": "Rufflet",
+      "es": "Rufflet"
+    },
+    "rarity": "ONE_STAR",
+    "origins": [
+      "MEGA_BLAZIKEN"
+    ],
+    "type": "COLORLESS"
+  },
+  {
+    "id": "B1-251",
+    "name": {
+      "en": "Mega Pinsir ex",
+      "es": "Mega-Pinsir ex"
+    },
+    "rarity": "TWO_STAR",
+    "origins": [
+      "MEGA_BLAZIKEN"
+    ],
+    "type": "GRASS"
+  },
+  {
+    "id": "B1-252",
+    "name": {
+      "en": "Whimsicott ex",
+      "es": "Whimsicott ex"
+    },
+    "rarity": "TWO_STAR",
+    "origins": [
+      "MEGA_ALTARIA"
+    ],
+    "type": "GRASS"
+  },
+  {
+    "id": "B1-253",
+    "name": {
+      "en": "Rapidash ex",
+      "es": "Rapidash ex"
+    },
+    "rarity": "TWO_STAR",
+    "origins": [
+      "MEGA_BLAZIKEN"
+    ],
+    "type": "FIRE"
+  },
+  {
+    "id": "B1-254",
+    "name": {
+      "en": "Mega Blaziken ex",
+      "es": "Mega-Blaziken ex"
+    },
+    "rarity": "TWO_STAR",
+    "origins": [
+      "MEGA_BLAZIKEN"
+    ],
+    "type": "FIRE"
+  },
+  {
+    "id": "B1-255",
+    "name": {
+      "en": "Mega Gyarados ex",
+      "es": "Mega-Gyarados ex"
+    },
+    "rarity": "TWO_STAR",
+    "origins": [
+      "MEGA_GYARADOS"
+    ],
+    "type": "WATER"
+  },
+  {
+    "id": "B1-256",
+    "name": {
+      "en": "Greninja ex",
+      "es": "Greninja ex"
+    },
+    "rarity": "TWO_STAR",
+    "origins": [
+      "MEGA_GYARADOS"
+    ],
+    "type": "WATER"
+  },
+  {
+    "id": "B1-257",
+    "name": {
+      "en": "Jolteon ex",
+      "es": "Jolteon ex"
+    },
+    "rarity": "TWO_STAR",
+    "origins": [
+      "MEGA_GYARADOS"
+    ],
+    "type": "LIGHTNING"
+  },
+  {
+    "id": "B1-258",
+    "name": {
+      "en": "Mega Ampharos ex",
+      "es": "Mega-Ampharos ex"
+    },
+    "rarity": "TWO_STAR",
+    "origins": [
+      "MEGA_ALTARIA"
+    ],
+    "type": "LIGHTNING"
+  },
+  {
+    "id": "B1-259",
+    "name": {
+      "en": "Mega Altaria ex",
+      "es": "Mega-Altaria ex"
+    },
+    "rarity": "TWO_STAR",
+    "origins": [
+      "MEGA_ALTARIA"
+    ],
+    "type": "PSYCHIC"
+  },
+  {
+    "id": "B1-260",
+    "name": {
+      "en": "Indeedee ex",
+      "es": "Indeedee ex"
+    },
+    "rarity": "TWO_STAR",
+    "origins": [
+      "MEGA_ALTARIA"
+    ],
+    "type": "PSYCHIC"
+  },
+  {
+    "id": "B1-261",
+    "name": {
+      "en": "Hitmonchan ex",
+      "es": "Hitmonchan ex"
+    },
+    "rarity": "TWO_STAR",
+    "origins": [
+      "MEGA_BLAZIKEN"
+    ],
+    "type": "FIGHTING"
+  },
+  {
+    "id": "B1-262",
+    "name": {
+      "en": "Mega Absol ex",
+      "es": "Mega-Absol ex"
+    },
+    "rarity": "TWO_STAR",
+    "origins": [
+      "MEGA_GYARADOS"
+    ],
+    "type": "DARKNESS"
+  },
+  {
+    "id": "B1-263",
+    "name": {
+      "en": "Dragalge ex",
+      "es": "Dragalge ex"
+    },
+    "rarity": "TWO_STAR",
+    "origins": [
+      "MEGA_BLAZIKEN"
+    ],
+    "type": "DARKNESS"
+  },
+  {
+    "id": "B1-264",
+    "name": {
+      "en": "Melmetal ex",
+      "es": "Melmetal ex"
+    },
+    "rarity": "TWO_STAR",
+    "origins": [
+      "MEGA_GYARADOS"
+    ],
+    "type": "METAL"
+  },
+  {
+    "id": "B1-265",
+    "name": {
+      "en": "Tauros ex",
+      "es": "Tauros ex"
+    },
+    "rarity": "TWO_STAR",
+    "origins": [
+      "MEGA_ALTARIA"
+    ],
+    "type": "COLORLESS"
+  },
+  {
+    "id": "B1-266",
+    "name": {
+      "en": "Marlon",
+      "es": "Ciprián"
+    },
+    "rarity": "TWO_STAR",
+    "origins": [
+      "MEGA_GYARADOS"
+    ],
+    "type": "TRAINER"
+  },
+  {
+    "id": "B1-267",
+    "name": {
+      "en": "Hala",
+      "es": "Kaudan"
+    },
+    "rarity": "TWO_STAR",
+    "origins": [
+      "MEGA_BLAZIKEN"
+    ],
+    "type": "TRAINER"
+  },
+  {
+    "id": "B1-268",
+    "name": {
+      "en": "May",
+      "es": "Aura"
+    },
+    "rarity": "TWO_STAR",
+    "origins": [
+      "MEGA_BLAZIKEN"
+    ],
+    "type": "TRAINER"
+  },
+  {
+    "id": "B1-269",
+    "name": {
+      "en": "Fantina",
+      "es": "Fantina"
+    },
+    "rarity": "TWO_STAR",
+    "origins": [
+      "MEGA_ALTARIA"
+    ],
+    "type": "TRAINER"
+  },
+  {
+    "id": "B1-270",
+    "name": {
+      "en": "Copycat",
+      "es": "Copiona"
+    },
+    "rarity": "TWO_STAR",
+    "origins": [
+      "MEGA_GYARADOS"
+    ],
+    "type": "TRAINER"
+  },
+  {
+    "id": "B1-271",
+    "name": {
+      "en": "Lisia",
+      "es": "Ariana"
+    },
+    "rarity": "TWO_STAR",
+    "origins": [
+      "MEGA_ALTARIA"
+    ],
+    "type": "TRAINER"
+  },
+  {
+    "id": "B1-272",
+    "name": {
+      "en": "Mega Pinsir ex",
+      "es": "Mega-Pinsir ex"
+    },
+    "rarity": "TWO_STAR",
+    "origins": [
+      "MEGA_BLAZIKEN"
+    ],
+    "type": "GRASS"
+  },
+  {
+    "id": "B1-273",
+    "name": {
+      "en": "Whimsicott ex",
+      "es": "Whimsicott ex"
+    },
+    "rarity": "TWO_STAR",
+    "origins": [
+      "MEGA_ALTARIA"
+    ],
+    "type": "GRASS"
+  },
+  {
+    "id": "B1-274",
+    "name": {
+      "en": "Rapidash ex",
+      "es": "Rapidash ex"
+    },
+    "rarity": "TWO_STAR",
+    "origins": [
+      "MEGA_BLAZIKEN"
+    ],
+    "type": "FIRE"
+  },
+  {
+    "id": "B1-275",
+    "name": {
+      "en": "Greninja ex",
+      "es": "Greninja ex"
+    },
+    "rarity": "TWO_STAR",
+    "origins": [
+      "MEGA_GYARADOS"
+    ],
+    "type": "WATER"
+  },
+  {
+    "id": "B1-276",
+    "name": {
+      "en": "Jolteon ex",
+      "es": "Jolteon ex"
+    },
+    "rarity": "TWO_STAR",
+    "origins": [
+      "MEGA_GYARADOS"
+    ],
+    "type": "LIGHTNING"
+  },
+  {
+    "id": "B1-277",
+    "name": {
+      "en": "Mega Ampharos ex",
+      "es": "Mega-Ampharos ex"
+    },
+    "rarity": "TWO_STAR",
+    "origins": [
+      "MEGA_ALTARIA"
+    ],
+    "type": "LIGHTNING"
+  },
+  {
+    "id": "B1-278",
+    "name": {
+      "en": "Indeedee ex",
+      "es": "Indeedee ex"
+    },
+    "rarity": "TWO_STAR",
+    "origins": [
+      "MEGA_ALTARIA"
+    ],
+    "type": "PSYCHIC"
+  },
+  {
+    "id": "B1-279",
+    "name": {
+      "en": "Hitmonchan ex",
+      "es": "Hitmonchan ex"
+    },
+    "rarity": "TWO_STAR",
+    "origins": [
+      "MEGA_BLAZIKEN"
+    ],
+    "type": "FIGHTING"
+  },
+  {
+    "id": "B1-280",
+    "name": {
+      "en": "Mega Absol ex",
+      "es": "Mega-Absol ex"
+    },
+    "rarity": "TWO_STAR",
+    "origins": [
+      "MEGA_GYARADOS"
+    ],
+    "type": "DARKNESS"
+  },
+  {
+    "id": "B1-281",
+    "name": {
+      "en": "Dragalge ex",
+      "es": "Dragalge ex"
+    },
+    "rarity": "TWO_STAR",
+    "origins": [
+      "MEGA_BLAZIKEN"
+    ],
+    "type": "DARKNESS"
+  },
+  {
+    "id": "B1-282",
+    "name": {
+      "en": "Melmetal ex",
+      "es": "Melmetal ex"
+    },
+    "rarity": "TWO_STAR",
+    "origins": [
+      "MEGA_GYARADOS"
+    ],
+    "type": "METAL"
+  },
+  {
+    "id": "B1-283",
+    "name": {
+      "en": "Tauros ex",
+      "es": "Tauros ex"
+    },
+    "rarity": "TWO_STAR",
+    "origins": [
+      "MEGA_ALTARIA"
+    ],
+    "type": "COLORLESS"
+  },
+  {
+    "id": "B1-284",
+    "name": {
+      "en": "Mega Blaziken ex",
+      "es": "Mega-Blaziken ex"
+    },
+    "rarity": "THREE_STAR",
+    "origins": [
+      "MEGA_BLAZIKEN"
+    ],
+    "type": "FIRE"
+  },
+  {
+    "id": "B1-285",
+    "name": {
+      "en": "Mega Gyarados ex",
+      "es": "Mega-Gyarados ex"
+    },
+    "rarity": "THREE_STAR",
+    "origins": [
+      "MEGA_GYARADOS"
+    ],
+    "type": "WATER"
+  },
+  {
+    "id": "B1-286",
+    "name": {
+      "en": "Mega Altaria ex",
+      "es": "Mega-Altaria ex"
+    },
+    "rarity": "THREE_STAR",
+    "origins": [
+      "MEGA_ALTARIA"
+    ],
+    "type": "PSYCHIC"
+  },
+  {
+    "id": "B1-287",
+    "name": {
+      "en": "Bellsprout",
+      "es": "Bellsprout"
+    },
+    "rarity": "ONE_SHINY",
+    "origins": [
+      "MEGA_ALTARIA"
+    ],
+    "type": "GRASS",
+    "extra": true
+  },
+  {
+    "id": "B1-288",
+    "name": {
+      "en": "Weepinbell",
+      "es": "Weepinbell"
+    },
+    "rarity": "ONE_SHINY",
+    "origins": [
+      "MEGA_ALTARIA"
+    ],
+    "type": "GRASS",
+    "extra": true
+  },
+  {
+    "id": "B1-289",
+    "name": {
+      "en": "Victreebel",
+      "es": "Victreebel"
+    },
+    "rarity": "ONE_SHINY",
+    "origins": [
+      "MEGA_ALTARIA"
+    ],
+    "type": "GRASS",
+    "extra": true
+  },
+  {
+    "id": "B1-290",
+    "name": {
+      "en": "Rowlet",
+      "es": "Rowlet"
+    },
+    "rarity": "ONE_SHINY",
+    "origins": [
+      "MEGA_BLAZIKEN"
+    ],
+    "type": "GRASS",
+    "extra": true
+  },
+  {
+    "id": "B1-291",
+    "name": {
+      "en": "Dartrix",
+      "es": "Dartrix"
+    },
+    "rarity": "ONE_SHINY",
+    "origins": [
+      "MEGA_BLAZIKEN"
+    ],
+    "type": "GRASS",
+    "extra": true
+  },
+  {
+    "id": "B1-292",
+    "name": {
+      "en": "Moltres",
+      "es": "Moltres"
+    },
+    "rarity": "ONE_SHINY",
+    "origins": [
+      "MEGA_BLAZIKEN"
+    ],
+    "type": "FIRE",
+    "extra": true
+  },
+  {
+    "id": "B1-293",
+    "name": {
+      "en": "Litten",
+      "es": "Litten"
+    },
+    "rarity": "ONE_SHINY",
+    "origins": [
+      "MEGA_GYARADOS"
+    ],
+    "type": "FIRE",
+    "extra": true
+  },
+  {
+    "id": "B1-294",
+    "name": {
+      "en": "Torracat",
+      "es": "Torracat"
+    },
+    "rarity": "ONE_SHINY",
+    "origins": [
+      "MEGA_GYARADOS"
+    ],
+    "type": "FIRE",
+    "extra": true
+  },
+  {
+    "id": "B1-295",
+    "name": {
+      "en": "Poliwag",
+      "es": "Poliwag"
+    },
+    "rarity": "ONE_SHINY",
+    "origins": [
+      "MEGA_GYARADOS"
+    ],
+    "type": "WATER",
+    "extra": true
+  },
+  {
+    "id": "B1-296",
+    "name": {
+      "en": "Poliwhirl",
+      "es": "Poliwhirl"
+    },
+    "rarity": "ONE_SHINY",
+    "origins": [
+      "MEGA_GYARADOS"
+    ],
+    "type": "WATER",
+    "extra": true
+  },
+  {
+    "id": "B1-297",
+    "name": {
+      "en": "Poliwrath",
+      "es": "Poliwrath"
+    },
+    "rarity": "ONE_SHINY",
+    "origins": [
+      "MEGA_GYARADOS"
+    ],
+    "type": "WATER",
+    "extra": true
+  },
+  {
+    "id": "B1-298",
+    "name": {
+      "en": "Articuno",
+      "es": "Articuno"
+    },
+    "rarity": "ONE_SHINY",
+    "origins": [
+      "MEGA_ALTARIA"
+    ],
+    "type": "WATER",
+    "extra": true
+  },
+  {
+    "id": "B1-299",
+    "name": {
+      "en": "Manaphy",
+      "es": "Manaphy"
+    },
+    "rarity": "ONE_SHINY",
+    "origins": [
+      "MEGA_BLAZIKEN"
+    ],
+    "type": "WATER",
+    "extra": true
+  },
+  {
+    "id": "B1-300",
+    "name": {
+      "en": "Popplio",
+      "es": "Popplio"
+    },
+    "rarity": "ONE_SHINY",
+    "origins": [
+      "MEGA_ALTARIA"
+    ],
+    "type": "WATER",
+    "extra": true
+  },
+  {
+    "id": "B1-301",
+    "name": {
+      "en": "Brionne",
+      "es": "Brionne"
+    },
+    "rarity": "ONE_SHINY",
+    "origins": [
+      "MEGA_ALTARIA"
+    ],
+    "type": "WATER",
+    "extra": true
+  },
+  {
+    "id": "B1-302",
+    "name": {
+      "en": "Zapdos",
+      "es": "Zapdos"
+    },
+    "rarity": "ONE_SHINY",
+    "origins": [
+      "MEGA_GYARADOS"
+    ],
+    "type": "LIGHTNING",
+    "extra": true
+  },
+  {
+    "id": "B1-303",
+    "name": {
+      "en": "Oricorio",
+      "es": "Oricorio"
+    },
+    "rarity": "ONE_SHINY",
+    "origins": [
+      "MEGA_GYARADOS"
+    ],
+    "type": "LIGHTNING",
+    "extra": true
+  },
+  {
+    "id": "B1-304",
+    "name": {
+      "en": "Zeraora",
+      "es": "Zeraora"
+    },
+    "rarity": "ONE_SHINY",
+    "origins": [
+      "MEGA_ALTARIA"
+    ],
+    "type": "LIGHTNING",
+    "extra": true
+  },
+  {
+    "id": "B1-305",
+    "name": {
+      "en": "Drowzee",
+      "es": "Drowzee"
+    },
+    "rarity": "ONE_SHINY",
+    "origins": [
+      "MEGA_GYARADOS"
+    ],
+    "type": "PSYCHIC",
+    "extra": true
+  },
+  {
+    "id": "B1-306",
+    "name": {
+      "en": "Hypno",
+      "es": "Hypno"
+    },
+    "rarity": "ONE_SHINY",
+    "origins": [
+      "MEGA_GYARADOS"
+    ],
+    "type": "PSYCHIC",
+    "extra": true
+  },
+  {
+    "id": "B1-307",
+    "name": {
+      "en": "Geodude",
+      "es": "Geodude"
+    },
+    "rarity": "ONE_SHINY",
+    "origins": [
+      "MEGA_BLAZIKEN"
+    ],
+    "type": "FIGHTING",
+    "extra": true
+  },
+  {
+    "id": "B1-308",
+    "name": {
+      "en": "Graveler",
+      "es": "Graveler"
+    },
+    "rarity": "ONE_SHINY",
+    "origins": [
+      "MEGA_BLAZIKEN"
+    ],
+    "type": "FIGHTING",
+    "extra": true
+  },
+  {
+    "id": "B1-309",
+    "name": {
+      "en": "Golem",
+      "es": "Golem"
+    },
+    "rarity": "ONE_SHINY",
+    "origins": [
+      "MEGA_BLAZIKEN"
+    ],
+    "type": "FIGHTING",
+    "extra": true
+  },
+  {
+    "id": "B1-310",
+    "name": {
+      "en": "Rockruff",
+      "es": "Rockruff"
+    },
+    "rarity": "ONE_SHINY",
+    "origins": [
+      "MEGA_GYARADOS"
+    ],
+    "type": "FIGHTING",
+    "extra": true
+  },
+  {
+    "id": "B1-311",
+    "name": {
+      "en": "Alolan Diglett",
+      "es": "Alolan Diglett"
+    },
+    "rarity": "ONE_SHINY",
+    "origins": [
+      "MEGA_BLAZIKEN"
+    ],
+    "type": "METAL",
+    "extra": true
+  },
+  {
+    "id": "B1-312",
+    "name": {
+      "en": "Meowth",
+      "es": "Meowth"
+    },
+    "rarity": "ONE_SHINY",
+    "origins": [
+      "MEGA_ALTARIA"
+    ],
+    "type": "COLORLESS",
+    "extra": true
+  },
+  {
+    "id": "B1-313",
+    "name": {
+      "en": "Persian",
+      "es": "Persian"
+    },
+    "rarity": "ONE_SHINY",
+    "origins": [
+      "MEGA_ALTARIA"
+    ],
+    "type": "COLORLESS",
+    "extra": true
+  },
+  {
+    "id": "B1-314",
+    "name": {
+      "en": "Doduo",
+      "es": "Doduo"
+    },
+    "rarity": "ONE_SHINY",
+    "origins": [
+      "MEGA_BLAZIKEN"
+    ],
+    "type": "COLORLESS",
+    "extra": true
+  },
+  {
+    "id": "B1-315",
+    "name": {
+      "en": "Dodrio",
+      "es": "Dodrio"
+    },
+    "rarity": "ONE_SHINY",
+    "origins": [
+      "MEGA_BLAZIKEN"
+    ],
+    "type": "COLORLESS",
+    "extra": true
+  },
+  {
+    "id": "B1-316",
+    "name": {
+      "en": "Bidoof",
+      "es": "Bidoof"
+    },
+    "rarity": "ONE_SHINY",
+    "origins": [
+      "MEGA_ALTARIA"
+    ],
+    "type": "COLORLESS",
+    "extra": true
+  },
+  {
+    "id": "B1-317",
+    "name": {
+      "en": "Decidueye ex",
+      "es": "Decidueye ex"
+    },
+    "rarity": "TWO_SHINY",
+    "origins": [
+      "MEGA_BLAZIKEN"
+    ],
+    "type": "GRASS",
+    "extra": true
+  },
+  {
+    "id": "B1-318",
+    "name": {
+      "en": "Incineroar ex",
+      "es": "Incineroar ex"
+    },
+    "rarity": "TWO_SHINY",
+    "origins": [
+      "MEGA_GYARADOS"
+    ],
+    "type": "FIRE",
+    "extra": true
+  },
+  {
+    "id": "B1-319",
+    "name": {
+      "en": "Palkia ex",
+      "es": "Palkia ex"
+    },
+    "rarity": "TWO_SHINY",
+    "origins": [
+      "MEGA_BLAZIKEN"
+    ],
+    "type": "WATER",
+    "extra": true
+  },
+  {
+    "id": "B1-320",
+    "name": {
+      "en": "Primarina ex",
+      "es": "Primarina ex"
+    },
+    "rarity": "TWO_SHINY",
+    "origins": [
+      "MEGA_ALTARIA"
+    ],
+    "type": "WATER",
+    "extra": true
+  },
+  {
+    "id": "B1-321",
+    "name": {
+      "en": "Pikachu ex",
+      "es": "Pikachu ex"
+    },
+    "rarity": "TWO_SHINY",
+    "origins": [
+      "MEGA_GYARADOS"
+    ],
+    "type": "LIGHTNING",
+    "extra": true
+  },
+  {
+    "id": "B1-322",
+    "name": {
+      "en": "Tapu Koko ex",
+      "es": "Tapu Koko ex"
+    },
+    "rarity": "TWO_SHINY",
+    "origins": [
+      "MEGA_BLAZIKEN"
+    ],
+    "type": "LIGHTNING",
+    "extra": true
+  },
+  {
+    "id": "B1-323",
+    "name": {
+      "en": "Lycanroc ex",
+      "es": "Lycanroc ex"
+    },
+    "rarity": "TWO_SHINY",
+    "origins": [
+      "MEGA_GYARADOS"
+    ],
+    "type": "FIGHTING",
+    "extra": true
+  },
+  {
+    "id": "B1-324",
+    "name": {
+      "en": "Passimian ex",
+      "es": "Passimian ex"
+    },
+    "rarity": "TWO_SHINY",
+    "origins": [
+      "MEGA_ALTARIA"
+    ],
+    "type": "FIGHTING",
+    "extra": true
+  },
+  {
+    "id": "B1-325",
+    "name": {
+      "en": "Alolan Dugtrio ex",
+      "es": "Alolan Dugtrio ex"
+    },
+    "rarity": "TWO_SHINY",
+    "origins": [
+      "MEGA_BLAZIKEN"
+    ],
+    "type": "METAL",
+    "extra": true
+  },
+  {
+    "id": "B1-326",
+    "name": {
+      "en": "Dialga ex",
+      "es": "Dialga ex"
+    },
+    "rarity": "TWO_SHINY",
+    "origins": [
+      "MEGA_ALTARIA"
+    ],
+    "type": "METAL",
+    "extra": true
+  },
+  {
+    "id": "B1-327",
+    "name": {
+      "en": "Bibarel ex",
+      "es": "Bibarel ex"
+    },
+    "rarity": "TWO_SHINY",
+    "origins": [
+      "MEGA_ALTARIA"
+    ],
+    "type": "COLORLESS",
+    "extra": true
+  },
+  {
+    "id": "B1-328",
+    "name": {
+      "en": "Arceus ex",
+      "es": "Arceus ex"
+    },
+    "rarity": "TWO_SHINY",
+    "origins": [
+      "MEGA_GYARADOS"
+    ],
+    "type": "COLORLESS",
+    "extra": true
+  },
+  {
+    "id": "B1-329",
+    "name": {
+      "en": "Lilligant",
+      "es": "Lilligant"
+    },
+    "rarity": "CROWN",
+    "origins": [
+      "MEGA_BLAZIKEN",
+      "MEGA_GYARADOS",
+      "MEGA_ALTARIA"
+    ],
+    "type": "GRASS"
+  },
+  {
+    "id": "B1-330",
+    "name": {
+      "en": "Klefki",
+      "es": "Klefki"
+    },
+    "rarity": "CROWN",
+    "origins": [
+      "MEGA_BLAZIKEN",
+      "MEGA_GYARADOS",
+      "MEGA_ALTARIA"
+    ],
+    "type": "PSYCHIC"
+  },
+  {
+    "id": "B1-331",
+    "name": {
+      "en": "Flame Patch",
+      "es": "Refuerzo Fuego"
+    },
+    "rarity": "CROWN",
+    "origins": [
+      "MEGA_BLAZIKEN",
+      "MEGA_GYARADOS",
+      "MEGA_ALTARIA"
+    ],
+    "type": "TRAINER"
+  }
+]
