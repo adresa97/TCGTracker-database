@@ -180,5 +180,18 @@
     "color": [66.0, 123.0, 236.0],
     "cardCount": 331,
     "origins": ["MEGA_BLAZIKEN", "MEGA_GYARADOS", "MEGA_ALTARIA"]
+  },
+  {
+    "set": "B1a",
+    "expansion": "B1",
+    "series": "B",
+    "name": {
+      "en": "Crimson Blaze",
+      "es": "Fuego Carmesí"
+    },
+    "cover": "https://raw.githubusercontent.com/adresa97/TCGTracker-database/refs/heads/main/PTCGPocket/covers/b1a_crimson_blaze_en.png",
+    "color": [255.0, 161.0, 63.0],
+    "cardCount": 0,
+    "origins": ["MEGA_CHARIZARD_Y"]
   }
 ]
