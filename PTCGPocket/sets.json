@@ -165,7 +165,7 @@
     },
     "cover": "https://raw.githubusercontent.com/adresa97/TCGTracker-database/refs/heads/main/PTCGPocket/covers/b_promo_en.png",
     "color": [247.0, 108.0, 255.0],
-    "cardCount": 11,
+    "cardCount": 24,
     "origins": ["SHOP", "PREMIUM", "GIFT", "INGOTS", "WONDER_EVENT", "DROP_EVENT", "MISION_EVENT"]
   },
   {
@@ -191,7 +191,7 @@
     },
     "cover": "https://raw.githubusercontent.com/adresa97/TCGTracker-database/refs/heads/main/PTCGPocket/covers/b1a_crimson_blaze_en.png",
     "color": [255.0, 161.0, 63.0],
-    "cardCount": 0,
+    "cardCount": 103,
     "origins": ["MEGA_CHARIZARD_Y"]
   }
 ]

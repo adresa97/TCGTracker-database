@@ -130,5 +130,161 @@
       "WONDER_EVENT"
     ],
     "type": "COLORLESS"
+  },
+  {
+    "id": "P-B-012",
+    "name": {
+      "en": "Ditto",
+      "es": "Ditto"
+    },
+    "rarity": "NONE",
+    "origins": [
+      "PREMIUM"
+    ],
+    "type": "COLORLESS"
+  },
+  {
+    "id": "P-B-013",
+    "name": {
+      "en": "Arcanine",
+      "es": "Arcanine"
+    },
+    "rarity": "NONE",
+    "origins": [
+      "DROP_EVENT"
+    ],
+    "type": "FIRE"
+  },
+  {
+    "id": "P-B-014",
+    "name": {
+      "en": "Magikarp",
+      "es": "Magikarp"
+    },
+    "rarity": "NONE",
+    "origins": [
+      "DROP_EVENT"
+    ],
+    "type": "WATER"
+  },
+  {
+    "id": "P-B-015",
+    "name": {
+      "en": "Mareep",
+      "es": "Mareep"
+    },
+    "rarity": "NONE",
+    "origins": [
+      "DROP_EVENT"
+    ],
+    "type": "LIGHTNING"
+  },
+  {
+    "id": "P-B-016",
+    "name": {
+      "en": "Krookodile",
+      "es": "Krookodile"
+    },
+    "rarity": "NONE",
+    "origins": [
+      "DROP_EVENT"
+    ],
+    "type": "FIGHTING"
+  },
+  {
+    "id": "P-B-017",
+    "name": {
+      "en": "Swablu",
+      "es": "Swablu"
+    },
+    "rarity": "NONE",
+    "origins": [
+      "DROP_EVENT"
+    ],
+    "type": "COLORLESS"
+  },
+  {
+    "id": "P-B-018",
+    "name": {
+      "en": "Heliolisk",
+      "es": "Heliolisk"
+    },
+    "rarity": "NONE",
+    "origins": [
+      "WONDER_EVENT"
+    ],
+    "type": "LIGHTNING"
+  },
+  {
+    "id": "P-B-019",
+    "name": {
+      "en": "Buneary",
+      "es": "Buneary"
+    },
+    "rarity": "NONE",
+    "origins": [
+      "WONDER_EVENT"
+    ],
+    "type": "COLORLESS"
+  },
+  {
+    "id": "P-B-020",
+    "name": {
+      "en": "Charmeleon",
+      "es": "Charmeleon"
+    },
+    "rarity": "NONE",
+    "origins": [
+      "DROP_EVENT"
+    ],
+    "type": "FIRE"
+  },
+  {
+    "id": "P-B-021",
+    "name": {
+      "en": "Onix",
+      "es": "Onix"
+    },
+    "rarity": "NONE",
+    "origins": [
+      "DROP_EVENT"
+    ],
+    "type": "FIGHTING"
+  },
+  {
+    "id": "P-B-022",
+    "name": {
+      "en": "Hawlucha",
+      "es": "Hawlucha"
+    },
+    "rarity": "NONE",
+    "origins": [
+      "DROP_EVENT"
+    ],
+    "type": "FIGHTING"
+  },
+  {
+    "id": "P-B-023",
+    "name": {
+      "en": "Genesect",
+      "es": "Genesect"
+    },
+    "rarity": "NONE",
+    "origins": [
+      "DROP_EVENT"
+    ],
+    "type": "METAL"
+  },
+  {
+    "id": "P-B-024",
+    "name": {
+      "en": "Mega Latios ex",
+      "es": "Mega-Latios ex"
+    },
+    "rarity": "NONE",
+    "origins": [
+      "DROP_EVENT"
+    ],
+    "type": "DRAGON"
   }
 ]
