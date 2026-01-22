@@ -193,5 +193,18 @@
     "color": [255.0, 161.0, 63.0],
     "cardCount": 103,
     "origins": ["MEGA_CHARIZARD_Y"]
+  },
+  {
+    "set": "B2",
+    "expansion": "B2",
+    "series": "B",
+    "name": {
+      "en": "Fantastical Parade",
+      "es": "Desfile de Ensueño"
+    },
+    "cover": "https://raw.githubusercontent.com/adresa97/TCGTracker-database/refs/heads/main/PTCGPocket/covers/b2_fantastical_parade_en.png",
+    "color": [210.0, 84.0, 217.0],
+    "cardCount": 0,
+    "origins": ["MEGA_GARDEVOIR"]
   }
 ]
