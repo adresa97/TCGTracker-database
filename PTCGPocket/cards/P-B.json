@@ -286,5 +286,101 @@
       "DROP_EVENT"
     ],
     "type": "DRAGON"
+  },
+  {
+    "id": "P-B-025",
+    "name": {
+      "en": "Jirachi",
+      "es": "Jirachi"
+    },
+    "rarity": "NONE",
+    "origins": [
+      "PREMIUM"
+    ],
+    "type": "PSYCHIC"
+  },
+  {
+    "id": "P-B-026",
+    "name": {
+      "en": "Mudkip",
+      "es": "Mudkip"
+    },
+    "rarity": "NONE",
+    "origins": [
+      "DROP_EVENT"
+    ],
+    "type": "WATER"
+  },
+  {
+    "id": "P-B-027",
+    "name": {
+      "en": "Plusle",
+      "es": "Plusle"
+    },
+    "rarity": "NONE",
+    "origins": [
+      "DROP_EVENT"
+    ],
+    "type": "LIGHTNING"
+  },
+  {
+    "id": "P-B-028",
+    "name": {
+      "en": "Ralts",
+      "es": "Ralts"
+    },
+    "rarity": "NONE",
+    "origins": [
+      "DROP_EVENT"
+    ],
+    "type": "PSYCHIC"
+  },
+  {
+    "id": "P-B-029",
+    "name": {
+      "en": "Mega Medicham ex",
+      "es": "Mega-Medicham ex"
+    },
+    "rarity": "NONE",
+    "origins": [
+      "DROP_EVENT"
+    ],
+    "type": "FIGHTING"
+  },
+  {
+    "id": "P-B-030",
+    "name": {
+      "en": "Tornadus",
+      "es": "Tornadus"
+    },
+    "rarity": "NONE",
+    "origins": [
+      "DROP_EVENT"
+    ],
+    "type": "COLORLESS"
+  },
+  {
+    "id": "P-B-031",
+    "name": {
+      "en": "Cinderace",
+      "es": "Cinderace"
+    },
+    "rarity": "NONE",
+    "origins": [
+      "WONDER_EVENT"
+    ],
+    "type": "FIRE"
+  },
+  {
+    "id": "P-B-032",
+    "name": {
+      "en": "Alolan Vulpix",
+      "es": "Vulpix de Alola"
+    },
+    "rarity": "NONE",
+    "origins": [
+      "WONDER_EVENT"
+    ],
+    "type": "WATER"
   }
 ]
