@@ -216,7 +216,7 @@
       "es": "Encantos de Paldea"
     },
     "cover": "https://raw.githubusercontent.com/adresa97/TCGTracker-database/refs/heads/main/PTCGPocket/covers/b2a_paldean_wonders_en.png",
-    "color": [81.0, 247.0, 216.0],
+    "color": [11.0, 174.0, 143.0],
     "cardCount": 131,
     "origins": ["PALDEA_STARTERS"]
   }
