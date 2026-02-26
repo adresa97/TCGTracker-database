@@ -382,5 +382,101 @@
       "WONDER_EVENT"
     ],
     "type": "WATER"
+  },
+  {
+    "id": "P-B-033",
+    "name": {
+      "en": "Quaxly",
+      "es": "Quaxly"
+    },
+    "rarity": "NONE",
+    "origins": [
+      "PREMIUM"
+    ],
+    "type": "WATER"
+  },
+  {
+    "id": "P-B-034",
+    "name": {
+      "en": "Smoliv",
+      "es": "Smoliv"
+    },
+    "rarity": "NONE",
+    "origins": [
+      "DROP_EVENT"
+    ],
+    "type": "GRASS"
+  },
+  {
+    "id": "P-B-035",
+    "name": {
+      "en": "Charcadet",
+      "es": "Charcadet"
+    },
+    "rarity": "NONE",
+    "origins": [
+      "DROP_EVENT"
+    ],
+    "type": "FIRE"
+  },
+  {
+    "id": "P-B-036",
+    "name": {
+      "en": "Tatsugiri",
+      "es": "Tatsugiri"
+    },
+    "rarity": "NONE",
+    "origins": [
+      "DROP_EVENT"
+    ],
+    "type": "WATER"
+  },
+  {
+    "id": "P-B-037",
+    "name": {
+      "en": "Frigibax",
+      "es": "Frigibax"
+    },
+    "rarity": "NONE",
+    "origins": [
+      "DROP_EVENT"
+    ],
+    "type": "WATER"
+  },
+  {
+    "id": "P-B-038",
+    "name": {
+      "en": "Tinkaton",
+      "es": "Tinkaton"
+    },
+    "rarity": "NONE",
+    "origins": [
+      "DROP_EVENT"
+    ],
+    "type": "METAL"
+  },
+  {
+    "id": "P-B-039",
+    "name": {
+      "en": "Pawmi",
+      "es": "Pawmi"
+    },
+    "rarity": "NONE",
+    "origins": [
+      "WONDER_EVENT"
+    ],
+    "type": "LIGHTNING"
+  },
+  {
+    "id": "P-B-040",
+    "name": {
+      "en": "Paldean Clodsire",
+      "es": "Clodsire de Paldea"
+    },
+    "rarity": "NONE",
+    "origins": [
+      "WONDER_EVENT"
+    ],
+    "type": "DARKNESS"
   }
 ]
