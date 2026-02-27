@@ -1,1705 +1,1705 @@
 [
-  {
-    "id": "B2a-001",
-    "name": {
-      "en": "Sprigatito",
-      "es": "Sprigatito"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "PALDEA_STARTERS"
-    ],
-    "type": "GRASS",
-    "extra": false
-  },
-  {
-    "id": "B2a-002",
-    "name": {
-      "en": "Floragato",
-      "es": "Floragato"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "PALDEA_STARTERS"
-    ],
-    "type": "GRASS",
-    "extra": false
-  },
-  {
-    "id": "B2a-003",
-    "name": {
-      "en": "Meowscarada ex",
-      "es": "Meowscarada ex"
-    },
-    "rarity": "FOUR_DIAMOND",
-    "origins": [
-      "PALDEA_STARTERS"
-    ],
-    "type": "GRASS",
-    "extra": false
-  },
-  {
-    "id": "B2a-004",
-    "name": {
-      "en": "Tarountula",
-      "es": "Tarountula"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "PALDEA_STARTERS"
-    ],
-    "type": "GRASS",
-    "extra": false
-  },
-  {
-    "id": "B2a-005",
-    "name": {
-      "en": "Spidops",
-      "es": "Spidops"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "PALDEA_STARTERS"
-    ],
-    "type": "GRASS",
-    "extra": false
-  },
-  {
-    "id": "B2a-006",
-    "name": {
-      "en": "Nymble",
-      "es": "Nymble"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "PALDEA_STARTERS"
-    ],
-    "type": "GRASS",
-    "extra": false
-  },
-  {
-    "id": "B2a-007",
-    "name": {
-      "en": "Smoliv",
-      "es": "Smoliv"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "PALDEA_STARTERS"
-    ],
-    "type": "GRASS",
-    "extra": false
-  },
-  {
-    "id": "B2a-008",
-    "name": {
-      "en": "Dolliv",
-      "es": "Dolliv"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "PALDEA_STARTERS"
-    ],
-    "type": "GRASS",
-    "extra": false
-  },
-  {
-    "id": "B2a-009",
-    "name": {
-      "en": "Arboliva",
-      "es": "Arboliva"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "PALDEA_STARTERS"
-    ],
-    "type": "GRASS",
-    "extra": false
-  },
-  {
-    "id": "B2a-010",
-    "name": {
-      "en": "Bramblin",
-      "es": "Bramblin"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "PALDEA_STARTERS"
-    ],
-    "type": "GRASS",
-    "extra": false
-  },
-  {
-    "id": "B2a-011",
-    "name": {
-      "en": "Brambleghast",
-      "es": "Brambleghast"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "PALDEA_STARTERS"
-    ],
-    "type": "GRASS",
-    "extra": false
-  },
-  {
-    "id": "B2a-012",
-    "name": {
-      "en": "Capsakid",
-      "es": "Capsakid"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "PALDEA_STARTERS"
-    ],
-    "type": "GRASS",
-    "extra": false
-  },
-  {
-    "id": "B2a-013",
-    "name": {
-      "en": "Scovillain",
-      "es": "Scovillain"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "PALDEA_STARTERS"
-    ],
-    "type": "GRASS",
-    "extra": false
-  },
-  {
-    "id": "B2a-014",
-    "name": {
-      "en": "Rellor",
-      "es": "Rellor"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "PALDEA_STARTERS"
-    ],
-    "type": "GRASS",
-    "extra": false
-  },
-  {
-    "id": "B2a-015",
-    "name": {
-      "en": "Wo-Chien",
-      "es": "Wo-Chien"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "PALDEA_STARTERS"
-    ],
-    "type": "GRASS",
-    "extra": false
-  },
-  {
-    "id": "B2a-016",
-    "name": {
-      "en": "Fuecoco",
-      "es": "Fuecoco"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "PALDEA_STARTERS"
-    ],
-    "type": "FIRE",
-    "extra": false
-  },
-  {
-    "id": "B2a-017",
-    "name": {
-      "en": "Crocalor",
-      "es": "Crocalor"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "PALDEA_STARTERS"
-    ],
-    "type": "FIRE",
-    "extra": false
-  },
-  {
-    "id": "B2a-018",
-    "name": {
-      "en": "Skeledirge",
-      "es": "Skeledirge"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "PALDEA_STARTERS"
-    ],
-    "type": "FIRE",
-    "extra": false
-  },
-  {
-    "id": "B2a-019",
-    "name": {
-      "en": "Charcadet",
-      "es": "Charcadet"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "PALDEA_STARTERS"
-    ],
-    "type": "FIRE",
-    "extra": false
-  },
-  {
-    "id": "B2a-020",
-    "name": {
-      "en": "Armarouge ex",
-      "es": "Armarouge ex"
-    },
-    "rarity": "FOUR_DIAMOND",
-    "origins": [
-      "PALDEA_STARTERS"
-    ],
-    "type": "FIRE",
-    "extra": false
-  },
-  {
-    "id": "B2a-021",
-    "name": {
-      "en": "Chi-Yu",
-      "es": "Chi-Yu"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "PALDEA_STARTERS"
-    ],
-    "type": "FIRE",
-    "extra": false
-  },
-  {
-    "id": "B2a-022",
-    "name": {
-      "en": "Quaxly",
-      "es": "Quaxly"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "PALDEA_STARTERS"
-    ],
-    "type": "WATER",
-    "extra": false
-  },
-  {
-    "id": "B2a-023",
-    "name": {
-      "en": "Quaxwell",
-      "es": "Quaxwell"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "PALDEA_STARTERS"
-    ],
-    "type": "WATER",
-    "extra": false
-  },
-  {
-    "id": "B2a-024",
-    "name": {
-      "en": "Quaquaval",
-      "es": "Quaquaval"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "PALDEA_STARTERS"
-    ],
-    "type": "WATER",
-    "extra": false
-  },
-  {
-    "id": "B2a-025",
-    "name": {
-      "en": "Wiglett",
-      "es": "Wiglett"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "PALDEA_STARTERS"
-    ],
-    "type": "WATER",
-    "extra": false
-  },
-  {
-    "id": "B2a-026",
-    "name": {
-      "en": "Wugtrio",
-      "es": "Wugtrio"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "PALDEA_STARTERS"
-    ],
-    "type": "WATER",
-    "extra": false
-  },
-  {
-    "id": "B2a-027",
-    "name": {
-      "en": "Finizen",
-      "es": "Finizen"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "PALDEA_STARTERS"
-    ],
-    "type": "WATER",
-    "extra": false
-  },
-  {
-    "id": "B2a-028",
-    "name": {
-      "en": "Palafin",
-      "es": "Palafin"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "PALDEA_STARTERS"
-    ],
-    "type": "WATER",
-    "extra": false
-  },
-  {
-    "id": "B2a-029",
-    "name": {
-      "en": "Cetoddle",
-      "es": "Cetoddle"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "PALDEA_STARTERS"
-    ],
-    "type": "WATER",
-    "extra": false
-  },
-  {
-    "id": "B2a-030",
-    "name": {
-      "en": "Cetitan",
-      "es": "Cetitan"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "PALDEA_STARTERS"
-    ],
-    "type": "WATER",
-    "extra": false
-  },
-  {
-    "id": "B2a-031",
-    "name": {
-      "en": "Veluza",
-      "es": "Veluza"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "PALDEA_STARTERS"
-    ],
-    "type": "WATER",
-    "extra": false
-  },
-  {
-    "id": "B2a-032",
-    "name": {
-      "en": "Dondozo",
-      "es": "Dondozo"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "PALDEA_STARTERS"
-    ],
-    "type": "WATER",
-    "extra": false
-  },
-  {
-    "id": "B2a-033",
-    "name": {
-      "en": "Tatsugiri",
-      "es": "Tatsugiri"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "PALDEA_STARTERS"
-    ],
-    "type": "WATER",
-    "extra": false
-  },
-  {
-    "id": "B2a-034",
-    "name": {
-      "en": "Frigibax",
-      "es": "Frigibax"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "PALDEA_STARTERS"
-    ],
-    "type": "WATER",
-    "extra": false
-  },
-  {
-    "id": "B2a-035",
-    "name": {
-      "en": "Arctibax",
-      "es": "Arctibax"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "PALDEA_STARTERS"
-    ],
-    "type": "WATER",
-    "extra": false
-  },
-  {
-    "id": "B2a-036",
-    "name": {
-      "en": "Baxcalibur",
-      "es": "Baxcalibur"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "PALDEA_STARTERS"
-    ],
-    "type": "WATER",
-    "extra": false
-  },
-  {
-    "id": "B2a-037",
-    "name": {
-      "en": "Chien-Pao ex",
-      "es": "Chien-Pao ex"
-    },
-    "rarity": "FOUR_DIAMOND",
-    "origins": [
-      "PALDEA_STARTERS"
-    ],
-    "type": "WATER",
-    "extra": false
-  },
-  {
-    "id": "B2a-038",
-    "name": {
-      "en": "Pawmi",
-      "es": "Pawmi"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "PALDEA_STARTERS"
-    ],
-    "type": "LIGHTNING",
-    "extra": false
-  },
-  {
-    "id": "B2a-039",
-    "name": {
-      "en": "Pawmo",
-      "es": "Pawmo"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "PALDEA_STARTERS"
-    ],
-    "type": "LIGHTNING",
-    "extra": false
-  },
-  {
-    "id": "B2a-040",
-    "name": {
-      "en": "Pawmot",
-      "es": "Pawmot"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "PALDEA_STARTERS"
-    ],
-    "type": "LIGHTNING",
-    "extra": false
-  },
-  {
-    "id": "B2a-041",
-    "name": {
-      "en": "Tadbulb",
-      "es": "Tadbulb"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "PALDEA_STARTERS"
-    ],
-    "type": "LIGHTNING",
-    "extra": false
-  },
-  {
-    "id": "B2a-042",
-    "name": {
-      "en": "Bellibolt ex",
-      "es": "Bellibolt ex"
-    },
-    "rarity": "FOUR_DIAMOND",
-    "origins": [
-      "PALDEA_STARTERS"
-    ],
-    "type": "LIGHTNING",
-    "extra": false
-  },
-  {
-    "id": "B2a-043",
-    "name": {
-      "en": "Wattrel",
-      "es": "Wattrel"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "PALDEA_STARTERS"
-    ],
-    "type": "LIGHTNING",
-    "extra": false
-  },
-  {
-    "id": "B2a-044",
-    "name": {
-      "en": "Kilowattrel",
-      "es": "Kilowattrel"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "PALDEA_STARTERS"
-    ],
-    "type": "LIGHTNING",
-    "extra": false
-  },
-  {
-    "id": "B2a-045",
-    "name": {
-      "en": "Miraidon",
-      "es": "Miraidon"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "PALDEA_STARTERS"
-    ],
-    "type": "LIGHTNING",
-    "extra": false
-  },
-  {
-    "id": "B2a-046",
-    "name": {
-      "en": "Fidough",
-      "es": "Fidough"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "PALDEA_STARTERS"
-    ],
-    "type": "PSYCHIC",
-    "extra": false
-  },
-  {
-    "id": "B2a-047",
-    "name": {
-      "en": "Dachsbun",
-      "es": "Dachsbun"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "PALDEA_STARTERS"
-    ],
-    "type": "PSYCHIC",
-    "extra": false
-  },
-  {
-    "id": "B2a-048",
-    "name": {
-      "en": "Ceruledge",
-      "es": "Ceruledge"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "PALDEA_STARTERS"
-    ],
-    "type": "PSYCHIC",
-    "extra": false
-  },
-  {
-    "id": "B2a-049",
-    "name": {
-      "en": "Rabsca",
-      "es": "Rabsca"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "PALDEA_STARTERS"
-    ],
-    "type": "PSYCHIC",
-    "extra": false
-  },
-  {
-    "id": "B2a-050",
-    "name": {
-      "en": "Flittle",
-      "es": "Flittle"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "PALDEA_STARTERS"
-    ],
-    "type": "PSYCHIC",
-    "extra": false
-  },
-  {
-    "id": "B2a-051",
-    "name": {
-      "en": "Espathra",
-      "es": "Espathra"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "PALDEA_STARTERS"
-    ],
-    "type": "PSYCHIC",
-    "extra": false
-  },
-  {
-    "id": "B2a-052",
-    "name": {
-      "en": "Greavard",
-      "es": "Greavard"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "PALDEA_STARTERS"
-    ],
-    "type": "PSYCHIC",
-    "extra": false
-  },
-  {
-    "id": "B2a-053",
-    "name": {
-      "en": "Houndstone",
-      "es": "Houndstone"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "PALDEA_STARTERS"
-    ],
-    "type": "PSYCHIC",
-    "extra": false
-  },
-  {
-    "id": "B2a-054",
-    "name": {
-      "en": "Gimmighoul",
-      "es": "Gimmighoul"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "PALDEA_STARTERS"
-    ],
-    "type": "PSYCHIC",
-    "extra": false
-  },
-  {
-    "id": "B2a-055",
-    "name": {
-      "en": "Mankey",
-      "es": "Mankey"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "PALDEA_STARTERS"
-    ],
-    "type": "FIGHTING",
-    "extra": false
-  },
-  {
-    "id": "B2a-056",
-    "name": {
-      "en": "Primeape",
-      "es": "Primeape"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "PALDEA_STARTERS"
-    ],
-    "type": "FIGHTING",
-    "extra": false
-  },
-  {
-    "id": "B2a-057",
-    "name": {
-      "en": "Annihilape",
-      "es": "Annihilape"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "PALDEA_STARTERS"
-    ],
-    "type": "FIGHTING",
-    "extra": false
-  },
-  {
-    "id": "B2a-058",
-    "name": {
-      "en": "Paldean Tauros",
-      "es": "Tauros de Paldea"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "PALDEA_STARTERS"
-    ],
-    "type": "FIGHTING",
-    "extra": false
-  },
-  {
-    "id": "B2a-059",
-    "name": {
-      "en": "Toedscool",
-      "es": "Toedscool"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "PALDEA_STARTERS"
-    ],
-    "type": "FIGHTING",
-    "extra": false
-  },
-  {
-    "id": "B2a-060",
-    "name": {
-      "en": "Toedscruel",
-      "es": "Toedscruel"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "PALDEA_STARTERS"
-    ],
-    "type": "FIGHTING",
-    "extra": false
-  },
-  {
-    "id": "B2a-061",
-    "name": {
-      "en": "Klawf",
-      "es": "Klawf"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "PALDEA_STARTERS"
-    ],
-    "type": "FIGHTING",
-    "extra": false
-  },
-  {
-    "id": "B2a-062",
-    "name": {
-      "en": "Ting-Lu",
-      "es": "Ting-Lu"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "PALDEA_STARTERS"
-    ],
-    "type": "FIGHTING",
-    "extra": false
-  },
-  {
-    "id": "B2a-063",
-    "name": {
-      "en": "Koraidon",
-      "es": "Koraidon"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "PALDEA_STARTERS"
-    ],
-    "type": "FIGHTING",
-    "extra": false
-  },
-  {
-    "id": "B2a-064",
-    "name": {
-      "en": "Paldean Wooper",
-      "es": "Wooper de Paldea"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "PALDEA_STARTERS"
-    ],
-    "type": "DARKNESS",
-    "extra": false
-  },
-  {
-    "id": "B2a-065",
-    "name": {
-      "en": "Paldean Clodsire",
-      "es": "Clodsire de Paldea"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "PALDEA_STARTERS"
-    ],
-    "type": "DARKNESS",
-    "extra": false
-  },
-  {
-    "id": "B2a-066",
-    "name": {
-      "en": "Lokix",
-      "es": "Lokix"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "PALDEA_STARTERS"
-    ],
-    "type": "DARKNESS",
-    "extra": false
-  },
-  {
-    "id": "B2a-067",
-    "name": {
-      "en": "Maschiff",
-      "es": "Maschiff"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "PALDEA_STARTERS"
-    ],
-    "type": "DARKNESS",
-    "extra": false
-  },
-  {
-    "id": "B2a-068",
-    "name": {
-      "en": "Mabosstiff",
-      "es": "Mabosstiff"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "PALDEA_STARTERS"
-    ],
-    "type": "DARKNESS",
-    "extra": false
-  },
-  {
-    "id": "B2a-069",
-    "name": {
-      "en": "Shroodle",
-      "es": "Shroodle"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "PALDEA_STARTERS"
-    ],
-    "type": "DARKNESS",
-    "extra": false
-  },
-  {
-    "id": "B2a-070",
-    "name": {
-      "en": "Grafaiai",
-      "es": "Grafaiai"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "PALDEA_STARTERS"
-    ],
-    "type": "DARKNESS",
-    "extra": false
-  },
-  {
-    "id": "B2a-071",
-    "name": {
-      "en": "Bombirdier",
-      "es": "Bombirdier"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "PALDEA_STARTERS"
-    ],
-    "type": "DARKNESS",
-    "extra": false
-  },
-  {
-    "id": "B2a-072",
-    "name": {
-      "en": "Tinkatink",
-      "es": "Tinkatink"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "PALDEA_STARTERS"
-    ],
-    "type": "METAL",
-    "extra": false
-  },
-  {
-    "id": "B2a-073",
-    "name": {
-      "en": "Tinkatuff",
-      "es": "Tinkatuff"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "PALDEA_STARTERS"
-    ],
-    "type": "METAL",
-    "extra": false
-  },
-  {
-    "id": "B2a-074",
-    "name": {
-      "en": "Tinkaton",
-      "es": "Tinkaton"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "PALDEA_STARTERS"
-    ],
-    "type": "METAL",
-    "extra": false
-  },
-  {
-    "id": "B2a-075",
-    "name": {
-      "en": "Varoom",
-      "es": "Varoom"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "PALDEA_STARTERS"
-    ],
-    "type": "METAL",
-    "extra": false
-  },
-  {
-    "id": "B2a-076",
-    "name": {
-      "en": "Revavroom",
-      "es": "Revavroom"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "PALDEA_STARTERS"
-    ],
-    "type": "METAL",
-    "extra": false
-  },
-  {
-    "id": "B2a-077",
-    "name": {
-      "en": "Orthworm",
-      "es": "Orthworm"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "PALDEA_STARTERS"
-    ],
-    "type": "METAL",
-    "extra": false
-  },
-  {
-    "id": "B2a-078",
-    "name": {
-      "en": "Gholdengo ex",
-      "es": "Gholdengo ex"
-    },
-    "rarity": "FOUR_DIAMOND",
-    "origins": [
-      "PALDEA_STARTERS"
-    ],
-    "type": "METAL",
-    "extra": false
-  },
-  {
-    "id": "B2a-079",
-    "name": {
-      "en": "Lechonk",
-      "es": "Lechonk"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "PALDEA_STARTERS"
-    ],
-    "type": "COLORLESS",
-    "extra": false
-  },
-  {
-    "id": "B2a-080",
-    "name": {
-      "en": "Oinkologne",
-      "es": "Oinkologne"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "PALDEA_STARTERS"
-    ],
-    "type": "COLORLESS",
-    "extra": false
-  },
-  {
-    "id": "B2a-081",
-    "name": {
-      "en": "Tandemaus",
-      "es": "Tandemaus"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "PALDEA_STARTERS"
-    ],
-    "type": "COLORLESS",
-    "extra": false
-  },
-  {
-    "id": "B2a-082",
-    "name": {
-      "en": "Maushold",
-      "es": "Maushold"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "PALDEA_STARTERS"
-    ],
-    "type": "COLORLESS",
-    "extra": false
-  },
-  {
-    "id": "B2a-083",
-    "name": {
-      "en": "Squawkabilly",
-      "es": "Squawkabilly"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "PALDEA_STARTERS"
-    ],
-    "type": "COLORLESS",
-    "extra": false
-  },
-  {
-    "id": "B2a-084",
-    "name": {
-      "en": "Cyclizar",
-      "es": "Cyclizar"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "PALDEA_STARTERS"
-    ],
-    "type": "COLORLESS",
-    "extra": false
-  },
-  {
-    "id": "B2a-085",
-    "name": {
-      "en": "Flamigo",
-      "es": "Flamigo"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "PALDEA_STARTERS"
-    ],
-    "type": "COLORLESS",
-    "extra": false
-  },
-  {
-    "id": "B2a-086",
-    "name": {
-      "en": "Electric Generator",
-      "es": "Generador Eléctrico"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "PALDEA_STARTERS"
-    ],
-    "type": "TRAINER",
-    "extra": false
-  },
-  {
-    "id": "B2a-087",
-    "name": {
-      "en": "Big Air Balloon",
-      "es": "Globo Helio Grande"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "PALDEA_STARTERS"
-    ],
-    "type": "TRAINER",
-    "extra": false
-  },
-  {
-    "id": "B2a-088",
-    "name": {
-      "en": "Team Star Grunt",
-      "es": "Recluta del Team Star"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "PALDEA_STARTERS"
-    ],
-    "type": "TRAINER",
-    "extra": false
-  },
-  {
-    "id": "B2a-089",
-    "name": {
-      "en": "Iono",
-      "es": "e-Nigma"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "PALDEA_STARTERS"
-    ],
-    "type": "TRAINER",
-    "extra": false
-  },
-  {
-    "id": "B2a-090",
-    "name": {
-      "en": "Nemona",
-      "es": "Mencía"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "PALDEA_STARTERS"
-    ],
-    "type": "TRAINER",
-    "extra": false
-  },
-  {
-    "id": "B2a-091",
-    "name": {
-      "en": "Arven",
-      "es": "Damián"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "PALDEA_STARTERS"
-    ],
-    "type": "TRAINER",
-    "extra": false
-  },
-  {
-    "id": "B2a-092",
-    "name": {
-      "en": "Penny",
-      "es": "Noa"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "PALDEA_STARTERS"
-    ],
-    "type": "TRAINER",
-    "extra": false
-  },
-  {
-    "id": "B2a-093",
-    "name": {
-      "en": "Mesagoza",
-      "es": "Ciudad Meseta"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "PALDEA_STARTERS"
-    ],
-    "type": "TRAINER",
-    "extra": false
-  },
-  {
-    "id": "B2a-094",
-    "name": {
-      "en": "Fuecoco",
-      "es": "Fuecoco"
-    },
-    "rarity": "ONE_STAR",
-    "origins": [
-      "PALDEA_STARTERS"
-    ],
-    "type": "FIRE",
-    "extra": false
-  },
-  {
-    "id": "B2a-095",
-    "name": {
-      "en": "Greavard",
-      "es": "Greavard"
-    },
-    "rarity": "ONE_STAR",
-    "origins": [
-      "PALDEA_STARTERS"
-    ],
-    "type": "PSYCHIC",
-    "extra": false
-  },
-  {
-    "id": "B2a-096",
-    "name": {
-      "en": "Gimmighoul",
-      "es": "Gimmighoul"
-    },
-    "rarity": "ONE_STAR",
-    "origins": [
-      "PALDEA_STARTERS"
-    ],
-    "type": "PSYCHIC",
-    "extra": false
-  },
-  {
-    "id": "B2a-097",
-    "name": {
-      "en": "Paldean Wooper",
-      "es": "Wooper de Paldea"
-    },
-    "rarity": "ONE_STAR",
-    "origins": [
-      "PALDEA_STARTERS"
-    ],
-    "type": "DARKNESS",
-    "extra": false
-  },
-  {
-    "id": "B2a-098",
-    "name": {
-      "en": "Orthworm",
-      "es": "Orthworm"
-    },
-    "rarity": "ONE_STAR",
-    "origins": [
-      "PALDEA_STARTERS"
-    ],
-    "type": "METAL",
-    "extra": false
-  },
-  {
-    "id": "B2a-099",
-    "name": {
-      "en": "Maushold",
-      "es": "Maushold"
-    },
-    "rarity": "ONE_STAR",
-    "origins": [
-      "PALDEA_STARTERS"
-    ],
-    "type": "COLORLESS",
-    "extra": false
-  },
-  {
-    "id": "B2a-100",
-    "name": {
-      "en": "Meowscarada ex",
-      "es": "Meowscarada ex"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "PALDEA_STARTERS"
-    ],
-    "type": "GRASS",
-    "extra": false
-  },
-  {
-    "id": "B2a-101",
-    "name": {
-      "en": "Armarouge ex",
-      "es": "Armarouge ex"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "PALDEA_STARTERS"
-    ],
-    "type": "FIRE",
-    "extra": false
-  },
-  {
-    "id": "B2a-102",
-    "name": {
-      "en": "Chien-Pao ex",
-      "es": "Chien-Pao ex"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "PALDEA_STARTERS"
-    ],
-    "type": "WATER",
-    "extra": false
-  },
-  {
-    "id": "B2a-103",
-    "name": {
-      "en": "Bellibolt ex",
-      "es": "Bellibolt ex"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "PALDEA_STARTERS"
-    ],
-    "type": "LIGHTNING",
-    "extra": false
-  },
-  {
-    "id": "B2a-104",
-    "name": {
-      "en": "Gholdengo ex",
-      "es": "Gholdengo ex"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "PALDEA_STARTERS"
-    ],
-    "type": "METAL",
-    "extra": false
-  },
-  {
-    "id": "B2a-105",
-    "name": {
-      "en": "Team Star Grunt",
-      "es": "Recluta del Team Star"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "PALDEA_STARTERS"
-    ],
-    "type": "TRAINER",
-    "extra": false
-  },
-  {
-    "id": "B2a-106",
-    "name": {
-      "en": "Iono",
-      "es": "e-Nigma"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "PALDEA_STARTERS"
-    ],
-    "type": "TRAINER",
-    "extra": false
-  },
-  {
-    "id": "B2a-107",
-    "name": {
-      "en": "Nemona",
-      "es": "Mencía"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "PALDEA_STARTERS"
-    ],
-    "type": "TRAINER",
-    "extra": false
-  },
-  {
-    "id": "B2a-108",
-    "name": {
-      "en": "Arven",
-      "es": "Damián"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "PALDEA_STARTERS"
-    ],
-    "type": "TRAINER",
-    "extra": false
-  },
-  {
-    "id": "B2a-109",
-    "name": {
-      "en": "Penny",
-      "es": "Noa"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "PALDEA_STARTERS"
-    ],
-    "type": "TRAINER",
-    "extra": false
-  },
-  {
-    "id": "B2a-110",
-    "name": {
-      "en": "Meowscarada ex",
-      "es": "Meowscarada ex"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "PALDEA_STARTERS"
-    ],
-    "type": "GRASS",
-    "extra": false
-  },
-  {
-    "id": "B2a-111",
-    "name": {
-      "en": "Armarouge ex",
-      "es": "Armarouge ex"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "PALDEA_STARTERS"
-    ],
-    "type": "FIRE",
-    "extra": false
-  },
-  {
-    "id": "B2a-112",
-    "name": {
-      "en": "Chien-Pao ex",
-      "es": "Chien-Pao ex"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "PALDEA_STARTERS"
-    ],
-    "type": "WATER",
-    "extra": false
-  },
-  {
-    "id": "B2a-113",
-    "name": {
-      "en": "Bellibolt ex",
-      "es": "Bellibolt ex"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "PALDEA_STARTERS"
-    ],
-    "type": "LIGHTNING",
-    "extra": false
-  },
-  {
-    "id": "B2a-114",
-    "name": {
-      "en": "Gholdengo ex",
-      "es": "Gholdengo ex"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "PALDEA_STARTERS"
-    ],
-    "type": "METAL",
-    "extra": false
-  },
-  {
-    "id": "B2a-115",
-    "name": {
-      "en": "Arven",
-      "es": "Damián"
-    },
-    "rarity": "THREE_STAR",
-    "origins": [
-      "PALDEA_STARTERS"
-    ],
-    "type": "TRAINER",
-    "extra": false
-  },
-  {
-    "id": "B2a-116",
-    "name": {
-      "en": "Sprigatito",
-      "es": "Sprigatito"
-    },
-    "rarity": "ONE_SHINY",
-    "origins": [
-      "PALDEA_STARTERS"
-    ],
-    "type": "GRASS",
-    "extra": false
-  },
-  {
-    "id": "B2a-117",
-    "name": {
-      "en": "Floragato",
-      "es": "Floragato"
-    },
-    "rarity": "ONE_SHINY",
-    "origins": [
-      "PALDEA_STARTERS"
-    ],
-    "type": "GRASS",
-    "extra": false
-  },
-  {
-    "id": "B2a-118",
-    "name": {
-      "en": "Meowscarada",
-      "es": "Meowscarada"
-    },
-    "rarity": "ONE_SHINY",
-    "origins": [
-      "PALDEA_STARTERS"
-    ],
-    "type": "GRASS",
-    "extra": false
-  },
-  {
-    "id": "B2a-119",
-    "name": {
-      "en": "Pawmi",
-      "es": "Pawmi"
-    },
-    "rarity": "ONE_SHINY",
-    "origins": [
-      "PALDEA_STARTERS"
-    ],
-    "type": "LIGHTNING",
-    "extra": false
-  },
-  {
-    "id": "B2a-120",
-    "name": {
-      "en": "Pawmo",
-      "es": "Pawmo"
-    },
-    "rarity": "ONE_SHINY",
-    "origins": [
-      "PALDEA_STARTERS"
-    ],
-    "type": "LIGHTNING",
-    "extra": false
-  },
-  {
-    "id": "B2a-121",
-    "name": {
-      "en": "Pawmot",
-      "es": "Pawmot"
-    },
-    "rarity": "ONE_SHINY",
-    "origins": [
-      "PALDEA_STARTERS"
-    ],
-    "type": "LIGHTNING",
-    "extra": false
-  },
-  {
-    "id": "B2a-122",
-    "name": {
-      "en": "Gimmighoul",
-      "es": "Gimmighoul"
-    },
-    "rarity": "ONE_SHINY",
-    "origins": [
-      "PALDEA_STARTERS"
-    ],
-    "type": "PSYCHIC",
-    "extra": false
-  },
-  {
-    "id": "B2a-123",
-    "name": {
-      "en": "Tinkatink",
-      "es": "Tinkatink"
-    },
-    "rarity": "ONE_SHINY",
-    "origins": [
-      "PALDEA_STARTERS"
-    ],
-    "type": "METAL",
-    "extra": false
-  },
-  {
-    "id": "B2a-124",
-    "name": {
-      "en": "Tinkatuff",
-      "es": "Tinkatuff"
-    },
-    "rarity": "ONE_SHINY",
-    "origins": [
-      "PALDEA_STARTERS"
-    ],
-    "type": "METAL",
-    "extra": false
-  },
-  {
-    "id": "B2a-125",
-    "name": {
-      "en": "Gholdengo",
-      "es": "Gholdengo"
-    },
-    "rarity": "ONE_SHINY",
-    "origins": [
-      "PALDEA_STARTERS"
-    ],
-    "type": "METAL",
-    "extra": false
-  },
-  {
-    "id": "B2a-126",
-    "name": {
-      "en": "Entei ex",
-      "es": "Entei ex"
-    },
-    "rarity": "TWO_SHINY",
-    "origins": [
-      "PALDEA_STARTERS"
-    ],
-    "type": "FIRE",
-    "extra": false
-  },
-  {
-    "id": "B2a-127",
-    "name": {
-      "en": "Suicune ex",
-      "es": "Suicune ex"
-    },
-    "rarity": "TWO_SHINY",
-    "origins": [
-      "PALDEA_STARTERS"
-    ],
-    "type": "WATER",
-    "extra": false
-  },
-  {
-    "id": "B2a-128",
-    "name": {
-      "en": "Raikou ex",
-      "es": "Raikou ex"
-    },
-    "rarity": "TWO_SHINY",
-    "origins": [
-      "PALDEA_STARTERS"
-    ],
-    "type": "LIGHTNING",
-    "extra": false
-  },
-  {
-    "id": "B2a-129",
-    "name": {
-      "en": "Tinkaton ex",
-      "es": "Tinkaton ex"
-    },
-    "rarity": "TWO_SHINY",
-    "origins": [
-      "PALDEA_STARTERS"
-    ],
-    "type": "METAL",
-    "extra": false
-  },
-  {
-    "id": "B2a-130",
-    "name": {
-      "en": "Baxcalibur",
-      "es": "Baxcalibur"
-    },
-    "rarity": "CROWN",
-    "origins": [
-      "PALDEA_STARTERS"
-    ],
-    "type": "WATER",
-    "extra": false
-  },
-  {
-    "id": "B2a-131",
-    "name": {
-      "en": "Electric Generator",
-      "es": "Generador Eléctrico"
-    },
-    "rarity": "CROWN",
-    "origins": [
-      "PALDEA_STARTERS"
-    ],
-    "type": "TRAINER",
-    "extra": false
-  }
+    {
+        "id": "B2a-001",
+        "name": {
+            "en": "Sprigatito",
+            "es": "Sprigatito"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "PALDEA_STARTERS"
+        ],
+        "type": "GRASS",
+        "hash": "1182de564b430d77cc"
+    },
+    {
+        "id": "B2a-002",
+        "name": {
+            "en": "Floragato",
+            "es": "Floragato"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "PALDEA_STARTERS"
+        ],
+        "type": "GRASS",
+        "hash": "11d29e1afc09c2c973"
+    },
+    {
+        "id": "B2a-003",
+        "name": {
+            "en": "Meowscarada ex",
+            "es": "Meowscarada ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "PALDEA_STARTERS"
+        ],
+        "type": "GRASS",
+        "hash": "41ed99a3709f4ec08c"
+    },
+    {
+        "id": "B2a-004",
+        "name": {
+            "en": "Tarountula",
+            "es": "Tarountula"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "PALDEA_STARTERS"
+        ],
+        "type": "GRASS",
+        "hash": "11c98d223ec77b8f08"
+    },
+    {
+        "id": "B2a-005",
+        "name": {
+            "en": "Spidops",
+            "es": "Spidops"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "PALDEA_STARTERS"
+        ],
+        "type": "GRASS",
+        "hash": "21968579e12cf1c9ca"
+    },
+    {
+        "id": "B2a-006",
+        "name": {
+            "en": "Nymble",
+            "es": "Nymble"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "PALDEA_STARTERS"
+        ],
+        "type": "GRASS",
+        "hash": "11be8455939c69631e"
+    },
+    {
+        "id": "B2a-007",
+        "name": {
+            "en": "Smoliv",
+            "es": "Smoliv"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "PALDEA_STARTERS"
+        ],
+        "type": "GRASS",
+        "hash": "1197fd2943d0352366"
+    },
+    {
+        "id": "B2a-008",
+        "name": {
+            "en": "Dolliv",
+            "es": "Dolliv"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "PALDEA_STARTERS"
+        ],
+        "type": "GRASS",
+        "hash": "1182cd59d638916eae"
+    },
+    {
+        "id": "B2a-009",
+        "name": {
+            "en": "Arboliva",
+            "es": "Arboliva"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "PALDEA_STARTERS"
+        ],
+        "type": "GRASS",
+        "hash": "31a3d315f8349d4e34"
+    },
+    {
+        "id": "B2a-010",
+        "name": {
+            "en": "Bramblin",
+            "es": "Bramblin"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "PALDEA_STARTERS"
+        ],
+        "type": "GRASS",
+        "hash": "11b39c87661e33491b"
+    },
+    {
+        "id": "B2a-011",
+        "name": {
+            "en": "Brambleghast",
+            "es": "Brambleghast"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "PALDEA_STARTERS"
+        ],
+        "type": "GRASS",
+        "hash": "21855f2d7cecec50c0"
+    },
+    {
+        "id": "B2a-012",
+        "name": {
+            "en": "Capsakid",
+            "es": "Capsakid"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "PALDEA_STARTERS"
+        ],
+        "type": "GRASS",
+        "hash": "1187ecd8d2d649b056"
+    },
+    {
+        "id": "B2a-013",
+        "name": {
+            "en": "Scovillain",
+            "es": "Scovillain"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "PALDEA_STARTERS"
+        ],
+        "type": "GRASS",
+        "hash": "21b5c3f417d8069ab8"
+    },
+    {
+        "id": "B2a-014",
+        "name": {
+            "en": "Rellor",
+            "es": "Rellor"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "PALDEA_STARTERS"
+        ],
+        "type": "GRASS",
+        "hash": "11ad0e85b1cce83d33"
+    },
+    {
+        "id": "B2a-015",
+        "name": {
+            "en": "Wo-Chien",
+            "es": "Wo-Chien"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "PALDEA_STARTERS"
+        ],
+        "type": "GRASS",
+        "hash": "3191d71e0c5d1a1e1f"
+    },
+    {
+        "id": "B2a-016",
+        "name": {
+            "en": "Fuecoco",
+            "es": "Fuecoco"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "PALDEA_STARTERS"
+        ],
+        "type": "FIRE",
+        "hash": "11e1c64f27435d1f50"
+    },
+    {
+        "id": "B2a-017",
+        "name": {
+            "en": "Crocalor",
+            "es": "Crocalor"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "PALDEA_STARTERS"
+        ],
+        "type": "FIRE",
+        "hash": "11c0de7a1385c5eec8"
+    },
+    {
+        "id": "B2a-018",
+        "name": {
+            "en": "Skeledirge",
+            "es": "Skeledirge"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "PALDEA_STARTERS"
+        ],
+        "type": "FIRE",
+        "hash": "31c1b549cc6666cc3e"
+    },
+    {
+        "id": "B2a-019",
+        "name": {
+            "en": "Charcadet",
+            "es": "Charcadet"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "PALDEA_STARTERS"
+        ],
+        "type": "FIRE",
+        "hash": "11e606791efcc1a931"
+    },
+    {
+        "id": "B2a-020",
+        "name": {
+            "en": "Armarouge ex",
+            "es": "Armarouge ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "PALDEA_STARTERS"
+        ],
+        "type": "FIRE",
+        "hash": "41e8533299894ed6ce"
+    },
+    {
+        "id": "B2a-021",
+        "name": {
+            "en": "Chi-Yu",
+            "es": "Chi-Yu"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "PALDEA_STARTERS"
+        ],
+        "type": "FIRE",
+        "hash": "31db1f4391e90b3266"
+    },
+    {
+        "id": "B2a-022",
+        "name": {
+            "en": "Quaxly",
+            "es": "Quaxly"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "PALDEA_STARTERS"
+        ],
+        "type": "WATER",
+        "hash": "11a4f1309370ccef72"
+    },
+    {
+        "id": "B2a-023",
+        "name": {
+            "en": "Quaxwell",
+            "es": "Quaxwell"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "PALDEA_STARTERS"
+        ],
+        "type": "WATER",
+        "hash": "11c6e8709c7b9b2b60"
+    },
+    {
+        "id": "B2a-024",
+        "name": {
+            "en": "Quaquaval",
+            "es": "Quaquaval"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "PALDEA_STARTERS"
+        ],
+        "type": "WATER",
+        "hash": "31949cc3a6dac6f688"
+    },
+    {
+        "id": "B2a-025",
+        "name": {
+            "en": "Wiglett",
+            "es": "Wiglett"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "PALDEA_STARTERS"
+        ],
+        "type": "WATER",
+        "hash": "11d60d69346433773a"
+    },
+    {
+        "id": "B2a-026",
+        "name": {
+            "en": "Wugtrio",
+            "es": "Wugtrio"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "PALDEA_STARTERS"
+        ],
+        "type": "WATER",
+        "hash": "21f7cea805f45849c9"
+    },
+    {
+        "id": "B2a-027",
+        "name": {
+            "en": "Finizen",
+            "es": "Finizen"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "PALDEA_STARTERS"
+        ],
+        "type": "WATER",
+        "hash": "1185e23fc670963768"
+    },
+    {
+        "id": "B2a-028",
+        "name": {
+            "en": "Palafin",
+            "es": "Palafin"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "PALDEA_STARTERS"
+        ],
+        "type": "WATER",
+        "hash": "31ed96d8f10e0f6066"
+    },
+    {
+        "id": "B2a-029",
+        "name": {
+            "en": "Cetoddle",
+            "es": "Cetoddle"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "PALDEA_STARTERS"
+        ],
+        "type": "WATER",
+        "hash": "1193572c0f72703f1c"
+    },
+    {
+        "id": "B2a-030",
+        "name": {
+            "en": "Cetitan",
+            "es": "Cetitan"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "PALDEA_STARTERS"
+        ],
+        "type": "WATER",
+        "hash": "21be3ea47122c6c1da"
+    },
+    {
+        "id": "B2a-031",
+        "name": {
+            "en": "Veluza",
+            "es": "Veluza"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "PALDEA_STARTERS"
+        ],
+        "type": "WATER",
+        "hash": "2183d7f77534641170"
+    },
+    {
+        "id": "B2a-032",
+        "name": {
+            "en": "Dondozo",
+            "es": "Dondozo"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "PALDEA_STARTERS"
+        ],
+        "type": "WATER",
+        "hash": "21eae09727ebb28c11"
+    },
+    {
+        "id": "B2a-033",
+        "name": {
+            "en": "Tatsugiri",
+            "es": "Tatsugiri"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "PALDEA_STARTERS"
+        ],
+        "type": "WATER",
+        "hash": "21e9e2055dd6a53952"
+    },
+    {
+        "id": "B2a-034",
+        "name": {
+            "en": "Frigibax",
+            "es": "Frigibax"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "PALDEA_STARTERS"
+        ],
+        "type": "WATER",
+        "hash": "11a0cf3e394131793e"
+    },
+    {
+        "id": "B2a-035",
+        "name": {
+            "en": "Arctibax",
+            "es": "Arctibax"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "PALDEA_STARTERS"
+        ],
+        "type": "WATER",
+        "hash": "11d0ce4e7f69604d98"
+    },
+    {
+        "id": "B2a-036",
+        "name": {
+            "en": "Baxcalibur",
+            "es": "Baxcalibur"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "PALDEA_STARTERS"
+        ],
+        "type": "WATER",
+        "hash": "31b2d349d09e2d9ce1"
+    },
+    {
+        "id": "B2a-037",
+        "name": {
+            "en": "Chien-Pao ex",
+            "es": "Chien-Pao ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "PALDEA_STARTERS"
+        ],
+        "type": "WATER",
+        "hash": "41c8363770614ecf4d"
+    },
+    {
+        "id": "B2a-038",
+        "name": {
+            "en": "Pawmi",
+            "es": "Pawmi"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "PALDEA_STARTERS"
+        ],
+        "type": "LIGHTNING",
+        "hash": "11a4e31f13f38d6350"
+    },
+    {
+        "id": "B2a-039",
+        "name": {
+            "en": "Pawmo",
+            "es": "Pawmo"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "PALDEA_STARTERS"
+        ],
+        "type": "LIGHTNING",
+        "hash": "11854a7a4bace6d465"
+    },
+    {
+        "id": "B2a-040",
+        "name": {
+            "en": "Pawmot",
+            "es": "Pawmot"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "PALDEA_STARTERS"
+        ],
+        "type": "LIGHTNING",
+        "hash": "21e7c6681b13ce1e51"
+    },
+    {
+        "id": "B2a-041",
+        "name": {
+            "en": "Tadbulb",
+            "es": "Tadbulb"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "PALDEA_STARTERS"
+        ],
+        "type": "LIGHTNING",
+        "hash": "119c9e51b44e955a63"
+    },
+    {
+        "id": "B2a-042",
+        "name": {
+            "en": "Bellibolt ex",
+            "es": "Bellibolt ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "PALDEA_STARTERS"
+        ],
+        "type": "LIGHTNING",
+        "hash": "41e8199ab5f4a852d5"
+    },
+    {
+        "id": "B2a-043",
+        "name": {
+            "en": "Wattrel",
+            "es": "Wattrel"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "PALDEA_STARTERS"
+        ],
+        "type": "LIGHTNING",
+        "hash": "11f4a4cc9d33d16496"
+    },
+    {
+        "id": "B2a-044",
+        "name": {
+            "en": "Kilowattrel",
+            "es": "Kilowattrel"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "PALDEA_STARTERS"
+        ],
+        "type": "LIGHTNING",
+        "hash": "21c35d3ce789e41c89"
+    },
+    {
+        "id": "B2a-045",
+        "name": {
+            "en": "Miraidon",
+            "es": "Miraidon"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "PALDEA_STARTERS"
+        ],
+        "type": "LIGHTNING",
+        "hash": "3187a9d0bb6fc29416"
+    },
+    {
+        "id": "B2a-046",
+        "name": {
+            "en": "Fidough",
+            "es": "Fidough"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "PALDEA_STARTERS"
+        ],
+        "type": "PSYCHIC",
+        "hash": "11c08c449e7bc9e5cd"
+    },
+    {
+        "id": "B2a-047",
+        "name": {
+            "en": "Dachsbun",
+            "es": "Dachsbun"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "PALDEA_STARTERS"
+        ],
+        "type": "PSYCHIC",
+        "hash": "21b7aa9dc982b13aa8"
+    },
+    {
+        "id": "B2a-048",
+        "name": {
+            "en": "Ceruledge",
+            "es": "Ceruledge"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "PALDEA_STARTERS"
+        ],
+        "type": "PSYCHIC",
+        "hash": "31b14a4df6097d58cc"
+    },
+    {
+        "id": "B2a-049",
+        "name": {
+            "en": "Rabsca",
+            "es": "Rabsca"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "PALDEA_STARTERS"
+        ],
+        "type": "PSYCHIC",
+        "hash": "21f266869ccde11a8d"
+    },
+    {
+        "id": "B2a-050",
+        "name": {
+            "en": "Flittle",
+            "es": "Flittle"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "PALDEA_STARTERS"
+        ],
+        "type": "PSYCHIC",
+        "hash": "1190a807793c3cfa1f"
+    },
+    {
+        "id": "B2a-051",
+        "name": {
+            "en": "Espathra",
+            "es": "Espathra"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "PALDEA_STARTERS"
+        ],
+        "type": "PSYCHIC",
+        "hash": "2195af92c07dc1db24"
+    },
+    {
+        "id": "B2a-052",
+        "name": {
+            "en": "Greavard",
+            "es": "Greavard"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "PALDEA_STARTERS"
+        ],
+        "type": "PSYCHIC",
+        "hash": "11cc4c6c062fcfd62a"
+    },
+    {
+        "id": "B2a-053",
+        "name": {
+            "en": "Houndstone",
+            "es": "Houndstone"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "PALDEA_STARTERS"
+        ],
+        "type": "PSYCHIC",
+        "hash": "21defc688630e5c472"
+    },
+    {
+        "id": "B2a-054",
+        "name": {
+            "en": "Gimmighoul",
+            "es": "Gimmighoul"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "PALDEA_STARTERS"
+        ],
+        "type": "PSYCHIC",
+        "hash": "11ed4817957986c497"
+    },
+    {
+        "id": "B2a-055",
+        "name": {
+            "en": "Mankey",
+            "es": "Mankey"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "PALDEA_STARTERS"
+        ],
+        "type": "FIGHTING",
+        "hash": "11d02c4c7b274b2737"
+    },
+    {
+        "id": "B2a-056",
+        "name": {
+            "en": "Primeape",
+            "es": "Primeape"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "PALDEA_STARTERS"
+        ],
+        "type": "FIGHTING",
+        "hash": "1188cfb5745e28695a"
+    },
+    {
+        "id": "B2a-057",
+        "name": {
+            "en": "Annihilape",
+            "es": "Annihilape"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "PALDEA_STARTERS"
+        ],
+        "type": "FIGHTING",
+        "hash": "21d6de188b47dc61a4"
+    },
+    {
+        "id": "B2a-058",
+        "name": {
+            "en": "Paldean Tauros",
+            "es": "Tauros de Paldea"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "PALDEA_STARTERS"
+        ],
+        "type": "FIGHTING",
+        "hash": "21ffa1c00d4b3a1f1c"
+    },
+    {
+        "id": "B2a-059",
+        "name": {
+            "en": "Toedscool",
+            "es": "Toedscool"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "PALDEA_STARTERS"
+        ],
+        "type": "FIGHTING",
+        "hash": "11911d0fae3fbe7800"
+    },
+    {
+        "id": "B2a-060",
+        "name": {
+            "en": "Toedscruel",
+            "es": "Toedscruel"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "PALDEA_STARTERS"
+        ],
+        "type": "FIGHTING",
+        "hash": "219d7f3ad4a892928a"
+    },
+    {
+        "id": "B2a-061",
+        "name": {
+            "en": "Klawf",
+            "es": "Klawf"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "PALDEA_STARTERS"
+        ],
+        "type": "FIGHTING",
+        "hash": "118d93928d32dc7197"
+    },
+    {
+        "id": "B2a-062",
+        "name": {
+            "en": "Ting-Lu",
+            "es": "Ting-Lu"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "PALDEA_STARTERS"
+        ],
+        "type": "FIGHTING",
+        "hash": "31ae9e9a6bcc3443b0"
+    },
+    {
+        "id": "B2a-063",
+        "name": {
+            "en": "Koraidon",
+            "es": "Koraidon"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "PALDEA_STARTERS"
+        ],
+        "type": "FIGHTING",
+        "hash": "31c5bf1e8d349b4382"
+    },
+    {
+        "id": "B2a-064",
+        "name": {
+            "en": "Paldean Wooper",
+            "es": "Wooper de Paldea"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "PALDEA_STARTERS"
+        ],
+        "type": "DARKNESS",
+        "hash": "11f2c44cb606727a9e"
+    },
+    {
+        "id": "B2a-065",
+        "name": {
+            "en": "Paldean Clodsire",
+            "es": "Clodsire de Paldea"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "PALDEA_STARTERS"
+        ],
+        "type": "DARKNESS",
+        "hash": "21aaa8d5fcb4e0c28e"
+    },
+    {
+        "id": "B2a-066",
+        "name": {
+            "en": "Lokix",
+            "es": "Lokix"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "PALDEA_STARTERS"
+        ],
+        "type": "DARKNESS",
+        "hash": "21bb9fc5d0e0c8d0e4"
+    },
+    {
+        "id": "B2a-067",
+        "name": {
+            "en": "Maschiff",
+            "es": "Maschiff"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "PALDEA_STARTERS"
+        ],
+        "type": "DARKNESS",
+        "hash": "11f1cd0b07783c38f8"
+    },
+    {
+        "id": "B2a-068",
+        "name": {
+            "en": "Mabosstiff",
+            "es": "Mabosstiff"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "PALDEA_STARTERS"
+        ],
+        "type": "DARKNESS",
+        "hash": "21f60cd8f38c48eccc"
+    },
+    {
+        "id": "B2a-069",
+        "name": {
+            "en": "Shroodle",
+            "es": "Shroodle"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "PALDEA_STARTERS"
+        ],
+        "type": "DARKNESS",
+        "hash": "11e9c6165d027e899b"
+    },
+    {
+        "id": "B2a-070",
+        "name": {
+            "en": "Grafaiai",
+            "es": "Grafaiai"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "PALDEA_STARTERS"
+        ],
+        "type": "DARKNESS",
+        "hash": "21ebc9a666d698cc42"
+    },
+    {
+        "id": "B2a-071",
+        "name": {
+            "en": "Bombirdier",
+            "es": "Bombirdier"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "PALDEA_STARTERS"
+        ],
+        "type": "DARKNESS",
+        "hash": "1186c0f1cdcb2276b9"
+    },
+    {
+        "id": "B2a-072",
+        "name": {
+            "en": "Tinkatink",
+            "es": "Tinkatink"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "PALDEA_STARTERS"
+        ],
+        "type": "METAL",
+        "hash": "1193ab90357b1a7195"
+    },
+    {
+        "id": "B2a-073",
+        "name": {
+            "en": "Tinkatuff",
+            "es": "Tinkatuff"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "PALDEA_STARTERS"
+        ],
+        "type": "METAL",
+        "hash": "11ec8c02717daea751"
+    },
+    {
+        "id": "B2a-074",
+        "name": {
+            "en": "Tinkaton",
+            "es": "Tinkaton"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "PALDEA_STARTERS"
+        ],
+        "type": "METAL",
+        "hash": "31d9b1460e725fc05e"
+    },
+    {
+        "id": "B2a-075",
+        "name": {
+            "en": "Varoom",
+            "es": "Varoom"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "PALDEA_STARTERS"
+        ],
+        "type": "METAL",
+        "hash": "11c4ec8e218b9abe99"
+    },
+    {
+        "id": "B2a-076",
+        "name": {
+            "en": "Revavroom",
+            "es": "Revavroom"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "PALDEA_STARTERS"
+        ],
+        "type": "METAL",
+        "hash": "21ec1a576dc9e08dc4"
+    },
+    {
+        "id": "B2a-077",
+        "name": {
+            "en": "Orthworm",
+            "es": "Orthworm"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "PALDEA_STARTERS"
+        ],
+        "type": "METAL",
+        "hash": "219c80837fd0bf4a78"
+    },
+    {
+        "id": "B2a-078",
+        "name": {
+            "en": "Gholdengo ex",
+            "es": "Gholdengo ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "PALDEA_STARTERS"
+        ],
+        "type": "METAL",
+        "hash": "41f69d01ac70dd4396"
+    },
+    {
+        "id": "B2a-079",
+        "name": {
+            "en": "Lechonk",
+            "es": "Lechonk"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "PALDEA_STARTERS"
+        ],
+        "type": "COLORLESS",
+        "hash": "11b4ab7b4b44e87036"
+    },
+    {
+        "id": "B2a-080",
+        "name": {
+            "en": "Oinkologne",
+            "es": "Oinkologne"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "PALDEA_STARTERS"
+        ],
+        "type": "COLORLESS",
+        "hash": "11b198cf474785a85b"
+    },
+    {
+        "id": "B2a-081",
+        "name": {
+            "en": "Tandemaus",
+            "es": "Tandemaus"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "PALDEA_STARTERS"
+        ],
+        "type": "COLORLESS",
+        "hash": "11c2762fb3d2cc4d48"
+    },
+    {
+        "id": "B2a-082",
+        "name": {
+            "en": "Maushold",
+            "es": "Maushold"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "PALDEA_STARTERS"
+        ],
+        "type": "COLORLESS",
+        "hash": "2185ae6bf639a0583c"
+    },
+    {
+        "id": "B2a-083",
+        "name": {
+            "en": "Squawkabilly",
+            "es": "Squawkabilly"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "PALDEA_STARTERS"
+        ],
+        "type": "COLORLESS",
+        "hash": "11f533725c891b9c85"
+    },
+    {
+        "id": "B2a-084",
+        "name": {
+            "en": "Cyclizar",
+            "es": "Cyclizar"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "PALDEA_STARTERS"
+        ],
+        "type": "COLORLESS",
+        "hash": "2199beb6c8874d4ce0"
+    },
+    {
+        "id": "B2a-085",
+        "name": {
+            "en": "Flamigo",
+            "es": "Flamigo"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "PALDEA_STARTERS"
+        ],
+        "type": "COLORLESS",
+        "hash": "11833bc61c5b936a8d"
+    },
+    {
+        "id": "B2a-086",
+        "name": {
+            "en": "Electric Generator",
+            "es": "Generador Eléctrico"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "PALDEA_STARTERS"
+        ],
+        "type": "TRAINER",
+        "hash": "21d39c62be9a8fd120"
+    },
+    {
+        "id": "B2a-087",
+        "name": {
+            "en": "Big Air Balloon",
+            "es": "Globo Helio Grande"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "PALDEA_STARTERS"
+        ],
+        "type": "TRAINER",
+        "hash": "21fea1308e838e3739"
+    },
+    {
+        "id": "B2a-088",
+        "name": {
+            "en": "Team Star Grunt",
+            "es": "Recluta del Team Star"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "PALDEA_STARTERS"
+        ],
+        "type": "TRAINER",
+        "hash": "21a5bbb2c0ce84beb0"
+    },
+    {
+        "id": "B2a-089",
+        "name": {
+            "en": "Iono",
+            "es": "e-Nigma"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "PALDEA_STARTERS"
+        ],
+        "type": "TRAINER",
+        "hash": "21d7e88980f38cb1a7"
+    },
+    {
+        "id": "B2a-090",
+        "name": {
+            "en": "Nemona",
+            "es": "Mencía"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "PALDEA_STARTERS"
+        ],
+        "type": "TRAINER",
+        "hash": "21b0c71e8c9198e39f"
+    },
+    {
+        "id": "B2a-091",
+        "name": {
+            "en": "Arven",
+            "es": "Damián"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "PALDEA_STARTERS"
+        ],
+        "type": "TRAINER",
+        "hash": "21a0d6cda24bb8d393"
+    },
+    {
+        "id": "B2a-092",
+        "name": {
+            "en": "Penny",
+            "es": "Noa"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "PALDEA_STARTERS"
+        ],
+        "type": "TRAINER",
+        "hash": "21a610e5f1e38cd0f3"
+    },
+    {
+        "id": "B2a-093",
+        "name": {
+            "en": "Mesagoza",
+            "es": "Ciudad Meseta"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "PALDEA_STARTERS"
+        ],
+        "type": "TRAINER",
+        "hash": "21ea3eb7d80f8301b1"
+    },
+    {
+        "id": "B2a-094",
+        "name": {
+            "en": "Fuecoco",
+            "es": "Fuecoco"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "PALDEA_STARTERS"
+        ],
+        "type": "FIRE",
+        "hash": "138b384d4ef0a4bb6c"
+    },
+    {
+        "id": "B2a-095",
+        "name": {
+            "en": "Greavard",
+            "es": "Greavard"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "PALDEA_STARTERS"
+        ],
+        "type": "PSYCHIC",
+        "hash": "1394596a92d6a4e979"
+    },
+    {
+        "id": "B2a-096",
+        "name": {
+            "en": "Gimmighoul",
+            "es": "Gimmighoul"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "PALDEA_STARTERS"
+        ],
+        "type": "PSYCHIC",
+        "hash": "13f8e24b45c49687e5"
+    },
+    {
+        "id": "B2a-097",
+        "name": {
+            "en": "Paldean Wooper",
+            "es": "Wooper de Paldea"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "PALDEA_STARTERS"
+        ],
+        "type": "DARKNESS",
+        "hash": "13e64d49268c3f26b6"
+    },
+    {
+        "id": "B2a-098",
+        "name": {
+            "en": "Orthworm",
+            "es": "Orthworm"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "PALDEA_STARTERS"
+        ],
+        "type": "METAL",
+        "hash": "13f82d15d2ca3d5938"
+    },
+    {
+        "id": "B2a-099",
+        "name": {
+            "en": "Maushold",
+            "es": "Maushold"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "PALDEA_STARTERS"
+        ],
+        "type": "COLORLESS",
+        "hash": "1385ee3e34e3e0d08b"
+    },
+    {
+        "id": "B2a-100",
+        "name": {
+            "en": "Meowscarada ex",
+            "es": "Meowscarada ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "PALDEA_STARTERS"
+        ],
+        "type": "GRASS",
+        "hash": "23f23248349cecdad5"
+    },
+    {
+        "id": "B2a-101",
+        "name": {
+            "en": "Armarouge ex",
+            "es": "Armarouge ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "PALDEA_STARTERS"
+        ],
+        "type": "FIRE",
+        "hash": "23e6b619876b9c4c91"
+    },
+    {
+        "id": "B2a-102",
+        "name": {
+            "en": "Chien-Pao ex",
+            "es": "Chien-Pao ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "PALDEA_STARTERS"
+        ],
+        "type": "WATER",
+        "hash": "239bf00efd2ae11316"
+    },
+    {
+        "id": "B2a-103",
+        "name": {
+            "en": "Bellibolt ex",
+            "es": "Bellibolt ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "PALDEA_STARTERS"
+        ],
+        "type": "LIGHTNING",
+        "hash": "23a8d01fa9433b74da"
+    },
+    {
+        "id": "B2a-104",
+        "name": {
+            "en": "Gholdengo ex",
+            "es": "Gholdengo ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "PALDEA_STARTERS"
+        ],
+        "type": "METAL",
+        "hash": "23a6680b82785d7f8e"
+    },
+    {
+        "id": "B2a-105",
+        "name": {
+            "en": "Team Star Grunt",
+            "es": "Recluta del Team Star"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "PALDEA_STARTERS"
+        ],
+        "type": "TRAINER",
+        "hash": "23d3b460b22ab793c9"
+    },
+    {
+        "id": "B2a-106",
+        "name": {
+            "en": "Iono",
+            "es": "e-Nigma"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "PALDEA_STARTERS"
+        ],
+        "type": "TRAINER",
+        "hash": "23838170f9eec1ecc6"
+    },
+    {
+        "id": "B2a-107",
+        "name": {
+            "en": "Nemona",
+            "es": "Mencía"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "PALDEA_STARTERS"
+        ],
+        "type": "TRAINER",
+        "hash": "23bee0c38f9c8d9886"
+    },
+    {
+        "id": "B2a-108",
+        "name": {
+            "en": "Arven",
+            "es": "Damián"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "PALDEA_STARTERS"
+        ],
+        "type": "TRAINER",
+        "hash": "23d059a485e3e396d6"
+    },
+    {
+        "id": "B2a-109",
+        "name": {
+            "en": "Penny",
+            "es": "Noa"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "PALDEA_STARTERS"
+        ],
+        "type": "TRAINER",
+        "hash": "23ff98a4c386939385"
+    },
+    {
+        "id": "B2a-110",
+        "name": {
+            "en": "Meowscarada ex",
+            "es": "Meowscarada ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "PALDEA_STARTERS"
+        ],
+        "type": "GRASS",
+        "hash": "23e0ecb9f00f964dc1"
+    },
+    {
+        "id": "B2a-111",
+        "name": {
+            "en": "Armarouge ex",
+            "es": "Armarouge ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "PALDEA_STARTERS"
+        ],
+        "type": "FIRE",
+        "hash": "23c59866697e009c7f"
+    },
+    {
+        "id": "B2a-112",
+        "name": {
+            "en": "Chien-Pao ex",
+            "es": "Chien-Pao ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "PALDEA_STARTERS"
+        ],
+        "type": "WATER",
+        "hash": "23a9e6de0839f34895"
+    },
+    {
+        "id": "B2a-113",
+        "name": {
+            "en": "Bellibolt ex",
+            "es": "Bellibolt ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "PALDEA_STARTERS"
+        ],
+        "type": "LIGHTNING",
+        "hash": "23d967ba546c9ce580"
+    },
+    {
+        "id": "B2a-114",
+        "name": {
+            "en": "Gholdengo ex",
+            "es": "Gholdengo ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "PALDEA_STARTERS"
+        ],
+        "type": "METAL",
+        "hash": "238534fcdcec614b19"
+    },
+    {
+        "id": "B2a-115",
+        "name": {
+            "en": "Arven",
+            "es": "Damián"
+        },
+        "rarity": "THREE_STAR",
+        "origins": [
+            "PALDEA_STARTERS"
+        ],
+        "type": "TRAINER",
+        "hash": "33ca8f125b283a579b"
+    },
+    {
+        "id": "B2a-116",
+        "name": {
+            "en": "Sprigatito",
+            "es": "Sprigatito"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "PALDEA_STARTERS"
+        ],
+        "type": "GRASS",
+        "hash": "14a10d94c59dbd2f45"
+    },
+    {
+        "id": "B2a-117",
+        "name": {
+            "en": "Floragato",
+            "es": "Floragato"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "PALDEA_STARTERS"
+        ],
+        "type": "GRASS",
+        "hash": "14a40d91c5c7fd1e32"
+    },
+    {
+        "id": "B2a-118",
+        "name": {
+            "en": "Meowscarada",
+            "es": "Meowscarada"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "PALDEA_STARTERS"
+        ],
+        "type": "GRASS",
+        "hash": "14e306c19d94969dda"
+    },
+    {
+        "id": "B2a-119",
+        "name": {
+            "en": "Pawmi",
+            "es": "Pawmi"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "PALDEA_STARTERS"
+        ],
+        "type": "LIGHTNING",
+        "hash": "14b40f95c59f251ba2"
+    },
+    {
+        "id": "B2a-120",
+        "name": {
+            "en": "Pawmo",
+            "es": "Pawmo"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "PALDEA_STARTERS"
+        ],
+        "type": "LIGHTNING",
+        "hash": "14a50d94919f3d0f53"
+    },
+    {
+        "id": "B2a-121",
+        "name": {
+            "en": "Pawmot",
+            "es": "Pawmot"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "PALDEA_STARTERS"
+        ],
+        "type": "LIGHTNING",
+        "hash": "14e50d84659a9c9f66"
+    },
+    {
+        "id": "B2a-122",
+        "name": {
+            "en": "Gimmighoul",
+            "es": "Gimmighoul"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "PALDEA_STARTERS"
+        ],
+        "type": "PSYCHIC",
+        "hash": "14a74691999b939999"
+    },
+    {
+        "id": "B2a-123",
+        "name": {
+            "en": "Tinkatink",
+            "es": "Tinkatink"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "PALDEA_STARTERS"
+        ],
+        "type": "METAL",
+        "hash": "14b41986c79bcd0f92"
+    },
+    {
+        "id": "B2a-124",
+        "name": {
+            "en": "Tinkatuff",
+            "es": "Tinkatuff"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "PALDEA_STARTERS"
+        ],
+        "type": "METAL",
+        "hash": "14f94d962487be1538"
+    },
+    {
+        "id": "B2a-125",
+        "name": {
+            "en": "Gholdengo",
+            "es": "Gholdengo"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "PALDEA_STARTERS"
+        ],
+        "type": "METAL",
+        "hash": "14a19995c48dec0f73"
+    },
+    {
+        "id": "B2a-126",
+        "name": {
+            "en": "Entei ex",
+            "es": "Entei ex"
+        },
+        "rarity": "TWO_SHINY",
+        "origins": [
+            "PALDEA_STARTERS"
+        ],
+        "type": "FIRE",
+        "hash": "24ecc9918a3ba4ee0b"
+    },
+    {
+        "id": "B2a-127",
+        "name": {
+            "en": "Suicune ex",
+            "es": "Suicune ex"
+        },
+        "rarity": "TWO_SHINY",
+        "origins": [
+            "PALDEA_STARTERS"
+        ],
+        "type": "WATER",
+        "hash": "24b39cd843aef68328"
+    },
+    {
+        "id": "B2a-128",
+        "name": {
+            "en": "Raikou ex",
+            "es": "Raikou ex"
+        },
+        "rarity": "TWO_SHINY",
+        "origins": [
+            "PALDEA_STARTERS"
+        ],
+        "type": "LIGHTNING",
+        "hash": "248ef0e1069ef5a0d3"
+    },
+    {
+        "id": "B2a-129",
+        "name": {
+            "en": "Tinkaton ex",
+            "es": "Tinkaton ex"
+        },
+        "rarity": "TWO_SHINY",
+        "origins": [
+            "PALDEA_STARTERS"
+        ],
+        "type": "METAL",
+        "hash": "24ea62956925c94cb7"
+    },
+    {
+        "id": "B2a-130",
+        "name": {
+            "en": "Baxcalibur",
+            "es": "Baxcalibur"
+        },
+        "rarity": "CROWN",
+        "origins": [
+            "PALDEA_STARTERS"
+        ],
+        "type": "WATER",
+        "hash": "15bc89d2ae361e0fd0"
+    },
+    {
+        "id": "B2a-131",
+        "name": {
+            "en": "Electric Generator",
+            "es": "Generador Eléctrico"
+        },
+        "rarity": "CROWN",
+        "origins": [
+            "PALDEA_STARTERS"
+        ],
+        "type": "TRAINER",
+        "hash": "159b210e3d727d7017"
+    }
 ]

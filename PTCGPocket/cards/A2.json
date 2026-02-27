@@ -1,2531 +1,2738 @@
 [
-  {
-    "id": "A2-001",
-    "name": {
-      "en": "Oddish",
-      "es": "Oddish"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "DIALGA",
-      "PALKIA"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "A2-002",
-    "name": {
-      "en": "Gloom",
-      "es": "Gloom"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "DIALGA",
-      "PALKIA"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "A2-003",
-    "name": {
-      "en": "Bellossom",
-      "es": "Bellossom"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "DIALGA",
-      "PALKIA"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "A2-004",
-    "name": {
-      "en": "Tangela",
-      "es": "Tangela"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "DIALGA"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "A2-005",
-    "name": {
-      "en": "Tangrowth",
-      "es": "Tangrowth"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "DIALGA"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "A2-006",
-    "name": {
-      "en": "Yanma",
-      "es": "Yanma"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "DIALGA"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "A2-007",
-    "name": {
-      "en": "Yanmega ex",
-      "es": "Yanmega ex"
-    },
-    "rarity": "FOUR_DIAMOND",
-    "origins": [
-      "DIALGA"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "A2-008",
-    "name": {
-      "en": "Roselia",
-      "es": "Roselia"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "DIALGA",
-      "PALKIA"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "A2-009",
-    "name": {
-      "en": "Roserade",
-      "es": "Roserade"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "DIALGA",
-      "PALKIA"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "A2-010",
-    "name": {
-      "en": "Turtwig",
-      "es": "Turtwig"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "PALKIA"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "A2-011",
-    "name": {
-      "en": "Grotle",
-      "es": "Grotle"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "PALKIA"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "A2-012",
-    "name": {
-      "en": "Torterra",
-      "es": "Torterra"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "PALKIA"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "A2-013",
-    "name": {
-      "en": "Kricketot",
-      "es": "Kricketot"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "PALKIA"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "A2-014",
-    "name": {
-      "en": "Kricketune",
-      "es": "Kricketune"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "PALKIA"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "A2-015",
-    "name": {
-      "en": "Burmy",
-      "es": "Burmy"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "DIALGA",
-      "PALKIA"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "A2-016",
-    "name": {
-      "en": "Wormadam",
-      "es": "Wormadam"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "DIALGA",
-      "PALKIA"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "A2-017",
-    "name": {
-      "en": "Combee",
-      "es": "Combee"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "DIALGA"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "A2-018",
-    "name": {
-      "en": "Vespiquen",
-      "es": "Vespiquen"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "DIALGA"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "A2-019",
-    "name": {
-      "en": "Carnivine",
-      "es": "Carnivine"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "PALKIA"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "A2-020",
-    "name": {
-      "en": "Leafeon",
-      "es": "Leafeon"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "DIALGA"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "A2-021",
-    "name": {
-      "en": "Mow Rotom",
-      "es": "Rotom Corte"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "DIALGA",
-      "PALKIA"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "A2-022",
-    "name": {
-      "en": "Shaymin",
-      "es": "Shaymin"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "DIALGA"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "A2-023",
-    "name": {
-      "en": "Magmar",
-      "es": "Magmar"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "PALKIA"
-    ],
-    "type": "FIRE"
-  },
-  {
-    "id": "A2-024",
-    "name": {
-      "en": "Magmortar",
-      "es": "Magmortar"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "PALKIA"
-    ],
-    "type": "FIRE"
-  },
-  {
-    "id": "A2-025",
-    "name": {
-      "en": "Slugma",
-      "es": "Slugma"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "DIALGA",
-      "PALKIA"
-    ],
-    "type": "FIRE"
-  },
-  {
-    "id": "A2-026",
-    "name": {
-      "en": "Magcargo",
-      "es": "Magcargo"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "DIALGA",
-      "PALKIA"
-    ],
-    "type": "FIRE"
-  },
-  {
-    "id": "A2-027",
-    "name": {
-      "en": "Chimchar",
-      "es": "Chimchar"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "PALKIA"
-    ],
-    "type": "FIRE"
-  },
-  {
-    "id": "A2-028",
-    "name": {
-      "en": "Monferno",
-      "es": "Monferno"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "PALKIA"
-    ],
-    "type": "FIRE"
-  },
-  {
-    "id": "A2-029",
-    "name": {
-      "en": "Infernape ex",
-      "es": "Infernape ex"
-    },
-    "rarity": "FOUR_DIAMOND",
-    "origins": [
-      "PALKIA"
-    ],
-    "type": "FIRE"
-  },
-  {
-    "id": "A2-030",
-    "name": {
-      "en": "Heat Rotom",
-      "es": "Rotom Calor"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "DIALGA",
-      "PALKIA"
-    ],
-    "type": "FIRE"
-  },
-  {
-    "id": "A2-031",
-    "name": {
-      "en": "Swinub",
-      "es": "Swinub"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "DIALGA"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A2-032",
-    "name": {
-      "en": "Piloswine",
-      "es": "Piloswine"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "DIALGA"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A2-033",
-    "name": {
-      "en": "Mamoswine",
-      "es": "Mamoswine"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "DIALGA"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A2-034",
-    "name": {
-      "en": "Regice",
-      "es": "Regice"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "PALKIA"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A2-035",
-    "name": {
-      "en": "Piplup",
-      "es": "Piplup"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "PALKIA"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A2-036",
-    "name": {
-      "en": "Prinplup",
-      "es": "Prinplup"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "PALKIA"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A2-037",
-    "name": {
-      "en": "Empoleon",
-      "es": "Empoleon"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "PALKIA"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A2-038",
-    "name": {
-      "en": "Buizel",
-      "es": "Buizel"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "DIALGA",
-      "PALKIA"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A2-039",
-    "name": {
-      "en": "Floatzel",
-      "es": "Floatzel"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "DIALGA",
-      "PALKIA"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A2-040",
-    "name": {
-      "en": "Shellos",
-      "es": "Shellos"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "PALKIA"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A2-041",
-    "name": {
-      "en": "Gastrodon",
-      "es": "Gastrodon"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "PALKIA"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A2-042",
-    "name": {
-      "en": "Finneon",
-      "es": "Finneon"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "DIALGA",
-      "PALKIA"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A2-043",
-    "name": {
-      "en": "Lumineon",
-      "es": "Lumineon"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "DIALGA",
-      "PALKIA"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A2-044",
-    "name": {
-      "en": "Snover",
-      "es": "Snover"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "DIALGA",
-      "PALKIA"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A2-045",
-    "name": {
-      "en": "Abomasnow",
-      "es": "Abomasnow"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "DIALGA",
-      "PALKIA"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A2-046",
-    "name": {
-      "en": "Glaceon",
-      "es": "Glaceon"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "PALKIA"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A2-047",
-    "name": {
-      "en": "Wash Rotom",
-      "es": "Rotom Lavado"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "DIALGA",
-      "PALKIA"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A2-048",
-    "name": {
-      "en": "Frost Rotom",
-      "es": "Rotom Frío"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "DIALGA",
-      "PALKIA"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A2-049",
-    "name": {
-      "en": "Palkia ex",
-      "es": "Palkia ex"
-    },
-    "rarity": "FOUR_DIAMOND",
-    "origins": [
-      "PALKIA"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A2-050",
-    "name": {
-      "en": "Manaphy",
-      "es": "Manaphy"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "PALKIA"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A2-051",
-    "name": {
-      "en": "Magnemite",
-      "es": "Magnemite"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "DIALGA",
-      "PALKIA"
-    ],
-    "type": "LIGHTNING"
-  },
-  {
-    "id": "A2-052",
-    "name": {
-      "en": "Magneton",
-      "es": "Magneton"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "DIALGA",
-      "PALKIA"
-    ],
-    "type": "LIGHTNING"
-  },
-  {
-    "id": "A2-053",
-    "name": {
-      "en": "Magnezone",
-      "es": "Magnezone"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "DIALGA",
-      "PALKIA"
-    ],
-    "type": "LIGHTNING"
-  },
-  {
-    "id": "A2-054",
-    "name": {
-      "en": "Voltorb",
-      "es": "Voltorb"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "DIALGA",
-      "PALKIA"
-    ],
-    "type": "LIGHTNING"
-  },
-  {
-    "id": "A2-055",
-    "name": {
-      "en": "Electrode",
-      "es": "Electrode"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "DIALGA",
-      "PALKIA"
-    ],
-    "type": "LIGHTNING"
-  },
-  {
-    "id": "A2-056",
-    "name": {
-      "en": "Electabuzz",
-      "es": "Electabuzz"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "DIALGA"
-    ],
-    "type": "LIGHTNING"
-  },
-  {
-    "id": "A2-057",
-    "name": {
-      "en": "Electivire",
-      "es": "Electivire"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "DIALGA"
-    ],
-    "type": "LIGHTNING"
-  },
-  {
-    "id": "A2-058",
-    "name": {
-      "en": "Shinx",
-      "es": "Shinx"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "DIALGA"
-    ],
-    "type": "LIGHTNING"
-  },
-  {
-    "id": "A2-059",
-    "name": {
-      "en": "Luxio",
-      "es": "Luxio"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "DIALGA"
-    ],
-    "type": "LIGHTNING"
-  },
-  {
-    "id": "A2-060",
-    "name": {
-      "en": "Luxray",
-      "es": "Luxray"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "DIALGA"
-    ],
-    "type": "LIGHTNING"
-  },
-  {
-    "id": "A2-061",
-    "name": {
-      "en": "Pachirisu ex",
-      "es": "Pachirisu ex"
-    },
-    "rarity": "FOUR_DIAMOND",
-    "origins": [
-      "DIALGA"
-    ],
-    "type": "LIGHTNING"
-  },
-  {
-    "id": "A2-062",
-    "name": {
-      "en": "Rotom",
-      "es": "Rotom"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "PALKIA"
-    ],
-    "type": "LIGHTNING"
-  },
-  {
-    "id": "A2-063",
-    "name": {
-      "en": "Togepi",
-      "es": "Togepi"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "DIALGA",
-      "PALKIA"
-    ],
-    "type": "PSYCHIC"
-  },
-  {
-    "id": "A2-064",
-    "name": {
-      "en": "Togetic",
-      "es": "Togetic"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "DIALGA",
-      "PALKIA"
-    ],
-    "type": "PSYCHIC"
-  },
-  {
-    "id": "A2-065",
-    "name": {
-      "en": "Togekiss",
-      "es": "Togekiss"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "DIALGA",
-      "PALKIA"
-    ],
-    "type": "PSYCHIC"
-  },
-  {
-    "id": "A2-066",
-    "name": {
-      "en": "Misdreavus",
-      "es": "Misdreavus"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "PALKIA"
-    ],
-    "type": "PSYCHIC"
-  },
-  {
-    "id": "A2-067",
-    "name": {
-      "en": "Mismagius ex",
-      "es": "Mismagius ex"
-    },
-    "rarity": "FOUR_DIAMOND",
-    "origins": [
-      "PALKIA"
-    ],
-    "type": "PSYCHIC"
-  },
-  {
-    "id": "A2-068",
-    "name": {
-      "en": "Ralts",
-      "es": "Ralts"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "DIALGA"
-    ],
-    "type": "PSYCHIC"
-  },
-  {
-    "id": "A2-069",
-    "name": {
-      "en": "Kirlia",
-      "es": "Kirlia"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "DIALGA"
-    ],
-    "type": "PSYCHIC"
-  },
-  {
-    "id": "A2-070",
-    "name": {
-      "en": "Duskull",
-      "es": "Duskull"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "DIALGA"
-    ],
-    "type": "PSYCHIC"
-  },
-  {
-    "id": "A2-071",
-    "name": {
-      "en": "Dusclops",
-      "es": "Dusclops"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "DIALGA"
-    ],
-    "type": "PSYCHIC"
-  },
-  {
-    "id": "A2-072",
-    "name": {
-      "en": "Dusknoir",
-      "es": "Dusknoir"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "DIALGA"
-    ],
-    "type": "PSYCHIC"
-  },
-  {
-    "id": "A2-073",
-    "name": {
-      "en": "Drifloon",
-      "es": "Drifloon"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "DIALGA"
-    ],
-    "type": "PSYCHIC"
-  },
-  {
-    "id": "A2-074",
-    "name": {
-      "en": "Drifblim",
-      "es": "Drifblim"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "DIALGA"
-    ],
-    "type": "PSYCHIC"
-  },
-  {
-    "id": "A2-075",
-    "name": {
-      "en": "Uxie",
-      "es": "Uxie"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "DIALGA",
-      "PALKIA"
-    ],
-    "type": "PSYCHIC"
-  },
-  {
-    "id": "A2-076",
-    "name": {
-      "en": "Mesprit",
-      "es": "Mesprit"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "DIALGA",
-      "PALKIA"
-    ],
-    "type": "PSYCHIC"
-  },
-  {
-    "id": "A2-077",
-    "name": {
-      "en": "Azelf",
-      "es": "Azelf"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "DIALGA",
-      "PALKIA"
-    ],
-    "type": "PSYCHIC"
-  },
-  {
-    "id": "A2-078",
-    "name": {
-      "en": "Giratina",
-      "es": "Giratina"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "PALKIA"
-    ],
-    "type": "PSYCHIC"
-  },
-  {
-    "id": "A2-079",
-    "name": {
-      "en": "Cresselia",
-      "es": "Cresselia"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "PALKIA"
-    ],
-    "type": "PSYCHIC"
-  },
-  {
-    "id": "A2-080",
-    "name": {
-      "en": "Rhyhorn",
-      "es": "Rhyhorn"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "PALKIA"
-    ],
-    "type": "FIGHTING"
-  },
-  {
-    "id": "A2-081",
-    "name": {
-      "en": "Rhydon",
-      "es": "Rhydon"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "PALKIA"
-    ],
-    "type": "FIGHTING"
-  },
-  {
-    "id": "A2-082",
-    "name": {
-      "en": "Rhyperior",
-      "es": "Rhyperior"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "PALKIA"
-    ],
-    "type": "FIGHTING"
-  },
-  {
-    "id": "A2-083",
-    "name": {
-      "en": "Gligar",
-      "es": "Gligar"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "DIALGA"
-    ],
-    "type": "FIGHTING"
-  },
-  {
-    "id": "A2-084",
-    "name": {
-      "en": "Gliscor",
-      "es": "Gliscor"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "DIALGA"
-    ],
-    "type": "FIGHTING"
-  },
-  {
-    "id": "A2-085",
-    "name": {
-      "en": "Hitmontop",
-      "es": "Hitmontop"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "DIALGA"
-    ],
-    "type": "FIGHTING"
-  },
-  {
-    "id": "A2-086",
-    "name": {
-      "en": "Nosepass",
-      "es": "Nosepass"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "DIALGA",
-      "PALKIA"
-    ],
-    "type": "FIGHTING"
-  },
-  {
-    "id": "A2-087",
-    "name": {
-      "en": "Regirock",
-      "es": "Regirock"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "DIALGA",
-      "PALKIA"
-    ],
-    "type": "FIGHTING"
-  },
-  {
-    "id": "A2-088",
-    "name": {
-      "en": "Cranidos",
-      "es": "Cranidos"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "DIALGA"
-    ],
-    "type": "FIGHTING"
-  },
-  {
-    "id": "A2-089",
-    "name": {
-      "en": "Rampardos",
-      "es": "Rampardos"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "DIALGA"
-    ],
-    "type": "FIGHTING"
-  },
-  {
-    "id": "A2-090",
-    "name": {
-      "en": "Wormadam",
-      "es": "Wormadam"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "DIALGA"
-    ],
-    "type": "FIGHTING"
-  },
-  {
-    "id": "A2-091",
-    "name": {
-      "en": "Riolu",
-      "es": "Riolu"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "DIALGA"
-    ],
-    "type": "FIGHTING"
-  },
-  {
-    "id": "A2-092",
-    "name": {
-      "en": "Lucario",
-      "es": "Lucario"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "DIALGA"
-    ],
-    "type": "FIGHTING"
-  },
-  {
-    "id": "A2-093",
-    "name": {
-      "en": "Hippopotas",
-      "es": "Hippopotas"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "PALKIA"
-    ],
-    "type": "FIGHTING"
-  },
-  {
-    "id": "A2-094",
-    "name": {
-      "en": "Hippowdon",
-      "es": "Hippowdon"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "PALKIA"
-    ],
-    "type": "FIGHTING"
-  },
-  {
-    "id": "A2-095",
-    "name": {
-      "en": "Gallade ex",
-      "es": "Gallade ex"
-    },
-    "rarity": "FOUR_DIAMOND",
-    "origins": [
-      "DIALGA"
-    ],
-    "type": "FIGHTING"
-  },
-  {
-    "id": "A2-096",
-    "name": {
-      "en": "Murkrow",
-      "es": "Murkrow"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "DIALGA"
-    ],
-    "type": "DARKNESS"
-  },
-  {
-    "id": "A2-097",
-    "name": {
-      "en": "Honchkrow",
-      "es": "Honchkrow"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "DIALGA"
-    ],
-    "type": "DARKNESS"
-  },
-  {
-    "id": "A2-098",
-    "name": {
-      "en": "Sneasel",
-      "es": "Sneasel"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "PALKIA"
-    ],
-    "type": "DARKNESS"
-  },
-  {
-    "id": "A2-099",
-    "name": {
-      "en": "Weavile ex",
-      "es": "Weavile ex"
-    },
-    "rarity": "FOUR_DIAMOND",
-    "origins": [
-      "PALKIA"
-    ],
-    "type": "DARKNESS"
-  },
-  {
-    "id": "A2-100",
-    "name": {
-      "en": "Poochyena",
-      "es": "Poochyena"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "DIALGA",
-      "PALKIA"
-    ],
-    "type": "DARKNESS"
-  },
-  {
-    "id": "A2-101",
-    "name": {
-      "en": "Mightyena",
-      "es": "Mightyena"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "DIALGA",
-      "PALKIA"
-    ],
-    "type": "DARKNESS"
-  },
-  {
-    "id": "A2-102",
-    "name": {
-      "en": "Stunky",
-      "es": "Stunky"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "DIALGA"
-    ],
-    "type": "DARKNESS"
-  },
-  {
-    "id": "A2-103",
-    "name": {
-      "en": "Skuntank",
-      "es": "Skuntank"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "DIALGA"
-    ],
-    "type": "DARKNESS"
-  },
-  {
-    "id": "A2-104",
-    "name": {
-      "en": "Spiritomb",
-      "es": "Spiritomb"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "PALKIA"
-    ],
-    "type": "DARKNESS"
-  },
-  {
-    "id": "A2-105",
-    "name": {
-      "en": "Skorupi",
-      "es": "Skorupi"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "DIALGA",
-      "PALKIA"
-    ],
-    "type": "DARKNESS"
-  },
-  {
-    "id": "A2-106",
-    "name": {
-      "en": "Drapion",
-      "es": "Drapion"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "DIALGA",
-      "PALKIA"
-    ],
-    "type": "DARKNESS"
-  },
-  {
-    "id": "A2-107",
-    "name": {
-      "en": "Croagunk",
-      "es": "Croagunk"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "DIALGA"
-    ],
-    "type": "DARKNESS"
-  },
-  {
-    "id": "A2-108",
-    "name": {
-      "en": "Toxicroak",
-      "es": "Toxicroak"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "DIALGA"
-    ],
-    "type": "DARKNESS"
-  },
-  {
-    "id": "A2-109",
-    "name": {
-      "en": "Darkrai",
-      "es": "Darkrai"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "DIALGA"
-    ],
-    "type": "DARKNESS"
-  },
-  {
-    "id": "A2-110",
-    "name": {
-      "en": "Darkrai ex",
-      "es": "Darkrai ex"
-    },
-    "rarity": "FOUR_DIAMOND",
-    "origins": [
-      "DIALGA"
-    ],
-    "type": "DARKNESS"
-  },
-  {
-    "id": "A2-111",
-    "name": {
-      "en": "Skarmory",
-      "es": "Skarmory"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "DIALGA",
-      "PALKIA"
-    ],
-    "type": "METAL"
-  },
-  {
-    "id": "A2-112",
-    "name": {
-      "en": "Registeel",
-      "es": "Registeel"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "DIALGA"
-    ],
-    "type": "METAL"
-  },
-  {
-    "id": "A2-113",
-    "name": {
-      "en": "Shieldon",
-      "es": "Shieldon"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "PALKIA"
-    ],
-    "type": "METAL"
-  },
-  {
-    "id": "A2-114",
-    "name": {
-      "en": "Bastiodon",
-      "es": "Bastiodon"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "PALKIA"
-    ],
-    "type": "METAL"
-  },
-  {
-    "id": "A2-115",
-    "name": {
-      "en": "Wormadam",
-      "es": "Wormadam"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "PALKIA"
-    ],
-    "type": "METAL"
-  },
-  {
-    "id": "A2-116",
-    "name": {
-      "en": "Bronzor",
-      "es": "Bronzor"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "DIALGA"
-    ],
-    "type": "METAL"
-  },
-  {
-    "id": "A2-117",
-    "name": {
-      "en": "Bronzong",
-      "es": "Bronzong"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "DIALGA"
-    ],
-    "type": "METAL"
-  },
-  {
-    "id": "A2-118",
-    "name": {
-      "en": "Probopass",
-      "es": "Probopass"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "DIALGA",
-      "PALKIA"
-    ],
-    "type": "METAL"
-  },
-  {
-    "id": "A2-119",
-    "name": {
-      "en": "Dialga ex",
-      "es": "Dialga ex"
-    },
-    "rarity": "FOUR_DIAMOND",
-    "origins": [
-      "DIALGA"
-    ],
-    "type": "METAL"
-  },
-  {
-    "id": "A2-120",
-    "name": {
-      "en": "Heatran",
-      "es": "Heatran"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "DIALGA"
-    ],
-    "type": "METAL"
-  },
-  {
-    "id": "A2-121",
-    "name": {
-      "en": "Gible",
-      "es": "Gible"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "PALKIA"
-    ],
-    "type": "DRAGON"
-  },
-  {
-    "id": "A2-122",
-    "name": {
-      "en": "Gabite",
-      "es": "Gabite"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "PALKIA"
-    ],
-    "type": "DRAGON"
-  },
-  {
-    "id": "A2-123",
-    "name": {
-      "en": "Garchomp",
-      "es": "Garchomp"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "PALKIA"
-    ],
-    "type": "DRAGON"
-  },
-  {
-    "id": "A2-124",
-    "name": {
-      "en": "Lickitung",
-      "es": "Lickitung"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "PALKIA"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "A2-125",
-    "name": {
-      "en": "Lickilicky ex",
-      "es": "Lickilicky ex"
-    },
-    "rarity": "FOUR_DIAMOND",
-    "origins": [
-      "PALKIA"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "A2-126",
-    "name": {
-      "en": "Eevee",
-      "es": "Eevee"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "DIALGA",
-      "PALKIA"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "A2-127",
-    "name": {
-      "en": "Porygon",
-      "es": "Porygon"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "PALKIA"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "A2-128",
-    "name": {
-      "en": "Porygon2",
-      "es": "Porygon2"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "PALKIA"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "A2-129",
-    "name": {
-      "en": "Porygon-Z",
-      "es": "Porygon-Z"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "PALKIA"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "A2-130",
-    "name": {
-      "en": "Aipom",
-      "es": "Aipom"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "DIALGA",
-      "PALKIA"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "A2-131",
-    "name": {
-      "en": "Ambipom",
-      "es": "Ambipom"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "DIALGA",
-      "PALKIA"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "A2-132",
-    "name": {
-      "en": "Starly",
-      "es": "Starly"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "PALKIA"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "A2-133",
-    "name": {
-      "en": "Staravia",
-      "es": "Staravia"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "PALKIA"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "A2-134",
-    "name": {
-      "en": "Staraptor",
-      "es": "Staraptor"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "PALKIA"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "A2-135",
-    "name": {
-      "en": "Bidoof",
-      "es": "Bidoof"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "DIALGA"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "A2-136",
-    "name": {
-      "en": "Bibarel",
-      "es": "Bibarel"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "DIALGA"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "A2-137",
-    "name": {
-      "en": "Buneary",
-      "es": "Buneary"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "DIALGA"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "A2-138",
-    "name": {
-      "en": "Lopunny",
-      "es": "Lopunny"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "DIALGA"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "A2-139",
-    "name": {
-      "en": "Glameow",
-      "es": "Glameow"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "PALKIA"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "A2-140",
-    "name": {
-      "en": "Purugly",
-      "es": "Purugly"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "PALKIA"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "A2-141",
-    "name": {
-      "en": "Chatot",
-      "es": "Chatot"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "PALKIA"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "A2-142",
-    "name": {
-      "en": "Fan Rotom",
-      "es": "Rotom Ventilador"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "DIALGA",
-      "PALKIA"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "A2-143",
-    "name": {
-      "en": "Regigigas",
-      "es": "Regigigas"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "DIALGA",
-      "PALKIA"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "A2-144",
-    "name": {
-      "en": "Skull Fossil",
-      "es": "Fósil Cráneo"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "DIALGA"
-    ],
-    "type": "TRAINER"
-  },
-  {
-    "id": "A2-145",
-    "name": {
-      "en": "Armor Fossil",
-      "es": "Fósil Coraza"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "PALKIA"
-    ],
-    "type": "TRAINER"
-  },
-  {
-    "id": "A2-146",
-    "name": {
-      "en": "Pokémon Communication",
-      "es": "Comunicación Pokémon"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "DIALGA"
-    ],
-    "type": "TRAINER"
-  },
-  {
-    "id": "A2-147",
-    "name": {
-      "en": "Giant Cape",
-      "es": "Capa Gigante"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "DIALGA"
-    ],
-    "type": "TRAINER"
-  },
-  {
-    "id": "A2-148",
-    "name": {
-      "en": "Rocky Helmet",
-      "es": "Casco Dentado"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "PALKIA"
-    ],
-    "type": "TRAINER"
-  },
-  {
-    "id": "A2-149",
-    "name": {
-      "en": "Lum Berry",
-      "es": "Baya Ziuela"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "PALKIA"
-    ],
-    "type": "TRAINER"
-  },
-  {
-    "id": "A2-150",
-    "name": {
-      "en": "Cyrus",
-      "es": "Helio"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "PALKIA"
-    ],
-    "type": "TRAINER"
-  },
-  {
-    "id": "A2-151",
-    "name": {
-      "en": "Team Galactic Grunt",
-      "es": "Recluta del Equipo Galaxia"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "DIALGA"
-    ],
-    "type": "TRAINER"
-  },
-  {
-    "id": "A2-152",
-    "name": {
-      "en": "Cynthia",
-      "es": "Cintia"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "PALKIA"
-    ],
-    "type": "TRAINER"
-  },
-  {
-    "id": "A2-153",
-    "name": {
-      "en": "Volkner",
-      "es": "Lectro"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "DIALGA"
-    ],
-    "type": "TRAINER"
-  },
-  {
-    "id": "A2-154",
-    "name": {
-      "en": "Dawn",
-      "es": "Maya"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "DIALGA"
-    ],
-    "type": "TRAINER"
-  },
-  {
-    "id": "A2-155",
-    "name": {
-      "en": "Mars",
-      "es": "Venus"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "PALKIA"
-    ],
-    "type": "TRAINER"
-  },
-  {
-    "id": "A2-156",
-    "name": {
-      "en": "Tangrowth",
-      "es": "Tangrowth"
-    },
-    "rarity": "ONE_STAR",
-    "origins": [
-      "DIALGA"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "A2-157",
-    "name": {
-      "en": "Combee",
-      "es": "Combee"
-    },
-    "rarity": "ONE_STAR",
-    "origins": [
-      "DIALGA"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "A2-158",
-    "name": {
-      "en": "Carnivine",
-      "es": "Carnivine"
-    },
-    "rarity": "ONE_STAR",
-    "origins": [
-      "PALKIA"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "A2-159",
-    "name": {
-      "en": "Shaymin",
-      "es": "Shaymin"
-    },
-    "rarity": "ONE_STAR",
-    "origins": [
-      "DIALGA"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "A2-160",
-    "name": {
-      "en": "Mamoswine",
-      "es": "Mamoswine"
-    },
-    "rarity": "ONE_STAR",
-    "origins": [
-      "DIALGA"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A2-161",
-    "name": {
-      "en": "Gastrodon",
-      "es": "Gastrodon"
-    },
-    "rarity": "ONE_STAR",
-    "origins": [
-      "PALKIA"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A2-162",
-    "name": {
-      "en": "Manaphy",
-      "es": "Manaphy"
-    },
-    "rarity": "ONE_STAR",
-    "origins": [
-      "PALKIA"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A2-163",
-    "name": {
-      "en": "Shinx",
-      "es": "Shinx"
-    },
-    "rarity": "ONE_STAR",
-    "origins": [
-      "DIALGA"
-    ],
-    "type": "LIGHTNING"
-  },
-  {
-    "id": "A2-164",
-    "name": {
-      "en": "Rotom",
-      "es": "Rotom"
-    },
-    "rarity": "ONE_STAR",
-    "origins": [
-      "PALKIA"
-    ],
-    "type": "LIGHTNING"
-  },
-  {
-    "id": "A2-165",
-    "name": {
-      "en": "Drifloon",
-      "es": "Drifloon"
-    },
-    "rarity": "ONE_STAR",
-    "origins": [
-      "DIALGA"
-    ],
-    "type": "PSYCHIC"
-  },
-  {
-    "id": "A2-166",
-    "name": {
-      "en": "Mesprit",
-      "es": "Mesprit"
-    },
-    "rarity": "ONE_STAR",
-    "origins": [
-      "DIALGA"
-    ],
-    "type": "PSYCHIC"
-  },
-  {
-    "id": "A2-167",
-    "name": {
-      "en": "Giratina",
-      "es": "Giratina"
-    },
-    "rarity": "ONE_STAR",
-    "origins": [
-      "PALKIA"
-    ],
-    "type": "PSYCHIC"
-  },
-  {
-    "id": "A2-168",
-    "name": {
-      "en": "Cresselia",
-      "es": "Cresselia"
-    },
-    "rarity": "ONE_STAR",
-    "origins": [
-      "PALKIA"
-    ],
-    "type": "PSYCHIC"
-  },
-  {
-    "id": "A2-169",
-    "name": {
-      "en": "Rhyperior",
-      "es": "Rhyperior"
-    },
-    "rarity": "ONE_STAR",
-    "origins": [
-      "PALKIA"
-    ],
-    "type": "FIGHTING"
-  },
-  {
-    "id": "A2-170",
-    "name": {
-      "en": "Lucario",
-      "es": "Lucario"
-    },
-    "rarity": "ONE_STAR",
-    "origins": [
-      "DIALGA"
-    ],
-    "type": "FIGHTING"
-  },
-  {
-    "id": "A2-171",
-    "name": {
-      "en": "Hippopotas",
-      "es": "Hippopotas"
-    },
-    "rarity": "ONE_STAR",
-    "origins": [
-      "PALKIA"
-    ],
-    "type": "FIGHTING"
-  },
-  {
-    "id": "A2-172",
-    "name": {
-      "en": "Spiritomb",
-      "es": "Spiritomb"
-    },
-    "rarity": "ONE_STAR",
-    "origins": [
-      "PALKIA"
-    ],
-    "type": "DARKNESS"
-  },
-  {
-    "id": "A2-173",
-    "name": {
-      "en": "Croagunk",
-      "es": "Croagunk"
-    },
-    "rarity": "ONE_STAR",
-    "origins": [
-      "DIALGA"
-    ],
-    "type": "DARKNESS"
-  },
-  {
-    "id": "A2-174",
-    "name": {
-      "en": "Heatran",
-      "es": "Heatran"
-    },
-    "rarity": "ONE_STAR",
-    "origins": [
-      "DIALGA"
-    ],
-    "type": "METAL"
-  },
-  {
-    "id": "A2-175",
-    "name": {
-      "en": "Garchomp",
-      "es": "Garchomp"
-    },
-    "rarity": "ONE_STAR",
-    "origins": [
-      "PALKIA"
-    ],
-    "type": "DRAGON"
-  },
-  {
-    "id": "A2-176",
-    "name": {
-      "en": "Staraptor",
-      "es": "Staraptor"
-    },
-    "rarity": "ONE_STAR",
-    "origins": [
-      "PALKIA"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "A2-177",
-    "name": {
-      "en": "Bidoof",
-      "es": "Bidoof"
-    },
-    "rarity": "ONE_STAR",
-    "origins": [
-      "DIALGA"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "A2-178",
-    "name": {
-      "en": "Glameow",
-      "es": "Glameow"
-    },
-    "rarity": "ONE_STAR",
-    "origins": [
-      "PALKIA"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "A2-179",
-    "name": {
-      "en": "Regigigas",
-      "es": "Regigigas"
-    },
-    "rarity": "ONE_STAR",
-    "origins": [
-      "DIALGA"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "A2-180",
-    "name": {
-      "en": "Yanmega ex",
-      "es": "Yanmega ex"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "DIALGA"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "A2-181",
-    "name": {
-      "en": "Infernape ex",
-      "es": "Infernape ex"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "PALKIA"
-    ],
-    "type": "FIRE"
-  },
-  {
-    "id": "A2-182",
-    "name": {
-      "en": "Palkia ex",
-      "es": "Palkia ex"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "PALKIA"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A2-183",
-    "name": {
-      "en": "Pachirisu ex",
-      "es": "Pachirisu ex"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "DIALGA"
-    ],
-    "type": "LIGHTNING"
-  },
-  {
-    "id": "A2-184",
-    "name": {
-      "en": "Mismagius ex",
-      "es": "Mismagius ex"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "PALKIA"
-    ],
-    "type": "PSYCHIC"
-  },
-  {
-    "id": "A2-185",
-    "name": {
-      "en": "Gallade ex",
-      "es": "Gallade ex"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "DIALGA"
-    ],
-    "type": "FIGHTING"
-  },
-  {
-    "id": "A2-186",
-    "name": {
-      "en": "Weavile ex",
-      "es": "Weavile ex"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "PALKIA"
-    ],
-    "type": "DARKNESS"
-  },
-  {
-    "id": "A2-187",
-    "name": {
-      "en": "Darkrai ex",
-      "es": "Darkrai ex"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "DIALGA"
-    ],
-    "type": "DARKNESS"
-  },
-  {
-    "id": "A2-188",
-    "name": {
-      "en": "Dialga ex",
-      "es": "Dialga ex"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "DIALGA"
-    ],
-    "type": "METAL"
-  },
-  {
-    "id": "A2-189",
-    "name": {
-      "en": "Lickilicky ex",
-      "es": "Lickilicky ex"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "PALKIA"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "A2-190",
-    "name": {
-      "en": "Cyrus",
-      "es": "Helio"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "PALKIA"
-    ],
-    "type": "TRAINER"
-  },
-  {
-    "id": "A2-191",
-    "name": {
-      "en": "Team Galactic Grunt",
-      "es": "Recluta del Equipo Galaxia"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "DIALGA"
-    ],
-    "type": "TRAINER"
-  },
-  {
-    "id": "A2-192",
-    "name": {
-      "en": "Cynthia",
-      "es": "Cintia"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "PALKIA"
-    ],
-    "type": "TRAINER"
-  },
-  {
-    "id": "A2-193",
-    "name": {
-      "en": "Volkner",
-      "es": "Lectro"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "DIALGA"
-    ],
-    "type": "TRAINER"
-  },
-  {
-    "id": "A2-194",
-    "name": {
-      "en": "Dawn",
-      "es": "Maya"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "DIALGA"
-    ],
-    "type": "TRAINER"
-  },
-  {
-    "id": "A2-195",
-    "name": {
-      "en": "Mars",
-      "es": "Venus"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "PALKIA"
-    ],
-    "type": "TRAINER"
-  },
-  {
-    "id": "A2-196",
-    "name": {
-      "en": "Yanmega ex",
-      "es": "Yanmega ex"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "DIALGA"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "A2-197",
-    "name": {
-      "en": "Infernape ex",
-      "es": "Infernape ex"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "PALKIA"
-    ],
-    "type": "FIRE"
-  },
-  {
-    "id": "A2-198",
-    "name": {
-      "en": "Pachirisu ex",
-      "es": "Pachirisu ex"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "DIALGA"
-    ],
-    "type": "LIGHTNING"
-  },
-  {
-    "id": "A2-199",
-    "name": {
-      "en": "Mismagius ex",
-      "es": "Mismagius ex"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "PALKIA"
-    ],
-    "type": "PSYCHIC"
-  },
-  {
-    "id": "A2-200",
-    "name": {
-      "en": "Gallade ex",
-      "es": "Gallade ex"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "DIALGA"
-    ],
-    "type": "FIGHTING"
-  },
-  {
-    "id": "A2-201",
-    "name": {
-      "en": "Weavile ex",
-      "es": "Weavile ex"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "PALKIA"
-    ],
-    "type": "DARKNESS"
-  },
-  {
-    "id": "A2-202",
-    "name": {
-      "en": "Darkrai ex",
-      "es": "Darkrai ex"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "DIALGA"
-    ],
-    "type": "DARKNESS"
-  },
-  {
-    "id": "A2-203",
-    "name": {
-      "en": "Lickilicky ex",
-      "es": "Lickilicky ex"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "PALKIA"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "A2-204",
-    "name": {
-      "en": "Palkia ex",
-      "es": "Palkia ex"
-    },
-    "rarity": "THREE_STAR",
-    "origins": [
-      "PALKIA"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A2-205",
-    "name": {
-      "en": "Dialga ex",
-      "es": "Dialga ex"
-    },
-    "rarity": "THREE_STAR",
-    "origins": [
-      "DIALGA"
-    ],
-    "type": "METAL"
-  },
-  {
-    "id": "A2-206",
-    "name": {
-      "en": "Palkia ex",
-      "es": "Palkia ex"
-    },
-    "rarity": "CROWN",
-    "origins": [
-      "DIALGA",
-      "PALKIA"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A2-207",
-    "name": {
-      "en": "Dialga ex",
-      "es": "Dialga ex"
-    },
-    "rarity": "CROWN",
-    "origins": [
-      "DIALGA",
-      "PALKIA"
-    ],
-    "type": "METAL"
-  }
+    {
+        "id": "A2-001",
+        "name": {
+            "en": "Oddish",
+            "es": "Oddish"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "DIALGA",
+            "PALKIA"
+        ],
+        "type": "GRASS",
+        "hash": "11961436b56b4bc969"
+    },
+    {
+        "id": "A2-002",
+        "name": {
+            "en": "Gloom",
+            "es": "Gloom"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "DIALGA",
+            "PALKIA"
+        ],
+        "type": "GRASS",
+        "hash": "11e7895eb01d863d98"
+    },
+    {
+        "id": "A2-003",
+        "name": {
+            "en": "Bellossom",
+            "es": "Bellossom"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "DIALGA",
+            "PALKIA"
+        ],
+        "type": "GRASS",
+        "hash": "21a08c78ea8a9cb6af"
+    },
+    {
+        "id": "A2-004",
+        "name": {
+            "en": "Tangela",
+            "es": "Tangela"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "DIALGA"
+        ],
+        "type": "GRASS",
+        "hash": "11d7c9cb30cc66381b"
+    },
+    {
+        "id": "A2-005",
+        "name": {
+            "en": "Tangrowth",
+            "es": "Tangrowth"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "DIALGA"
+        ],
+        "type": "GRASS",
+        "hash": "21a0875ae9c95ee06e"
+    },
+    {
+        "id": "A2-006",
+        "name": {
+            "en": "Yanma",
+            "es": "Yanma"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "DIALGA"
+        ],
+        "type": "GRASS",
+        "hash": "11ea53d33a8a66b449"
+    },
+    {
+        "id": "A2-007",
+        "name": {
+            "en": "Yanmega ex",
+            "es": "Yanmega ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "DIALGA"
+        ],
+        "type": "GRASS",
+        "hash": "41ec17b9d91e4ac3c0"
+    },
+    {
+        "id": "A2-008",
+        "name": {
+            "en": "Roselia",
+            "es": "Roselia"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "DIALGA",
+            "PALKIA"
+        ],
+        "type": "GRASS",
+        "hash": "11ab34144bb68d34af"
+    },
+    {
+        "id": "A2-009",
+        "name": {
+            "en": "Roserade",
+            "es": "Roserade"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "DIALGA",
+            "PALKIA"
+        ],
+        "type": "GRASS",
+        "hash": "21c1c4c9f87c8c6727"
+    },
+    {
+        "id": "A2-010",
+        "name": {
+            "en": "Turtwig",
+            "es": "Turtwig"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "PALKIA"
+        ],
+        "type": "GRASS",
+        "hash": "11c74abba34c5897a1"
+    },
+    {
+        "id": "A2-011",
+        "name": {
+            "en": "Grotle",
+            "es": "Grotle"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "PALKIA"
+        ],
+        "type": "GRASS",
+        "hash": "21bcb63e89c14055f5"
+    },
+    {
+        "id": "A2-012",
+        "name": {
+            "en": "Torterra",
+            "es": "Torterra"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "PALKIA"
+        ],
+        "type": "GRASS",
+        "hash": "3184ce7836e1bdc8cc"
+    },
+    {
+        "id": "A2-013",
+        "name": {
+            "en": "Kricketot",
+            "es": "Kricketot"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "PALKIA"
+        ],
+        "type": "GRASS",
+        "hash": "11ecec4c4c9a3b8e23"
+    },
+    {
+        "id": "A2-014",
+        "name": {
+            "en": "Kricketune",
+            "es": "Kricketune"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "PALKIA"
+        ],
+        "type": "GRASS",
+        "hash": "11a6ae3811846cde9f"
+    },
+    {
+        "id": "A2-015",
+        "name": {
+            "en": "Burmy",
+            "es": "Burmy"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "DIALGA",
+            "PALKIA"
+        ],
+        "type": "GRASS",
+        "hash": "11c93a3e33f8682aa3"
+    },
+    {
+        "id": "A2-016",
+        "name": {
+            "en": "Wormadam",
+            "es": "Wormadam"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "DIALGA",
+            "PALKIA"
+        ],
+        "type": "GRASS",
+        "hash": "11c27c97771c0fc0c3"
+    },
+    {
+        "id": "A2-017",
+        "name": {
+            "en": "Combee",
+            "es": "Combee"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "DIALGA"
+        ],
+        "type": "GRASS",
+        "hash": "1190e51b293c53adb5"
+    },
+    {
+        "id": "A2-018",
+        "name": {
+            "en": "Vespiquen",
+            "es": "Vespiquen"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "DIALGA"
+        ],
+        "type": "GRASS",
+        "hash": "21b0db5e94cce74c09"
+    },
+    {
+        "id": "A2-019",
+        "name": {
+            "en": "Carnivine",
+            "es": "Carnivine"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "PALKIA"
+        ],
+        "type": "GRASS",
+        "hash": "21d6201b734c9f7368"
+    },
+    {
+        "id": "A2-020",
+        "name": {
+            "en": "Leafeon",
+            "es": "Leafeon"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "DIALGA"
+        ],
+        "type": "GRASS",
+        "hash": "31878d67cc10426dfe"
+    },
+    {
+        "id": "A2-021",
+        "name": {
+            "en": "Mow Rotom",
+            "es": "Rotom Corte"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "DIALGA",
+            "PALKIA"
+        ],
+        "type": "GRASS",
+        "hash": "11b1ecc73a4cf241b4"
+    },
+    {
+        "id": "A2-022",
+        "name": {
+            "en": "Shaymin",
+            "es": "Shaymin"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "DIALGA"
+        ],
+        "type": "GRASS",
+        "hash": "31d0ce023a94657f9e"
+    },
+    {
+        "id": "A2-023",
+        "name": {
+            "en": "Magmar",
+            "es": "Magmar"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "PALKIA"
+        ],
+        "type": "FIRE",
+        "hash": "11dd2c4a8527fe60a5"
+    },
+    {
+        "id": "A2-024",
+        "name": {
+            "en": "Magmortar",
+            "es": "Magmortar"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "PALKIA"
+        ],
+        "type": "FIRE",
+        "hash": "31c6ec381b45a6718f"
+    },
+    {
+        "id": "A2-025",
+        "name": {
+            "en": "Slugma",
+            "es": "Slugma"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "DIALGA",
+            "PALKIA"
+        ],
+        "type": "FIRE",
+        "hash": "11949ce471b8c17b69"
+    },
+    {
+        "id": "A2-026",
+        "name": {
+            "en": "Magcargo",
+            "es": "Magcargo"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "DIALGA",
+            "PALKIA"
+        ],
+        "type": "FIRE",
+        "hash": "21e4a5d87acbe05ac8"
+    },
+    {
+        "id": "A2-027",
+        "name": {
+            "en": "Chimchar",
+            "es": "Chimchar"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "PALKIA"
+        ],
+        "type": "FIRE",
+        "hash": "11c1915ac4bdbf4712"
+    },
+    {
+        "id": "A2-028",
+        "name": {
+            "en": "Monferno",
+            "es": "Monferno"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "PALKIA"
+        ],
+        "type": "FIRE",
+        "hash": "21c1bf2cf169d2a449"
+    },
+    {
+        "id": "A2-029",
+        "name": {
+            "en": "Infernape ex",
+            "es": "Infernape ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "PALKIA"
+        ],
+        "type": "FIRE",
+        "hash": "41deb4c143c4b3d51a"
+    },
+    {
+        "id": "A2-030",
+        "name": {
+            "en": "Heat Rotom",
+            "es": "Rotom Calor"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "DIALGA",
+            "PALKIA"
+        ],
+        "type": "FIRE",
+        "hash": "11b5685f209dae8c0f"
+    },
+    {
+        "id": "A2-031",
+        "name": {
+            "en": "Swinub",
+            "es": "Swinub"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "DIALGA"
+        ],
+        "type": "WATER",
+        "hash": "11da26568dc599e532"
+    },
+    {
+        "id": "A2-032",
+        "name": {
+            "en": "Piloswine",
+            "es": "Piloswine"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "DIALGA"
+        ],
+        "type": "WATER",
+        "hash": "21e0ef4d780d328d1b"
+    },
+    {
+        "id": "A2-033",
+        "name": {
+            "en": "Mamoswine",
+            "es": "Mamoswine"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "DIALGA"
+        ],
+        "type": "WATER",
+        "hash": "31bdd8060f9334d0dd"
+    },
+    {
+        "id": "A2-034",
+        "name": {
+            "en": "Regice",
+            "es": "Regice"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "PALKIA"
+        ],
+        "type": "WATER",
+        "hash": "218ad4a55fe7cc440e"
+    },
+    {
+        "id": "A2-035",
+        "name": {
+            "en": "Piplup",
+            "es": "Piplup"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "PALKIA"
+        ],
+        "type": "WATER",
+        "hash": "11898f39326ecc1736"
+    },
+    {
+        "id": "A2-036",
+        "name": {
+            "en": "Prinplup",
+            "es": "Prinplup"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "PALKIA"
+        ],
+        "type": "WATER",
+        "hash": "21be6848c4745f1ba5"
+    },
+    {
+        "id": "A2-037",
+        "name": {
+            "en": "Empoleon",
+            "es": "Empoleon"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "PALKIA"
+        ],
+        "type": "WATER",
+        "hash": "31ad8eda7119f484c6"
+    },
+    {
+        "id": "A2-038",
+        "name": {
+            "en": "Buizel",
+            "es": "Buizel"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "DIALGA",
+            "PALKIA"
+        ],
+        "type": "WATER",
+        "hash": "11c566c1f097368dd2"
+    },
+    {
+        "id": "A2-039",
+        "name": {
+            "en": "Floatzel",
+            "es": "Floatzel"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "DIALGA",
+            "PALKIA"
+        ],
+        "type": "WATER",
+        "hash": "21d0d3cac4a7ecb82c"
+    },
+    {
+        "id": "A2-040",
+        "name": {
+            "en": "Shellos",
+            "es": "Shellos"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "PALKIA"
+        ],
+        "type": "WATER",
+        "hash": "11f8866487c72b5a4b"
+    },
+    {
+        "id": "A2-041",
+        "name": {
+            "en": "Gastrodon",
+            "es": "Gastrodon"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "PALKIA"
+        ],
+        "type": "WATER",
+        "hash": "21a3dc74a7dcc89849"
+    },
+    {
+        "id": "A2-042",
+        "name": {
+            "en": "Finneon",
+            "es": "Finneon"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "DIALGA",
+            "PALKIA"
+        ],
+        "type": "WATER",
+        "hash": "11c3b09dd9642b9a36"
+    },
+    {
+        "id": "A2-043",
+        "name": {
+            "en": "Lumineon",
+            "es": "Lumineon"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "DIALGA",
+            "PALKIA"
+        ],
+        "type": "WATER",
+        "hash": "21f859c7ec62d40ec2"
+    },
+    {
+        "id": "A2-044",
+        "name": {
+            "en": "Snover",
+            "es": "Snover"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "DIALGA",
+            "PALKIA"
+        ],
+        "type": "WATER",
+        "hash": "11a88797664a755175"
+    },
+    {
+        "id": "A2-045",
+        "name": {
+            "en": "Abomasnow",
+            "es": "Abomasnow"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "DIALGA",
+            "PALKIA"
+        ],
+        "type": "WATER",
+        "hash": "21da0f6345b16d17e0"
+    },
+    {
+        "id": "A2-046",
+        "name": {
+            "en": "Glaceon",
+            "es": "Glaceon"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "PALKIA"
+        ],
+        "type": "WATER",
+        "hash": "31c31e73a6724c24dd"
+    },
+    {
+        "id": "A2-047",
+        "name": {
+            "en": "Wash Rotom",
+            "es": "Rotom Lavado"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "DIALGA",
+            "PALKIA"
+        ],
+        "type": "WATER",
+        "hash": "11e0bbc3e51ce13358"
+    },
+    {
+        "id": "A2-048",
+        "name": {
+            "en": "Frost Rotom",
+            "es": "Rotom Frío"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "DIALGA",
+            "PALKIA"
+        ],
+        "type": "WATER",
+        "hash": "11f0decb70cca14aa3"
+    },
+    {
+        "id": "A2-049",
+        "name": {
+            "en": "Palkia ex",
+            "es": "Palkia ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "PALKIA"
+        ],
+        "type": "WATER",
+        "hash": "419ce3fbb03b1cc403"
+    },
+    {
+        "id": "A2-050",
+        "name": {
+            "en": "Manaphy",
+            "es": "Manaphy"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "PALKIA"
+        ],
+        "type": "WATER",
+        "hash": "21eb01995a52f57a51"
+    },
+    {
+        "id": "A2-051",
+        "name": {
+            "en": "Magnemite",
+            "es": "Magnemite"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "DIALGA",
+            "PALKIA"
+        ],
+        "type": "LIGHTNING",
+        "hash": "11b97820e11d9f61dc"
+    },
+    {
+        "id": "A2-052",
+        "name": {
+            "en": "Magneton",
+            "es": "Magneton"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "DIALGA",
+            "PALKIA"
+        ],
+        "type": "LIGHTNING",
+        "hash": "21c9447ec36e9d9c88"
+    },
+    {
+        "id": "A2-053",
+        "name": {
+            "en": "Magnezone",
+            "es": "Magnezone"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "DIALGA",
+            "PALKIA"
+        ],
+        "type": "LIGHTNING",
+        "hash": "3198d4e27199ac24f7"
+    },
+    {
+        "id": "A2-054",
+        "name": {
+            "en": "Voltorb",
+            "es": "Voltorb"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "DIALGA",
+            "PALKIA"
+        ],
+        "type": "LIGHTNING",
+        "hash": "11ea0566b0936b8d3e"
+    },
+    {
+        "id": "A2-055",
+        "name": {
+            "en": "Electrode",
+            "es": "Electrode"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "DIALGA",
+            "PALKIA"
+        ],
+        "type": "LIGHTNING",
+        "hash": "21c91bb4e49e936a62"
+    },
+    {
+        "id": "A2-056",
+        "name": {
+            "en": "Electabuzz",
+            "es": "Electabuzz"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "DIALGA"
+        ],
+        "type": "LIGHTNING",
+        "hash": "11c2c97d6c0f097e86"
+    },
+    {
+        "id": "A2-057",
+        "name": {
+            "en": "Electivire",
+            "es": "Electivire"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "DIALGA"
+        ],
+        "type": "LIGHTNING",
+        "hash": "3180d61fde2caa731a"
+    },
+    {
+        "id": "A2-058",
+        "name": {
+            "en": "Shinx",
+            "es": "Shinx"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "DIALGA"
+        ],
+        "type": "LIGHTNING",
+        "hash": "11cdd85065dac729b4"
+    },
+    {
+        "id": "A2-059",
+        "name": {
+            "en": "Luxio",
+            "es": "Luxio"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "DIALGA"
+        ],
+        "type": "LIGHTNING",
+        "hash": "21d1b2cc0c735e4e1b"
+    },
+    {
+        "id": "A2-060",
+        "name": {
+            "en": "Luxray",
+            "es": "Luxray"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "DIALGA"
+        ],
+        "type": "LIGHTNING",
+        "hash": "31bfb8d334404674c7"
+    },
+    {
+        "id": "A2-061",
+        "name": {
+            "en": "Pachirisu ex",
+            "es": "Pachirisu ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "DIALGA"
+        ],
+        "type": "LIGHTNING",
+        "hash": "41e1f37a4c0d69901f"
+    },
+    {
+        "id": "A2-062",
+        "name": {
+            "en": "Rotom",
+            "es": "Rotom"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "PALKIA"
+        ],
+        "type": "LIGHTNING",
+        "hash": "1180c557aa273751dd"
+    },
+    {
+        "id": "A2-063",
+        "name": {
+            "en": "Togepi",
+            "es": "Togepi"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "DIALGA",
+            "PALKIA"
+        ],
+        "type": "PSYCHIC",
+        "hash": "118e0c30361f7be38b"
+    },
+    {
+        "id": "A2-064",
+        "name": {
+            "en": "Togetic",
+            "es": "Togetic"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "DIALGA",
+            "PALKIA"
+        ],
+        "type": "PSYCHIC",
+        "hash": "21c30a7e5fe4e9c142"
+    },
+    {
+        "id": "A2-065",
+        "name": {
+            "en": "Togekiss",
+            "es": "Togekiss"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "DIALGA",
+            "PALKIA"
+        ],
+        "type": "PSYCHIC",
+        "hash": "31d1ae7a941acc36cc"
+    },
+    {
+        "id": "A2-066",
+        "name": {
+            "en": "Misdreavus",
+            "es": "Misdreavus"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "PALKIA"
+        ],
+        "type": "PSYCHIC",
+        "hash": "11ded8707145272ecc"
+    },
+    {
+        "id": "A2-067",
+        "name": {
+            "en": "Mismagius ex",
+            "es": "Mismagius ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "PALKIA"
+        ],
+        "type": "PSYCHIC",
+        "hash": "41b8d6eccf42c4c1d1"
+    },
+    {
+        "id": "A2-068",
+        "name": {
+            "en": "Ralts",
+            "es": "Ralts"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "DIALGA"
+        ],
+        "type": "PSYCHIC",
+        "hash": "11d6771b0c39a4398e"
+    },
+    {
+        "id": "A2-069",
+        "name": {
+            "en": "Kirlia",
+            "es": "Kirlia"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "DIALGA"
+        ],
+        "type": "PSYCHIC",
+        "hash": "11caf677c6c99c4848"
+    },
+    {
+        "id": "A2-070",
+        "name": {
+            "en": "Duskull",
+            "es": "Duskull"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "DIALGA"
+        ],
+        "type": "PSYCHIC",
+        "hash": "11d8553d39305a5b66"
+    },
+    {
+        "id": "A2-071",
+        "name": {
+            "en": "Dusclops",
+            "es": "Dusclops"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "DIALGA"
+        ],
+        "type": "PSYCHIC",
+        "hash": "2198f960cfcd90e0ce"
+    },
+    {
+        "id": "A2-072",
+        "name": {
+            "en": "Dusknoir",
+            "es": "Dusknoir"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "DIALGA"
+        ],
+        "type": "PSYCHIC",
+        "hash": "31d6981bfc6884ec6a"
+    },
+    {
+        "id": "A2-073",
+        "name": {
+            "en": "Drifloon",
+            "es": "Drifloon"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "DIALGA"
+        ],
+        "type": "PSYCHIC",
+        "hash": "11b7254930c03bf3cb"
+    },
+    {
+        "id": "A2-074",
+        "name": {
+            "en": "Drifblim",
+            "es": "Drifblim"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "DIALGA"
+        ],
+        "type": "PSYCHIC",
+        "hash": "21db36769348e863c8"
+    },
+    {
+        "id": "A2-075",
+        "name": {
+            "en": "Uxie",
+            "es": "Uxie"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "DIALGA",
+            "PALKIA"
+        ],
+        "type": "PSYCHIC",
+        "hash": "21e1b33e4b1c05594f"
+    },
+    {
+        "id": "A2-076",
+        "name": {
+            "en": "Mesprit",
+            "es": "Mesprit"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "DIALGA",
+            "PALKIA"
+        ],
+        "type": "PSYCHIC",
+        "hash": "318b9f307f3e643015"
+    },
+    {
+        "id": "A2-077",
+        "name": {
+            "en": "Azelf",
+            "es": "Azelf"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "DIALGA",
+            "PALKIA"
+        ],
+        "type": "PSYCHIC",
+        "hash": "21848f3bb4c91ea563"
+    },
+    {
+        "id": "A2-078",
+        "name": {
+            "en": "Giratina",
+            "es": "Giratina"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "PALKIA"
+        ],
+        "type": "PSYCHIC",
+        "hash": "31d81b66e09c56bc33"
+    },
+    {
+        "id": "A2-079",
+        "name": {
+            "en": "Cresselia",
+            "es": "Cresselia"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "PALKIA"
+        ],
+        "type": "PSYCHIC",
+        "hash": "31dbff900ccc47c08d"
+    },
+    {
+        "id": "A2-080",
+        "name": {
+            "en": "Rhyhorn",
+            "es": "Rhyhorn"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "PALKIA"
+        ],
+        "type": "FIGHTING",
+        "hash": "11eba20cce3299e61b"
+    },
+    {
+        "id": "A2-081",
+        "name": {
+            "en": "Rhydon",
+            "es": "Rhydon"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "PALKIA"
+        ],
+        "type": "FIGHTING",
+        "hash": "21888c5f76dd08e2ce"
+    },
+    {
+        "id": "A2-082",
+        "name": {
+            "en": "Rhyperior",
+            "es": "Rhyperior"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "PALKIA"
+        ],
+        "type": "FIGHTING",
+        "hash": "31ef5c8aed88e49452"
+    },
+    {
+        "id": "A2-083",
+        "name": {
+            "en": "Gligar",
+            "es": "Gligar"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "DIALGA"
+        ],
+        "type": "FIGHTING",
+        "hash": "11c0e9eb72a6768e22"
+    },
+    {
+        "id": "A2-084",
+        "name": {
+            "en": "Gliscor",
+            "es": "Gliscor"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "DIALGA"
+        ],
+        "type": "FIGHTING",
+        "hash": "21e86d82738c8d99ec"
+    },
+    {
+        "id": "A2-085",
+        "name": {
+            "en": "Hitmontop",
+            "es": "Hitmontop"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "DIALGA"
+        ],
+        "type": "FIGHTING",
+        "hash": "11fbdb2d82124471b6"
+    },
+    {
+        "id": "A2-086",
+        "name": {
+            "en": "Nosepass",
+            "es": "Nosepass"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "DIALGA",
+            "PALKIA"
+        ],
+        "type": "FIGHTING",
+        "hash": "11f0d1cbc4649ed269"
+    },
+    {
+        "id": "A2-087",
+        "name": {
+            "en": "Regirock",
+            "es": "Regirock"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "DIALGA",
+            "PALKIA"
+        ],
+        "type": "FIGHTING",
+        "hash": "218b95317612a7676a"
+    },
+    {
+        "id": "A2-088",
+        "name": {
+            "en": "Cranidos",
+            "es": "Cranidos"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "DIALGA"
+        ],
+        "type": "FIGHTING",
+        "hash": "21c7de3891c0e0be2e"
+    },
+    {
+        "id": "A2-089",
+        "name": {
+            "en": "Rampardos",
+            "es": "Rampardos"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "DIALGA"
+        ],
+        "type": "FIGHTING",
+        "hash": "31b898dc86c0cce6e7"
+    },
+    {
+        "id": "A2-090",
+        "name": {
+            "en": "Wormadam",
+            "es": "Wormadam"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "DIALGA"
+        ],
+        "type": "FIGHTING",
+        "hash": "11d6266998adc53437"
+    },
+    {
+        "id": "A2-091",
+        "name": {
+            "en": "Riolu",
+            "es": "Riolu"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "DIALGA"
+        ],
+        "type": "FIGHTING",
+        "hash": "11e0ea1fc1788f6493"
+    },
+    {
+        "id": "A2-092",
+        "name": {
+            "en": "Lucario",
+            "es": "Lucario"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "DIALGA"
+        ],
+        "type": "FIGHTING",
+        "hash": "31c838dee3e4d4c9c1"
+    },
+    {
+        "id": "A2-093",
+        "name": {
+            "en": "Hippopotas",
+            "es": "Hippopotas"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "PALKIA"
+        ],
+        "type": "FIGHTING",
+        "hash": "1184eb775149d65e24"
+    },
+    {
+        "id": "A2-094",
+        "name": {
+            "en": "Hippowdon",
+            "es": "Hippowdon"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "PALKIA"
+        ],
+        "type": "FIGHTING",
+        "hash": "21ebc8c3bdec1cb014"
+    },
+    {
+        "id": "A2-095",
+        "name": {
+            "en": "Gallade ex",
+            "es": "Gallade ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "DIALGA"
+        ],
+        "type": "FIGHTING",
+        "hash": "41fa429b49a4eb10dd"
+    },
+    {
+        "id": "A2-096",
+        "name": {
+            "en": "Murkrow",
+            "es": "Murkrow"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "DIALGA"
+        ],
+        "type": "DARKNESS",
+        "hash": "11e2219cde1fc1e439"
+    },
+    {
+        "id": "A2-097",
+        "name": {
+            "en": "Honchkrow",
+            "es": "Honchkrow"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "DIALGA"
+        ],
+        "type": "DARKNESS",
+        "hash": "21dbce64659bd96420"
+    },
+    {
+        "id": "A2-098",
+        "name": {
+            "en": "Sneasel",
+            "es": "Sneasel"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "PALKIA"
+        ],
+        "type": "DARKNESS",
+        "hash": "11f6f0790ce93b3205"
+    },
+    {
+        "id": "A2-099",
+        "name": {
+            "en": "Weavile ex",
+            "es": "Weavile ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "PALKIA"
+        ],
+        "type": "DARKNESS",
+        "hash": "41af85e41f97a44998"
+    },
+    {
+        "id": "A2-100",
+        "name": {
+            "en": "Poochyena",
+            "es": "Poochyena"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "DIALGA",
+            "PALKIA"
+        ],
+        "type": "DARKNESS",
+        "hash": "11a4e3d9da9791b604"
+    },
+    {
+        "id": "A2-101",
+        "name": {
+            "en": "Mightyena",
+            "es": "Mightyena"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "DIALGA",
+            "PALKIA"
+        ],
+        "type": "DARKNESS",
+        "hash": "21c8e1b39ed9246497"
+    },
+    {
+        "id": "A2-102",
+        "name": {
+            "en": "Stunky",
+            "es": "Stunky"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "DIALGA"
+        ],
+        "type": "DARKNESS",
+        "hash": "11eacb92344fa4992e"
+    },
+    {
+        "id": "A2-103",
+        "name": {
+            "en": "Skuntank",
+            "es": "Skuntank"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "DIALGA"
+        ],
+        "type": "DARKNESS",
+        "hash": "2194a5ffc6e348cd40"
+    },
+    {
+        "id": "A2-104",
+        "name": {
+            "en": "Spiritomb",
+            "es": "Spiritomb"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "PALKIA"
+        ],
+        "type": "DARKNESS",
+        "hash": "21c1b10f97c9cb8764"
+    },
+    {
+        "id": "A2-105",
+        "name": {
+            "en": "Skorupi",
+            "es": "Skorupi"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "DIALGA",
+            "PALKIA"
+        ],
+        "type": "DARKNESS",
+        "hash": "11bce0f89c89666c2e"
+    },
+    {
+        "id": "A2-106",
+        "name": {
+            "en": "Drapion",
+            "es": "Drapion"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "DIALGA",
+            "PALKIA"
+        ],
+        "type": "DARKNESS",
+        "hash": "21eda3d280c39e919d"
+    },
+    {
+        "id": "A2-107",
+        "name": {
+            "en": "Croagunk",
+            "es": "Croagunk"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "DIALGA"
+        ],
+        "type": "DARKNESS",
+        "hash": "11d38470bb1af2649b"
+    },
+    {
+        "id": "A2-108",
+        "name": {
+            "en": "Toxicroak",
+            "es": "Toxicroak"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "DIALGA"
+        ],
+        "type": "DARKNESS",
+        "hash": "21d3d8dc8eb6646360"
+    },
+    {
+        "id": "A2-109",
+        "name": {
+            "en": "Darkrai",
+            "es": "Darkrai"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "DIALGA"
+        ],
+        "type": "DARKNESS",
+        "hash": "3185cccae2a23333bb"
+    },
+    {
+        "id": "A2-110",
+        "name": {
+            "en": "Darkrai ex",
+            "es": "Darkrai ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "DIALGA"
+        ],
+        "type": "DARKNESS",
+        "hash": "41e6948ae9c1eea2aa"
+    },
+    {
+        "id": "A2-111",
+        "name": {
+            "en": "Skarmory",
+            "es": "Skarmory"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "DIALGA",
+            "PALKIA"
+        ],
+        "type": "METAL",
+        "hash": "21cadbd4b5a769081a"
+    },
+    {
+        "id": "A2-112",
+        "name": {
+            "en": "Registeel",
+            "es": "Registeel"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "DIALGA"
+        ],
+        "type": "METAL",
+        "hash": "219dd3c5c48173ce13"
+    },
+    {
+        "id": "A2-113",
+        "name": {
+            "en": "Shieldon",
+            "es": "Shieldon"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "PALKIA"
+        ],
+        "type": "METAL",
+        "hash": "21caf17cc16196969c"
+    },
+    {
+        "id": "A2-114",
+        "name": {
+            "en": "Bastiodon",
+            "es": "Bastiodon"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "PALKIA"
+        ],
+        "type": "METAL",
+        "hash": "3189add4bdcee20ca4"
+    },
+    {
+        "id": "A2-115",
+        "name": {
+            "en": "Wormadam",
+            "es": "Wormadam"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "PALKIA"
+        ],
+        "type": "METAL",
+        "hash": "118fb58dc9e4e0702b"
+    },
+    {
+        "id": "A2-116",
+        "name": {
+            "en": "Bronzor",
+            "es": "Bronzor"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "DIALGA"
+        ],
+        "type": "METAL",
+        "hash": "11f64bac3119cc2766"
+    },
+    {
+        "id": "A2-117",
+        "name": {
+            "en": "Bronzong",
+            "es": "Bronzong"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "DIALGA"
+        ],
+        "type": "METAL",
+        "hash": "21d96e64f1d648c3c1"
+    },
+    {
+        "id": "A2-118",
+        "name": {
+            "en": "Probopass",
+            "es": "Probopass"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "DIALGA",
+            "PALKIA"
+        ],
+        "type": "METAL",
+        "hash": "21e6a5905a9e2df161"
+    },
+    {
+        "id": "A2-119",
+        "name": {
+            "en": "Dialga ex",
+            "es": "Dialga ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "DIALGA"
+        ],
+        "type": "METAL",
+        "hash": "418af2094763ad6e39"
+    },
+    {
+        "id": "A2-120",
+        "name": {
+            "en": "Heatran",
+            "es": "Heatran"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "DIALGA"
+        ],
+        "type": "METAL",
+        "hash": "31cd23b3cb95932472"
+    },
+    {
+        "id": "A2-121",
+        "name": {
+            "en": "Gible",
+            "es": "Gible"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "PALKIA"
+        ],
+        "type": "DRAGON",
+        "hash": "11e914bc6298a31fb5"
+    },
+    {
+        "id": "A2-122",
+        "name": {
+            "en": "Gabite",
+            "es": "Gabite"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "PALKIA"
+        ],
+        "type": "DRAGON",
+        "hash": "21eca4077a6ee88ac3"
+    },
+    {
+        "id": "A2-123",
+        "name": {
+            "en": "Garchomp",
+            "es": "Garchomp"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "PALKIA"
+        ],
+        "type": "DRAGON",
+        "hash": "31e8a48ecfc5431a3b"
+    },
+    {
+        "id": "A2-124",
+        "name": {
+            "en": "Lickitung",
+            "es": "Lickitung"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "PALKIA"
+        ],
+        "type": "COLORLESS",
+        "hash": "11d2d27b8924a7328f"
+    },
+    {
+        "id": "A2-125",
+        "name": {
+            "en": "Lickilicky ex",
+            "es": "Lickilicky ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "PALKIA"
+        ],
+        "type": "COLORLESS",
+        "hash": "41e4521ce92cc4d6e7"
+    },
+    {
+        "id": "A2-126",
+        "name": {
+            "en": "Eevee",
+            "es": "Eevee"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "DIALGA",
+            "PALKIA"
+        ],
+        "type": "COLORLESS",
+        "hash": "11e5b81ecd6332d0b2"
+    },
+    {
+        "id": "A2-127",
+        "name": {
+            "en": "Porygon",
+            "es": "Porygon"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "PALKIA"
+        ],
+        "type": "COLORLESS",
+        "hash": "11ca07b58515b3b3b2"
+    },
+    {
+        "id": "A2-128",
+        "name": {
+            "en": "Porygon2",
+            "es": "Porygon2"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "PALKIA"
+        ],
+        "type": "COLORLESS",
+        "hash": "218cded8c92fc460cd"
+    },
+    {
+        "id": "A2-129",
+        "name": {
+            "en": "Porygon-Z",
+            "es": "Porygon-Z"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "PALKIA"
+        ],
+        "type": "COLORLESS",
+        "hash": "31ab62d0ad95cbe170"
+    },
+    {
+        "id": "A2-130",
+        "name": {
+            "en": "Aipom",
+            "es": "Aipom"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "DIALGA",
+            "PALKIA"
+        ],
+        "type": "COLORLESS",
+        "hash": "11c53e393bea6c1a84"
+    },
+    {
+        "id": "A2-131",
+        "name": {
+            "en": "Ambipom",
+            "es": "Ambipom"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "DIALGA",
+            "PALKIA"
+        ],
+        "type": "COLORLESS",
+        "hash": "11e4c6a69652ba0dd3"
+    },
+    {
+        "id": "A2-132",
+        "name": {
+            "en": "Starly",
+            "es": "Starly"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "PALKIA"
+        ],
+        "type": "COLORLESS",
+        "hash": "11a7cf3c1981426b67"
+    },
+    {
+        "id": "A2-133",
+        "name": {
+            "en": "Staravia",
+            "es": "Staravia"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "PALKIA"
+        ],
+        "type": "COLORLESS",
+        "hash": "11f84cc0b2674f16c7"
+    },
+    {
+        "id": "A2-134",
+        "name": {
+            "en": "Staraptor",
+            "es": "Staraptor"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "PALKIA"
+        ],
+        "type": "COLORLESS",
+        "hash": "21b831ccd8a76bc1e2"
+    },
+    {
+        "id": "A2-135",
+        "name": {
+            "en": "Bidoof",
+            "es": "Bidoof"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "DIALGA"
+        ],
+        "type": "COLORLESS",
+        "hash": "1181c38aacd374b1f9"
+    },
+    {
+        "id": "A2-136",
+        "name": {
+            "en": "Bibarel",
+            "es": "Bibarel"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "DIALGA"
+        ],
+        "type": "COLORLESS",
+        "hash": "11a7d3e8694c5e3324"
+    },
+    {
+        "id": "A2-137",
+        "name": {
+            "en": "Buneary",
+            "es": "Buneary"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "DIALGA"
+        ],
+        "type": "COLORLESS",
+        "hash": "11c33b8925b09e3e2b"
+    },
+    {
+        "id": "A2-138",
+        "name": {
+            "en": "Lopunny",
+            "es": "Lopunny"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "DIALGA"
+        ],
+        "type": "COLORLESS",
+        "hash": "11b59c9567c96a4236"
+    },
+    {
+        "id": "A2-139",
+        "name": {
+            "en": "Glameow",
+            "es": "Glameow"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "PALKIA"
+        ],
+        "type": "COLORLESS",
+        "hash": "11dd9c461a89a97696"
+    },
+    {
+        "id": "A2-140",
+        "name": {
+            "en": "Purugly",
+            "es": "Purugly"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "PALKIA"
+        ],
+        "type": "COLORLESS",
+        "hash": "219be64095a6dc32dc"
+    },
+    {
+        "id": "A2-141",
+        "name": {
+            "en": "Chatot",
+            "es": "Chatot"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "PALKIA"
+        ],
+        "type": "COLORLESS",
+        "hash": "11eb47e6669063f038"
+    },
+    {
+        "id": "A2-142",
+        "name": {
+            "en": "Fan Rotom",
+            "es": "Rotom Ventilador"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "DIALGA",
+            "PALKIA"
+        ],
+        "type": "COLORLESS",
+        "hash": "11b5520c0b1f70fe2e"
+    },
+    {
+        "id": "A2-143",
+        "name": {
+            "en": "Regigigas",
+            "es": "Regigigas"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "DIALGA",
+            "PALKIA"
+        ],
+        "type": "COLORLESS",
+        "hash": "31bcd311a6c265da6c"
+    },
+    {
+        "id": "A2-144",
+        "name": {
+            "en": "Skull Fossil",
+            "es": "Fósil Cráneo"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "DIALGA"
+        ],
+        "type": "TRAINER",
+        "hash": "11d48f8233f498c5b3"
+    },
+    {
+        "id": "A2-145",
+        "name": {
+            "en": "Armor Fossil",
+            "es": "Fósil Coraza"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "PALKIA"
+        ],
+        "type": "TRAINER",
+        "hash": "1194d9afb194869c96"
+    },
+    {
+        "id": "A2-146",
+        "name": {
+            "en": "Pokémon Communication",
+            "es": "Comunicación Pokémon"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "DIALGA"
+        ],
+        "type": "TRAINER",
+        "hash": "21873dcee0b393b08c"
+    },
+    {
+        "id": "A2-147",
+        "name": {
+            "en": "Giant Cape",
+            "es": "Capa Gigante"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "DIALGA"
+        ],
+        "type": "TRAINER",
+        "hash": "21d50abbb482fa859c"
+    },
+    {
+        "id": "A2-148",
+        "name": {
+            "en": "Rocky Helmet",
+            "es": "Casco Dentado"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "PALKIA"
+        ],
+        "type": "TRAINER",
+        "hash": "21c23df7a097938a89"
+    },
+    {
+        "id": "A2-149",
+        "name": {
+            "en": "Lum Berry",
+            "es": "Baya Ziuela"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "PALKIA"
+        ],
+        "type": "TRAINER",
+        "hash": "21b38e8eb99aa487a4"
+    },
+    {
+        "id": "A2-150",
+        "name": {
+            "en": "Cyrus",
+            "es": "Helio"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "PALKIA"
+        ],
+        "type": "TRAINER",
+        "hash": "218c92a1b7e1c597f0"
+    },
+    {
+        "id": "A2-151",
+        "name": {
+            "en": "Team Galactic Grunt",
+            "es": "Recluta del Equipo Galaxia"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "DIALGA"
+        ],
+        "type": "TRAINER",
+        "hash": "219e86b8b3faa0a586"
+    },
+    {
+        "id": "A2-152",
+        "name": {
+            "en": "Cynthia",
+            "es": "Cintia"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "PALKIA"
+        ],
+        "type": "TRAINER",
+        "hash": "21b498876b53e3d846"
+    },
+    {
+        "id": "A2-153",
+        "name": {
+            "en": "Volkner",
+            "es": "Lectro"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "DIALGA"
+        ],
+        "type": "TRAINER",
+        "hash": "21a71ce3a3878c878d"
+    },
+    {
+        "id": "A2-154",
+        "name": {
+            "en": "Dawn",
+            "es": "Maya"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "DIALGA"
+        ],
+        "type": "TRAINER",
+        "hash": "21b2dde8a693168e19"
+    },
+    {
+        "id": "A2-155",
+        "name": {
+            "en": "Mars",
+            "es": "Venus"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "PALKIA"
+        ],
+        "type": "TRAINER",
+        "hash": "2182b5c84b958cf3e3"
+    },
+    {
+        "id": "A2-156",
+        "name": {
+            "en": "Tangrowth",
+            "es": "Tangrowth"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "DIALGA"
+        ],
+        "type": "GRASS",
+        "hash": "13e088bb93c785bc17"
+    },
+    {
+        "id": "A2-157",
+        "name": {
+            "en": "Combee",
+            "es": "Combee"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "DIALGA"
+        ],
+        "type": "GRASS",
+        "hash": "13a5d55f9783e1f080"
+    },
+    {
+        "id": "A2-158",
+        "name": {
+            "en": "Carnivine",
+            "es": "Carnivine"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "PALKIA"
+        ],
+        "type": "GRASS",
+        "hash": "13c34c3d3c3e61b2c5"
+    },
+    {
+        "id": "A2-159",
+        "name": {
+            "en": "Shaymin",
+            "es": "Shaymin"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "DIALGA"
+        ],
+        "type": "GRASS",
+        "hash": "139b86cba3b9d12538"
+    },
+    {
+        "id": "A2-160",
+        "name": {
+            "en": "Mamoswine",
+            "es": "Mamoswine"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "DIALGA"
+        ],
+        "type": "WATER",
+        "hash": "13e1d55c853217969e"
+    },
+    {
+        "id": "A2-161",
+        "name": {
+            "en": "Gastrodon",
+            "es": "Gastrodon"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "PALKIA"
+        ],
+        "type": "WATER",
+        "hash": "13d9cd32e07f46c8c4"
+    },
+    {
+        "id": "A2-162",
+        "name": {
+            "en": "Manaphy",
+            "es": "Manaphy"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "PALKIA"
+        ],
+        "type": "WATER",
+        "hash": "13c7ce1e78d85093f0"
+    },
+    {
+        "id": "A2-163",
+        "name": {
+            "en": "Shinx",
+            "es": "Shinx"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "DIALGA"
+        ],
+        "type": "LIGHTNING",
+        "hash": "13dcd917b42ccb0366"
+    },
+    {
+        "id": "A2-164",
+        "name": {
+            "en": "Rotom",
+            "es": "Rotom"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "PALKIA"
+        ],
+        "type": "LIGHTNING",
+        "hash": "13acba4a45e43f71c2"
+    },
+    {
+        "id": "A2-165",
+        "name": {
+            "en": "Drifloon",
+            "es": "Drifloon"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "DIALGA"
+        ],
+        "type": "PSYCHIC",
+        "hash": "13d05d754496e499ab"
+    },
+    {
+        "id": "A2-166",
+        "name": {
+            "en": "Mesprit",
+            "es": "Mesprit"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "DIALGA"
+        ],
+        "type": "PSYCHIC",
+        "hash": "13ee79cc202c917da3"
+    },
+    {
+        "id": "A2-167",
+        "name": {
+            "en": "Giratina",
+            "es": "Giratina"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "PALKIA"
+        ],
+        "type": "PSYCHIC",
+        "hash": "13b64c417e05bdf415"
+    },
+    {
+        "id": "A2-168",
+        "name": {
+            "en": "Cresselia",
+            "es": "Cresselia"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "PALKIA"
+        ],
+        "type": "PSYCHIC",
+        "hash": "13c657999329a993ac"
+    },
+    {
+        "id": "A2-169",
+        "name": {
+            "en": "Rhyperior",
+            "es": "Rhyperior"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "PALKIA"
+        ],
+        "type": "FIGHTING",
+        "hash": "13db6e68ecdac188c4"
+    },
+    {
+        "id": "A2-170",
+        "name": {
+            "en": "Lucario",
+            "es": "Lucario"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "DIALGA"
+        ],
+        "type": "FIGHTING",
+        "hash": "139a6bdcdd92d22690"
+    },
+    {
+        "id": "A2-171",
+        "name": {
+            "en": "Hippopotas",
+            "es": "Hippopotas"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "PALKIA"
+        ],
+        "type": "FIGHTING",
+        "hash": "13cd4c6df21c25e26c"
+    },
+    {
+        "id": "A2-172",
+        "name": {
+            "en": "Spiritomb",
+            "es": "Spiritomb"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "PALKIA"
+        ],
+        "type": "DARKNESS",
+        "hash": "13956a3f683eb58489"
+    },
+    {
+        "id": "A2-173",
+        "name": {
+            "en": "Croagunk",
+            "es": "Croagunk"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "DIALGA"
+        ],
+        "type": "DARKNESS",
+        "hash": "13abccec0b2a36b613"
+    },
+    {
+        "id": "A2-174",
+        "name": {
+            "en": "Heatran",
+            "es": "Heatran"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "DIALGA"
+        ],
+        "type": "METAL",
+        "hash": "13e28d78fe60529ea8"
+    },
+    {
+        "id": "A2-175",
+        "name": {
+            "en": "Garchomp",
+            "es": "Garchomp"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "PALKIA"
+        ],
+        "type": "DRAGON",
+        "hash": "1391b1fcdc68cecc60"
+    },
+    {
+        "id": "A2-176",
+        "name": {
+            "en": "Staraptor",
+            "es": "Staraptor"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "PALKIA"
+        ],
+        "type": "COLORLESS",
+        "hash": "13cde832480f926edb"
+    },
+    {
+        "id": "A2-177",
+        "name": {
+            "en": "Bidoof",
+            "es": "Bidoof"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "DIALGA"
+        ],
+        "type": "COLORLESS",
+        "hash": "139c011543977df5d8"
+    },
+    {
+        "id": "A2-178",
+        "name": {
+            "en": "Glameow",
+            "es": "Glameow"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "PALKIA"
+        ],
+        "type": "COLORLESS",
+        "hash": "13ad1776ea234cda88"
+    },
+    {
+        "id": "A2-179",
+        "name": {
+            "en": "Regigigas",
+            "es": "Regigigas"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "DIALGA"
+        ],
+        "type": "COLORLESS",
+        "hash": "138073de977d027a70"
+    },
+    {
+        "id": "A2-180",
+        "name": {
+            "en": "Yanmega ex",
+            "es": "Yanmega ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "DIALGA"
+        ],
+        "type": "GRASS",
+        "hash": "23eab444e5bba29a46"
+    },
+    {
+        "id": "A2-181",
+        "name": {
+            "en": "Infernape ex",
+            "es": "Infernape ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "PALKIA"
+        ],
+        "type": "FIRE",
+        "hash": "23ca7c302bc6fcec88"
+    },
+    {
+        "id": "A2-182",
+        "name": {
+            "en": "Palkia ex",
+            "es": "Palkia ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "PALKIA"
+        ],
+        "type": "WATER",
+        "hash": "23f0b423bcc41b7556"
+    },
+    {
+        "id": "A2-183",
+        "name": {
+            "en": "Pachirisu ex",
+            "es": "Pachirisu ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "DIALGA"
+        ],
+        "type": "LIGHTNING",
+        "hash": "23967d404f3baae330"
+    },
+    {
+        "id": "A2-184",
+        "name": {
+            "en": "Mismagius ex",
+            "es": "Mismagius ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "PALKIA"
+        ],
+        "type": "PSYCHIC",
+        "hash": "23ed99f10a43c4e25d"
+    },
+    {
+        "id": "A2-185",
+        "name": {
+            "en": "Gallade ex",
+            "es": "Gallade ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "DIALGA"
+        ],
+        "type": "FIGHTING",
+        "hash": "23cdf8ca26e3d8e098"
+    },
+    {
+        "id": "A2-186",
+        "name": {
+            "en": "Weavile ex",
+            "es": "Weavile ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "PALKIA"
+        ],
+        "type": "DARKNESS",
+        "hash": "23fe28e78cc238c2dc"
+    },
+    {
+        "id": "A2-187",
+        "name": {
+            "en": "Darkrai ex",
+            "es": "Darkrai ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "DIALGA"
+        ],
+        "type": "DARKNESS",
+        "hash": "23dcb0736f7c88d841"
+    },
+    {
+        "id": "A2-188",
+        "name": {
+            "en": "Dialga ex",
+            "es": "Dialga ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "DIALGA"
+        ],
+        "type": "METAL",
+        "hash": "23e73a916792fd12c0"
+    },
+    {
+        "id": "A2-189",
+        "name": {
+            "en": "Lickilicky ex",
+            "es": "Lickilicky ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "PALKIA"
+        ],
+        "type": "COLORLESS",
+        "hash": "23ee3e8a6080d9d7cc"
+    },
+    {
+        "id": "A2-190",
+        "name": {
+            "en": "Cyrus",
+            "es": "Helio"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "PALKIA"
+        ],
+        "type": "TRAINER",
+        "hash": "23c487989df09b9593"
+    },
+    {
+        "id": "A2-191",
+        "name": {
+            "en": "Team Galactic Grunt",
+            "es": "Recluta del Equipo Galaxia"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "DIALGA"
+        ],
+        "type": "TRAINER",
+        "hash": "23e42c82b350facb9d"
+    },
+    {
+        "id": "A2-192",
+        "name": {
+            "en": "Cynthia",
+            "es": "Cintia"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "PALKIA"
+        ],
+        "type": "TRAINER",
+        "hash": "23a3d837a6ee83e490"
+    },
+    {
+        "id": "A2-193",
+        "name": {
+            "en": "Volkner",
+            "es": "Lectro"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "DIALGA"
+        ],
+        "type": "TRAINER",
+        "hash": "23a09b6f9077e193a1"
+    },
+    {
+        "id": "A2-194",
+        "name": {
+            "en": "Dawn",
+            "es": "Maya"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "DIALGA"
+        ],
+        "type": "TRAINER",
+        "hash": "23a28689fab639b2ac"
+    },
+    {
+        "id": "A2-195",
+        "name": {
+            "en": "Mars",
+            "es": "Venus"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "PALKIA"
+        ],
+        "type": "TRAINER",
+        "hash": "2398b7e2c8a7e0d0f2"
+    },
+    {
+        "id": "A2-196",
+        "name": {
+            "en": "Yanmega ex",
+            "es": "Yanmega ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "DIALGA"
+        ],
+        "type": "GRASS",
+        "hash": "23f56f985a19f0c0cc"
+    },
+    {
+        "id": "A2-197",
+        "name": {
+            "en": "Infernape ex",
+            "es": "Infernape ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "PALKIA"
+        ],
+        "type": "FIRE",
+        "hash": "23f4a8a892ae85ddc6"
+    },
+    {
+        "id": "A2-198",
+        "name": {
+            "en": "Pachirisu ex",
+            "es": "Pachirisu ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "DIALGA"
+        ],
+        "type": "LIGHTNING",
+        "hash": "2381be85ce5a758ae1"
+    },
+    {
+        "id": "A2-199",
+        "name": {
+            "en": "Mismagius ex",
+            "es": "Mismagius ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "PALKIA"
+        ],
+        "type": "PSYCHIC",
+        "hash": "23c8bf33a47652607c"
+    },
+    {
+        "id": "A2-200",
+        "name": {
+            "en": "Gallade ex",
+            "es": "Gallade ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "DIALGA"
+        ],
+        "type": "FIGHTING",
+        "hash": "23a7f39ccc983609c9"
+    },
+    {
+        "id": "A2-201",
+        "name": {
+            "en": "Weavile ex",
+            "es": "Weavile ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "PALKIA"
+        ],
+        "type": "DARKNESS",
+        "hash": "23993ee51aedd0d841"
+    },
+    {
+        "id": "A2-202",
+        "name": {
+            "en": "Darkrai ex",
+            "es": "Darkrai ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "DIALGA"
+        ],
+        "type": "DARKNESS",
+        "hash": "23e4ee963553571886"
+    },
+    {
+        "id": "A2-203",
+        "name": {
+            "en": "Lickilicky ex",
+            "es": "Lickilicky ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "PALKIA"
+        ],
+        "type": "COLORLESS",
+        "hash": "23bebb02dc4adc40c7"
+    },
+    {
+        "id": "A2-204",
+        "name": {
+            "en": "Palkia ex",
+            "es": "Palkia ex"
+        },
+        "rarity": "THREE_STAR",
+        "origins": [
+            "PALKIA"
+        ],
+        "type": "WATER",
+        "hash": "339d8e3a44483d1e3f"
+    },
+    {
+        "id": "A2-205",
+        "name": {
+            "en": "Dialga ex",
+            "es": "Dialga ex"
+        },
+        "rarity": "THREE_STAR",
+        "origins": [
+            "DIALGA"
+        ],
+        "type": "METAL",
+        "hash": "33c49f09668f196b56"
+    },
+    {
+        "id": "A2-206",
+        "name": {
+            "en": "Palkia ex",
+            "es": "Palkia ex"
+        },
+        "rarity": "CROWN",
+        "origins": [
+            "DIALGA",
+            "PALKIA"
+        ],
+        "type": "WATER",
+        "hash": "15b09ca72d64137cb3"
+    },
+    {
+        "id": "A2-207",
+        "name": {
+            "en": "Dialga ex",
+            "es": "Dialga ex"
+        },
+        "rarity": "CROWN",
+        "origins": [
+            "DIALGA",
+            "PALKIA"
+        ],
+        "type": "METAL",
+        "hash": "15eda61c6982f990ec"
+    }
 ]

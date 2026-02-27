@@ -1,1154 +1,1250 @@
 [
-  {
-    "id": "A2a-001",
-    "name": {
-      "en": "Heracross",
-      "es": "Heracross"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "ARCEUS"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "A2a-002",
-    "name": {
-      "en": "Burmy",
-      "es": "Burmy"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "ARCEUS"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "A2a-003",
-    "name": {
-      "en": "Mothim",
-      "es": "Mothim"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "ARCEUS"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "A2a-004",
-    "name": {
-      "en": "Combee",
-      "es": "Combee"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "ARCEUS"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "A2a-005",
-    "name": {
-      "en": "Vespiquen",
-      "es": "Vespiquen"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "ARCEUS"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "A2a-006",
-    "name": {
-      "en": "Cherubi",
-      "es": "Cherubi"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "ARCEUS"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "A2a-007",
-    "name": {
-      "en": "Cherrim",
-      "es": "Cherrim"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "ARCEUS"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "A2a-008",
-    "name": {
-      "en": "Cherrim",
-      "es": "Cherrim"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "ARCEUS"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "A2a-009",
-    "name": {
-      "en": "Carnivine",
-      "es": "Carnivine"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "ARCEUS"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "A2a-010",
-    "name": {
-      "en": "Leafeon ex",
-      "es": "Leafeon ex"
-    },
-    "rarity": "FOUR_DIAMOND",
-    "origins": [
-      "ARCEUS"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "A2a-011",
-    "name": {
-      "en": "Houndour",
-      "es": "Houndour"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "ARCEUS"
-    ],
-    "type": "FIRE"
-  },
-  {
-    "id": "A2a-012",
-    "name": {
-      "en": "Houndoom",
-      "es": "Houndoom"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "ARCEUS"
-    ],
-    "type": "FIRE"
-  },
-  {
-    "id": "A2a-013",
-    "name": {
-      "en": "Heatran",
-      "es": "Heatran"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "ARCEUS"
-    ],
-    "type": "FIRE"
-  },
-  {
-    "id": "A2a-014",
-    "name": {
-      "en": "Marill",
-      "es": "Marill"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "ARCEUS"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A2a-015",
-    "name": {
-      "en": "Azumarill",
-      "es": "Azumarill"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "ARCEUS"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A2a-016",
-    "name": {
-      "en": "Barboach",
-      "es": "Barboach"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "ARCEUS"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A2a-017",
-    "name": {
-      "en": "Whiscash",
-      "es": "Whiscash"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "ARCEUS"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A2a-018",
-    "name": {
-      "en": "Snorunt",
-      "es": "Snorunt"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "ARCEUS"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A2a-019",
-    "name": {
-      "en": "Froslass",
-      "es": "Froslass"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "ARCEUS"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A2a-020",
-    "name": {
-      "en": "Snover",
-      "es": "Snover"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "ARCEUS"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A2a-021",
-    "name": {
-      "en": "Abomasnow",
-      "es": "Abomasnow"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "ARCEUS"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A2a-022",
-    "name": {
-      "en": "Glaceon ex",
-      "es": "Glaceon ex"
-    },
-    "rarity": "FOUR_DIAMOND",
-    "origins": [
-      "ARCEUS"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A2a-023",
-    "name": {
-      "en": "Origin Forme Palkia",
-      "es": "Palkia Origen"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "ARCEUS"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A2a-024",
-    "name": {
-      "en": "Phione",
-      "es": "Phione"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "ARCEUS"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A2a-025",
-    "name": {
-      "en": "Pikachu",
-      "es": "Pikachu"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "ARCEUS"
-    ],
-    "type": "LIGHTNING"
-  },
-  {
-    "id": "A2a-026",
-    "name": {
-      "en": "Raichu",
-      "es": "Raichu"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "ARCEUS"
-    ],
-    "type": "LIGHTNING"
-  },
-  {
-    "id": "A2a-027",
-    "name": {
-      "en": "Electrike",
-      "es": "Electrike"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "ARCEUS"
-    ],
-    "type": "LIGHTNING"
-  },
-  {
-    "id": "A2a-028",
-    "name": {
-      "en": "Manectric",
-      "es": "Manectric"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "ARCEUS"
-    ],
-    "type": "LIGHTNING"
-  },
-  {
-    "id": "A2a-029",
-    "name": {
-      "en": "Clefairy",
-      "es": "Clefairy"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "ARCEUS"
-    ],
-    "type": "PSYCHIC"
-  },
-  {
-    "id": "A2a-030",
-    "name": {
-      "en": "Clefable",
-      "es": "Clefable"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "ARCEUS"
-    ],
-    "type": "PSYCHIC"
-  },
-  {
-    "id": "A2a-031",
-    "name": {
-      "en": "Gastly",
-      "es": "Gastly"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "ARCEUS"
-    ],
-    "type": "PSYCHIC"
-  },
-  {
-    "id": "A2a-032",
-    "name": {
-      "en": "Haunter",
-      "es": "Haunter"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "ARCEUS"
-    ],
-    "type": "PSYCHIC"
-  },
-  {
-    "id": "A2a-033",
-    "name": {
-      "en": "Gengar",
-      "es": "Gengar"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "ARCEUS"
-    ],
-    "type": "PSYCHIC"
-  },
-  {
-    "id": "A2a-034",
-    "name": {
-      "en": "Unown",
-      "es": "Unown"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "ARCEUS"
-    ],
-    "type": "PSYCHIC"
-  },
-  {
-    "id": "A2a-035",
-    "name": {
-      "en": "Rotom",
-      "es": "Rotom"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "ARCEUS"
-    ],
-    "type": "PSYCHIC"
-  },
-  {
-    "id": "A2a-036",
-    "name": {
-      "en": "Sudowoodo",
-      "es": "Sudowoodo"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "ARCEUS"
-    ],
-    "type": "FIGHTING"
-  },
-  {
-    "id": "A2a-037",
-    "name": {
-      "en": "Phanpy",
-      "es": "Phanpy"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "ARCEUS"
-    ],
-    "type": "FIGHTING"
-  },
-  {
-    "id": "A2a-038",
-    "name": {
-      "en": "Donphan",
-      "es": "Donphan"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "ARCEUS"
-    ],
-    "type": "FIGHTING"
-  },
-  {
-    "id": "A2a-039",
-    "name": {
-      "en": "Larvitar",
-      "es": "Larvitar"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "ARCEUS"
-    ],
-    "type": "FIGHTING"
-  },
-  {
-    "id": "A2a-040",
-    "name": {
-      "en": "Pupitar",
-      "es": "Pupitar"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "ARCEUS"
-    ],
-    "type": "FIGHTING"
-  },
-  {
-    "id": "A2a-041",
-    "name": {
-      "en": "Tyranitar",
-      "es": "Tyranitar"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "ARCEUS"
-    ],
-    "type": "FIGHTING"
-  },
-  {
-    "id": "A2a-042",
-    "name": {
-      "en": "Nosepass",
-      "es": "Nosepass"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "ARCEUS"
-    ],
-    "type": "FIGHTING"
-  },
-  {
-    "id": "A2a-043",
-    "name": {
-      "en": "Meditite",
-      "es": "Meditite"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "ARCEUS"
-    ],
-    "type": "FIGHTING"
-  },
-  {
-    "id": "A2a-044",
-    "name": {
-      "en": "Medicham",
-      "es": "Medicham"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "ARCEUS"
-    ],
-    "type": "FIGHTING"
-  },
-  {
-    "id": "A2a-045",
-    "name": {
-      "en": "Gible",
-      "es": "Gible"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "ARCEUS"
-    ],
-    "type": "FIGHTING"
-  },
-  {
-    "id": "A2a-046",
-    "name": {
-      "en": "Gabite",
-      "es": "Gabite"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "ARCEUS"
-    ],
-    "type": "FIGHTING"
-  },
-  {
-    "id": "A2a-047",
-    "name": {
-      "en": "Garchomp ex",
-      "es": "Garchomp ex"
-    },
-    "rarity": "FOUR_DIAMOND",
-    "origins": [
-      "ARCEUS"
-    ],
-    "type": "FIGHTING"
-  },
-  {
-    "id": "A2a-048",
-    "name": {
-      "en": "Zubat",
-      "es": "Zubat"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "ARCEUS"
-    ],
-    "type": "DARKNESS"
-  },
-  {
-    "id": "A2a-049",
-    "name": {
-      "en": "Golbat",
-      "es": "Golbat"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "ARCEUS"
-    ],
-    "type": "DARKNESS"
-  },
-  {
-    "id": "A2a-050",
-    "name": {
-      "en": "Crobat",
-      "es": "Crobat"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "ARCEUS"
-    ],
-    "type": "DARKNESS"
-  },
-  {
-    "id": "A2a-051",
-    "name": {
-      "en": "Croagunk",
-      "es": "Croagunk"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "ARCEUS"
-    ],
-    "type": "DARKNESS"
-  },
-  {
-    "id": "A2a-052",
-    "name": {
-      "en": "Toxicroak",
-      "es": "Toxicroak"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "ARCEUS"
-    ],
-    "type": "DARKNESS"
-  },
-  {
-    "id": "A2a-053",
-    "name": {
-      "en": "Magnemite",
-      "es": "Magnemite"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "ARCEUS"
-    ],
-    "type": "METAL"
-  },
-  {
-    "id": "A2a-054",
-    "name": {
-      "en": "Magneton",
-      "es": "Magneton"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "ARCEUS"
-    ],
-    "type": "METAL"
-  },
-  {
-    "id": "A2a-055",
-    "name": {
-      "en": "Magnezone",
-      "es": "Magnezone"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "ARCEUS"
-    ],
-    "type": "METAL"
-  },
-  {
-    "id": "A2a-056",
-    "name": {
-      "en": "Mawile",
-      "es": "Mawile"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "ARCEUS"
-    ],
-    "type": "METAL"
-  },
-  {
-    "id": "A2a-057",
-    "name": {
-      "en": "Probopass ex",
-      "es": "Probopass ex"
-    },
-    "rarity": "FOUR_DIAMOND",
-    "origins": [
-      "ARCEUS"
-    ],
-    "type": "METAL"
-  },
-  {
-    "id": "A2a-058",
-    "name": {
-      "en": "Bronzor",
-      "es": "Bronzor"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "ARCEUS"
-    ],
-    "type": "METAL"
-  },
-  {
-    "id": "A2a-059",
-    "name": {
-      "en": "Bronzong",
-      "es": "Bronzong"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "ARCEUS"
-    ],
-    "type": "METAL"
-  },
-  {
-    "id": "A2a-060",
-    "name": {
-      "en": "Origin Forme Dialga",
-      "es": "Dialga Origen"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "ARCEUS"
-    ],
-    "type": "METAL"
-  },
-  {
-    "id": "A2a-061",
-    "name": {
-      "en": "Giratina",
-      "es": "Giratina"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "ARCEUS"
-    ],
-    "type": "DRAGON"
-  },
-  {
-    "id": "A2a-062",
-    "name": {
-      "en": "Eevee",
-      "es": "Eevee"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "ARCEUS"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "A2a-063",
-    "name": {
-      "en": "Snorlax",
-      "es": "Snorlax"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "ARCEUS"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "A2a-064",
-    "name": {
-      "en": "Hoothoot",
-      "es": "Hoothoot"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "ARCEUS"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "A2a-065",
-    "name": {
-      "en": "Noctowl",
-      "es": "Noctowl"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "ARCEUS"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "A2a-066",
-    "name": {
-      "en": "Starly",
-      "es": "Starly"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "ARCEUS"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "A2a-067",
-    "name": {
-      "en": "Staravia",
-      "es": "Staravia"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "ARCEUS"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "A2a-068",
-    "name": {
-      "en": "Staraptor",
-      "es": "Staraptor"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "ARCEUS"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "A2a-069",
-    "name": {
-      "en": "Shaymin",
-      "es": "Shaymin"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "ARCEUS"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "A2a-070",
-    "name": {
-      "en": "ARCEUS",
-      "es": "ARCEUS"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "ARCEUS"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "A2a-071",
-    "name": {
-      "en": "Arceus ex",
-      "es": "Arceus ex"
-    },
-    "rarity": "FOUR_DIAMOND",
-    "origins": [
-      "ARCEUS"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "A2a-072",
-    "name": {
-      "en": "Irida",
-      "es": "Nákara"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "ARCEUS"
-    ],
-    "type": "TRAINER"
-  },
-  {
-    "id": "A2a-073",
-    "name": {
-      "en": "Celestic Town Elder",
-      "es": "Anciana de Pueblo Caelestis"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "ARCEUS"
-    ],
-    "type": "TRAINER"
-  },
-  {
-    "id": "A2a-074",
-    "name": {
-      "en": "Barry",
-      "es": "Israel"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "ARCEUS"
-    ],
-    "type": "TRAINER"
-  },
-  {
-    "id": "A2a-075",
-    "name": {
-      "en": "Adaman",
-      "es": "Adamas"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "ARCEUS"
-    ],
-    "type": "TRAINER"
-  },
-  {
-    "id": "A2a-076",
-    "name": {
-      "en": "Houndoom",
-      "es": "Houndoom"
-    },
-    "rarity": "ONE_STAR",
-    "origins": [
-      "ARCEUS"
-    ],
-    "type": "FIRE"
-  },
-  {
-    "id": "A2a-077",
-    "name": {
-      "en": "Marill",
-      "es": "Marill"
-    },
-    "rarity": "ONE_STAR",
-    "origins": [
-      "ARCEUS"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A2a-078",
-    "name": {
-      "en": "Unown",
-      "es": "Unown"
-    },
-    "rarity": "ONE_STAR",
-    "origins": [
-      "ARCEUS"
-    ],
-    "type": "PSYCHIC"
-  },
-  {
-    "id": "A2a-079",
-    "name": {
-      "en": "Sudowoodo",
-      "es": "Sudowoodo"
-    },
-    "rarity": "ONE_STAR",
-    "origins": [
-      "ARCEUS"
-    ],
-    "type": "FIGHTING"
-  },
-  {
-    "id": "A2a-080",
-    "name": {
-      "en": "Magnemite",
-      "es": "Magnemite"
-    },
-    "rarity": "ONE_STAR",
-    "origins": [
-      "ARCEUS"
-    ],
-    "type": "METAL"
-  },
-  {
-    "id": "A2a-081",
-    "name": {
-      "en": "Shaymin",
-      "es": "Shaymin"
-    },
-    "rarity": "ONE_STAR",
-    "origins": [
-      "ARCEUS"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "A2a-082",
-    "name": {
-      "en": "Leafeon ex",
-      "es": "Leafeon ex"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "ARCEUS"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "A2a-083",
-    "name": {
-      "en": "Glaceon ex",
-      "es": "Glaceon ex"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "ARCEUS"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A2a-084",
-    "name": {
-      "en": "Garchomp ex",
-      "es": "Garchomp ex"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "ARCEUS"
-    ],
-    "type": "FIGHTING"
-  },
-  {
-    "id": "A2a-085",
-    "name": {
-      "en": "Probopass ex",
-      "es": "Probopass ex"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "ARCEUS"
-    ],
-    "type": "METAL"
-  },
-  {
-    "id": "A2a-086",
-    "name": {
-      "en": "Arceus ex",
-      "es": "Arceus ex"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "ARCEUS"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "A2a-087",
-    "name": {
-      "en": "Irida",
-      "es": "Nákara"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "ARCEUS"
-    ],
-    "type": "TRAINER"
-  },
-  {
-    "id": "A2a-088",
-    "name": {
-      "en": "Celestic Town Elder",
-      "es": "Anciana de Pueblo Caelestis"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "ARCEUS"
-    ],
-    "type": "TRAINER"
-  },
-  {
-    "id": "A2a-089",
-    "name": {
-      "en": "Barry",
-      "es": "Israel"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "ARCEUS"
-    ],
-    "type": "TRAINER"
-  },
-  {
-    "id": "A2a-090",
-    "name": {
-      "en": "Adaman",
-      "es": "Adamas"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "ARCEUS"
-    ],
-    "type": "TRAINER"
-  },
-  {
-    "id": "A2a-091",
-    "name": {
-      "en": "Leafeon ex",
-      "es": "Leafeon ex"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "ARCEUS"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "A2a-092",
-    "name": {
-      "en": "Glaceon ex",
-      "es": "Glaceon ex"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "ARCEUS"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A2a-093",
-    "name": {
-      "en": "Garchomp ex",
-      "es": "Garchomp ex"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "ARCEUS"
-    ],
-    "type": "FIGHTING"
-  },
-  {
-    "id": "A2a-094",
-    "name": {
-      "en": "Probopass ex",
-      "es": "Probopass ex"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "ARCEUS"
-    ],
-    "type": "METAL"
-  },
-  {
-    "id": "A2a-095",
-    "name": {
-      "en": "Arceus ex",
-      "es": "Arceus ex"
-    },
-    "rarity": "THREE_STAR",
-    "origins": [
-      "ARCEUS"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "A2a-096",
-    "name": {
-      "en": "Arceus ex",
-      "es": "Arceus ex"
-    },
-    "rarity": "CROWN",
-    "origins": [
-      "ARCEUS"
-    ],
-    "type": "COLORLESS"
-  }
+    {
+        "id": "A2a-001",
+        "name": {
+            "en": "Heracross",
+            "es": "Heracross"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "ARCEUS"
+        ],
+        "type": "GRASS",
+        "hash": "21f4dc9e4942833ace"
+    },
+    {
+        "id": "A2a-002",
+        "name": {
+            "en": "Burmy",
+            "es": "Burmy"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "ARCEUS"
+        ],
+        "type": "GRASS",
+        "hash": "119c694a25692535bf"
+    },
+    {
+        "id": "A2a-003",
+        "name": {
+            "en": "Mothim",
+            "es": "Mothim"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "ARCEUS"
+        ],
+        "type": "GRASS",
+        "hash": "21b4b59d2f49c0c9c9"
+    },
+    {
+        "id": "A2a-004",
+        "name": {
+            "en": "Combee",
+            "es": "Combee"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "ARCEUS"
+        ],
+        "type": "GRASS",
+        "hash": "11a4b91ad39e27c670"
+    },
+    {
+        "id": "A2a-005",
+        "name": {
+            "en": "Vespiquen",
+            "es": "Vespiquen"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "ARCEUS"
+        ],
+        "type": "GRASS",
+        "hash": "21c6c375cc582d0bcb"
+    },
+    {
+        "id": "A2a-006",
+        "name": {
+            "en": "Cherubi",
+            "es": "Cherubi"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "ARCEUS"
+        ],
+        "type": "GRASS",
+        "hash": "11b151f0f28c2cd973"
+    },
+    {
+        "id": "A2a-007",
+        "name": {
+            "en": "Cherrim",
+            "es": "Cherrim"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "ARCEUS"
+        ],
+        "type": "GRASS",
+        "hash": "21c8cc1c3bc3c3c35b"
+    },
+    {
+        "id": "A2a-008",
+        "name": {
+            "en": "Cherrim",
+            "es": "Cherrim"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "ARCEUS"
+        ],
+        "type": "GRASS",
+        "hash": "21d0ca61fc53ca2f85"
+    },
+    {
+        "id": "A2a-009",
+        "name": {
+            "en": "Carnivine",
+            "es": "Carnivine"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "ARCEUS"
+        ],
+        "type": "GRASS",
+        "hash": "3184b143a6634b3ebe"
+    },
+    {
+        "id": "A2a-010",
+        "name": {
+            "en": "Leafeon ex",
+            "es": "Leafeon ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "ARCEUS"
+        ],
+        "type": "GRASS",
+        "hash": "419453689dc4e651be"
+    },
+    {
+        "id": "A2a-011",
+        "name": {
+            "en": "Houndour",
+            "es": "Houndour"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "ARCEUS"
+        ],
+        "type": "FIRE",
+        "hash": "11a6f1b1864e6730dc"
+    },
+    {
+        "id": "A2a-012",
+        "name": {
+            "en": "Houndoom",
+            "es": "Houndoom"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "ARCEUS"
+        ],
+        "type": "FIRE",
+        "hash": "21b68c5891b866aa77"
+    },
+    {
+        "id": "A2a-013",
+        "name": {
+            "en": "Heatran",
+            "es": "Heatran"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "ARCEUS"
+        ],
+        "type": "FIRE",
+        "hash": "31946617cd48de1af2"
+    },
+    {
+        "id": "A2a-014",
+        "name": {
+            "en": "Marill",
+            "es": "Marill"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "ARCEUS"
+        ],
+        "type": "WATER",
+        "hash": "11c49cd3a32df3087c"
+    },
+    {
+        "id": "A2a-015",
+        "name": {
+            "en": "Azumarill",
+            "es": "Azumarill"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "ARCEUS"
+        ],
+        "type": "WATER",
+        "hash": "11c7e9988c991f7312"
+    },
+    {
+        "id": "A2a-016",
+        "name": {
+            "en": "Barboach",
+            "es": "Barboach"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "ARCEUS"
+        ],
+        "type": "WATER",
+        "hash": "11adcc97668468db1c"
+    },
+    {
+        "id": "A2a-017",
+        "name": {
+            "en": "Whiscash",
+            "es": "Whiscash"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "ARCEUS"
+        ],
+        "type": "WATER",
+        "hash": "21e08fcc99ff660898"
+    },
+    {
+        "id": "A2a-018",
+        "name": {
+            "en": "Snorunt",
+            "es": "Snorunt"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "ARCEUS"
+        ],
+        "type": "WATER",
+        "hash": "11d51a79bd786022e6"
+    },
+    {
+        "id": "A2a-019",
+        "name": {
+            "en": "Froslass",
+            "es": "Froslass"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "ARCEUS"
+        ],
+        "type": "WATER",
+        "hash": "21c5a00d8c1f727377"
+    },
+    {
+        "id": "A2a-020",
+        "name": {
+            "en": "Snover",
+            "es": "Snover"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "ARCEUS"
+        ],
+        "type": "WATER",
+        "hash": "11db15e168f7535824"
+    },
+    {
+        "id": "A2a-021",
+        "name": {
+            "en": "Abomasnow",
+            "es": "Abomasnow"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "ARCEUS"
+        ],
+        "type": "WATER",
+        "hash": "31ccf2266c78c5d6a4"
+    },
+    {
+        "id": "A2a-022",
+        "name": {
+            "en": "Glaceon ex",
+            "es": "Glaceon ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "ARCEUS"
+        ],
+        "type": "WATER",
+        "hash": "41f0334f946cc9d147"
+    },
+    {
+        "id": "A2a-023",
+        "name": {
+            "en": "Origin Forme Palkia",
+            "es": "Palkia Origen"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "ARCEUS"
+        ],
+        "type": "WATER",
+        "hash": "31d1b84b2f58d11aae"
+    },
+    {
+        "id": "A2a-024",
+        "name": {
+            "en": "Phione",
+            "es": "Phione"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "ARCEUS"
+        ],
+        "type": "WATER",
+        "hash": "21f950067e5e2d5874"
+    },
+    {
+        "id": "A2a-025",
+        "name": {
+            "en": "Pikachu",
+            "es": "Pikachu"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "ARCEUS"
+        ],
+        "type": "LIGHTNING",
+        "hash": "11a1f8d8d1daee4a0c"
+    },
+    {
+        "id": "A2a-026",
+        "name": {
+            "en": "Raichu",
+            "es": "Raichu"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "ARCEUS"
+        ],
+        "type": "LIGHTNING",
+        "hash": "31fcb211ca7a8f8c45"
+    },
+    {
+        "id": "A2a-027",
+        "name": {
+            "en": "Electrike",
+            "es": "Electrike"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "ARCEUS"
+        ],
+        "type": "LIGHTNING",
+        "hash": "11dc5a694dd20d61ba"
+    },
+    {
+        "id": "A2a-028",
+        "name": {
+            "en": "Manectric",
+            "es": "Manectric"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "ARCEUS"
+        ],
+        "type": "LIGHTNING",
+        "hash": "21ecc8cb92b2dd8685"
+    },
+    {
+        "id": "A2a-029",
+        "name": {
+            "en": "Clefairy",
+            "es": "Clefairy"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "ARCEUS"
+        ],
+        "type": "PSYCHIC",
+        "hash": "118e2c0767c160fc5f"
+    },
+    {
+        "id": "A2a-030",
+        "name": {
+            "en": "Clefable",
+            "es": "Clefable"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "ARCEUS"
+        ],
+        "type": "PSYCHIC",
+        "hash": "2193cb35e696e5c244"
+    },
+    {
+        "id": "A2a-031",
+        "name": {
+            "en": "Gastly",
+            "es": "Gastly"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "ARCEUS"
+        ],
+        "type": "PSYCHIC",
+        "hash": "11e5971a933962259d"
+    },
+    {
+        "id": "A2a-032",
+        "name": {
+            "en": "Haunter",
+            "es": "Haunter"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "ARCEUS"
+        ],
+        "type": "PSYCHIC",
+        "hash": "11e8e9cfe1dcc8c418"
+    },
+    {
+        "id": "A2a-033",
+        "name": {
+            "en": "Gengar",
+            "es": "Gengar"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "ARCEUS"
+        ],
+        "type": "PSYCHIC",
+        "hash": "21c3c1ce4f4c7ed290"
+    },
+    {
+        "id": "A2a-034",
+        "name": {
+            "en": "Unown",
+            "es": "Unown"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "ARCEUS"
+        ],
+        "type": "PSYCHIC",
+        "hash": "219c70770fc90763e8"
+    },
+    {
+        "id": "A2a-035",
+        "name": {
+            "en": "Rotom",
+            "es": "Rotom"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "ARCEUS"
+        ],
+        "type": "PSYCHIC",
+        "hash": "318ca838fa167b692d"
+    },
+    {
+        "id": "A2a-036",
+        "name": {
+            "en": "Sudowoodo",
+            "es": "Sudowoodo"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "ARCEUS"
+        ],
+        "type": "FIGHTING",
+        "hash": "2192c65cd453e24fb4"
+    },
+    {
+        "id": "A2a-037",
+        "name": {
+            "en": "Phanpy",
+            "es": "Phanpy"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "ARCEUS"
+        ],
+        "type": "FIGHTING",
+        "hash": "11e415b766cb49583a"
+    },
+    {
+        "id": "A2a-038",
+        "name": {
+            "en": "Donphan",
+            "es": "Donphan"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "ARCEUS"
+        ],
+        "type": "FIGHTING",
+        "hash": "21a8c9158f7e885ee2"
+    },
+    {
+        "id": "A2a-039",
+        "name": {
+            "en": "Larvitar",
+            "es": "Larvitar"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "ARCEUS"
+        ],
+        "type": "FIGHTING",
+        "hash": "11a42793d8ccf36466"
+    },
+    {
+        "id": "A2a-040",
+        "name": {
+            "en": "Pupitar",
+            "es": "Pupitar"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "ARCEUS"
+        ],
+        "type": "FIGHTING",
+        "hash": "21c1d0be4ebc49c993"
+    },
+    {
+        "id": "A2a-041",
+        "name": {
+            "en": "Tyranitar",
+            "es": "Tyranitar"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "ARCEUS"
+        ],
+        "type": "FIGHTING",
+        "hash": "31c5f235cec5cc4cd0"
+    },
+    {
+        "id": "A2a-042",
+        "name": {
+            "en": "Nosepass",
+            "es": "Nosepass"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "ARCEUS"
+        ],
+        "type": "FIGHTING",
+        "hash": "11bb9a90ecec25a3a2"
+    },
+    {
+        "id": "A2a-043",
+        "name": {
+            "en": "Meditite",
+            "es": "Meditite"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "ARCEUS"
+        ],
+        "type": "FIGHTING",
+        "hash": "11c28d988c70cf4efc"
+    },
+    {
+        "id": "A2a-044",
+        "name": {
+            "en": "Medicham",
+            "es": "Medicham"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "ARCEUS"
+        ],
+        "type": "FIGHTING",
+        "hash": "21e35ca46e98a49b8d"
+    },
+    {
+        "id": "A2a-045",
+        "name": {
+            "en": "Gible",
+            "es": "Gible"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "ARCEUS"
+        ],
+        "type": "FIGHTING",
+        "hash": "11e1a5ccdc38cc8e71"
+    },
+    {
+        "id": "A2a-046",
+        "name": {
+            "en": "Gabite",
+            "es": "Gabite"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "ARCEUS"
+        ],
+        "type": "FIGHTING",
+        "hash": "11c3879edcedcc88c0"
+    },
+    {
+        "id": "A2a-047",
+        "name": {
+            "en": "Garchomp ex",
+            "es": "Garchomp ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "ARCEUS"
+        ],
+        "type": "FIGHTING",
+        "hash": "41ef5ce25c85404bc7"
+    },
+    {
+        "id": "A2a-048",
+        "name": {
+            "en": "Zubat",
+            "es": "Zubat"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "ARCEUS"
+        ],
+        "type": "DARKNESS",
+        "hash": "11f09d2f720b343555"
+    },
+    {
+        "id": "A2a-049",
+        "name": {
+            "en": "Golbat",
+            "es": "Golbat"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "ARCEUS"
+        ],
+        "type": "DARKNESS",
+        "hash": "11d1d949db87cce406"
+    },
+    {
+        "id": "A2a-050",
+        "name": {
+            "en": "Crobat",
+            "es": "Crobat"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "ARCEUS"
+        ],
+        "type": "DARKNESS",
+        "hash": "31d56c9cd9c826c996"
+    },
+    {
+        "id": "A2a-051",
+        "name": {
+            "en": "Croagunk",
+            "es": "Croagunk"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "ARCEUS"
+        ],
+        "type": "DARKNESS",
+        "hash": "11c2eb2988e4e9e13e"
+    },
+    {
+        "id": "A2a-052",
+        "name": {
+            "en": "Toxicroak",
+            "es": "Toxicroak"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "ARCEUS"
+        ],
+        "type": "DARKNESS",
+        "hash": "21d3d08c8fdb640e69"
+    },
+    {
+        "id": "A2a-053",
+        "name": {
+            "en": "Magnemite",
+            "es": "Magnemite"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "ARCEUS"
+        ],
+        "type": "METAL",
+        "hash": "11a18e273cc59f9aa1"
+    },
+    {
+        "id": "A2a-054",
+        "name": {
+            "en": "Magneton",
+            "es": "Magneton"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "ARCEUS"
+        ],
+        "type": "METAL",
+        "hash": "119e42a946d71bccd4"
+    },
+    {
+        "id": "A2a-055",
+        "name": {
+            "en": "Magnezone",
+            "es": "Magnezone"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "ARCEUS"
+        ],
+        "type": "METAL",
+        "hash": "31924bb8666e8748dd"
+    },
+    {
+        "id": "A2a-056",
+        "name": {
+            "en": "Mawile",
+            "es": "Mawile"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "ARCEUS"
+        ],
+        "type": "METAL",
+        "hash": "11f52d2dd24b0d0d72"
+    },
+    {
+        "id": "A2a-057",
+        "name": {
+            "en": "Probopass ex",
+            "es": "Probopass ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "ARCEUS"
+        ],
+        "type": "METAL",
+        "hash": "419bde49a1c4c9c2c7"
+    },
+    {
+        "id": "A2a-058",
+        "name": {
+            "en": "Bronzor",
+            "es": "Bronzor"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "ARCEUS"
+        ],
+        "type": "METAL",
+        "hash": "11909e0f7658b27d23"
+    },
+    {
+        "id": "A2a-059",
+        "name": {
+            "en": "Bronzong",
+            "es": "Bronzong"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "ARCEUS"
+        ],
+        "type": "METAL",
+        "hash": "21d6ced4e468a6c668"
+    },
+    {
+        "id": "A2a-060",
+        "name": {
+            "en": "Origin Forme Dialga",
+            "es": "Dialga Origen"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "ARCEUS"
+        ],
+        "type": "METAL",
+        "hash": "31a8c956c2c5bd3696"
+    },
+    {
+        "id": "A2a-061",
+        "name": {
+            "en": "Giratina",
+            "es": "Giratina"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "ARCEUS"
+        ],
+        "type": "DRAGON",
+        "hash": "31f13b11bd5ddc0624"
+    },
+    {
+        "id": "A2a-062",
+        "name": {
+            "en": "Eevee",
+            "es": "Eevee"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "ARCEUS"
+        ],
+        "type": "COLORLESS",
+        "hash": "11c831708ea65d0b7f"
+    },
+    {
+        "id": "A2a-063",
+        "name": {
+            "en": "Snorlax",
+            "es": "Snorlax"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "ARCEUS"
+        ],
+        "type": "COLORLESS",
+        "hash": "21cccb23f0b1788f89"
+    },
+    {
+        "id": "A2a-064",
+        "name": {
+            "en": "Hoothoot",
+            "es": "Hoothoot"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "ARCEUS"
+        ],
+        "type": "COLORLESS",
+        "hash": "11e1e46c9d9bc04e17"
+    },
+    {
+        "id": "A2a-065",
+        "name": {
+            "en": "Noctowl",
+            "es": "Noctowl"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "ARCEUS"
+        ],
+        "type": "COLORLESS",
+        "hash": "21cded1b7056c4d1d0"
+    },
+    {
+        "id": "A2a-066",
+        "name": {
+            "en": "Starly",
+            "es": "Starly"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "ARCEUS"
+        ],
+        "type": "COLORLESS",
+        "hash": "11e2b6060b34c3d9f3"
+    },
+    {
+        "id": "A2a-067",
+        "name": {
+            "en": "Staravia",
+            "es": "Staravia"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "ARCEUS"
+        ],
+        "type": "COLORLESS",
+        "hash": "118adad6bd3cca3085"
+    },
+    {
+        "id": "A2a-068",
+        "name": {
+            "en": "Staraptor",
+            "es": "Staraptor"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "ARCEUS"
+        ],
+        "type": "COLORLESS",
+        "hash": "21cc41f1b4eec688ce"
+    },
+    {
+        "id": "A2a-069",
+        "name": {
+            "en": "Shaymin",
+            "es": "Shaymin"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "ARCEUS"
+        ],
+        "type": "COLORLESS",
+        "hash": "31eda5949d32b2494d"
+    },
+    {
+        "id": "A2a-070",
+        "name": {
+            "en": "ARCEUS",
+            "es": "ARCEUS"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "ARCEUS"
+        ],
+        "type": "COLORLESS",
+        "hash": "31966605b85ca65f3c"
+    },
+    {
+        "id": "A2a-071",
+        "name": {
+            "en": "Arceus ex",
+            "es": "Arceus ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "ARCEUS"
+        ],
+        "type": "COLORLESS",
+        "hash": "418e29b556938b31d3"
+    },
+    {
+        "id": "A2a-072",
+        "name": {
+            "en": "Irida",
+            "es": "Nákara"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "ARCEUS"
+        ],
+        "type": "TRAINER",
+        "hash": "21d2a1f10ef1ce81da"
+    },
+    {
+        "id": "A2a-073",
+        "name": {
+            "en": "Celestic Town Elder",
+            "es": "Anciana de Pueblo Caelestis"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "ARCEUS"
+        ],
+        "type": "TRAINER",
+        "hash": "21a4d823bff491f803"
+    },
+    {
+        "id": "A2a-074",
+        "name": {
+            "en": "Barry",
+            "es": "Israel"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "ARCEUS"
+        ],
+        "type": "TRAINER",
+        "hash": "21e399c6c6b2b18e26"
+    },
+    {
+        "id": "A2a-075",
+        "name": {
+            "en": "Adaman",
+            "es": "Adamas"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "ARCEUS"
+        ],
+        "type": "TRAINER",
+        "hash": "21b1b6eadc0ac1a699"
+    },
+    {
+        "id": "A2a-076",
+        "name": {
+            "en": "Houndoom",
+            "es": "Houndoom"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "ARCEUS"
+        ],
+        "type": "FIRE",
+        "hash": "13c758f7ccc9c0ccc8"
+    },
+    {
+        "id": "A2a-077",
+        "name": {
+            "en": "Marill",
+            "es": "Marill"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "ARCEUS"
+        ],
+        "type": "WATER",
+        "hash": "138107b4d74b7b35b0"
+    },
+    {
+        "id": "A2a-078",
+        "name": {
+            "en": "Unown",
+            "es": "Unown"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "ARCEUS"
+        ],
+        "type": "PSYCHIC",
+        "hash": "13d28f7c4093a572dc"
+    },
+    {
+        "id": "A2a-079",
+        "name": {
+            "en": "Sudowoodo",
+            "es": "Sudowoodo"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "ARCEUS"
+        ],
+        "type": "FIGHTING",
+        "hash": "13aaa54365e087bc3d"
+    },
+    {
+        "id": "A2a-080",
+        "name": {
+            "en": "Magnemite",
+            "es": "Magnemite"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "ARCEUS"
+        ],
+        "type": "METAL",
+        "hash": "138fc8366c97330de4"
+    },
+    {
+        "id": "A2a-081",
+        "name": {
+            "en": "Shaymin",
+            "es": "Shaymin"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "ARCEUS"
+        ],
+        "type": "COLORLESS",
+        "hash": "13c63b59d6ed914a44"
+    },
+    {
+        "id": "A2a-082",
+        "name": {
+            "en": "Leafeon ex",
+            "es": "Leafeon ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "ARCEUS"
+        ],
+        "type": "GRASS",
+        "hash": "23d72cc19070ccde97"
+    },
+    {
+        "id": "A2a-083",
+        "name": {
+            "en": "Glaceon ex",
+            "es": "Glaceon ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "ARCEUS"
+        ],
+        "type": "WATER",
+        "hash": "23f235a9255bc6d01d"
+    },
+    {
+        "id": "A2a-084",
+        "name": {
+            "en": "Garchomp ex",
+            "es": "Garchomp ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "ARCEUS"
+        ],
+        "type": "FIGHTING",
+        "hash": "23aeeef0c152335b14"
+    },
+    {
+        "id": "A2a-085",
+        "name": {
+            "en": "Probopass ex",
+            "es": "Probopass ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "ARCEUS"
+        ],
+        "type": "METAL",
+        "hash": "23e553c4cb6bfcd040"
+    },
+    {
+        "id": "A2a-086",
+        "name": {
+            "en": "Arceus ex",
+            "es": "Arceus ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "ARCEUS"
+        ],
+        "type": "COLORLESS",
+        "hash": "23d73ce1c08b0f74d1"
+    },
+    {
+        "id": "A2a-087",
+        "name": {
+            "en": "Irida",
+            "es": "Nákara"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "ARCEUS"
+        ],
+        "type": "TRAINER",
+        "hash": "23abe2e485129bd393"
+    },
+    {
+        "id": "A2a-088",
+        "name": {
+            "en": "Celestic Town Elder",
+            "es": "Anciana de Pueblo Caelestis"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "ARCEUS"
+        ],
+        "type": "TRAINER",
+        "hash": "239974a386e686f1f0"
+    },
+    {
+        "id": "A2a-089",
+        "name": {
+            "en": "Barry",
+            "es": "Israel"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "ARCEUS"
+        ],
+        "type": "TRAINER",
+        "hash": "23f1d6b08bd9b025b4"
+    },
+    {
+        "id": "A2a-090",
+        "name": {
+            "en": "Adaman",
+            "es": "Adamas"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "ARCEUS"
+        ],
+        "type": "TRAINER",
+        "hash": "23b6b55883a9c3f390"
+    },
+    {
+        "id": "A2a-091",
+        "name": {
+            "en": "Leafeon ex",
+            "es": "Leafeon ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "ARCEUS"
+        ],
+        "type": "GRASS",
+        "hash": "23878836e6986519df"
+    },
+    {
+        "id": "A2a-092",
+        "name": {
+            "en": "Glaceon ex",
+            "es": "Glaceon ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "ARCEUS"
+        ],
+        "type": "WATER",
+        "hash": "23cbea2c1846681bdf"
+    },
+    {
+        "id": "A2a-093",
+        "name": {
+            "en": "Garchomp ex",
+            "es": "Garchomp ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "ARCEUS"
+        ],
+        "type": "FIGHTING",
+        "hash": "23bfeeed483131c380"
+    },
+    {
+        "id": "A2a-094",
+        "name": {
+            "en": "Probopass ex",
+            "es": "Probopass ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "ARCEUS"
+        ],
+        "type": "METAL",
+        "hash": "238df29ce956699264"
+    },
+    {
+        "id": "A2a-095",
+        "name": {
+            "en": "Arceus ex",
+            "es": "Arceus ex"
+        },
+        "rarity": "THREE_STAR",
+        "origins": [
+            "ARCEUS"
+        ],
+        "type": "COLORLESS",
+        "hash": "33a35fe0910d7a6cc6"
+    },
+    {
+        "id": "A2a-096",
+        "name": {
+            "en": "Arceus ex",
+            "es": "Arceus ex"
+        },
+        "rarity": "CROWN",
+        "origins": [
+            "ARCEUS"
+        ],
+        "type": "COLORLESS",
+        "hash": "15973bf1c78e0e1491"
+    }
 ]

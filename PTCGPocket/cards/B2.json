@@ -1,2810 +1,3044 @@
 [
-  {
-    "id": "B2-001",
-    "name": {
-      "en": "Ledyba",
-      "es": "Ledyba"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "B2-002",
-    "name": {
-      "en": "Ledian",
-      "es": "Ledian"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "B2-003",
-    "name": {
-      "en": "Shuckle",
-      "es": "Shuckle"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "B2-004",
-    "name": {
-      "en": "Roselia",
-      "es": "Roselia"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "B2-005",
-    "name": {
-      "en": "Roserade",
-      "es": "Roserade"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "B2-006",
-    "name": {
-      "en": "Cacnea",
-      "es": "Cacnea"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "B2-007",
-    "name": {
-      "en": "Cacturne",
-      "es": "Cacturne"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "B2-008",
-    "name": {
-      "en": "Chespin",
-      "es": "Chespin"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "B2-009",
-    "name": {
-      "en": "Quilladin",
-      "es": "Quilladin"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "B2-010",
-    "name": {
-      "en": "Chesnaught",
-      "es": "Chesnaught"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "B2-011",
-    "name": {
-      "en": "Scatterbug",
-      "es": "Scatterbug"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "B2-012",
-    "name": {
-      "en": "Spewpa",
-      "es": "Spewpa"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "B2-013",
-    "name": {
-      "en": "Vivillon",
-      "es": "Vivillon"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "B2-014",
-    "name": {
-      "en": "Buzzwole",
-      "es": "Buzzwole"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "B2-015",
-    "name": {
-      "en": "Gossifleur",
-      "es": "Gossifleur"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "B2-016",
-    "name": {
-      "en": "Eldegoss",
-      "es": "Eldegoss"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "B2-017",
-    "name": {
-      "en": "Teal Mask Ogerpon ex",
-      "es": "Teal Mask Ogerpon ex"
-    },
-    "rarity": "FOUR_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "B2-018",
-    "name": {
-      "en": "Alolan Marowak",
-      "es": "Marowak de Alola"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "FIRE"
-  },
-  {
-    "id": "B2-019",
-    "name": {
-      "en": "Reshiram",
-      "es": "Reshiram"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "FIRE"
-  },
-  {
-    "id": "B2-020",
-    "name": {
-      "en": "Litleo",
-      "es": "Litleo"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "FIRE"
-  },
-  {
-    "id": "B2-021",
-    "name": {
-      "en": "Pyroar",
-      "es": "Pyroar"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "FIRE"
-  },
-  {
-    "id": "B2-022",
-    "name": {
-      "en": "Oricorio",
-      "es": "Oricorio"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "FIRE"
-  },
-  {
-    "id": "B2-023",
-    "name": {
-      "en": "Blacephalon ex",
-      "es": "Blacephalon ex"
-    },
-    "rarity": "FOUR_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "FIRE"
-  },
-  {
-    "id": "B2-024",
-    "name": {
-      "en": "Scorbunny",
-      "es": "Scorbunny"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "FIRE"
-  },
-  {
-    "id": "B2-025",
-    "name": {
-      "en": "Raboot",
-      "es": "Raboot"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "FIRE"
-  },
-  {
-    "id": "B2-026",
-    "name": {
-      "en": "Cinderace",
-      "es": "Cinderace"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "FIRE"
-  },
-  {
-    "id": "B2-027",
-    "name": {
-      "en": "Hearthflame Mask Ogerpon",
-      "es": "Hearthflame Mask Ogerpon"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "FIRE"
-  },
-  {
-    "id": "B2-028",
-    "name": {
-      "en": "Alolan Vulpix",
-      "es": "Vulpix de Alola"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "B2-029",
-    "name": {
-      "en": "Alolan Ninetales ex",
-      "es": "Ninetales de Alola ex"
-    },
-    "rarity": "FOUR_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "B2-030",
-    "name": {
-      "en": "Galarian Mr. Mime",
-      "es": "Mr. Mime de Galar"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "B2-031",
-    "name": {
-      "en": "Galarian Mr. Rime",
-      "es": "Mr. Rime de Galar"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "B2-032",
-    "name": {
-      "en": "Delibird",
-      "es": "Delibird"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "B2-033",
-    "name": {
-      "en": "Mudkip",
-      "es": "Mudkip"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "B2-034",
-    "name": {
-      "en": "Marshtomp",
-      "es": "Marshtomp"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "B2-035",
-    "name": {
-      "en": "Swampert",
-      "es": "Swampert"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "B2-036",
-    "name": {
-      "en": "Mega Swampert ex",
-      "es": "Mega-Swampert ex"
-    },
-    "rarity": "FOUR_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "B2-037",
-    "name": {
-      "en": "Vanillite",
-      "es": "Vanillite"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "B2-038",
-    "name": {
-      "en": "Vanillish",
-      "es": "Vanillish"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "B2-039",
-    "name": {
-      "en": "Vanilluxe",
-      "es": "Vanilluxe"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "B2-040",
-    "name": {
-      "en": "Cryogonal",
-      "es": "Cryogonal"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "B2-041",
-    "name": {
-      "en": "Amaura",
-      "es": "Amaura"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "B2-042",
-    "name": {
-      "en": "Aurorus",
-      "es": "Aurorus"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "B2-043",
-    "name": {
-      "en": "Chewtle",
-      "es": "Chewtle"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "B2-044",
-    "name": {
-      "en": "Drednaw",
-      "es": "Drednaw"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "B2-045",
-    "name": {
-      "en": "Cramorant",
-      "es": "Cramorant"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "B2-046",
-    "name": {
-      "en": "Arrokuda",
-      "es": "Arrokuda"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "B2-047",
-    "name": {
-      "en": "Barraskewda",
-      "es": "Barraskewda"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "B2-048",
-    "name": {
-      "en": "Wellspring Mask Ogerpon",
-      "es": "Wellspring Mask Ogerpon"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "B2-049",
-    "name": {
-      "en": "Pikachu",
-      "es": "Pikachu"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "LIGHTNING"
-  },
-  {
-    "id": "B2-050",
-    "name": {
-      "en": "Alolan Raichu",
-      "es": "Raichu de Alola"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "LIGHTNING"
-  },
-  {
-    "id": "B2-051",
-    "name": {
-      "en": "Zapdos",
-      "es": "Zapdos"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "LIGHTNING"
-  },
-  {
-    "id": "B2-052",
-    "name": {
-      "en": "Plusle",
-      "es": "Plusle"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "LIGHTNING"
-  },
-  {
-    "id": "B2-053",
-    "name": {
-      "en": "Minun",
-      "es": "Minun"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "LIGHTNING"
-  },
-  {
-    "id": "B2-054",
-    "name": {
-      "en": "Toxel",
-      "es": "Toxel"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "LIGHTNING"
-  },
-  {
-    "id": "B2-055",
-    "name": {
-      "en": "Toxtricity ex",
-      "es": "Toxtricity ex"
-    },
-    "rarity": "FOUR_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "LIGHTNING"
-  },
-  {
-    "id": "B2-056",
-    "name": {
-      "en": "Tadbulb",
-      "es": "Tadbulb"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "LIGHTNING"
-  },
-  {
-    "id": "B2-057",
-    "name": {
-      "en": "Bellibolt",
-      "es": "Bellibolt"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "LIGHTNING"
-  },
-  {
-    "id": "B2-058",
-    "name": {
-      "en": "Galarian Ponyta",
-      "es": "Ponyta de Galar"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "PSYCHIC"
-  },
-  {
-    "id": "B2-059",
-    "name": {
-      "en": "Galarian Rapidash",
-      "es": "Rapidash de Galar"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "PSYCHIC"
-  },
-  {
-    "id": "B2-060",
-    "name": {
-      "en": "Wobbuffet",
-      "es": "Wobbuffet"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "PSYCHIC"
-  },
-  {
-    "id": "B2-061",
-    "name": {
-      "en": "Snubbull",
-      "es": "Snubbull"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "PSYCHIC"
-  },
-  {
-    "id": "B2-062",
-    "name": {
-      "en": "Granbull",
-      "es": "Granbull"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "PSYCHIC"
-  },
-  {
-    "id": "B2-063",
-    "name": {
-      "en": "Ralts",
-      "es": "Ralts"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "PSYCHIC"
-  },
-  {
-    "id": "B2-064",
-    "name": {
-      "en": "Kirlia",
-      "es": "Kirlia"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "PSYCHIC"
-  },
-  {
-    "id": "B2-065",
-    "name": {
-      "en": "Gardevoir",
-      "es": "Gardevoir"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "PSYCHIC"
-  },
-  {
-    "id": "B2-066",
-    "name": {
-      "en": "Mega Gardevoir ex",
-      "es": "Mega-Gardevoir ex"
-    },
-    "rarity": "FOUR_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "PSYCHIC"
-  },
-  {
-    "id": "B2-067",
-    "name": {
-      "en": "Litwick",
-      "es": "Litwick"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "PSYCHIC"
-  },
-  {
-    "id": "B2-068",
-    "name": {
-      "en": "Lampent",
-      "es": "Lampent"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "PSYCHIC"
-  },
-  {
-    "id": "B2-069",
-    "name": {
-      "en": "Chandelure",
-      "es": "Chandelure"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "PSYCHIC"
-  },
-  {
-    "id": "B2-070",
-    "name": {
-      "en": "Meloetta",
-      "es": "Meloetta"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "PSYCHIC"
-  },
-  {
-    "id": "B2-071",
-    "name": {
-      "en": "Pumpkaboo",
-      "es": "Pumpkaboo"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "PSYCHIC"
-  },
-  {
-    "id": "B2-072",
-    "name": {
-      "en": "Gourgeist",
-      "es": "Gourgeist"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "PSYCHIC"
-  },
-  {
-    "id": "B2-073",
-    "name": {
-      "en": "Mimikyu ex",
-      "es": "Mimikyu ex"
-    },
-    "rarity": "FOUR_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "PSYCHIC"
-  },
-  {
-    "id": "B2-074",
-    "name": {
-      "en": "Sinistea",
-      "es": "Sinistea"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "PSYCHIC"
-  },
-  {
-    "id": "B2-075",
-    "name": {
-      "en": "Polteageist",
-      "es": "Polteageist"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "PSYCHIC"
-  },
-  {
-    "id": "B2-076",
-    "name": {
-      "en": "Indeedee",
-      "es": "Indeedee"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "PSYCHIC"
-  },
-  {
-    "id": "B2-077",
-    "name": {
-      "en": "Sandshrew",
-      "es": "Sandshrew"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "FIGHTING"
-  },
-  {
-    "id": "B2-078",
-    "name": {
-      "en": "Sandslash",
-      "es": "Sandslash"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "FIGHTING"
-  },
-  {
-    "id": "B2-079",
-    "name": {
-      "en": "Machop",
-      "es": "Machop"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "FIGHTING"
-  },
-  {
-    "id": "B2-080",
-    "name": {
-      "en": "Machoke",
-      "es": "Machoke"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "FIGHTING"
-  },
-  {
-    "id": "B2-081",
-    "name": {
-      "en": "Machamp",
-      "es": "Machamp"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "FIGHTING"
-  },
-  {
-    "id": "B2-082",
-    "name": {
-      "en": "Cubone",
-      "es": "Cubone"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "FIGHTING"
-  },
-  {
-    "id": "B2-083",
-    "name": {
-      "en": "Meditite",
-      "es": "Meditite"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "FIGHTING"
-  },
-  {
-    "id": "B2-084",
-    "name": {
-      "en": "Medicham",
-      "es": "Medicham"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "FIGHTING"
-  },
-  {
-    "id": "B2-085",
-    "name": {
-      "en": "Roggenrola",
-      "es": "Roggenrola"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "FIGHTING"
-  },
-  {
-    "id": "B2-086",
-    "name": {
-      "en": "Boldore",
-      "es": "Boldore"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "FIGHTING"
-  },
-  {
-    "id": "B2-087",
-    "name": {
-      "en": "Gigalith ex",
-      "es": "Gigalith ex"
-    },
-    "rarity": "FOUR_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "FIGHTING"
-  },
-  {
-    "id": "B2-088",
-    "name": {
-      "en": "Drilbur",
-      "es": "Drilbur"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "FIGHTING"
-  },
-  {
-    "id": "B2-089",
-    "name": {
-      "en": "Tyrunt",
-      "es": "Tyrunt"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "FIGHTING"
-  },
-  {
-    "id": "B2-090",
-    "name": {
-      "en": "Tyrantrum",
-      "es": "Tyrantrum"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "FIGHTING"
-  },
-  {
-    "id": "B2-091",
-    "name": {
-      "en": "Passimian",
-      "es": "Passimian"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "FIGHTING"
-  },
-  {
-    "id": "B2-092",
-    "name": {
-      "en": "Falinks",
-      "es": "Falinks"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "FIGHTING"
-  },
-  {
-    "id": "B2-093",
-    "name": {
-      "en": "Cornerstone Mask Ogerpon",
-      "es": "Cornerstone Mask Ogerpon"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "FIGHTING"
-  },
-  {
-    "id": "B2-094",
-    "name": {
-      "en": "Alolan Meowth",
-      "es": "Meowth de Alola"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "DARKNESS"
-  },
-  {
-    "id": "B2-095",
-    "name": {
-      "en": "Alolan Persian",
-      "es": "Persian de Alola"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "DARKNESS"
-  },
-  {
-    "id": "B2-096",
-    "name": {
-      "en": "Alolan Grimer",
-      "es": "Grimer de Alola"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "DARKNESS"
-  },
-  {
-    "id": "B2-097",
-    "name": {
-      "en": "Alolan Muk",
-      "es": "Muk de Alola"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "DARKNESS"
-  },
-  {
-    "id": "B2-098",
-    "name": {
-      "en": "Galarian Zigzagoon",
-      "es": "Zigzagoon de Galar"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "DARKNESS"
-  },
-  {
-    "id": "B2-099",
-    "name": {
-      "en": "Galarian Linoone",
-      "es": "Linoone de Galar"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "DARKNESS"
-  },
-  {
-    "id": "B2-100",
-    "name": {
-      "en": "Galarian Obstagoon",
-      "es": "Obstagoon de Galar"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "DARKNESS"
-  },
-  {
-    "id": "B2-101",
-    "name": {
-      "en": "Stunky",
-      "es": "Stunky"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "DARKNESS"
-  },
-  {
-    "id": "B2-102",
-    "name": {
-      "en": "Skuntank",
-      "es": "Skuntank"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "DARKNESS"
-  },
-  {
-    "id": "B2-103",
-    "name": {
-      "en": "Spiritomb",
-      "es": "Spiritomb"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "DARKNESS"
-  },
-  {
-    "id": "B2-104",
-    "name": {
-      "en": "Purrloin",
-      "es": "Purrloin"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "DARKNESS"
-  },
-  {
-    "id": "B2-105",
-    "name": {
-      "en": "Liepard",
-      "es": "Liepard"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "DARKNESS"
-  },
-  {
-    "id": "B2-106",
-    "name": {
-      "en": "Scraggy",
-      "es": "Scraggy"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "DARKNESS"
-  },
-  {
-    "id": "B2-107",
-    "name": {
-      "en": "Scrafty",
-      "es": "Scrafty"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "DARKNESS"
-  },
-  {
-    "id": "B2-108",
-    "name": {
-      "en": "Yveltal",
-      "es": "Yveltal"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "DARKNESS"
-  },
-  {
-    "id": "B2-109",
-    "name": {
-      "en": "Guzzlord",
-      "es": "Guzzlord"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "DARKNESS"
-  },
-  {
-    "id": "B2-110",
-    "name": {
-      "en": "Galarian Meowth",
-      "es": "Meowth de Galar"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "METAL"
-  },
-  {
-    "id": "B2-111",
-    "name": {
-      "en": "Galarian Perrserker",
-      "es": "Perrserker de Galar"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "METAL"
-  },
-  {
-    "id": "B2-112",
-    "name": {
-      "en": "Mawile",
-      "es": "Mawile"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "METAL"
-  },
-  {
-    "id": "B2-113",
-    "name": {
-      "en": "Mega Mawile ex",
-      "es": "Mega-Mawile ex"
-    },
-    "rarity": "FOUR_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "METAL"
-  },
-  {
-    "id": "B2-114",
-    "name": {
-      "en": "Excadrill",
-      "es": "Excadrill"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "METAL"
-  },
-  {
-    "id": "B2-115",
-    "name": {
-      "en": "Ferroseed",
-      "es": "Ferroseed"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "METAL"
-  },
-  {
-    "id": "B2-116",
-    "name": {
-      "en": "Ferrothorn",
-      "es": "Ferrothorn"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "METAL"
-  },
-  {
-    "id": "B2-117",
-    "name": {
-      "en": "Galarian Stunfisk",
-      "es": "Stunfisk de Galar"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "METAL"
-  },
-  {
-    "id": "B2-118",
-    "name": {
-      "en": "Honedge",
-      "es": "Honedge"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "METAL"
-  },
-  {
-    "id": "B2-119",
-    "name": {
-      "en": "Doublade",
-      "es": "Doublade"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "METAL"
-  },
-  {
-    "id": "B2-120",
-    "name": {
-      "en": "Aegislash",
-      "es": "Aegislash"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "METAL"
-  },
-  {
-    "id": "B2-121",
-    "name": {
-      "en": "Bagon",
-      "es": "Bagon"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "DRAGON"
-  },
-  {
-    "id": "B2-122",
-    "name": {
-      "en": "Shelgon",
-      "es": "Shelgon"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "DRAGON"
-  },
-  {
-    "id": "B2-123",
-    "name": {
-      "en": "Salamence",
-      "es": "Salamence"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "DRAGON"
-  },
-  {
-    "id": "B2-124",
-    "name": {
-      "en": "Meowth",
-      "es": "Meowth"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "B2-125",
-    "name": {
-      "en": "Persian",
-      "es": "Persian"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "B2-126",
-    "name": {
-      "en": "Kangaskhan",
-      "es": "Kangaskhan"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "B2-127",
-    "name": {
-      "en": "Mega Kangaskhan ex",
-      "es": "Mega-Kangaskhan ex"
-    },
-    "rarity": "FOUR_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "B2-128",
-    "name": {
-      "en": "Sentret",
-      "es": "Sentret"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "B2-129",
-    "name": {
-      "en": "Furret",
-      "es": "Furret"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "B2-130",
-    "name": {
-      "en": "Smeargle",
-      "es": "Smeargle"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "B2-131",
-    "name": {
-      "en": "Lugia",
-      "es": "Lugia"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "B2-132",
-    "name": {
-      "en": "Taillow",
-      "es": "Taillow"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "B2-133",
-    "name": {
-      "en": "Swellow",
-      "es": "Swellow"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "B2-134",
-    "name": {
-      "en": "Slakoth",
-      "es": "Slakoth"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "B2-135",
-    "name": {
-      "en": "Vigoroth",
-      "es": "Vigoroth"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "B2-136",
-    "name": {
-      "en": "Slaking",
-      "es": "Slaking"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "B2-137",
-    "name": {
-      "en": "Spinda",
-      "es": "Spinda"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "B2-138",
-    "name": {
-      "en": "Tornadus",
-      "es": "Tornadus"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "B2-139",
-    "name": {
-      "en": "Bunnelby",
-      "es": "Bunnelby"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "B2-140",
-    "name": {
-      "en": "Diggersby",
-      "es": "Diggersby"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "B2-141",
-    "name": {
-      "en": "Furfrou",
-      "es": "Furfrou"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "B2-142",
-    "name": {
-      "en": "Tandemaus",
-      "es": "Tandemaus"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "B2-143",
-    "name": {
-      "en": "Maushold",
-      "es": "Maushold"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "B2-144",
-    "name": {
-      "en": "Jaw Fossil",
-      "es": "Fósil Mandibula"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "TRAINER"
-  },
-  {
-    "id": "B2-145",
-    "name": {
-      "en": "Lucky Ice Pop",
-      "es": "Helado Suerte"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "TRAINER"
-  },
-  {
-    "id": "B2-146",
-    "name": {
-      "en": "Sail Fossil",
-      "es": "Fósil Aleta"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "TRAINER"
-  },
-  {
-    "id": "B2-147",
-    "name": {
-      "en": "Protective Poncho",
-      "es": "Poncho Protector"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "TRAINER"
-  },
-  {
-    "id": "B2-148",
-    "name": {
-      "en": "Metal Core Barrier",
-      "es": "Barrera Núcleo Metálico"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "TRAINER"
-  },
-  {
-    "id": "B2-149",
-    "name": {
-      "en": "Diantha",
-      "es": "Dianta"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "TRAINER"
-  },
-  {
-    "id": "B2-150",
-    "name": {
-      "en": "Sightseer",
-      "es": "Veraneante"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "TRAINER"
-  },
-  {
-    "id": "B2-151",
-    "name": {
-      "en": "Juggler",
-      "es": "Malabarista"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "TRAINER"
-  },
-  {
-    "id": "B2-152",
-    "name": {
-      "en": "Piers",
-      "es": "Nerio"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "TRAINER"
-  },
-  {
-    "id": "B2-153",
-    "name": {
-      "en": "Training Area",
-      "es": "Área de Entrenamiento"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "TRAINER"
-  },
-  {
-    "id": "B2-154",
-    "name": {
-      "en": "Starting Plains",
-      "es": "Planicie Inicial"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "TRAINER"
-  },
-  {
-    "id": "B2-155",
-    "name": {
-      "en": "Peculiar Plaza",
-      "es": "Plaza Peculiar"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "TRAINER"
-  },
-  {
-    "id": "B2-156",
-    "name": {
-      "en": "Cacnea",
-      "es": "Cacnea"
-    },
-    "rarity": "ONE_STAR",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "B2-157",
-    "name": {
-      "en": "Roserade",
-      "es": "Roserade"
-    },
-    "rarity": "ONE_STAR",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "B2-158",
-    "name": {
-      "en": "Vivillon",
-      "es": "Vivillon"
-    },
-    "rarity": "ONE_STAR",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "B2-159",
-    "name": {
-      "en": "Buzzwole",
-      "es": "Buzzwole"
-    },
-    "rarity": "ONE_STAR",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "B2-160",
-    "name": {
-      "en": "Reshiram",
-      "es": "Reshiram"
-    },
-    "rarity": "ONE_STAR",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "FIRE"
-  },
-  {
-    "id": "B2-161",
-    "name": {
-      "en": "Oricorio",
-      "es": "Oricorio"
-    },
-    "rarity": "ONE_STAR",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "FIRE"
-  },
-  {
-    "id": "B2-162",
-    "name": {
-      "en": "Scorbunny",
-      "es": "Scorbunny"
-    },
-    "rarity": "ONE_STAR",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "FIRE"
-  },
-  {
-    "id": "B2-163",
-    "name": {
-      "en": "Aurorus",
-      "es": "Aurorus"
-    },
-    "rarity": "ONE_STAR",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "B2-164",
-    "name": {
-      "en": "Cramorant",
-      "es": "Cramorant"
-    },
-    "rarity": "ONE_STAR",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "B2-165",
-    "name": {
-      "en": "Minun",
-      "es": "Minun"
-    },
-    "rarity": "ONE_STAR",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "LIGHTNING"
-  },
-  {
-    "id": "B2-166",
-    "name": {
-      "en": "Toxel",
-      "es": "Toxel"
-    },
-    "rarity": "ONE_STAR",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "LIGHTNING"
-  },
-  {
-    "id": "B2-167",
-    "name": {
-      "en": "Galarian Ponyta",
-      "es": "Ponyta de Galar"
-    },
-    "rarity": "ONE_STAR",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "PSYCHIC"
-  },
-  {
-    "id": "B2-168",
-    "name": {
-      "en": "Snubbull",
-      "es": "Snubbull"
-    },
-    "rarity": "ONE_STAR",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "PSYCHIC"
-  },
-  {
-    "id": "B2-169",
-    "name": {
-      "en": "Indeedee",
-      "es": "Indeedee"
-    },
-    "rarity": "ONE_STAR",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "PSYCHIC"
-  },
-  {
-    "id": "B2-170",
-    "name": {
-      "en": "Sandshrew",
-      "es": "Sandshrew"
-    },
-    "rarity": "ONE_STAR",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "FIGHTING"
-  },
-  {
-    "id": "B2-171",
-    "name": {
-      "en": "Tyrantrum",
-      "es": "Tyrantrum"
-    },
-    "rarity": "ONE_STAR",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "FIGHTING"
-  },
-  {
-    "id": "B2-172",
-    "name": {
-      "en": "Falinks",
-      "es": "Falinks"
-    },
-    "rarity": "ONE_STAR",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "FIGHTING"
-  },
-  {
-    "id": "B2-173",
-    "name": {
-      "en": "Alolan Muk",
-      "es": "Muk de Alola"
-    },
-    "rarity": "ONE_STAR",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "DARKNESS"
-  },
-  {
-    "id": "B2-174",
-    "name": {
-      "en": "Purrloin",
-      "es": "Purrloin"
-    },
-    "rarity": "ONE_STAR",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "DARKNESS"
-  },
-  {
-    "id": "B2-175",
-    "name": {
-      "en": "Yveltal",
-      "es": "Yveltal"
-    },
-    "rarity": "ONE_STAR",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "DARKNESS"
-  },
-  {
-    "id": "B2-176",
-    "name": {
-      "en": "Galarian Obstagoon",
-      "es": "Obstagoon de Galar"
-    },
-    "rarity": "ONE_STAR",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "DARKNESS"
-  },
-  {
-    "id": "B2-177",
-    "name": {
-      "en": "Galarian Perrserker",
-      "es": "Perrserker de Galar"
-    },
-    "rarity": "ONE_STAR",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "METAL"
-  },
-  {
-    "id": "B2-178",
-    "name": {
-      "en": "Salamence",
-      "es": "Salamence"
-    },
-    "rarity": "ONE_STAR",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "DRAGON"
-  },
-  {
-    "id": "B2-179",
-    "name": {
-      "en": "Slakoth",
-      "es": "Slakoth"
-    },
-    "rarity": "ONE_STAR",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "B2-180",
-    "name": {
-      "en": "Teal Mask Ogerpon ex",
-      "es": "Teal Mask Ogerpon ex"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "B2-181",
-    "name": {
-      "en": "Blacephalon ex",
-      "es": "Blacephalon ex"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "FIRE"
-  },
-  {
-    "id": "B2-182",
-    "name": {
-      "en": "Alolan Ninetales ex",
-      "es": "Ninetales de Alola ex"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "B2-183",
-    "name": {
-      "en": "Mega Swampert ex",
-      "es": "Mega-Swampert ex"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "B2-184",
-    "name": {
-      "en": "Toxtricity ex",
-      "es": "Toxtricity ex"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "LIGHTNING"
-  },
-  {
-    "id": "B2-185",
-    "name": {
-      "en": "Mega Gardevoir ex",
-      "es": "Mega-Gardevoir ex"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "PSYCHIC"
-  },
-  {
-    "id": "B2-186",
-    "name": {
-      "en": "Mimikyu ex",
-      "es": "Mimikyu ex"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "PSYCHIC"
-  },
-  {
-    "id": "B2-187",
-    "name": {
-      "en": "Gigalith ex",
-      "es": "Gigalith ex"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "FIGHTING"
-  },
-  {
-    "id": "B2-188",
-    "name": {
-      "en": "Mega Mawile ex",
-      "es": "Mega-Mawile ex"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "METAL"
-  },
-  {
-    "id": "B2-189",
-    "name": {
-      "en": "Mega Kangaskhan ex",
-      "es": "Mega-Kangaskhan ex"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "B2-190",
-    "name": {
-      "en": "Diantha",
-      "es": "Dianta"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "TRAINER"
-  },
-  {
-    "id": "B2-191",
-    "name": {
-      "en": "Sightseer",
-      "es": "Veraneante"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "TRAINER"
-  },
-  {
-    "id": "B2-192",
-    "name": {
-      "en": "Juggler",
-      "es": "Malabarista"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "TRAINER"
-  },
-  {
-    "id": "B2-193",
-    "name": {
-      "en": "Piers",
-      "es": "Nerio"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "TRAINER"
-  },
-  {
-    "id": "B2-194",
-    "name": {
-      "en": "Teal Mask Ogerpon ex",
-      "es": "Teal Mask Ogerpon ex"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "B2-195",
-    "name": {
-      "en": "Blacephalon ex",
-      "es": "Blacephalon ex"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "FIRE"
-  },
-  {
-    "id": "B2-196",
-    "name": {
-      "en": "Alolan Ninetales ex",
-      "es": "Ninetales de Alola ex"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "B2-197",
-    "name": {
-      "en": "Mega Swampert ex",
-      "es": "Mega-Swampert ex"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "B2-198",
-    "name": {
-      "en": "Toxtricity ex",
-      "es": "Toxtricity ex"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "LIGHTNING"
-  },
-  {
-    "id": "B2-199",
-    "name": {
-      "en": "Mimikyu ex",
-      "es": "Mimikyu ex"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "PSYCHIC"
-  },
-  {
-    "id": "B2-200",
-    "name": {
-      "en": "Gigalith ex",
-      "es": "Gigalith ex"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "FIGHTING"
-  },
-  {
-    "id": "B2-201",
-    "name": {
-      "en": "Mega Mawile ex",
-      "es": "Mega-Mawile ex"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "METAL"
-  },
-  {
-    "id": "B2-202",
-    "name": {
-      "en": "Mega Kangaskhan ex",
-      "es": "Mega-Kangaskhan ex"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "B2-203",
-    "name": {
-      "en": "Mega Gardevoir ex",
-      "es": "Mega-Gardevoir ex"
-    },
-    "rarity": "THREE_STAR",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "PSYCHIC"
-  },
-  {
-    "id": "B2-204",
-    "name": {
-      "en": "Meowth",
-      "es": "Meowth"
-    },
-    "rarity": "THREE_STAR",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "B2-205",
-    "name": {
-      "en": "Tangela",
-      "es": "Tangela"
-    },
-    "rarity": "ONE_SHINY",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "B2-206",
-    "name": {
-      "en": "Magby",
-      "es": "Magby"
-    },
-    "rarity": "ONE_SHINY",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "FIRE"
-  },
-  {
-    "id": "B2-207",
-    "name": {
-      "en": "Magmar",
-      "es": "Magmar"
-    },
-    "rarity": "ONE_SHINY",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "FIRE"
-  },
-  {
-    "id": "B2-208",
-    "name": {
-      "en": "Horsea",
-      "es": "Horsea"
-    },
-    "rarity": "ONE_SHINY",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "B2-209",
-    "name": {
-      "en": "Seadra",
-      "es": "Seadra"
-    },
-    "rarity": "ONE_SHINY",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "B2-210",
-    "name": {
-      "en": "Mantyke",
-      "es": "Mantyke"
-    },
-    "rarity": "ONE_SHINY",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "B2-211",
-    "name": {
-      "en": "Omanyte",
-      "es": "Omanyte"
-    },
-    "rarity": "ONE_SHINY",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "B2-212",
-    "name": {
-      "en": "Omastar",
-      "es": "Omastar"
-    },
-    "rarity": "ONE_SHINY",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "B2-213",
-    "name": {
-      "en": "Pichu",
-      "es": "Pichu"
-    },
-    "rarity": "ONE_SHINY",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "LIGHTNING"
-  },
-  {
-    "id": "B2-214",
-    "name": {
-      "en": "Clefairy",
-      "es": "Clefairy"
-    },
-    "rarity": "ONE_SHINY",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "PSYCHIC"
-  },
-  {
-    "id": "B2-215",
-    "name": {
-      "en": "Clefable",
-      "es": "Clefable"
-    },
-    "rarity": "ONE_SHINY",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "PSYCHIC"
-  },
-  {
-    "id": "B2-216",
-    "name": {
-      "en": "Latias",
-      "es": "Latias"
-    },
-    "rarity": "ONE_SHINY",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "PSYCHIC"
-  },
-  {
-    "id": "B2-217",
-    "name": {
-      "en": "Latios",
-      "es": "Latios"
-    },
-    "rarity": "ONE_SHINY",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "PSYCHIC"
-  },
-  {
-    "id": "B2-218",
-    "name": {
-      "en": "Hitmonlee",
-      "es": "Hitmonlee"
-    },
-    "rarity": "ONE_SHINY",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "FIGHTING"
-  },
-  {
-    "id": "B2-219",
-    "name": {
-      "en": "Hitmonchan",
-      "es": "Hitmonchan"
-    },
-    "rarity": "ONE_SHINY",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "FIGHTING"
-  },
-  {
-    "id": "B2-220",
-    "name": {
-      "en": "Kabuto",
-      "es": "Kabuto"
-    },
-    "rarity": "ONE_SHINY",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "FIGHTING"
-  },
-  {
-    "id": "B2-221",
-    "name": {
-      "en": "Kabutops",
-      "es": "Kabutops"
-    },
-    "rarity": "ONE_SHINY",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "FIGHTING"
-  },
-  {
-    "id": "B2-222",
-    "name": {
-      "en": "Phanpy",
-      "es": "Phanpy"
-    },
-    "rarity": "ONE_SHINY",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "FIGHTING"
-  },
-  {
-    "id": "B2-223",
-    "name": {
-      "en": "Tyrogue",
-      "es": "Tyrogue"
-    },
-    "rarity": "ONE_SHINY",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "FIGHTING"
-  },
-  {
-    "id": "B2-224",
-    "name": {
-      "en": "Tauros",
-      "es": "Tauros"
-    },
-    "rarity": "ONE_SHINY",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "B2-225",
-    "name": {
-      "en": "Flareon ex",
-      "es": "Flareon ex"
-    },
-    "rarity": "TWO_SHINY",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "FIRE"
-  },
-  {
-    "id": "B2-226",
-    "name": {
-      "en": "Ho-Oh ex",
-      "es": "Ho-Oh ex"
-    },
-    "rarity": "TWO_SHINY",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "FIRE"
-  },
-  {
-    "id": "B2-227",
-    "name": {
-      "en": "Kingdra ex",
-      "es": "Kingdra ex"
-    },
-    "rarity": "TWO_SHINY",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "B2-228",
-    "name": {
-      "en": "Espeon ex",
-      "es": "Espeon ex"
-    },
-    "rarity": "TWO_SHINY",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "PSYCHIC"
-  },
-  {
-    "id": "B2-229",
-    "name": {
-      "en": "Sylveon ex",
-      "es": "Sylveon ex"
-    },
-    "rarity": "TWO_SHINY",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "PSYCHIC"
-  },
-  {
-    "id": "B2-230",
-    "name": {
-      "en": "Donphan ex",
-      "es": "Donphan ex"
-    },
-    "rarity": "TWO_SHINY",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "FIGHTING"
-  },
-  {
-    "id": "B2-231",
-    "name": {
-      "en": "Umbreon ex",
-      "es": "Umbreon ex"
-    },
-    "rarity": "TWO_SHINY",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "DARKNESS"
-  },
-  {
-    "id": "B2-232",
-    "name": {
-      "en": "Lugia ex",
-      "es": "Lugia ex"
-    },
-    "rarity": "TWO_SHINY",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "B2-233",
-    "name": {
-      "en": "Meloetta",
-      "es": "Meloetta"
-    },
-    "rarity": "CROWN",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "PSYCHIC"
-  },
-  {
-    "id": "B2-234",
-    "name": {
-      "en": "Protective Poncho",
-      "es": "Poncho Protector"
-    },
-    "rarity": "CROWN",
-    "origins": [
-      "MEGA_GARDEVOIR"
-    ],
-    "type": "TRAINER"
-  }
+    {
+        "id": "B2-001",
+        "name": {
+            "en": "Ledyba",
+            "es": "Ledyba"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "GRASS",
+        "hash": "11cc2b768c9e178c78"
+    },
+    {
+        "id": "B2-002",
+        "name": {
+            "en": "Ledian",
+            "es": "Ledian"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "GRASS",
+        "hash": "11b92eed614c128fcc"
+    },
+    {
+        "id": "B2-003",
+        "name": {
+            "en": "Shuckle",
+            "es": "Shuckle"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "GRASS",
+        "hash": "11c52d4e637a5c20cf"
+    },
+    {
+        "id": "B2-004",
+        "name": {
+            "en": "Roselia",
+            "es": "Roselia"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "GRASS",
+        "hash": "11ea3cb46a44c3d93c"
+    },
+    {
+        "id": "B2-005",
+        "name": {
+            "en": "Roserade",
+            "es": "Roserade"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "GRASS",
+        "hash": "318ddeb4ea24115a97"
+    },
+    {
+        "id": "B2-006",
+        "name": {
+            "en": "Cacnea",
+            "es": "Cacnea"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "GRASS",
+        "hash": "11f9c0a7a2a64ad9ac"
+    },
+    {
+        "id": "B2-007",
+        "name": {
+            "en": "Cacturne",
+            "es": "Cacturne"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "GRASS",
+        "hash": "21e6a4129d99d9194f"
+    },
+    {
+        "id": "B2-008",
+        "name": {
+            "en": "Chespin",
+            "es": "Chespin"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "GRASS",
+        "hash": "119986e3f96334991c"
+    },
+    {
+        "id": "B2-009",
+        "name": {
+            "en": "Quilladin",
+            "es": "Quilladin"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "GRASS",
+        "hash": "21e9dc8603d03a1fec"
+    },
+    {
+        "id": "B2-010",
+        "name": {
+            "en": "Chesnaught",
+            "es": "Chesnaught"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "GRASS",
+        "hash": "31b6cac5da496c02f5"
+    },
+    {
+        "id": "B2-011",
+        "name": {
+            "en": "Scatterbug",
+            "es": "Scatterbug"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "GRASS",
+        "hash": "11a1968bada4d472d9"
+    },
+    {
+        "id": "B2-012",
+        "name": {
+            "en": "Spewpa",
+            "es": "Spewpa"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "GRASS",
+        "hash": "118c30f98efa25b2d8"
+    },
+    {
+        "id": "B2-013",
+        "name": {
+            "en": "Vivillon",
+            "es": "Vivillon"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "GRASS",
+        "hash": "218aaf14b0378c764f"
+    },
+    {
+        "id": "B2-014",
+        "name": {
+            "en": "Buzzwole",
+            "es": "Buzzwole"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "GRASS",
+        "hash": "31c48d31be847c1fe2"
+    },
+    {
+        "id": "B2-015",
+        "name": {
+            "en": "Gossifleur",
+            "es": "Gossifleur"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "GRASS",
+        "hash": "11a48f9334f3631cc3"
+    },
+    {
+        "id": "B2-016",
+        "name": {
+            "en": "Eldegoss",
+            "es": "Eldegoss"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "GRASS",
+        "hash": "21d69eeb70bc0b0a25"
+    },
+    {
+        "id": "B2-017",
+        "name": {
+            "en": "Teal Mask Ogerpon ex",
+            "es": "Teal Mask Ogerpon ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "GRASS",
+        "hash": "41e1109ac3e54ecdce"
+    },
+    {
+        "id": "B2-018",
+        "name": {
+            "en": "Alolan Marowak",
+            "es": "Marowak de Alola"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "FIRE",
+        "hash": "21cadcb12ecee48346"
+    },
+    {
+        "id": "B2-019",
+        "name": {
+            "en": "Reshiram",
+            "es": "Reshiram"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "FIRE",
+        "hash": "31aaba10bb7a250fd2"
+    },
+    {
+        "id": "B2-020",
+        "name": {
+            "en": "Litleo",
+            "es": "Litleo"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "FIRE",
+        "hash": "11f1ba1361cc986a5e"
+    },
+    {
+        "id": "B2-021",
+        "name": {
+            "en": "Pyroar",
+            "es": "Pyroar"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "FIRE",
+        "hash": "2184ec0d8f7d9cb251"
+    },
+    {
+        "id": "B2-022",
+        "name": {
+            "en": "Oricorio",
+            "es": "Oricorio"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "FIRE",
+        "hash": "218fae8c4919d2e635"
+    },
+    {
+        "id": "B2-023",
+        "name": {
+            "en": "Blacephalon ex",
+            "es": "Blacephalon ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "FIRE",
+        "hash": "41cd5474790a827d9b"
+    },
+    {
+        "id": "B2-024",
+        "name": {
+            "en": "Scorbunny",
+            "es": "Scorbunny"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "FIRE",
+        "hash": "119812342d67e36ecd"
+    },
+    {
+        "id": "B2-025",
+        "name": {
+            "en": "Raboot",
+            "es": "Raboot"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "FIRE",
+        "hash": "21b3914c92351ca7cf"
+    },
+    {
+        "id": "B2-026",
+        "name": {
+            "en": "Cinderace",
+            "es": "Cinderace"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "FIRE",
+        "hash": "31d698742401e73e5f"
+    },
+    {
+        "id": "B2-027",
+        "name": {
+            "en": "Hearthflame Mask Ogerpon",
+            "es": "Hearthflame Mask Ogerpon"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "FIRE",
+        "hash": "31e8ea97f0caa70d18"
+    },
+    {
+        "id": "B2-028",
+        "name": {
+            "en": "Alolan Vulpix",
+            "es": "Vulpix de Alola"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "WATER",
+        "hash": "11a942210d371e773f"
+    },
+    {
+        "id": "B2-029",
+        "name": {
+            "en": "Alolan Ninetales ex",
+            "es": "Ninetales de Alola ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "WATER",
+        "hash": "41f2f58116de9465a8"
+    },
+    {
+        "id": "B2-030",
+        "name": {
+            "en": "Galarian Mr. Mime",
+            "es": "Mr. Mime de Galar"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "WATER",
+        "hash": "11a3b552f20e8f334c"
+    },
+    {
+        "id": "B2-031",
+        "name": {
+            "en": "Galarian Mr. Rime",
+            "es": "Mr. Rime de Galar"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "WATER",
+        "hash": "21f5411e1af5ed4984"
+    },
+    {
+        "id": "B2-032",
+        "name": {
+            "en": "Delibird",
+            "es": "Delibird"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "WATER",
+        "hash": "21eb52527c8c79319a"
+    },
+    {
+        "id": "B2-033",
+        "name": {
+            "en": "Mudkip",
+            "es": "Mudkip"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "WATER",
+        "hash": "11d1871f522cf8a267"
+    },
+    {
+        "id": "B2-034",
+        "name": {
+            "en": "Marshtomp",
+            "es": "Marshtomp"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "WATER",
+        "hash": "21b8834b584b2a6ecf"
+    },
+    {
+        "id": "B2-035",
+        "name": {
+            "en": "Swampert",
+            "es": "Swampert"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "WATER",
+        "hash": "31d8f89186c9c3867b"
+    },
+    {
+        "id": "B2-036",
+        "name": {
+            "en": "Mega Swampert ex",
+            "es": "Mega-Swampert ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "WATER",
+        "hash": "41fbe7a192848f82c6"
+    },
+    {
+        "id": "B2-037",
+        "name": {
+            "en": "Vanillite",
+            "es": "Vanillite"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "WATER",
+        "hash": "11dccd384b1312d3f2"
+    },
+    {
+        "id": "B2-038",
+        "name": {
+            "en": "Vanillish",
+            "es": "Vanillish"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "WATER",
+        "hash": "11928f0a3fe4772b48"
+    },
+    {
+        "id": "B2-039",
+        "name": {
+            "en": "Vanilluxe",
+            "es": "Vanilluxe"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "WATER",
+        "hash": "2194fd61661ef02ec4"
+    },
+    {
+        "id": "B2-040",
+        "name": {
+            "en": "Cryogonal",
+            "es": "Cryogonal"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "WATER",
+        "hash": "11c4794a632dcba5e8"
+    },
+    {
+        "id": "B2-041",
+        "name": {
+            "en": "Amaura",
+            "es": "Amaura"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "WATER",
+        "hash": "2190524b2e1fa17a3f"
+    },
+    {
+        "id": "B2-042",
+        "name": {
+            "en": "Aurorus",
+            "es": "Aurorus"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "WATER",
+        "hash": "3193ba4e4d816cce9c"
+    },
+    {
+        "id": "B2-043",
+        "name": {
+            "en": "Chewtle",
+            "es": "Chewtle"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "WATER",
+        "hash": "11c3d96ce40d4ca47b"
+    },
+    {
+        "id": "B2-044",
+        "name": {
+            "en": "Drednaw",
+            "es": "Drednaw"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "WATER",
+        "hash": "219eb4d4d341a6e2ac"
+    },
+    {
+        "id": "B2-045",
+        "name": {
+            "en": "Cramorant",
+            "es": "Cramorant"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "WATER",
+        "hash": "11e6bac94dd2c39521"
+    },
+    {
+        "id": "B2-046",
+        "name": {
+            "en": "Arrokuda",
+            "es": "Arrokuda"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "WATER",
+        "hash": "11c1f6b9c4b61bc419"
+    },
+    {
+        "id": "B2-047",
+        "name": {
+            "en": "Barraskewda",
+            "es": "Barraskewda"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "WATER",
+        "hash": "11baf087cc37209e99"
+    },
+    {
+        "id": "B2-048",
+        "name": {
+            "en": "Wellspring Mask Ogerpon",
+            "es": "Wellspring Mask Ogerpon"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "WATER",
+        "hash": "31c63ab98176cb15f0"
+    },
+    {
+        "id": "B2-049",
+        "name": {
+            "en": "Pikachu",
+            "es": "Pikachu"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "LIGHTNING",
+        "hash": "11c7ab3c481fc12a5b"
+    },
+    {
+        "id": "B2-050",
+        "name": {
+            "en": "Alolan Raichu",
+            "es": "Raichu de Alola"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "LIGHTNING",
+        "hash": "31826b5e1dd82a6b5c"
+    },
+    {
+        "id": "B2-051",
+        "name": {
+            "en": "Zapdos",
+            "es": "Zapdos"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "LIGHTNING",
+        "hash": "31c7da732898c56d1c"
+    },
+    {
+        "id": "B2-052",
+        "name": {
+            "en": "Plusle",
+            "es": "Plusle"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "LIGHTNING",
+        "hash": "11db1b3187d24d2a36"
+    },
+    {
+        "id": "B2-053",
+        "name": {
+            "en": "Minun",
+            "es": "Minun"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "LIGHTNING",
+        "hash": "11e6686a669a24bba9"
+    },
+    {
+        "id": "B2-054",
+        "name": {
+            "en": "Toxel",
+            "es": "Toxel"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "LIGHTNING",
+        "hash": "118686e18369d97ed8"
+    },
+    {
+        "id": "B2-055",
+        "name": {
+            "en": "Toxtricity ex",
+            "es": "Toxtricity ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "LIGHTNING",
+        "hash": "41befce16022c915ad"
+    },
+    {
+        "id": "B2-056",
+        "name": {
+            "en": "Tadbulb",
+            "es": "Tadbulb"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "LIGHTNING",
+        "hash": "11c0d50d4d7a6e39a3"
+    },
+    {
+        "id": "B2-057",
+        "name": {
+            "en": "Bellibolt",
+            "es": "Bellibolt"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "LIGHTNING",
+        "hash": "21f44e8b31adc65583"
+    },
+    {
+        "id": "B2-058",
+        "name": {
+            "en": "Galarian Ponyta",
+            "es": "Ponyta de Galar"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "PSYCHIC",
+        "hash": "11d5f6e0c89b689469"
+    },
+    {
+        "id": "B2-059",
+        "name": {
+            "en": "Galarian Rapidash",
+            "es": "Rapidash de Galar"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "PSYCHIC",
+        "hash": "218ca06f1616bcd99e"
+    },
+    {
+        "id": "B2-060",
+        "name": {
+            "en": "Wobbuffet",
+            "es": "Wobbuffet"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "PSYCHIC",
+        "hash": "11a7cf5810562d347e"
+    },
+    {
+        "id": "B2-061",
+        "name": {
+            "en": "Snubbull",
+            "es": "Snubbull"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "PSYCHIC",
+        "hash": "119c82b1bd8e5ad199"
+    },
+    {
+        "id": "B2-062",
+        "name": {
+            "en": "Granbull",
+            "es": "Granbull"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "PSYCHIC",
+        "hash": "21964acd2efa7164c4"
+    },
+    {
+        "id": "B2-063",
+        "name": {
+            "en": "Ralts",
+            "es": "Ralts"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "PSYCHIC",
+        "hash": "11c0696dda3bb12378"
+    },
+    {
+        "id": "B2-064",
+        "name": {
+            "en": "Kirlia",
+            "es": "Kirlia"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "PSYCHIC",
+        "hash": "2194f142de59923dc9"
+    },
+    {
+        "id": "B2-065",
+        "name": {
+            "en": "Gardevoir",
+            "es": "Gardevoir"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "PSYCHIC",
+        "hash": "3182354fe82298f677"
+    },
+    {
+        "id": "B2-066",
+        "name": {
+            "en": "Mega Gardevoir ex",
+            "es": "Mega-Gardevoir ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "PSYCHIC",
+        "hash": "41ec679a959c3a7284"
+    },
+    {
+        "id": "B2-067",
+        "name": {
+            "en": "Litwick",
+            "es": "Litwick"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "PSYCHIC",
+        "hash": "11a96832c61ed071bf"
+    },
+    {
+        "id": "B2-068",
+        "name": {
+            "en": "Lampent",
+            "es": "Lampent"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "PSYCHIC",
+        "hash": "21f7a1d28f9870c994"
+    },
+    {
+        "id": "B2-069",
+        "name": {
+            "en": "Chandelure",
+            "es": "Chandelure"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "PSYCHIC",
+        "hash": "319a95a5c8586f8f86"
+    },
+    {
+        "id": "B2-070",
+        "name": {
+            "en": "Meloetta",
+            "es": "Meloetta"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "PSYCHIC",
+        "hash": "21d44bcf6599486ca5"
+    },
+    {
+        "id": "B2-071",
+        "name": {
+            "en": "Pumpkaboo",
+            "es": "Pumpkaboo"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "PSYCHIC",
+        "hash": "11c1279b4f46996e16"
+    },
+    {
+        "id": "B2-072",
+        "name": {
+            "en": "Gourgeist",
+            "es": "Gourgeist"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "PSYCHIC",
+        "hash": "3181bb5a8c52de5de0"
+    },
+    {
+        "id": "B2-073",
+        "name": {
+            "en": "Mimikyu ex",
+            "es": "Mimikyu ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "PSYCHIC",
+        "hash": "41c7634b1e96b428bc"
+    },
+    {
+        "id": "B2-074",
+        "name": {
+            "en": "Sinistea",
+            "es": "Sinistea"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "PSYCHIC",
+        "hash": "11b468423bc13e4dbb"
+    },
+    {
+        "id": "B2-075",
+        "name": {
+            "en": "Polteageist",
+            "es": "Polteageist"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "PSYCHIC",
+        "hash": "21c5a9f6049b76c616"
+    },
+    {
+        "id": "B2-076",
+        "name": {
+            "en": "Indeedee",
+            "es": "Indeedee"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "PSYCHIC",
+        "hash": "11e517c5cd9e0d32e0"
+    },
+    {
+        "id": "B2-077",
+        "name": {
+            "en": "Sandshrew",
+            "es": "Sandshrew"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "FIGHTING",
+        "hash": "11d38ffc30cae8c9c0"
+    },
+    {
+        "id": "B2-078",
+        "name": {
+            "en": "Sandslash",
+            "es": "Sandslash"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "FIGHTING",
+        "hash": "11d23977dce9e08286"
+    },
+    {
+        "id": "B2-079",
+        "name": {
+            "en": "Machop",
+            "es": "Machop"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "FIGHTING",
+        "hash": "11b69dd54b20b4996c"
+    },
+    {
+        "id": "B2-080",
+        "name": {
+            "en": "Machoke",
+            "es": "Machoke"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "FIGHTING",
+        "hash": "11c0b8dcd30f3e6c26"
+    },
+    {
+        "id": "B2-081",
+        "name": {
+            "en": "Machamp",
+            "es": "Machamp"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "FIGHTING",
+        "hash": "21ff99c6bc340598e0"
+    },
+    {
+        "id": "B2-082",
+        "name": {
+            "en": "Cubone",
+            "es": "Cubone"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "FIGHTING",
+        "hash": "11efc2d895861a7266"
+    },
+    {
+        "id": "B2-083",
+        "name": {
+            "en": "Meditite",
+            "es": "Meditite"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "FIGHTING",
+        "hash": "1183c6594627694e7e"
+    },
+    {
+        "id": "B2-084",
+        "name": {
+            "en": "Medicham",
+            "es": "Medicham"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "FIGHTING",
+        "hash": "21f291b8470e5ca5ea"
+    },
+    {
+        "id": "B2-085",
+        "name": {
+            "en": "Roggenrola",
+            "es": "Roggenrola"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "FIGHTING",
+        "hash": "11e3ba12d1ed013cec"
+    },
+    {
+        "id": "B2-086",
+        "name": {
+            "en": "Boldore",
+            "es": "Boldore"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "FIGHTING",
+        "hash": "21e8c1c0fa5b991e17"
+    },
+    {
+        "id": "B2-087",
+        "name": {
+            "en": "Gigalith ex",
+            "es": "Gigalith ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "FIGHTING",
+        "hash": "41eec5891b5dce8454"
+    },
+    {
+        "id": "B2-088",
+        "name": {
+            "en": "Drilbur",
+            "es": "Drilbur"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "FIGHTING",
+        "hash": "11c5c3da94ae47a50b"
+    },
+    {
+        "id": "B2-089",
+        "name": {
+            "en": "Tyrunt",
+            "es": "Tyrunt"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "FIGHTING",
+        "hash": "2198c3bbac4c25d749"
+    },
+    {
+        "id": "B2-090",
+        "name": {
+            "en": "Tyrantrum",
+            "es": "Tyrantrum"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "FIGHTING",
+        "hash": "31d4cc17f340361d4f"
+    },
+    {
+        "id": "B2-091",
+        "name": {
+            "en": "Passimian",
+            "es": "Passimian"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "FIGHTING",
+        "hash": "11e05f5879065acee4"
+    },
+    {
+        "id": "B2-092",
+        "name": {
+            "en": "Falinks",
+            "es": "Falinks"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "FIGHTING",
+        "hash": "21dfd4d861cc28e03e"
+    },
+    {
+        "id": "B2-093",
+        "name": {
+            "en": "Cornerstone Mask Ogerpon",
+            "es": "Cornerstone Mask Ogerpon"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "FIGHTING",
+        "hash": "31d4f85a8b6889c9cd"
+    },
+    {
+        "id": "B2-094",
+        "name": {
+            "en": "Alolan Meowth",
+            "es": "Meowth de Alola"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "DARKNESS",
+        "hash": "11c8e7b27a57811b07"
+    },
+    {
+        "id": "B2-095",
+        "name": {
+            "en": "Alolan Persian",
+            "es": "Persian de Alola"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "DARKNESS",
+        "hash": "21d11d6d66d6e6c098"
+    },
+    {
+        "id": "B2-096",
+        "name": {
+            "en": "Alolan Grimer",
+            "es": "Grimer de Alola"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "DARKNESS",
+        "hash": "11e9a0d735d837c909"
+    },
+    {
+        "id": "B2-097",
+        "name": {
+            "en": "Alolan Muk",
+            "es": "Muk de Alola"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "DARKNESS",
+        "hash": "31fd44caf8c87c8235"
+    },
+    {
+        "id": "B2-098",
+        "name": {
+            "en": "Galarian Zigzagoon",
+            "es": "Zigzagoon de Galar"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "DARKNESS",
+        "hash": "11a39fee70d240b44b"
+    },
+    {
+        "id": "B2-099",
+        "name": {
+            "en": "Galarian Linoone",
+            "es": "Linoone de Galar"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "DARKNESS",
+        "hash": "21a5f4927b0e8dc4cc"
+    },
+    {
+        "id": "B2-100",
+        "name": {
+            "en": "Galarian Obstagoon",
+            "es": "Obstagoon de Galar"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "DARKNESS",
+        "hash": "31d0afce82739c1993"
+    },
+    {
+        "id": "B2-101",
+        "name": {
+            "en": "Stunky",
+            "es": "Stunky"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "DARKNESS",
+        "hash": "11b496e3e14ecaa49c"
+    },
+    {
+        "id": "B2-102",
+        "name": {
+            "en": "Skuntank",
+            "es": "Skuntank"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "DARKNESS",
+        "hash": "2194cacb5c6cceb4b0"
+    },
+    {
+        "id": "B2-103",
+        "name": {
+            "en": "Spiritomb",
+            "es": "Spiritomb"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "DARKNESS",
+        "hash": "31859d1c457aed6962"
+    },
+    {
+        "id": "B2-104",
+        "name": {
+            "en": "Purrloin",
+            "es": "Purrloin"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "DARKNESS",
+        "hash": "11c3b81c47c48e3f5c"
+    },
+    {
+        "id": "B2-105",
+        "name": {
+            "en": "Liepard",
+            "es": "Liepard"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "DARKNESS",
+        "hash": "21c585f8fc31a16ec4"
+    },
+    {
+        "id": "B2-106",
+        "name": {
+            "en": "Scraggy",
+            "es": "Scraggy"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "DARKNESS",
+        "hash": "1185f55656b6596813"
+    },
+    {
+        "id": "B2-107",
+        "name": {
+            "en": "Scrafty",
+            "es": "Scrafty"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "DARKNESS",
+        "hash": "21912b5a76d669ccd0"
+    },
+    {
+        "id": "B2-108",
+        "name": {
+            "en": "Yveltal",
+            "es": "Yveltal"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "DARKNESS",
+        "hash": "31d99d312670cc8d76"
+    },
+    {
+        "id": "B2-109",
+        "name": {
+            "en": "Guzzlord",
+            "es": "Guzzlord"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "DARKNESS",
+        "hash": "31a08312e85f357ef2"
+    },
+    {
+        "id": "B2-110",
+        "name": {
+            "en": "Galarian Meowth",
+            "es": "Meowth de Galar"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "METAL",
+        "hash": "11d06f21655c8fe45a"
+    },
+    {
+        "id": "B2-111",
+        "name": {
+            "en": "Galarian Perrserker",
+            "es": "Perrserker de Galar"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "METAL",
+        "hash": "31dad4e3f888cb14b8"
+    },
+    {
+        "id": "B2-112",
+        "name": {
+            "en": "Mawile",
+            "es": "Mawile"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "METAL",
+        "hash": "11952a971a4ea3d0ed"
+    },
+    {
+        "id": "B2-113",
+        "name": {
+            "en": "Mega Mawile ex",
+            "es": "Mega-Mawile ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "METAL",
+        "hash": "41b8e3e294931c96ab"
+    },
+    {
+        "id": "B2-114",
+        "name": {
+            "en": "Excadrill",
+            "es": "Excadrill"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "METAL",
+        "hash": "21e28dfcce4d613183"
+    },
+    {
+        "id": "B2-115",
+        "name": {
+            "en": "Ferroseed",
+            "es": "Ferroseed"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "METAL",
+        "hash": "11a48daf69b62606da"
+    },
+    {
+        "id": "B2-116",
+        "name": {
+            "en": "Ferrothorn",
+            "es": "Ferrothorn"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "METAL",
+        "hash": "11cf8e71f00a43dcd4"
+    },
+    {
+        "id": "B2-117",
+        "name": {
+            "en": "Galarian Stunfisk",
+            "es": "Stunfisk de Galar"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "METAL",
+        "hash": "21a88ca4c9d9597b99"
+    },
+    {
+        "id": "B2-118",
+        "name": {
+            "en": "Honedge",
+            "es": "Honedge"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "METAL",
+        "hash": "11c1bab4855e9bcb48"
+    },
+    {
+        "id": "B2-119",
+        "name": {
+            "en": "Doublade",
+            "es": "Doublade"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "METAL",
+        "hash": "21dec3ea90aa8ecc1c"
+    },
+    {
+        "id": "B2-120",
+        "name": {
+            "en": "Aegislash",
+            "es": "Aegislash"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "METAL",
+        "hash": "31f3c1165b8a2ae53c"
+    },
+    {
+        "id": "B2-121",
+        "name": {
+            "en": "Bagon",
+            "es": "Bagon"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "DRAGON",
+        "hash": "11c6d491a258b36dcd"
+    },
+    {
+        "id": "B2-122",
+        "name": {
+            "en": "Shelgon",
+            "es": "Shelgon"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "DRAGON",
+        "hash": "21a580571bd0fe239e"
+    },
+    {
+        "id": "B2-123",
+        "name": {
+            "en": "Salamence",
+            "es": "Salamence"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "DRAGON",
+        "hash": "31cedee16310b48e8d"
+    },
+    {
+        "id": "B2-124",
+        "name": {
+            "en": "Meowth",
+            "es": "Meowth"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "COLORLESS",
+        "hash": "1187347897aec8b166"
+    },
+    {
+        "id": "B2-125",
+        "name": {
+            "en": "Persian",
+            "es": "Persian"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "COLORLESS",
+        "hash": "1183477ea8969cd295"
+    },
+    {
+        "id": "B2-126",
+        "name": {
+            "en": "Kangaskhan",
+            "es": "Kangaskhan"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "COLORLESS",
+        "hash": "21c184774bb82dc67c"
+    },
+    {
+        "id": "B2-127",
+        "name": {
+            "en": "Mega Kangaskhan ex",
+            "es": "Mega-Kangaskhan ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "COLORLESS",
+        "hash": "41a792f0bc4e6e284b"
+    },
+    {
+        "id": "B2-128",
+        "name": {
+            "en": "Sentret",
+            "es": "Sentret"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "COLORLESS",
+        "hash": "11df1370cb62ce309a"
+    },
+    {
+        "id": "B2-129",
+        "name": {
+            "en": "Furret",
+            "es": "Furret"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "COLORLESS",
+        "hash": "118cdb98b960e6cbc4"
+    },
+    {
+        "id": "B2-130",
+        "name": {
+            "en": "Smeargle",
+            "es": "Smeargle"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "COLORLESS",
+        "hash": "21dc82c89f6d6f2892"
+    },
+    {
+        "id": "B2-131",
+        "name": {
+            "en": "Lugia",
+            "es": "Lugia"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "COLORLESS",
+        "hash": "3197ae431048dbcb79"
+    },
+    {
+        "id": "B2-132",
+        "name": {
+            "en": "Taillow",
+            "es": "Taillow"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "COLORLESS",
+        "hash": "11f4c591d394d968b8"
+    },
+    {
+        "id": "B2-133",
+        "name": {
+            "en": "Swellow",
+            "es": "Swellow"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "COLORLESS",
+        "hash": "31eaccc2b194b6994e"
+    },
+    {
+        "id": "B2-134",
+        "name": {
+            "en": "Slakoth",
+            "es": "Slakoth"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "COLORLESS",
+        "hash": "11f856c22b7f252913"
+    },
+    {
+        "id": "B2-135",
+        "name": {
+            "en": "Vigoroth",
+            "es": "Vigoroth"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "COLORLESS",
+        "hash": "21e61c79e59582c22f"
+    },
+    {
+        "id": "B2-136",
+        "name": {
+            "en": "Slaking",
+            "es": "Slaking"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "COLORLESS",
+        "hash": "31d070ec5f3d4ed844"
+    },
+    {
+        "id": "B2-137",
+        "name": {
+            "en": "Spinda",
+            "es": "Spinda"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "COLORLESS",
+        "hash": "11976f30de3801e3cc"
+    },
+    {
+        "id": "B2-138",
+        "name": {
+            "en": "Tornadus",
+            "es": "Tornadus"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "COLORLESS",
+        "hash": "31ffcfc013a02bcd18"
+    },
+    {
+        "id": "B2-139",
+        "name": {
+            "en": "Bunnelby",
+            "es": "Bunnelby"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "COLORLESS",
+        "hash": "11c5a3e3367e12b28c"
+    },
+    {
+        "id": "B2-140",
+        "name": {
+            "en": "Diggersby",
+            "es": "Diggersby"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "COLORLESS",
+        "hash": "21dd7ec2486c31c996"
+    },
+    {
+        "id": "B2-141",
+        "name": {
+            "en": "Furfrou",
+            "es": "Furfrou"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "COLORLESS",
+        "hash": "21b1e7243cc276e623"
+    },
+    {
+        "id": "B2-142",
+        "name": {
+            "en": "Tandemaus",
+            "es": "Tandemaus"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "COLORLESS",
+        "hash": "1190e96d389ee74d30"
+    },
+    {
+        "id": "B2-143",
+        "name": {
+            "en": "Maushold",
+            "es": "Maushold"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "COLORLESS",
+        "hash": "21d22b2ff1e8ccdc40"
+    },
+    {
+        "id": "B2-144",
+        "name": {
+            "en": "Jaw Fossil",
+            "es": "Fósil Mandibula"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "TRAINER",
+        "hash": "1194c79cbcb1f0a4d1"
+    },
+    {
+        "id": "B2-145",
+        "name": {
+            "en": "Lucky Ice Pop",
+            "es": "Helado Suerte"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "TRAINER",
+        "hash": "21a4199bb2e9ca93b8"
+    },
+    {
+        "id": "B2-146",
+        "name": {
+            "en": "Sail Fossil",
+            "es": "Fósil Aleta"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "TRAINER",
+        "hash": "11988b76d4c2b581db"
+    },
+    {
+        "id": "B2-147",
+        "name": {
+            "en": "Protective Poncho",
+            "es": "Poncho Protector"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "TRAINER",
+        "hash": "21f1da822d86b9b427"
+    },
+    {
+        "id": "B2-148",
+        "name": {
+            "en": "Metal Core Barrier",
+            "es": "Barrera Núcleo Metálico"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "TRAINER",
+        "hash": "218be5b0b2d68c8697"
+    },
+    {
+        "id": "B2-149",
+        "name": {
+            "en": "Diantha",
+            "es": "Dianta"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "TRAINER",
+        "hash": "21d52e2bcaca9e9a82"
+    },
+    {
+        "id": "B2-150",
+        "name": {
+            "en": "Sightseer",
+            "es": "Veraneante"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "TRAINER",
+        "hash": "21f51a8bc69fe88093"
+    },
+    {
+        "id": "B2-151",
+        "name": {
+            "en": "Juggler",
+            "es": "Malabarista"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "TRAINER",
+        "hash": "21e2bc41c2b69936a7"
+    },
+    {
+        "id": "B2-152",
+        "name": {
+            "en": "Piers",
+            "es": "Nerio"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "TRAINER",
+        "hash": "2188cce3b3d5c48ee4"
+    },
+    {
+        "id": "B2-153",
+        "name": {
+            "en": "Training Area",
+            "es": "Área de Entrenamiento"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "TRAINER",
+        "hash": "2193f3f1d88c0c9798"
+    },
+    {
+        "id": "B2-154",
+        "name": {
+            "en": "Starting Plains",
+            "es": "Planicie Inicial"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "TRAINER",
+        "hash": "21d3f033b9a0ba1157"
+    },
+    {
+        "id": "B2-155",
+        "name": {
+            "en": "Peculiar Plaza",
+            "es": "Plaza Peculiar"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "TRAINER",
+        "hash": "2180bf31abfa90abd0"
+    },
+    {
+        "id": "B2-156",
+        "name": {
+            "en": "Cacnea",
+            "es": "Cacnea"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "GRASS",
+        "hash": "13994676c91976813f"
+    },
+    {
+        "id": "B2-157",
+        "name": {
+            "en": "Roserade",
+            "es": "Roserade"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "GRASS",
+        "hash": "1398b9be27532d5990"
+    },
+    {
+        "id": "B2-158",
+        "name": {
+            "en": "Vivillon",
+            "es": "Vivillon"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "GRASS",
+        "hash": "138bd8e9a514369f62"
+    },
+    {
+        "id": "B2-159",
+        "name": {
+            "en": "Buzzwole",
+            "es": "Buzzwole"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "GRASS",
+        "hash": "13aa0dd47be2ec18e4"
+    },
+    {
+        "id": "B2-160",
+        "name": {
+            "en": "Reshiram",
+            "es": "Reshiram"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "FIRE",
+        "hash": "1386e633785dc3e01b"
+    },
+    {
+        "id": "B2-161",
+        "name": {
+            "en": "Oricorio",
+            "es": "Oricorio"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "FIRE",
+        "hash": "13f41252a5527e3e3a"
+    },
+    {
+        "id": "B2-162",
+        "name": {
+            "en": "Scorbunny",
+            "es": "Scorbunny"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "FIRE",
+        "hash": "139f1a652cfa616d82"
+    },
+    {
+        "id": "B2-163",
+        "name": {
+            "en": "Aurorus",
+            "es": "Aurorus"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "WATER",
+        "hash": "13969d545c3de521a5"
+    },
+    {
+        "id": "B2-164",
+        "name": {
+            "en": "Cramorant",
+            "es": "Cramorant"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "WATER",
+        "hash": "13c2d2b7a58dccea03"
+    },
+    {
+        "id": "B2-165",
+        "name": {
+            "en": "Minun",
+            "es": "Minun"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "LIGHTNING",
+        "hash": "13d4e6e618ddc33d40"
+    },
+    {
+        "id": "B2-166",
+        "name": {
+            "en": "Toxel",
+            "es": "Toxel"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "LIGHTNING",
+        "hash": "13a19e1e4af9a77602"
+    },
+    {
+        "id": "B2-167",
+        "name": {
+            "en": "Galarian Ponyta",
+            "es": "Ponyta de Galar"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "PSYCHIC",
+        "hash": "13c17e2c703b518ec7"
+    },
+    {
+        "id": "B2-168",
+        "name": {
+            "en": "Snubbull",
+            "es": "Snubbull"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "PSYCHIC",
+        "hash": "13a536aaab273c1c1d"
+    },
+    {
+        "id": "B2-169",
+        "name": {
+            "en": "Indeedee",
+            "es": "Indeedee"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "PSYCHIC",
+        "hash": "13b7a4911adabea03a"
+    },
+    {
+        "id": "B2-170",
+        "name": {
+            "en": "Sandshrew",
+            "es": "Sandshrew"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "FIGHTING",
+        "hash": "13f4c975ec522325a5"
+    },
+    {
+        "id": "B2-171",
+        "name": {
+            "en": "Tyrantrum",
+            "es": "Tyrantrum"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "FIGHTING",
+        "hash": "13b00bcec5e2cc7ac5"
+    },
+    {
+        "id": "B2-172",
+        "name": {
+            "en": "Falinks",
+            "es": "Falinks"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "FIGHTING",
+        "hash": "13c2d799645f722354"
+    },
+    {
+        "id": "B2-173",
+        "name": {
+            "en": "Alolan Muk",
+            "es": "Muk de Alola"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "DARKNESS",
+        "hash": "13c167cbbe8e6948c8"
+    },
+    {
+        "id": "B2-174",
+        "name": {
+            "en": "Purrloin",
+            "es": "Purrloin"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "DARKNESS",
+        "hash": "13fd630f8cd318a730"
+    },
+    {
+        "id": "B2-175",
+        "name": {
+            "en": "Yveltal",
+            "es": "Yveltal"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "DARKNESS",
+        "hash": "13f5d73a79c4b20c12"
+    },
+    {
+        "id": "B2-176",
+        "name": {
+            "en": "Galarian Obstagoon",
+            "es": "Obstagoon de Galar"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "DARKNESS",
+        "hash": "13f9bed898418c64ce"
+    },
+    {
+        "id": "B2-177",
+        "name": {
+            "en": "Galarian Perrserker",
+            "es": "Perrserker de Galar"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "METAL",
+        "hash": "13b529e495d552ca96"
+    },
+    {
+        "id": "B2-178",
+        "name": {
+            "en": "Salamence",
+            "es": "Salamence"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "DRAGON",
+        "hash": "13e05a95f14e99c71c"
+    },
+    {
+        "id": "B2-179",
+        "name": {
+            "en": "Slakoth",
+            "es": "Slakoth"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "COLORLESS",
+        "hash": "13903c78e3498e1f9b"
+    },
+    {
+        "id": "B2-180",
+        "name": {
+            "en": "Teal Mask Ogerpon ex",
+            "es": "Teal Mask Ogerpon ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "GRASS",
+        "hash": "23ebc6b9916570d251"
+    },
+    {
+        "id": "B2-181",
+        "name": {
+            "en": "Blacephalon ex",
+            "es": "Blacephalon ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "FIRE",
+        "hash": "239d096835757235d3"
+    },
+    {
+        "id": "B2-182",
+        "name": {
+            "en": "Alolan Ninetales ex",
+            "es": "Ninetales de Alola ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "WATER",
+        "hash": "23c0466f29addf5c14"
+    },
+    {
+        "id": "B2-183",
+        "name": {
+            "en": "Mega Swampert ex",
+            "es": "Mega-Swampert ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "WATER",
+        "hash": "23813ee82fb28ce6c5"
+    },
+    {
+        "id": "B2-184",
+        "name": {
+            "en": "Toxtricity ex",
+            "es": "Toxtricity ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "LIGHTNING",
+        "hash": "23c1e9481ffaf15710"
+    },
+    {
+        "id": "B2-185",
+        "name": {
+            "en": "Mega Gardevoir ex",
+            "es": "Mega-Gardevoir ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "PSYCHIC",
+        "hash": "23873ac56e04aef895"
+    },
+    {
+        "id": "B2-186",
+        "name": {
+            "en": "Mimikyu ex",
+            "es": "Mimikyu ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "PSYCHIC",
+        "hash": "23c03c1763674ef0da"
+    },
+    {
+        "id": "B2-187",
+        "name": {
+            "en": "Gigalith ex",
+            "es": "Gigalith ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "FIGHTING",
+        "hash": "23adc751d052faf888"
+    },
+    {
+        "id": "B2-188",
+        "name": {
+            "en": "Mega Mawile ex",
+            "es": "Mega-Mawile ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "METAL",
+        "hash": "23c68f803d97b2ea8c"
+    },
+    {
+        "id": "B2-189",
+        "name": {
+            "en": "Mega Kangaskhan ex",
+            "es": "Mega-Kangaskhan ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "COLORLESS",
+        "hash": "23ca90afe483b552d9"
+    },
+    {
+        "id": "B2-190",
+        "name": {
+            "en": "Diantha",
+            "es": "Dianta"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "TRAINER",
+        "hash": "23e56f968688d68999"
+    },
+    {
+        "id": "B2-191",
+        "name": {
+            "en": "Sightseer",
+            "es": "Veraneante"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "TRAINER",
+        "hash": "23bc07e7cc82d49b16"
+    },
+    {
+        "id": "B2-192",
+        "name": {
+            "en": "Juggler",
+            "es": "Malabarista"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "TRAINER",
+        "hash": "23a4ca89232fdbd09e"
+    },
+    {
+        "id": "B2-193",
+        "name": {
+            "en": "Piers",
+            "es": "Nerio"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "TRAINER",
+        "hash": "2398eab093c7cad8c9"
+    },
+    {
+        "id": "B2-194",
+        "name": {
+            "en": "Teal Mask Ogerpon ex",
+            "es": "Teal Mask Ogerpon ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "GRASS",
+        "hash": "23bfe6aad8122a7483"
+    },
+    {
+        "id": "B2-195",
+        "name": {
+            "en": "Blacephalon ex",
+            "es": "Blacephalon ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "FIRE",
+        "hash": "23cbed988c769a7412"
+    },
+    {
+        "id": "B2-196",
+        "name": {
+            "en": "Alolan Ninetales ex",
+            "es": "Ninetales de Alola ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "WATER",
+        "hash": "23cf98fe84cbc6a10a"
+    },
+    {
+        "id": "B2-197",
+        "name": {
+            "en": "Mega Swampert ex",
+            "es": "Mega-Swampert ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "WATER",
+        "hash": "23e1c79eca1c7d3029"
+    },
+    {
+        "id": "B2-198",
+        "name": {
+            "en": "Toxtricity ex",
+            "es": "Toxtricity ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "LIGHTNING",
+        "hash": "239583cb7dc4374a4c"
+    },
+    {
+        "id": "B2-199",
+        "name": {
+            "en": "Mimikyu ex",
+            "es": "Mimikyu ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "PSYCHIC",
+        "hash": "23bb6c6c8266996c93"
+    },
+    {
+        "id": "B2-200",
+        "name": {
+            "en": "Gigalith ex",
+            "es": "Gigalith ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "FIGHTING",
+        "hash": "23e2d7e80c4f18d8d3"
+    },
+    {
+        "id": "B2-201",
+        "name": {
+            "en": "Mega Mawile ex",
+            "es": "Mega-Mawile ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "METAL",
+        "hash": "23b3e0dacc640ff982"
+    },
+    {
+        "id": "B2-202",
+        "name": {
+            "en": "Mega Kangaskhan ex",
+            "es": "Mega-Kangaskhan ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "COLORLESS",
+        "hash": "23adb79ea097129970"
+    },
+    {
+        "id": "B2-203",
+        "name": {
+            "en": "Mega Gardevoir ex",
+            "es": "Mega-Gardevoir ex"
+        },
+        "rarity": "THREE_STAR",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "PSYCHIC",
+        "hash": "33e3a2dc4c1272727b"
+    },
+    {
+        "id": "B2-204",
+        "name": {
+            "en": "Meowth",
+            "es": "Meowth"
+        },
+        "rarity": "THREE_STAR",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "COLORLESS",
+        "hash": "33987564835fd12b99"
+    },
+    {
+        "id": "B2-205",
+        "name": {
+            "en": "Tangela",
+            "es": "Tangela"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "GRASS",
+        "hash": "14b00d83359e978dd3"
+    },
+    {
+        "id": "B2-206",
+        "name": {
+            "en": "Magby",
+            "es": "Magby"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "FIRE",
+        "hash": "14a50f94cd97658d89"
+    },
+    {
+        "id": "B2-207",
+        "name": {
+            "en": "Magmar",
+            "es": "Magmar"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "FIRE",
+        "hash": "14e44384959e34cf6e"
+    },
+    {
+        "id": "B2-208",
+        "name": {
+            "en": "Horsea",
+            "es": "Horsea"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "WATER",
+        "hash": "14b409c7c71c1c9fc3"
+    },
+    {
+        "id": "B2-209",
+        "name": {
+            "en": "Seadra",
+            "es": "Seadra"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "WATER",
+        "hash": "14b10d93c5cdbc25ac"
+    },
+    {
+        "id": "B2-210",
+        "name": {
+            "en": "Mantyke",
+            "es": "Mantyke"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "WATER",
+        "hash": "14b111c7cd964d1dc6"
+    },
+    {
+        "id": "B2-211",
+        "name": {
+            "en": "Omanyte",
+            "es": "Omanyte"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "WATER",
+        "hash": "14ec8d92358e643f4c"
+    },
+    {
+        "id": "B2-212",
+        "name": {
+            "en": "Omastar",
+            "es": "Omastar"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "WATER",
+        "hash": "14acc5951187f91ea6"
+    },
+    {
+        "id": "B2-213",
+        "name": {
+            "en": "Pichu",
+            "es": "Pichu"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "LIGHTNING",
+        "hash": "14b10990f4cfcd2ec6"
+    },
+    {
+        "id": "B2-214",
+        "name": {
+            "en": "Clefairy",
+            "es": "Clefairy"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "PSYCHIC",
+        "hash": "14b903a39d8eec9d22"
+    },
+    {
+        "id": "B2-215",
+        "name": {
+            "en": "Clefable",
+            "es": "Clefable"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "PSYCHIC",
+        "hash": "14e91934859f340ecf"
+    },
+    {
+        "id": "B2-216",
+        "name": {
+            "en": "Latias",
+            "es": "Latias"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "PSYCHIC",
+        "hash": "14ed0f93c58c35238d"
+    },
+    {
+        "id": "B2-217",
+        "name": {
+            "en": "Latios",
+            "es": "Latios"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "PSYCHIC",
+        "hash": "14b987e461160d9bf2"
+    },
+    {
+        "id": "B2-218",
+        "name": {
+            "en": "Hitmonlee",
+            "es": "Hitmonlee"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "FIGHTING",
+        "hash": "14b907d31597494f92"
+    },
+    {
+        "id": "B2-219",
+        "name": {
+            "en": "Hitmonchan",
+            "es": "Hitmonchan"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "FIGHTING",
+        "hash": "14a50dc6c634352fd9"
+    },
+    {
+        "id": "B2-220",
+        "name": {
+            "en": "Kabuto",
+            "es": "Kabuto"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "FIGHTING",
+        "hash": "14b68d99340d311eee"
+    },
+    {
+        "id": "B2-221",
+        "name": {
+            "en": "Kabutops",
+            "es": "Kabutops"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "FIGHTING",
+        "hash": "14ac8691151ecd9bdc"
+    },
+    {
+        "id": "B2-222",
+        "name": {
+            "en": "Phanpy",
+            "es": "Phanpy"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "FIGHTING",
+        "hash": "14ec079299976c9f44"
+    },
+    {
+        "id": "B2-223",
+        "name": {
+            "en": "Tyrogue",
+            "es": "Tyrogue"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "FIGHTING",
+        "hash": "14b10f9c31972c3acd"
+    },
+    {
+        "id": "B2-224",
+        "name": {
+            "en": "Tauros",
+            "es": "Tauros"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "COLORLESS",
+        "hash": "14b94d94959fc71948"
+    },
+    {
+        "id": "B2-225",
+        "name": {
+            "en": "Flareon ex",
+            "es": "Flareon ex"
+        },
+        "rarity": "TWO_SHINY",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "FIRE",
+        "hash": "24f81ac6913c8fa761"
+    },
+    {
+        "id": "B2-226",
+        "name": {
+            "en": "Ho-Oh ex",
+            "es": "Ho-Oh ex"
+        },
+        "rarity": "TWO_SHINY",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "FIRE",
+        "hash": "24dc8e220de6dad455"
+    },
+    {
+        "id": "B2-227",
+        "name": {
+            "en": "Kingdra ex",
+            "es": "Kingdra ex"
+        },
+        "rarity": "TWO_SHINY",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "WATER",
+        "hash": "24b1904ec1fdae0b9c"
+    },
+    {
+        "id": "B2-228",
+        "name": {
+            "en": "Espeon ex",
+            "es": "Espeon ex"
+        },
+        "rarity": "TWO_SHINY",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "PSYCHIC",
+        "hash": "24bd8e93c648b0b2e5"
+    },
+    {
+        "id": "B2-229",
+        "name": {
+            "en": "Sylveon ex",
+            "es": "Sylveon ex"
+        },
+        "rarity": "TWO_SHINY",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "PSYCHIC",
+        "hash": "24b958de0016f95667"
+    },
+    {
+        "id": "B2-230",
+        "name": {
+            "en": "Donphan ex",
+            "es": "Donphan ex"
+        },
+        "rarity": "TWO_SHINY",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "FIGHTING",
+        "hash": "24ec86b1dbb5364924"
+    },
+    {
+        "id": "B2-231",
+        "name": {
+            "en": "Umbreon ex",
+            "es": "Umbreon ex"
+        },
+        "rarity": "TWO_SHINY",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "DARKNESS",
+        "hash": "24af91b40e78aeb28c"
+    },
+    {
+        "id": "B2-232",
+        "name": {
+            "en": "Lugia ex",
+            "es": "Lugia ex"
+        },
+        "rarity": "TWO_SHINY",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "COLORLESS",
+        "hash": "24bc397146c3c3a69c"
+    },
+    {
+        "id": "B2-233",
+        "name": {
+            "en": "Meloetta",
+            "es": "Meloetta"
+        },
+        "rarity": "CROWN",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "PSYCHIC",
+        "hash": "1599b33ecc8ac1b833"
+    },
+    {
+        "id": "B2-234",
+        "name": {
+            "en": "Protective Poncho",
+            "es": "Poncho Protector"
+        },
+        "rarity": "CROWN",
+        "origins": [
+            "MEGA_GARDEVOIR"
+        ],
+        "type": "TRAINER",
+        "hash": "15faa510d27a26b16e"
+    }
 ]

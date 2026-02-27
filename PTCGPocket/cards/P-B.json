@@ -1,482 +1,522 @@
 [
-  {
-    "id": "P-B-001",
-    "name": {
-      "en": "Pikachu",
-      "es": "Pikachu"
+    {
+        "id": "P-B-001",
+        "name": {
+            "en": "Pikachu",
+            "es": "Pikachu"
+        },
+        "rarity": "NONE",
+        "origins": [
+            "PREMIUM"
+        ],
+        "type": "LIGHTNING",
+        "hash": "00c0d4757e0051fb67"
     },
-    "rarity": "NONE",
-    "origins": [
-      "PREMIUM"
-    ],
-    "type": "LIGHTNING"
-  },
-  {
-    "id": "P-B-002",
-    "name": {
-      "en": "Petilil",
-      "es": "Petilil"
+    {
+        "id": "P-B-002",
+        "name": {
+            "en": "Petilil",
+            "es": "Petilil"
+        },
+        "rarity": "NONE",
+        "origins": [
+            "DROP_EVENT"
+        ],
+        "type": "GRASS",
+        "hash": "00c6267c99889afe26"
     },
-    "rarity": "NONE",
-    "origins": [
-      "DROP_EVENT"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "P-B-003",
-    "name": {
-      "en": "Froakie",
-      "es": "Froakie"
+    {
+        "id": "P-B-003",
+        "name": {
+            "en": "Froakie",
+            "es": "Froakie"
+        },
+        "rarity": "NONE",
+        "origins": [
+            "DROP_EVENT"
+        ],
+        "type": "WATER",
+        "hash": "00f171e30fb12c1ee0"
     },
-    "rarity": "NONE",
-    "origins": [
-      "DROP_EVENT"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "P-B-004",
-    "name": {
-      "en": "Luxray",
-      "es": "Luxray"
+    {
+        "id": "P-B-004",
+        "name": {
+            "en": "Luxray",
+            "es": "Luxray"
+        },
+        "rarity": "NONE",
+        "origins": [
+            "DROP_EVENT"
+        ],
+        "type": "LIGHTNING",
+        "hash": "00e96a8f989891af86"
     },
-    "rarity": "NONE",
-    "origins": [
-      "DROP_EVENT"
-    ],
-    "type": "LIGHTNING"
-  },
-  {
-    "id": "P-B-005",
-    "name": {
-      "en": "Pidgey",
-      "es": "Pidgey"
+    {
+        "id": "P-B-005",
+        "name": {
+            "en": "Pidgey",
+            "es": "Pidgey"
+        },
+        "rarity": "NONE",
+        "origins": [
+            "DROP_EVENT"
+        ],
+        "type": "COLORLESS",
+        "hash": "0092f08b8df8edd206"
     },
-    "rarity": "NONE",
-    "origins": [
-      "DROP_EVENT"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "P-B-006",
-    "name": {
-      "en": "Mega Pidgeot ex",
-      "es": "Mega-Pidgeot ex"
+    {
+        "id": "P-B-006",
+        "name": {
+            "en": "Mega Pidgeot ex",
+            "es": "Mega-Pidgeot ex"
+        },
+        "rarity": "NONE",
+        "origins": [
+            "DROP_EVENT"
+        ],
+        "type": "COLORLESS",
+        "hash": "008efbc294993ab0e8"
     },
-    "rarity": "NONE",
-    "origins": [
-      "DROP_EVENT"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "P-B-007",
-    "name": {
-      "en": "Torchic",
-      "es": "Torchic"
+    {
+        "id": "P-B-007",
+        "name": {
+            "en": "Torchic",
+            "es": "Torchic"
+        },
+        "rarity": "NONE",
+        "origins": [
+            "WONDER_EVENT"
+        ],
+        "type": "FIRE",
+        "hash": "00e57b1ae4a9e47920"
     },
-    "rarity": "NONE",
-    "origins": [
-      "WONDER_EVENT"
-    ],
-    "type": "FIRE"
-  },
-  {
-    "id": "P-B-008",
-    "name": {
-      "en": "Psyduck",
-      "es": "Psyduck"
+    {
+        "id": "P-B-008",
+        "name": {
+            "en": "Psyduck",
+            "es": "Psyduck"
+        },
+        "rarity": "NONE",
+        "origins": [
+            "WONDER_EVENT"
+        ],
+        "type": "WATER",
+        "hash": "009c1ce6e65868ce36"
     },
-    "rarity": "NONE",
-    "origins": [
-      "WONDER_EVENT"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "P-B-009",
-    "name": {
-      "en": "Mega Absol ex",
-      "es": "Mega-Absol ex"
+    {
+        "id": "P-B-009",
+        "name": {
+            "en": "Mega Absol ex",
+            "es": "Mega-Absol ex"
+        },
+        "rarity": "NONE",
+        "origins": [
+            "PREMIUM"
+        ],
+        "type": "DARKNESS",
+        "hash": "00f696eb2c61783c82"
     },
-    "rarity": "NONE",
-    "origins": [
-      "PREMIUM"
-    ],
-    "type": "DARKNESS"
-  },
-  {
-    "id": "P-B-010",
-    "name": {
-      "en": "Drifblim",
-      "es": "Drifblim"
+    {
+        "id": "P-B-010",
+        "name": {
+            "en": "Drifblim",
+            "es": "Drifblim"
+        },
+        "rarity": "NONE",
+        "origins": [
+            "WONDER_EVENT"
+        ],
+        "type": "PSYCHIC",
+        "hash": "00ed199c9e12e8f2a1"
     },
-    "rarity": "NONE",
-    "origins": [
-      "WONDER_EVENT"
-    ],
-    "type": "PSYCHIC"
-  },
-  {
-    "id": "P-B-011",
-    "name": {
-      "en": "Eevee",
-      "es": "Eevee"
+    {
+        "id": "P-B-011",
+        "name": {
+            "en": "Eevee",
+            "es": "Eevee"
+        },
+        "rarity": "NONE",
+        "origins": [
+            "WONDER_EVENT"
+        ],
+        "type": "COLORLESS",
+        "hash": "00ae9d02d4756e466a"
     },
-    "rarity": "NONE",
-    "origins": [
-      "WONDER_EVENT"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "P-B-012",
-    "name": {
-      "en": "Ditto",
-      "es": "Ditto"
+    {
+        "id": "P-B-012",
+        "name": {
+            "en": "Ditto",
+            "es": "Ditto"
+        },
+        "rarity": "NONE",
+        "origins": [
+            "PREMIUM"
+        ],
+        "type": "COLORLESS",
+        "hash": "009d8bda144dd15bc1"
     },
-    "rarity": "NONE",
-    "origins": [
-      "PREMIUM"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "P-B-013",
-    "name": {
-      "en": "Arcanine",
-      "es": "Arcanine"
+    {
+        "id": "P-B-013",
+        "name": {
+            "en": "Arcanine",
+            "es": "Arcanine"
+        },
+        "rarity": "NONE",
+        "origins": [
+            "DROP_EVENT"
+        ],
+        "type": "FIRE",
+        "hash": "0096d8564b8ac56cc7"
     },
-    "rarity": "NONE",
-    "origins": [
-      "DROP_EVENT"
-    ],
-    "type": "FIRE"
-  },
-  {
-    "id": "P-B-014",
-    "name": {
-      "en": "Magikarp",
-      "es": "Magikarp"
+    {
+        "id": "P-B-014",
+        "name": {
+            "en": "Magikarp",
+            "es": "Magikarp"
+        },
+        "rarity": "NONE",
+        "origins": [
+            "DROP_EVENT"
+        ],
+        "type": "WATER",
+        "hash": "00f0cc19712e87caba"
     },
-    "rarity": "NONE",
-    "origins": [
-      "DROP_EVENT"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "P-B-015",
-    "name": {
-      "en": "Mareep",
-      "es": "Mareep"
+    {
+        "id": "P-B-015",
+        "name": {
+            "en": "Mareep",
+            "es": "Mareep"
+        },
+        "rarity": "NONE",
+        "origins": [
+            "DROP_EVENT"
+        ],
+        "type": "LIGHTNING",
+        "hash": "00cb22d8d26e6b9989"
     },
-    "rarity": "NONE",
-    "origins": [
-      "DROP_EVENT"
-    ],
-    "type": "LIGHTNING"
-  },
-  {
-    "id": "P-B-016",
-    "name": {
-      "en": "Krookodile",
-      "es": "Krookodile"
+    {
+        "id": "P-B-016",
+        "name": {
+            "en": "Krookodile",
+            "es": "Krookodile"
+        },
+        "rarity": "NONE",
+        "origins": [
+            "DROP_EVENT"
+        ],
+        "type": "FIGHTING",
+        "hash": "00ed32174ac0533c9f"
     },
-    "rarity": "NONE",
-    "origins": [
-      "DROP_EVENT"
-    ],
-    "type": "FIGHTING"
-  },
-  {
-    "id": "P-B-017",
-    "name": {
-      "en": "Swablu",
-      "es": "Swablu"
+    {
+        "id": "P-B-017",
+        "name": {
+            "en": "Swablu",
+            "es": "Swablu"
+        },
+        "rarity": "NONE",
+        "origins": [
+            "DROP_EVENT"
+        ],
+        "type": "COLORLESS",
+        "hash": "00c1e53a5ae6e4a961"
     },
-    "rarity": "NONE",
-    "origins": [
-      "DROP_EVENT"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "P-B-018",
-    "name": {
-      "en": "Heliolisk",
-      "es": "Heliolisk"
+    {
+        "id": "P-B-018",
+        "name": {
+            "en": "Heliolisk",
+            "es": "Heliolisk"
+        },
+        "rarity": "NONE",
+        "origins": [
+            "WONDER_EVENT"
+        ],
+        "type": "LIGHTNING",
+        "hash": "00ba9e18a6e01a57ae"
     },
-    "rarity": "NONE",
-    "origins": [
-      "WONDER_EVENT"
-    ],
-    "type": "LIGHTNING"
-  },
-  {
-    "id": "P-B-019",
-    "name": {
-      "en": "Buneary",
-      "es": "Buneary"
+    {
+        "id": "P-B-019",
+        "name": {
+            "en": "Buneary",
+            "es": "Buneary"
+        },
+        "rarity": "NONE",
+        "origins": [
+            "WONDER_EVENT"
+        ],
+        "type": "COLORLESS",
+        "hash": "008aa49fcc589a13b7"
     },
-    "rarity": "NONE",
-    "origins": [
-      "WONDER_EVENT"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "P-B-020",
-    "name": {
-      "en": "Charmeleon",
-      "es": "Charmeleon"
+    {
+        "id": "P-B-020",
+        "name": {
+            "en": "Charmeleon",
+            "es": "Charmeleon"
+        },
+        "rarity": "NONE",
+        "origins": [
+            "DROP_EVENT"
+        ],
+        "type": "FIRE",
+        "hash": "0086ce1bd2f759484c"
     },
-    "rarity": "NONE",
-    "origins": [
-      "DROP_EVENT"
-    ],
-    "type": "FIRE"
-  },
-  {
-    "id": "P-B-021",
-    "name": {
-      "en": "Onix",
-      "es": "Onix"
+    {
+        "id": "P-B-021",
+        "name": {
+            "en": "Onix",
+            "es": "Onix"
+        },
+        "rarity": "NONE",
+        "origins": [
+            "DROP_EVENT"
+        ],
+        "type": "FIGHTING",
+        "hash": "00e2ceec14520b8f7c"
     },
-    "rarity": "NONE",
-    "origins": [
-      "DROP_EVENT"
-    ],
-    "type": "FIGHTING"
-  },
-  {
-    "id": "P-B-022",
-    "name": {
-      "en": "Hawlucha",
-      "es": "Hawlucha"
+    {
+        "id": "P-B-022",
+        "name": {
+            "en": "Hawlucha",
+            "es": "Hawlucha"
+        },
+        "rarity": "NONE",
+        "origins": [
+            "DROP_EVENT"
+        ],
+        "type": "FIGHTING",
+        "hash": "0098f416cbb887768a"
     },
-    "rarity": "NONE",
-    "origins": [
-      "DROP_EVENT"
-    ],
-    "type": "FIGHTING"
-  },
-  {
-    "id": "P-B-023",
-    "name": {
-      "en": "Genesect",
-      "es": "Genesect"
+    {
+        "id": "P-B-023",
+        "name": {
+            "en": "Genesect",
+            "es": "Genesect"
+        },
+        "rarity": "NONE",
+        "origins": [
+            "DROP_EVENT"
+        ],
+        "type": "METAL",
+        "hash": "00e5909e991963782f"
     },
-    "rarity": "NONE",
-    "origins": [
-      "DROP_EVENT"
-    ],
-    "type": "METAL"
-  },
-  {
-    "id": "P-B-024",
-    "name": {
-      "en": "Mega Latios ex",
-      "es": "Mega-Latios ex"
+    {
+        "id": "P-B-024",
+        "name": {
+            "en": "Mega Latios ex",
+            "es": "Mega-Latios ex"
+        },
+        "rarity": "NONE",
+        "origins": [
+            "DROP_EVENT"
+        ],
+        "type": "DRAGON",
+        "hash": "009eb03106640fbfa7"
     },
-    "rarity": "NONE",
-    "origins": [
-      "DROP_EVENT"
-    ],
-    "type": "DRAGON"
-  },
-  {
-    "id": "P-B-025",
-    "name": {
-      "en": "Jirachi",
-      "es": "Jirachi"
+    {
+        "id": "P-B-025",
+        "name": {
+            "en": "Jirachi",
+            "es": "Jirachi"
+        },
+        "rarity": "NONE",
+        "origins": [
+            "PREMIUM"
+        ],
+        "type": "PSYCHIC",
+        "hash": "00c96166a40b39b9db"
     },
-    "rarity": "NONE",
-    "origins": [
-      "PREMIUM"
-    ],
-    "type": "PSYCHIC"
-  },
-  {
-    "id": "P-B-026",
-    "name": {
-      "en": "Mudkip",
-      "es": "Mudkip"
+    {
+        "id": "P-B-026",
+        "name": {
+            "en": "Mudkip",
+            "es": "Mudkip"
+        },
+        "rarity": "NONE",
+        "origins": [
+            "DROP_EVENT"
+        ],
+        "type": "WATER",
+        "hash": "00c9ef9a90ce663524"
     },
-    "rarity": "NONE",
-    "origins": [
-      "DROP_EVENT"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "P-B-027",
-    "name": {
-      "en": "Plusle",
-      "es": "Plusle"
+    {
+        "id": "P-B-027",
+        "name": {
+            "en": "Plusle",
+            "es": "Plusle"
+        },
+        "rarity": "NONE",
+        "origins": [
+            "DROP_EVENT"
+        ],
+        "type": "LIGHTNING",
+        "hash": "00ccd636164fc07e31"
     },
-    "rarity": "NONE",
-    "origins": [
-      "DROP_EVENT"
-    ],
-    "type": "LIGHTNING"
-  },
-  {
-    "id": "P-B-028",
-    "name": {
-      "en": "Ralts",
-      "es": "Ralts"
+    {
+        "id": "P-B-028",
+        "name": {
+            "en": "Ralts",
+            "es": "Ralts"
+        },
+        "rarity": "NONE",
+        "origins": [
+            "DROP_EVENT"
+        ],
+        "type": "PSYCHIC",
+        "hash": "00c0606f6ba78c9bb2"
     },
-    "rarity": "NONE",
-    "origins": [
-      "DROP_EVENT"
-    ],
-    "type": "PSYCHIC"
-  },
-  {
-    "id": "P-B-029",
-    "name": {
-      "en": "Mega Medicham ex",
-      "es": "Mega-Medicham ex"
+    {
+        "id": "P-B-029",
+        "name": {
+            "en": "Mega Medicham ex",
+            "es": "Mega-Medicham ex"
+        },
+        "rarity": "NONE",
+        "origins": [
+            "DROP_EVENT"
+        ],
+        "type": "FIGHTING",
+        "hash": "00d8d90624a963ecde"
     },
-    "rarity": "NONE",
-    "origins": [
-      "DROP_EVENT"
-    ],
-    "type": "FIGHTING"
-  },
-  {
-    "id": "P-B-030",
-    "name": {
-      "en": "Tornadus",
-      "es": "Tornadus"
+    {
+        "id": "P-B-030",
+        "name": {
+            "en": "Tornadus",
+            "es": "Tornadus"
+        },
+        "rarity": "NONE",
+        "origins": [
+            "DROP_EVENT"
+        ],
+        "type": "COLORLESS",
+        "hash": "00e4c89e0dda15996e"
     },
-    "rarity": "NONE",
-    "origins": [
-      "DROP_EVENT"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "P-B-031",
-    "name": {
-      "en": "Cinderace",
-      "es": "Cinderace"
+    {
+        "id": "P-B-031",
+        "name": {
+            "en": "Cinderace",
+            "es": "Cinderace"
+        },
+        "rarity": "NONE",
+        "origins": [
+            "WONDER_EVENT"
+        ],
+        "type": "FIRE",
+        "hash": "00a399cc9634bdb1a4"
     },
-    "rarity": "NONE",
-    "origins": [
-      "WONDER_EVENT"
-    ],
-    "type": "FIRE"
-  },
-  {
-    "id": "P-B-032",
-    "name": {
-      "en": "Alolan Vulpix",
-      "es": "Vulpix de Alola"
+    {
+        "id": "P-B-032",
+        "name": {
+            "en": "Alolan Vulpix",
+            "es": "Vulpix de Alola"
+        },
+        "rarity": "NONE",
+        "origins": [
+            "WONDER_EVENT"
+        ],
+        "type": "WATER",
+        "hash": "009a56e3683c367525"
     },
-    "rarity": "NONE",
-    "origins": [
-      "WONDER_EVENT"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "P-B-033",
-    "name": {
-      "en": "Quaxly",
-      "es": "Quaxly"
+    {
+        "id": "P-B-033",
+        "name": {
+            "en": "Quaxly",
+            "es": "Quaxly"
+        },
+        "rarity": "NONE",
+        "origins": [
+            "PREMIUM"
+        ],
+        "type": "WATER",
+        "hash": "00d0381ec75d836dcc"
     },
-    "rarity": "NONE",
-    "origins": [
-      "PREMIUM"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "P-B-034",
-    "name": {
-      "en": "Smoliv",
-      "es": "Smoliv"
+    {
+        "id": "P-B-034",
+        "name": {
+            "en": "Smoliv",
+            "es": "Smoliv"
+        },
+        "rarity": "NONE",
+        "origins": [
+            "DROP_EVENT"
+        ],
+        "type": "GRASS",
+        "hash": "00c4e3da580e2cf43b"
     },
-    "rarity": "NONE",
-    "origins": [
-      "DROP_EVENT"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "P-B-035",
-    "name": {
-      "en": "Charcadet",
-      "es": "Charcadet"
+    {
+        "id": "P-B-035",
+        "name": {
+            "en": "Charcadet",
+            "es": "Charcadet"
+        },
+        "rarity": "NONE",
+        "origins": [
+            "DROP_EVENT"
+        ],
+        "type": "FIRE",
+        "hash": "00f4b283caf881878f"
     },
-    "rarity": "NONE",
-    "origins": [
-      "DROP_EVENT"
-    ],
-    "type": "FIRE"
-  },
-  {
-    "id": "P-B-036",
-    "name": {
-      "en": "Tatsugiri",
-      "es": "Tatsugiri"
+    {
+        "id": "P-B-036",
+        "name": {
+            "en": "Tatsugiri",
+            "es": "Tatsugiri"
+        },
+        "rarity": "NONE",
+        "origins": [
+            "DROP_EVENT"
+        ],
+        "type": "WATER",
+        "hash": "008883abcbf1933c72"
     },
-    "rarity": "NONE",
-    "origins": [
-      "DROP_EVENT"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "P-B-037",
-    "name": {
-      "en": "Frigibax",
-      "es": "Frigibax"
+    {
+        "id": "P-B-037",
+        "name": {
+            "en": "Frigibax",
+            "es": "Frigibax"
+        },
+        "rarity": "NONE",
+        "origins": [
+            "DROP_EVENT"
+        ],
+        "type": "WATER",
+        "hash": "00a4ab1fd3b23a520e"
     },
-    "rarity": "NONE",
-    "origins": [
-      "DROP_EVENT"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "P-B-038",
-    "name": {
-      "en": "Tinkaton",
-      "es": "Tinkaton"
+    {
+        "id": "P-B-038",
+        "name": {
+            "en": "Tinkaton",
+            "es": "Tinkaton"
+        },
+        "rarity": "NONE",
+        "origins": [
+            "DROP_EVENT"
+        ],
+        "type": "METAL",
+        "hash": "00c8fb82a23acd1db8"
     },
-    "rarity": "NONE",
-    "origins": [
-      "DROP_EVENT"
-    ],
-    "type": "METAL"
-  },
-  {
-    "id": "P-B-039",
-    "name": {
-      "en": "Pawmi",
-      "es": "Pawmi"
+    {
+        "id": "P-B-039",
+        "name": {
+            "en": "Pawmi",
+            "es": "Pawmi"
+        },
+        "rarity": "NONE",
+        "origins": [
+            "WONDER_EVENT"
+        ],
+        "type": "LIGHTNING",
+        "hash": "008296aec7492b54e7"
     },
-    "rarity": "NONE",
-    "origins": [
-      "WONDER_EVENT"
-    ],
-    "type": "LIGHTNING"
-  },
-  {
-    "id": "P-B-040",
-    "name": {
-      "en": "Paldean Clodsire",
-      "es": "Clodsire de Paldea"
-    },
-    "rarity": "NONE",
-    "origins": [
-      "WONDER_EVENT"
-    ],
-    "type": "DARKNESS"
-  }
+    {
+        "id": "P-B-040",
+        "name": {
+            "en": "Paldean Clodsire",
+            "es": "Clodsire de Paldea"
+        },
+        "rarity": "NONE",
+        "origins": [
+            "WONDER_EVENT"
+        ],
+        "type": "DARKNESS",
+        "hash": "00e0d49f9e10227f2d"
+    }
 ]

@@ -1,1266 +1,1371 @@
 [
-  {
-    "id": "A4a-001",
-    "name": {
-      "en": "Hoppip",
-      "es": "Hoppip"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "SUICUNE"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "A4a-002",
-    "name": {
-      "en": "Skiploom",
-      "es": "Skiploom"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "SUICUNE"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "A4a-003",
-    "name": {
-      "en": "Jumpluff ex",
-      "es": "Jumpluff ex"
-    },
-    "rarity": "FOUR_DIAMOND",
-    "origins": [
-      "SUICUNE"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "A4a-004",
-    "name": {
-      "en": "Sunkern",
-      "es": "Sunkern"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "SUICUNE"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "A4a-005",
-    "name": {
-      "en": "Sunflora",
-      "es": "Sunflora"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "SUICUNE"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "A4a-006",
-    "name": {
-      "en": "Celebi",
-      "es": "Celebi"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "SUICUNE"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "A4a-007",
-    "name": {
-      "en": "Durant",
-      "es": "Durant"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "SUICUNE"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "A4a-008",
-    "name": {
-      "en": "Slugma",
-      "es": "Slugma"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "SUICUNE"
-    ],
-    "type": "FIRE"
-  },
-  {
-    "id": "A4a-009",
-    "name": {
-      "en": "Magcargo",
-      "es": "Magcargo"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "SUICUNE"
-    ],
-    "type": "FIRE"
-  },
-  {
-    "id": "A4a-010",
-    "name": {
-      "en": "Entei ex",
-      "es": "Entei ex"
-    },
-    "rarity": "FOUR_DIAMOND",
-    "origins": [
-      "SUICUNE"
-    ],
-    "type": "FIRE"
-  },
-  {
-    "id": "A4a-011",
-    "name": {
-      "en": "Fletchinder",
-      "es": "Fletchinder"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "SUICUNE"
-    ],
-    "type": "FIRE"
-  },
-  {
-    "id": "A4a-012",
-    "name": {
-      "en": "Talonflame",
-      "es": "Talonflame"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "SUICUNE"
-    ],
-    "type": "FIRE"
-  },
-  {
-    "id": "A4a-013",
-    "name": {
-      "en": "Poliwag",
-      "es": "Poliwag"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "SUICUNE"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A4a-014",
-    "name": {
-      "en": "Poliwhirl",
-      "es": "Poliwhirl"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "SUICUNE"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A4a-015",
-    "name": {
-      "en": "Tentacool",
-      "es": "Tentacool"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "SUICUNE"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A4a-016",
-    "name": {
-      "en": "Tentacruel",
-      "es": "Tentacruel"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "SUICUNE"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A4a-017",
-    "name": {
-      "en": "Slowpoke",
-      "es": "Slowpoke"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "SUICUNE"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A4a-018",
-    "name": {
-      "en": "Slowking",
-      "es": "Slowking"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "SUICUNE"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A4a-019",
-    "name": {
-      "en": "Jynx",
-      "es": "Jynx"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "SUICUNE"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A4a-020",
-    "name": {
-      "en": "Suicune ex",
-      "es": "Suicune ex"
-    },
-    "rarity": "FOUR_DIAMOND",
-    "origins": [
-      "SUICUNE"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A4a-021",
-    "name": {
-      "en": "Feebas",
-      "es": "Feebas"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "SUICUNE"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A4a-022",
-    "name": {
-      "en": "Milotic",
-      "es": "Milotic"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "SUICUNE"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A4a-023",
-    "name": {
-      "en": "Mantyke",
-      "es": "Mantyke"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "SUICUNE"
-    ],
-    "type": "WATER",
-    "extra": true
-  },
-  {
-    "id": "A4a-024",
-    "name": {
-      "en": "Cryogonal",
-      "es": "Cryogonal"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "SUICUNE"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A4a-025",
-    "name": {
-      "en": "Raikou ex",
-      "es": "Raikou ex"
-    },
-    "rarity": "FOUR_DIAMOND",
-    "origins": [
-      "SUICUNE"
-    ],
-    "type": "LIGHTNING"
-  },
-  {
-    "id": "A4a-026",
-    "name": {
-      "en": "Tynamo",
-      "es": "Tynamo"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "SUICUNE"
-    ],
-    "type": "LIGHTNING"
-  },
-  {
-    "id": "A4a-027",
-    "name": {
-      "en": "Eelektrik",
-      "es": "Eelektrik"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "SUICUNE"
-    ],
-    "type": "LIGHTNING"
-  },
-  {
-    "id": "A4a-028",
-    "name": {
-      "en": "Eelektross",
-      "es": "Eelektross"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "SUICUNE"
-    ],
-    "type": "LIGHTNING"
-  },
-  {
-    "id": "A4a-029",
-    "name": {
-      "en": "Stunfisk",
-      "es": "Stunfisk"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "SUICUNE"
-    ],
-    "type": "LIGHTNING"
-  },
-  {
-    "id": "A4a-030",
-    "name": {
-      "en": "Yamper",
-      "es": "Yamper"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "SUICUNE"
-    ],
-    "type": "LIGHTNING"
-  },
-  {
-    "id": "A4a-031",
-    "name": {
-      "en": "Boltund",
-      "es": "Boltund"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "SUICUNE"
-    ],
-    "type": "LIGHTNING"
-  },
-  {
-    "id": "A4a-032",
-    "name": {
-      "en": "Misdreavus",
-      "es": "Misdreavus"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "SUICUNE"
-    ],
-    "type": "PSYCHIC"
-  },
-  {
-    "id": "A4a-033",
-    "name": {
-      "en": "Mismagius",
-      "es": "Mismagius"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "SUICUNE"
-    ],
-    "type": "PSYCHIC"
-  },
-  {
-    "id": "A4a-034",
-    "name": {
-      "en": "Galarian Corsola",
-      "es": "Corsola de Galar"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "SUICUNE"
-    ],
-    "type": "PSYCHIC"
-  },
-  {
-    "id": "A4a-035",
-    "name": {
-      "en": "Galarian Cursola",
-      "es": "Cursola de Galar"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "SUICUNE"
-    ],
-    "type": "PSYCHIC"
-  },
-  {
-    "id": "A4a-036",
-    "name": {
-      "en": "Latias",
-      "es": "Latias"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "SUICUNE"
-    ],
-    "type": "PSYCHIC"
-  },
-  {
-    "id": "A4a-037",
-    "name": {
-      "en": "Latios",
-      "es": "Latios"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "SUICUNE"
-    ],
-    "type": "PSYCHIC"
-  },
-  {
-    "id": "A4a-038",
-    "name": {
-      "en": "Frillish",
-      "es": "Frillish"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "SUICUNE"
-    ],
-    "type": "PSYCHIC"
-  },
-  {
-    "id": "A4a-039",
-    "name": {
-      "en": "Jellicent",
-      "es": "Jellicent"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "SUICUNE"
-    ],
-    "type": "PSYCHIC"
-  },
-  {
-    "id": "A4a-040",
-    "name": {
-      "en": "Diglett",
-      "es": "Diglett"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "SUICUNE"
-    ],
-    "type": "FIGHTING"
-  },
-  {
-    "id": "A4a-041",
-    "name": {
-      "en": "Dugtrio",
-      "es": "Dugtrio"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "SUICUNE"
-    ],
-    "type": "FIGHTING"
-  },
-  {
-    "id": "A4a-042",
-    "name": {
-      "en": "Poliwrath ex",
-      "es": "Poliwrath ex"
-    },
-    "rarity": "FOUR_DIAMOND",
-    "origins": [
-      "SUICUNE"
-    ],
-    "type": "FIGHTING"
-  },
-  {
-    "id": "A4a-043",
-    "name": {
-      "en": "Phanpy",
-      "es": "Phanpy"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "SUICUNE"
-    ],
-    "type": "FIGHTING"
-  },
-  {
-    "id": "A4a-044",
-    "name": {
-      "en": "Donphan",
-      "es": "Donphan"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "SUICUNE"
-    ],
-    "type": "FIGHTING"
-  },
-  {
-    "id": "A4a-045",
-    "name": {
-      "en": "Relicanth",
-      "es": "Relicanth"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "SUICUNE"
-    ],
-    "type": "FIGHTING"
-  },
-  {
-    "id": "A4a-046",
-    "name": {
-      "en": "Dwebble",
-      "es": "Dwebble"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "SUICUNE"
-    ],
-    "type": "FIGHTING"
-  },
-  {
-    "id": "A4a-047",
-    "name": {
-      "en": "Crustle",
-      "es": "Crustle"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "SUICUNE"
-    ],
-    "type": "FIGHTING"
-  },
-  {
-    "id": "A4a-048",
-    "name": {
-      "en": "Seviper",
-      "es": "Seviper"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "SUICUNE"
-    ],
-    "type": "DARKNESS"
-  },
-  {
-    "id": "A4a-049",
-    "name": {
-      "en": "Zorua",
-      "es": "Zorua"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "SUICUNE"
-    ],
-    "type": "DARKNESS"
-  },
-  {
-    "id": "A4a-050",
-    "name": {
-      "en": "Zoroark",
-      "es": "Zoroark"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "SUICUNE"
-    ],
-    "type": "DARKNESS"
-  },
-  {
-    "id": "A4a-051",
-    "name": {
-      "en": "Inkay",
-      "es": "Inkay"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "SUICUNE"
-    ],
-    "type": "DARKNESS"
-  },
-  {
-    "id": "A4a-052",
-    "name": {
-      "en": "Malamar",
-      "es": "Malamar"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "SUICUNE"
-    ],
-    "type": "DARKNESS"
-  },
-  {
-    "id": "A4a-053",
-    "name": {
-      "en": "Skrelp",
-      "es": "Skrelp"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "SUICUNE"
-    ],
-    "type": "DARKNESS"
-  },
-  {
-    "id": "A4a-054",
-    "name": {
-      "en": "Dragalge",
-      "es": "Dragalge"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "SUICUNE"
-    ],
-    "type": "DARKNESS"
-  },
-  {
-    "id": "A4a-055",
-    "name": {
-      "en": "Altaria",
-      "es": "Altaria"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "SUICUNE"
-    ],
-    "type": "TRAINER"
-  },
-  {
-    "id": "A4a-056",
-    "name": {
-      "en": "Farfetch\u0027d",
-      "es": "Farfetch\u0027d"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "SUICUNE"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "A4a-057",
-    "name": {
-      "en": "Lickitung",
-      "es": "Lickitung"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "SUICUNE"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "A4a-058",
-    "name": {
-      "en": "Lickilicky",
-      "es": "Lickilicky"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "SUICUNE"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "A4a-059",
-    "name": {
-      "en": "Igglybuff",
-      "es": "Igglybuff"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "SUICUNE"
-    ],
-    "type": "COLORLESS",
-    "extra": true
-  },
-  {
-    "id": "A4a-060",
-    "name": {
-      "en": "Teddiursa",
-      "es": "Teddiursa"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "SUICUNE"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "A4a-061",
-    "name": {
-      "en": "Ursaring",
-      "es": "Ursaring"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "SUICUNE"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "A4a-062",
-    "name": {
-      "en": "Miltank",
-      "es": "Miltank"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "SUICUNE"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "A4a-063",
-    "name": {
-      "en": "Azurill",
-      "es": "Azurill"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "SUICUNE"
-    ],
-    "type": "COLORLESS",
-    "extra": true
-  },
-  {
-    "id": "A4a-064",
-    "name": {
-      "en": "Swablu",
-      "es": "Swablu"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "SUICUNE"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "A4a-065",
-    "name": {
-      "en": "Zangoose",
-      "es": "Zangoose"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "SUICUNE"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "A4a-066",
-    "name": {
-      "en": "Fletchling",
-      "es": "Fletchling"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "SUICUNE"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "A4a-067",
-    "name": {
-      "en": "Inflatable Boat",
-      "es": "Balsa Hinchable"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "SUICUNE"
-    ],
-    "type": "TRAINER"
-  },
-  {
-    "id": "A4a-068",
-    "name": {
-      "en": "Memory Light",
-      "es": "Luz Evocadora"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "SUICUNE"
-    ],
-    "type": "TRAINER"
-  },
-  {
-    "id": "A4a-069",
-    "name": {
-      "en": "Whitney",
-      "es": "Blanca"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "SUICUNE"
-    ],
-    "type": "TRAINER"
-  },
-  {
-    "id": "A4a-070",
-    "name": {
-      "en": "Traveling Merchant",
-      "es": "Mercader Ambulante"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "SUICUNE"
-    ],
-    "type": "TRAINER"
-  },
-  {
-    "id": "A4a-071",
-    "name": {
-      "en": "Morty",
-      "es": "Morti"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "SUICUNE"
-    ],
-    "type": "TRAINER"
-  },
-  {
-    "id": "A4a-072",
-    "name": {
-      "en": "Milotic",
-      "es": "Milotic"
-    },
-    "rarity": "ONE_STAR",
-    "origins": [
-      "SUICUNE"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A4a-073",
-    "name": {
-      "en": "Stunfisk",
-      "es": "Stunfisk"
-    },
-    "rarity": "ONE_STAR",
-    "origins": [
-      "SUICUNE"
-    ],
-    "type": "LIGHTNING"
-  },
-  {
-    "id": "A4a-074",
-    "name": {
-      "en": "Yamper",
-      "es": "Yamper"
-    },
-    "rarity": "ONE_STAR",
-    "origins": [
-      "SUICUNE"
-    ],
-    "type": "LIGHTNING"
-  },
-  {
-    "id": "A4a-075",
-    "name": {
-      "en": "Latios",
-      "es": "Latios"
-    },
-    "rarity": "ONE_STAR",
-    "origins": [
-      "SUICUNE"
-    ],
-    "type": "PSYCHIC"
-  },
-  {
-    "id": "A4a-076",
-    "name": {
-      "en": "Phanpy",
-      "es": "Phanpy"
-    },
-    "rarity": "ONE_STAR",
-    "origins": [
-      "SUICUNE"
-    ],
-    "type": "FIGHTING"
-  },
-  {
-    "id": "A4a-077",
-    "name": {
-      "en": "Azurill",
-      "es": "Azurill"
-    },
-    "rarity": "ONE_STAR",
-    "origins": [
-      "SUICUNE"
-    ],
-    "type": "COLORLESS",
-    "extra": true
-  },
-  {
-    "id": "A4a-078",
-    "name": {
-      "en": "Jumpluff ex",
-      "es": "Jumpluff ex"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "SUICUNE"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "A4a-079",
-    "name": {
-      "en": "Entei ex",
-      "es": "Entei ex"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "SUICUNE"
-    ],
-    "type": "FIRE"
-  },
-  {
-    "id": "A4a-080",
-    "name": {
-      "en": "Suicune ex",
-      "es": "Suicune ex"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "SUICUNE"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A4a-081",
-    "name": {
-      "en": "Raikou ex",
-      "es": "Raikou ex"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "SUICUNE"
-    ],
-    "type": "LIGHTNING"
-  },
-  {
-    "id": "A4a-082",
-    "name": {
-      "en": "Poliwrath ex",
-      "es": "Poliwrath ex"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "SUICUNE"
-    ],
-    "type": "FIGHTING"
-  },
-  {
-    "id": "A4a-083",
-    "name": {
-      "en": "Whitney",
-      "es": "Blanca"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "SUICUNE"
-    ],
-    "type": "TRAINER"
-  },
-  {
-    "id": "A4a-084",
-    "name": {
-      "en": "Traveling Merchant",
-      "es": "Mercader Ambulante"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "SUICUNE"
-    ],
-    "type": "TRAINER"
-  },
-  {
-    "id": "A4a-085",
-    "name": {
-      "en": "Morty",
-      "es": "Morti"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "SUICUNE"
-    ],
-    "type": "TRAINER"
-  },
-  {
-    "id": "A4a-086",
-    "name": {
-      "en": "Jumpluff ex",
-      "es": "Jumpluff ex"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "SUICUNE"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "A4a-087",
-    "name": {
-      "en": "Entei ex",
-      "es": "Entei ex"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "SUICUNE"
-    ],
-    "type": "FIRE"
-  },
-  {
-    "id": "A4a-088",
-    "name": {
-      "en": "Raikou ex",
-      "es": "Raikou ex"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "SUICUNE"
-    ],
-    "type": "LIGHTNING"
-  },
-  {
-    "id": "A4a-089",
-    "name": {
-      "en": "Poliwrath ex",
-      "es": "Poliwrath ex"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "SUICUNE"
-    ],
-    "type": "FIGHTING"
-  },
-  {
-    "id": "A4a-090",
-    "name": {
-      "en": "Suicune ex",
-      "es": "Suicune ex"
-    },
-    "rarity": "THREE_STAR",
-    "origins": [
-      "SUICUNE"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A4a-091",
-    "name": {
-      "en": "Chimchar",
-      "es": "Chimchar"
-    },
-    "rarity": "ONE_SHINY",
-    "origins": [
-      "SUICUNE"
-    ],
-    "type": "FIRE"
-  },
-  {
-    "id": "A4a-092",
-    "name": {
-      "en": "Monferno",
-      "es": "Monferno"
-    },
-    "rarity": "ONE_SHINY",
-    "origins": [
-      "SUICUNE"
-    ],
-    "type": "FIRE"
-  },
-  {
-    "id": "A4a-093",
-    "name": {
-      "en": "Psyduck",
-      "es": "Psyduck"
-    },
-    "rarity": "ONE_SHINY",
-    "origins": [
-      "SUICUNE"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A4a-094",
-    "name": {
-      "en": "Golduck",
-      "es": "Golduck"
-    },
-    "rarity": "ONE_SHINY",
-    "origins": [
-      "SUICUNE"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A4a-095",
-    "name": {
-      "en": "Krabby",
-      "es": "Krabby"
-    },
-    "rarity": "ONE_SHINY",
-    "origins": [
-      "SUICUNE"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A4a-096",
-    "name": {
-      "en": "Kingler",
-      "es": "Kingler"
-    },
-    "rarity": "ONE_SHINY",
-    "origins": [
-      "SUICUNE"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A4a-097",
-    "name": {
-      "en": "Pyukumuku",
-      "es": "Pyukumuku"
-    },
-    "rarity": "ONE_SHINY",
-    "origins": [
-      "SUICUNE"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A4a-098",
-    "name": {
-      "en": "Gible",
-      "es": "Gible"
-    },
-    "rarity": "ONE_SHINY",
-    "origins": [
-      "SUICUNE"
-    ],
-    "type": "FIGHTING"
-  },
-  {
-    "id": "A4a-099",
-    "name": {
-      "en": "Gabite",
-      "es": "Gabite"
-    },
-    "rarity": "ONE_SHINY",
-    "origins": [
-      "SUICUNE"
-    ],
-    "type": "FIGHTING"
-  },
-  {
-    "id": "A4a-100",
-    "name": {
-      "en": "Paldean Wooper",
-      "es": "Wooper de Paldea"
-    },
-    "rarity": "ONE_SHINY",
-    "origins": [
-      "SUICUNE"
-    ],
-    "type": "DARKNESS"
-  },
-  {
-    "id": "A4a-101",
-    "name": {
-      "en": "Infernape ex",
-      "es": "Infernape ex"
-    },
-    "rarity": "TWO_SHINY",
-    "origins": [
-      "SUICUNE"
-    ],
-    "type": "FIRE"
-  },
-  {
-    "id": "A4a-102",
-    "name": {
-      "en": "Mew ex",
-      "es": "Mew ex"
-    },
-    "rarity": "TWO_SHINY",
-    "origins": [
-      "SUICUNE"
-    ],
-    "type": "PSYCHIC"
-  },
-  {
-    "id": "A4a-103",
-    "name": {
-      "en": "Garchomp ex",
-      "es": "Garchomp ex"
-    },
-    "rarity": "TWO_SHINY",
-    "origins": [
-      "SUICUNE"
-    ],
-    "type": "FIGHTING"
-  },
-  {
-    "id": "A4a-104",
-    "name": {
-      "en": "Paldean Clodsire ex",
-      "es": "Clodsire de Paldea ex"
-    },
-    "rarity": "TWO_SHINY",
-    "origins": [
-      "SUICUNE"
-    ],
-    "type": "DARKNESS"
-  },
-  {
-    "id": "A4a-105",
-    "name": {
-      "en": "Mantyke",
-      "es": "Mantyke"
-    },
-    "rarity": "CROWN",
-    "origins": [
-      "SUICUNE"
-    ],
-    "type": "WATER"
-  }
+    {
+        "id": "A4a-001",
+        "name": {
+            "en": "Hoppip",
+            "es": "Hoppip"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "SUICUNE"
+        ],
+        "type": "GRASS",
+        "hash": "11d4054ccb737bf448"
+    },
+    {
+        "id": "A4a-002",
+        "name": {
+            "en": "Skiploom",
+            "es": "Skiploom"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "SUICUNE"
+        ],
+        "type": "GRASS",
+        "hash": "21e77a82701e74590f"
+    },
+    {
+        "id": "A4a-003",
+        "name": {
+            "en": "Jumpluff ex",
+            "es": "Jumpluff ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "SUICUNE"
+        ],
+        "type": "GRASS",
+        "hash": "41b6cd69dbc6632604"
+    },
+    {
+        "id": "A4a-004",
+        "name": {
+            "en": "Sunkern",
+            "es": "Sunkern"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "SUICUNE"
+        ],
+        "type": "GRASS",
+        "hash": "11c11ece81ee1de961"
+    },
+    {
+        "id": "A4a-005",
+        "name": {
+            "en": "Sunflora",
+            "es": "Sunflora"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "SUICUNE"
+        ],
+        "type": "GRASS",
+        "hash": "21d0d66ebd0594fa48"
+    },
+    {
+        "id": "A4a-006",
+        "name": {
+            "en": "Celebi",
+            "es": "Celebi"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "SUICUNE"
+        ],
+        "type": "GRASS",
+        "hash": "318d357c3e2e5075c1"
+    },
+    {
+        "id": "A4a-007",
+        "name": {
+            "en": "Durant",
+            "es": "Durant"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "SUICUNE"
+        ],
+        "type": "GRASS",
+        "hash": "11cc9394bcc60f760e"
+    },
+    {
+        "id": "A4a-008",
+        "name": {
+            "en": "Slugma",
+            "es": "Slugma"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "SUICUNE"
+        ],
+        "type": "FIRE",
+        "hash": "11a687d962072e56f1"
+    },
+    {
+        "id": "A4a-009",
+        "name": {
+            "en": "Magcargo",
+            "es": "Magcargo"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "SUICUNE"
+        ],
+        "type": "FIRE",
+        "hash": "21b09e83b3de244db2"
+    },
+    {
+        "id": "A4a-010",
+        "name": {
+            "en": "Entei ex",
+            "es": "Entei ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "SUICUNE"
+        ],
+        "type": "FIRE",
+        "hash": "41f3899834102f9be7"
+    },
+    {
+        "id": "A4a-011",
+        "name": {
+            "en": "Fletchinder",
+            "es": "Fletchinder"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "SUICUNE"
+        ],
+        "type": "FIRE",
+        "hash": "1187e7d9b8d8cc4c24"
+    },
+    {
+        "id": "A4a-012",
+        "name": {
+            "en": "Talonflame",
+            "es": "Talonflame"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "SUICUNE"
+        ],
+        "type": "FIRE",
+        "hash": "21b87f0c4857956c8d"
+    },
+    {
+        "id": "A4a-013",
+        "name": {
+            "en": "Poliwag",
+            "es": "Poliwag"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "SUICUNE"
+        ],
+        "type": "WATER",
+        "hash": "11b4d5332c6437742d"
+    },
+    {
+        "id": "A4a-014",
+        "name": {
+            "en": "Poliwhirl",
+            "es": "Poliwhirl"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "SUICUNE"
+        ],
+        "type": "WATER",
+        "hash": "21c5f50aca7e98a4cc"
+    },
+    {
+        "id": "A4a-015",
+        "name": {
+            "en": "Tentacool",
+            "es": "Tentacool"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "SUICUNE"
+        ],
+        "type": "WATER",
+        "hash": "11c5560c639b3de0cd"
+    },
+    {
+        "id": "A4a-016",
+        "name": {
+            "en": "Tentacruel",
+            "es": "Tentacruel"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "SUICUNE"
+        ],
+        "type": "WATER",
+        "hash": "21f1e0cc8c8e1f1d3c"
+    },
+    {
+        "id": "A4a-017",
+        "name": {
+            "en": "Slowpoke",
+            "es": "Slowpoke"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "SUICUNE"
+        ],
+        "type": "WATER",
+        "hash": "11d8eb459628e81bc7"
+    },
+    {
+        "id": "A4a-018",
+        "name": {
+            "en": "Slowking",
+            "es": "Slowking"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "SUICUNE"
+        ],
+        "type": "WATER",
+        "hash": "21a9cb5a5193349795"
+    },
+    {
+        "id": "A4a-019",
+        "name": {
+            "en": "Jynx",
+            "es": "Jynx"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "SUICUNE"
+        ],
+        "type": "WATER",
+        "hash": "11a9c27c1f92722f64"
+    },
+    {
+        "id": "A4a-020",
+        "name": {
+            "en": "Suicune ex",
+            "es": "Suicune ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "SUICUNE"
+        ],
+        "type": "WATER",
+        "hash": "41ee2b81b751a8d0e5"
+    },
+    {
+        "id": "A4a-021",
+        "name": {
+            "en": "Feebas",
+            "es": "Feebas"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "SUICUNE"
+        ],
+        "type": "WATER",
+        "hash": "1193c6ad9cd2976c24"
+    },
+    {
+        "id": "A4a-022",
+        "name": {
+            "en": "Milotic",
+            "es": "Milotic"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "SUICUNE"
+        ],
+        "type": "WATER",
+        "hash": "319796c6c7319cc0f4"
+    },
+    {
+        "id": "A4a-023",
+        "name": {
+            "en": "Mantyke",
+            "es": "Mantyke"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "SUICUNE"
+        ],
+        "type": "WATER",
+        "extra": "true",
+        "hash": "3192f51e8961e7a19a"
+    },
+    {
+        "id": "A4a-024",
+        "name": {
+            "en": "Cryogonal",
+            "es": "Cryogonal"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "SUICUNE"
+        ],
+        "type": "WATER",
+        "hash": "11e5ad91f3090b2d6a"
+    },
+    {
+        "id": "A4a-025",
+        "name": {
+            "en": "Raikou ex",
+            "es": "Raikou ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "SUICUNE"
+        ],
+        "type": "LIGHTNING",
+        "hash": "41d213a876349457af"
+    },
+    {
+        "id": "A4a-026",
+        "name": {
+            "en": "Tynamo",
+            "es": "Tynamo"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "SUICUNE"
+        ],
+        "type": "LIGHTNING",
+        "hash": "1187d61fa3a062e9aa"
+    },
+    {
+        "id": "A4a-027",
+        "name": {
+            "en": "Eelektrik",
+            "es": "Eelektrik"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "SUICUNE"
+        ],
+        "type": "LIGHTNING",
+        "hash": "11c676d92d9659a3c0"
+    },
+    {
+        "id": "A4a-028",
+        "name": {
+            "en": "Eelektross",
+            "es": "Eelektross"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "SUICUNE"
+        ],
+        "type": "LIGHTNING",
+        "hash": "21f873834d4ce6e648"
+    },
+    {
+        "id": "A4a-029",
+        "name": {
+            "en": "Stunfisk",
+            "es": "Stunfisk"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "SUICUNE"
+        ],
+        "type": "LIGHTNING",
+        "hash": "1191ae9ed264cd1ae4"
+    },
+    {
+        "id": "A4a-030",
+        "name": {
+            "en": "Yamper",
+            "es": "Yamper"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "SUICUNE"
+        ],
+        "type": "LIGHTNING",
+        "hash": "119b4b2e7c74349b11"
+    },
+    {
+        "id": "A4a-031",
+        "name": {
+            "en": "Boltund",
+            "es": "Boltund"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "SUICUNE"
+        ],
+        "type": "LIGHTNING",
+        "hash": "31d356ed694cc94cc4"
+    },
+    {
+        "id": "A4a-032",
+        "name": {
+            "en": "Misdreavus",
+            "es": "Misdreavus"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "SUICUNE"
+        ],
+        "type": "PSYCHIC",
+        "hash": "11c7e3b0638cc4c8f3"
+    },
+    {
+        "id": "A4a-033",
+        "name": {
+            "en": "Mismagius",
+            "es": "Mismagius"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "SUICUNE"
+        ],
+        "type": "PSYCHIC",
+        "hash": "21b6b9cdc618b824ce"
+    },
+    {
+        "id": "A4a-034",
+        "name": {
+            "en": "Galarian Corsola",
+            "es": "Corsola de Galar"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "SUICUNE"
+        ],
+        "type": "PSYCHIC",
+        "hash": "1192e627bbc8f9182c"
+    },
+    {
+        "id": "A4a-035",
+        "name": {
+            "en": "Galarian Cursola",
+            "es": "Cursola de Galar"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "SUICUNE"
+        ],
+        "type": "PSYCHIC",
+        "hash": "3199f8726a1cc7d055"
+    },
+    {
+        "id": "A4a-036",
+        "name": {
+            "en": "Latias",
+            "es": "Latias"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "SUICUNE"
+        ],
+        "type": "PSYCHIC",
+        "hash": "31e6061a1b66cd8db6"
+    },
+    {
+        "id": "A4a-037",
+        "name": {
+            "en": "Latios",
+            "es": "Latios"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "SUICUNE"
+        ],
+        "type": "PSYCHIC",
+        "hash": "31cbeab5b0939d094c"
+    },
+    {
+        "id": "A4a-038",
+        "name": {
+            "en": "Frillish",
+            "es": "Frillish"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "SUICUNE"
+        ],
+        "type": "PSYCHIC",
+        "hash": "11e299162dcf264cb9"
+    },
+    {
+        "id": "A4a-039",
+        "name": {
+            "en": "Jellicent",
+            "es": "Jellicent"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "SUICUNE"
+        ],
+        "type": "PSYCHIC",
+        "hash": "21c4cb6bec1a962539"
+    },
+    {
+        "id": "A4a-040",
+        "name": {
+            "en": "Diglett",
+            "es": "Diglett"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "SUICUNE"
+        ],
+        "type": "FIGHTING",
+        "hash": "119ce087be807fc439"
+    },
+    {
+        "id": "A4a-041",
+        "name": {
+            "en": "Dugtrio",
+            "es": "Dugtrio"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "SUICUNE"
+        ],
+        "type": "FIGHTING",
+        "hash": "21cbb8a0acb7da1d24"
+    },
+    {
+        "id": "A4a-042",
+        "name": {
+            "en": "Poliwrath ex",
+            "es": "Poliwrath ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "SUICUNE"
+        ],
+        "type": "FIGHTING",
+        "hash": "41f9962e71a9ca15c8"
+    },
+    {
+        "id": "A4a-043",
+        "name": {
+            "en": "Phanpy",
+            "es": "Phanpy"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "SUICUNE"
+        ],
+        "type": "FIGHTING",
+        "hash": "118dd26585e3bb4a23"
+    },
+    {
+        "id": "A4a-044",
+        "name": {
+            "en": "Donphan",
+            "es": "Donphan"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "SUICUNE"
+        ],
+        "type": "FIGHTING",
+        "hash": "21bfad6c90ca83d0f0"
+    },
+    {
+        "id": "A4a-045",
+        "name": {
+            "en": "Relicanth",
+            "es": "Relicanth"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "SUICUNE"
+        ],
+        "type": "FIGHTING",
+        "hash": "11f4ec6a721ce4703c"
+    },
+    {
+        "id": "A4a-046",
+        "name": {
+            "en": "Dwebble",
+            "es": "Dwebble"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "SUICUNE"
+        ],
+        "type": "FIGHTING",
+        "hash": "11bf5784bdc3404c6c"
+    },
+    {
+        "id": "A4a-047",
+        "name": {
+            "en": "Crustle",
+            "es": "Crustle"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "SUICUNE"
+        ],
+        "type": "FIGHTING",
+        "hash": "21e5c7c04ed8d3b0ac"
+    },
+    {
+        "id": "A4a-048",
+        "name": {
+            "en": "Seviper",
+            "es": "Seviper"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "SUICUNE"
+        ],
+        "type": "DARKNESS",
+        "hash": "11bbabc09ca466d293"
+    },
+    {
+        "id": "A4a-049",
+        "name": {
+            "en": "Zorua",
+            "es": "Zorua"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "SUICUNE"
+        ],
+        "type": "DARKNESS",
+        "hash": "11ed0b92645a6cda33"
+    },
+    {
+        "id": "A4a-050",
+        "name": {
+            "en": "Zoroark",
+            "es": "Zoroark"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "SUICUNE"
+        ],
+        "type": "DARKNESS",
+        "hash": "31aab2d0a19d25e39d"
+    },
+    {
+        "id": "A4a-051",
+        "name": {
+            "en": "Inkay",
+            "es": "Inkay"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "SUICUNE"
+        ],
+        "type": "DARKNESS",
+        "hash": "11c5b46e1e515e42b6"
+    },
+    {
+        "id": "A4a-052",
+        "name": {
+            "en": "Malamar",
+            "es": "Malamar"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "SUICUNE"
+        ],
+        "type": "DARKNESS",
+        "hash": "21e921489996d7a6ce"
+    },
+    {
+        "id": "A4a-053",
+        "name": {
+            "en": "Skrelp",
+            "es": "Skrelp"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "SUICUNE"
+        ],
+        "type": "DARKNESS",
+        "hash": "1181798bc67c87922f"
+    },
+    {
+        "id": "A4a-054",
+        "name": {
+            "en": "Dragalge",
+            "es": "Dragalge"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "SUICUNE"
+        ],
+        "type": "DARKNESS",
+        "hash": "11acb9b7e9c861e284"
+    },
+    {
+        "id": "A4a-055",
+        "name": {
+            "en": "Altaria",
+            "es": "Altaria"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "SUICUNE"
+        ],
+        "type": "TRAINER",
+        "hash": "31c1a758925cad4e79"
+    },
+    {
+        "id": "A4a-056",
+        "name": {
+            "en": "Farfetch'd",
+            "es": "Farfetch'd"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "SUICUNE"
+        ],
+        "type": "COLORLESS",
+        "hash": "11e6e818661d5265be"
+    },
+    {
+        "id": "A4a-057",
+        "name": {
+            "en": "Lickitung",
+            "es": "Lickitung"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "SUICUNE"
+        ],
+        "type": "COLORLESS",
+        "hash": "119fded360e088b3a4"
+    },
+    {
+        "id": "A4a-058",
+        "name": {
+            "en": "Lickilicky",
+            "es": "Lickilicky"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "SUICUNE"
+        ],
+        "type": "COLORLESS",
+        "hash": "21b3cf4498141b32fd"
+    },
+    {
+        "id": "A4a-059",
+        "name": {
+            "en": "Igglybuff",
+            "es": "Igglybuff"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "SUICUNE"
+        ],
+        "type": "COLORLESS",
+        "extra": "true",
+        "hash": "31de4c60b487739e32"
+    },
+    {
+        "id": "A4a-060",
+        "name": {
+            "en": "Teddiursa",
+            "es": "Teddiursa"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "SUICUNE"
+        ],
+        "type": "COLORLESS",
+        "hash": "11eda9c69e32f00655"
+    },
+    {
+        "id": "A4a-061",
+        "name": {
+            "en": "Ursaring",
+            "es": "Ursaring"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "SUICUNE"
+        ],
+        "type": "COLORLESS",
+        "hash": "21fecac5c572104cab"
+    },
+    {
+        "id": "A4a-062",
+        "name": {
+            "en": "Miltank",
+            "es": "Miltank"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "SUICUNE"
+        ],
+        "type": "COLORLESS",
+        "hash": "2195a498f362c7994d"
+    },
+    {
+        "id": "A4a-063",
+        "name": {
+            "en": "Azurill",
+            "es": "Azurill"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "SUICUNE"
+        ],
+        "type": "COLORLESS",
+        "extra": "true",
+        "hash": "31f8ffcac0483c3f02"
+    },
+    {
+        "id": "A4a-064",
+        "name": {
+            "en": "Swablu",
+            "es": "Swablu"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "SUICUNE"
+        ],
+        "type": "COLORLESS",
+        "hash": "1183a70f4b8638799e"
+    },
+    {
+        "id": "A4a-065",
+        "name": {
+            "en": "Zangoose",
+            "es": "Zangoose"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "SUICUNE"
+        ],
+        "type": "COLORLESS",
+        "hash": "21c5a5321458f73f1a"
+    },
+    {
+        "id": "A4a-066",
+        "name": {
+            "en": "Fletchling",
+            "es": "Fletchling"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "SUICUNE"
+        ],
+        "type": "COLORLESS",
+        "hash": "11f39098a60fda0dd9"
+    },
+    {
+        "id": "A4a-067",
+        "name": {
+            "en": "Inflatable Boat",
+            "es": "Balsa Hinchable"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "SUICUNE"
+        ],
+        "type": "TRAINER",
+        "hash": "21f78cb88731ad8698"
+    },
+    {
+        "id": "A4a-068",
+        "name": {
+            "en": "Memory Light",
+            "es": "Luz Evocadora"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "SUICUNE"
+        ],
+        "type": "TRAINER",
+        "hash": "219729e8be92b89931"
+    },
+    {
+        "id": "A4a-069",
+        "name": {
+            "en": "Whitney",
+            "es": "Blanca"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "SUICUNE"
+        ],
+        "type": "TRAINER",
+        "hash": "2188a6fbd28587de03"
+    },
+    {
+        "id": "A4a-070",
+        "name": {
+            "en": "Traveling Merchant",
+            "es": "Mercader Ambulante"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "SUICUNE"
+        ],
+        "type": "TRAINER",
+        "hash": "21b0968ee8b0b6e8a7"
+    },
+    {
+        "id": "A4a-071",
+        "name": {
+            "en": "Morty",
+            "es": "Morti"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "SUICUNE"
+        ],
+        "type": "TRAINER",
+        "hash": "21c1f8cab3a6a59691"
+    },
+    {
+        "id": "A4a-072",
+        "name": {
+            "en": "Milotic",
+            "es": "Milotic"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "SUICUNE"
+        ],
+        "type": "WATER",
+        "hash": "13c934c73ab08fd0cd"
+    },
+    {
+        "id": "A4a-073",
+        "name": {
+            "en": "Stunfisk",
+            "es": "Stunfisk"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "SUICUNE"
+        ],
+        "type": "LIGHTNING",
+        "hash": "13883f7971e6e3214c"
+    },
+    {
+        "id": "A4a-074",
+        "name": {
+            "en": "Yamper",
+            "es": "Yamper"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "SUICUNE"
+        ],
+        "type": "LIGHTNING",
+        "hash": "13c82043cf76e65ee8"
+    },
+    {
+        "id": "A4a-075",
+        "name": {
+            "en": "Latios",
+            "es": "Latios"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "SUICUNE"
+        ],
+        "type": "PSYCHIC",
+        "hash": "13d06e8fb30ccc2e4b"
+    },
+    {
+        "id": "A4a-076",
+        "name": {
+            "en": "Phanpy",
+            "es": "Phanpy"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "SUICUNE"
+        ],
+        "type": "FIGHTING",
+        "hash": "13bf5dc2bae40b31c0"
+    },
+    {
+        "id": "A4a-077",
+        "name": {
+            "en": "Azurill",
+            "es": "Azurill"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "SUICUNE"
+        ],
+        "type": "COLORLESS",
+        "extra": "true",
+        "hash": "13ecc3958e3b552748"
+    },
+    {
+        "id": "A4a-078",
+        "name": {
+            "en": "Jumpluff ex",
+            "es": "Jumpluff ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "SUICUNE"
+        ],
+        "type": "GRASS",
+        "hash": "239c9ae1625be74255"
+    },
+    {
+        "id": "A4a-079",
+        "name": {
+            "en": "Entei ex",
+            "es": "Entei ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "SUICUNE"
+        ],
+        "type": "FIRE",
+        "hash": "23e540321a3bbb5f49"
+    },
+    {
+        "id": "A4a-080",
+        "name": {
+            "en": "Suicune ex",
+            "es": "Suicune ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "SUICUNE"
+        ],
+        "type": "WATER",
+        "hash": "23f98dc94358bd8714"
+    },
+    {
+        "id": "A4a-081",
+        "name": {
+            "en": "Raikou ex",
+            "es": "Raikou ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "SUICUNE"
+        ],
+        "type": "LIGHTNING",
+        "hash": "238ef1b1009af5f0d6"
+    },
+    {
+        "id": "A4a-082",
+        "name": {
+            "en": "Poliwrath ex",
+            "es": "Poliwrath ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "SUICUNE"
+        ],
+        "type": "FIGHTING",
+        "hash": "23feb150c8dacbc950"
+    },
+    {
+        "id": "A4a-083",
+        "name": {
+            "en": "Whitney",
+            "es": "Blanca"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "SUICUNE"
+        ],
+        "type": "TRAINER",
+        "hash": "23e1068e9896b9e3e5"
+    },
+    {
+        "id": "A4a-084",
+        "name": {
+            "en": "Traveling Merchant",
+            "es": "Mercader Ambulante"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "SUICUNE"
+        ],
+        "type": "TRAINER",
+        "hash": "238ea5fc12636b113d"
+    },
+    {
+        "id": "A4a-085",
+        "name": {
+            "en": "Morty",
+            "es": "Morti"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "SUICUNE"
+        ],
+        "type": "TRAINER",
+        "hash": "23cce5c29231cfda86"
+    },
+    {
+        "id": "A4a-086",
+        "name": {
+            "en": "Jumpluff ex",
+            "es": "Jumpluff ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "SUICUNE"
+        ],
+        "type": "GRASS",
+        "hash": "23a5ba6a964cc96a8d"
+    },
+    {
+        "id": "A4a-087",
+        "name": {
+            "en": "Entei ex",
+            "es": "Entei ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "SUICUNE"
+        ],
+        "type": "FIRE",
+        "hash": "23bae85cd2c3474732"
+    },
+    {
+        "id": "A4a-088",
+        "name": {
+            "en": "Raikou ex",
+            "es": "Raikou ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "SUICUNE"
+        ],
+        "type": "LIGHTNING",
+        "hash": "23ebe91c9853d69268"
+    },
+    {
+        "id": "A4a-089",
+        "name": {
+            "en": "Poliwrath ex",
+            "es": "Poliwrath ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "SUICUNE"
+        ],
+        "type": "FIGHTING",
+        "hash": "23cb2f9e28d2466cca"
+    },
+    {
+        "id": "A4a-090",
+        "name": {
+            "en": "Suicune ex",
+            "es": "Suicune ex"
+        },
+        "rarity": "THREE_STAR",
+        "origins": [
+            "SUICUNE"
+        ],
+        "type": "WATER",
+        "hash": "33cc633e39c1868be5"
+    },
+    {
+        "id": "A4a-091",
+        "name": {
+            "en": "Chimchar",
+            "es": "Chimchar"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "SUICUNE"
+        ],
+        "type": "FIRE",
+        "hash": "14a60d92459dfe1da8"
+    },
+    {
+        "id": "A4a-092",
+        "name": {
+            "en": "Monferno",
+            "es": "Monferno"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "SUICUNE"
+        ],
+        "type": "FIRE",
+        "hash": "14a50d91c79e351d5c"
+    },
+    {
+        "id": "A4a-093",
+        "name": {
+            "en": "Psyduck",
+            "es": "Psyduck"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "SUICUNE"
+        ],
+        "type": "WATER",
+        "hash": "14b10994e19ecc9fcc"
+    },
+    {
+        "id": "A4a-094",
+        "name": {
+            "en": "Golduck",
+            "es": "Golduck"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "SUICUNE"
+        ],
+        "type": "WATER",
+        "hash": "14b087c9149d6dceb8"
+    },
+    {
+        "id": "A4a-095",
+        "name": {
+            "en": "Krabby",
+            "es": "Krabby"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "SUICUNE"
+        ],
+        "type": "WATER",
+        "hash": "14ed0593cd96670d52"
+    },
+    {
+        "id": "A4a-096",
+        "name": {
+            "en": "Kingler",
+            "es": "Kingler"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "SUICUNE"
+        ],
+        "type": "WATER",
+        "hash": "14ec2d90c5353d1d6a"
+    },
+    {
+        "id": "A4a-097",
+        "name": {
+            "en": "Pyukumuku",
+            "es": "Pyukumuku"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "SUICUNE"
+        ],
+        "type": "WATER",
+        "hash": "14b887c1390ff11dc6"
+    },
+    {
+        "id": "A4a-098",
+        "name": {
+            "en": "Gible",
+            "es": "Gible"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "SUICUNE"
+        ],
+        "type": "FIGHTING",
+        "hash": "14a407c7cd1de59383"
+    },
+    {
+        "id": "A4a-099",
+        "name": {
+            "en": "Gabite",
+            "es": "Gabite"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "SUICUNE"
+        ],
+        "type": "FIGHTING",
+        "hash": "14b10c93c59eb71e38"
+    },
+    {
+        "id": "A4a-100",
+        "name": {
+            "en": "Paldean Wooper",
+            "es": "Wooper de Paldea"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "SUICUNE"
+        ],
+        "type": "DARKNESS",
+        "hash": "14e31994459ffc198a"
+    },
+    {
+        "id": "A4a-101",
+        "name": {
+            "en": "Infernape ex",
+            "es": "Infernape ex"
+        },
+        "rarity": "TWO_SHINY",
+        "origins": [
+            "SUICUNE"
+        ],
+        "type": "FIRE",
+        "hash": "24e8ed316ac69c6c8c"
+    },
+    {
+        "id": "A4a-102",
+        "name": {
+            "en": "Mew ex",
+            "es": "Mew ex"
+        },
+        "rarity": "TWO_SHINY",
+        "origins": [
+            "SUICUNE"
+        ],
+        "type": "PSYCHIC",
+        "hash": "24bb9c4873368d3e30"
+    },
+    {
+        "id": "A4a-103",
+        "name": {
+            "en": "Garchomp ex",
+            "es": "Garchomp ex"
+        },
+        "rarity": "TWO_SHINY",
+        "origins": [
+            "SUICUNE"
+        ],
+        "type": "FIGHTING",
+        "hash": "24accef18156e0db34"
+    },
+    {
+        "id": "A4a-104",
+        "name": {
+            "en": "Paldean Clodsire ex",
+            "es": "Clodsire de Paldea ex"
+        },
+        "rarity": "TWO_SHINY",
+        "origins": [
+            "SUICUNE"
+        ],
+        "type": "DARKNESS",
+        "hash": "24acc895427aadd63c"
+    },
+    {
+        "id": "A4a-105",
+        "name": {
+            "en": "Mantyke",
+            "es": "Mantyke"
+        },
+        "rarity": "CROWN",
+        "origins": [
+            "SUICUNE"
+        ],
+        "type": "WATER",
+        "hash": "1593b1f86789845acd"
+    }
 ]

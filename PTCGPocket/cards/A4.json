@@ -1,2935 +1,3174 @@
 [
-  {
-    "id": "A4-001",
-    "name": {
-      "en": "Oddish",
-      "es": "Oddish"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "LUGIA"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "A4-002",
-    "name": {
-      "en": "Gloom",
-      "es": "Gloom"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "LUGIA"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "A4-003",
-    "name": {
-      "en": "Bellossom",
-      "es": "Bellossom"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "LUGIA"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "A4-004",
-    "name": {
-      "en": "Tangela",
-      "es": "Tangela"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "HO_OH"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "A4-005",
-    "name": {
-      "en": "Tangrowth",
-      "es": "Tangrowth"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "HO_OH"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "A4-006",
-    "name": {
-      "en": "Scyther",
-      "es": "Scyther"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "LUGIA"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "A4-007",
-    "name": {
-      "en": "Pinsir",
-      "es": "Pinsir"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "LUGIA"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "A4-008",
-    "name": {
-      "en": "Chikorita",
-      "es": "Chikorita"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "LUGIA"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "A4-009",
-    "name": {
-      "en": "Bayleef",
-      "es": "Bayleef"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "LUGIA"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "A4-010",
-    "name": {
-      "en": "Meganium",
-      "es": "Meganium"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "LUGIA"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "A4-011",
-    "name": {
-      "en": "Ledyba",
-      "es": "Ledyba"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "LUGIA"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "A4-012",
-    "name": {
-      "en": "Ledian",
-      "es": "Ledian"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "LUGIA"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "A4-013",
-    "name": {
-      "en": "Hoppip",
-      "es": "Hoppip"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "HO_OH"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "A4-014",
-    "name": {
-      "en": "Skiploom",
-      "es": "Skiploom"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "HO_OH"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "A4-015",
-    "name": {
-      "en": "Jumpluff",
-      "es": "Jumpluff"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "HO_OH"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "A4-016",
-    "name": {
-      "en": "Sunkern",
-      "es": "Sunkern"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "LUGIA",
-      "HO_OH"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "A4-017",
-    "name": {
-      "en": "Sunflora",
-      "es": "Sunflora"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "LUGIA",
-      "HO_OH"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "A4-018",
-    "name": {
-      "en": "Yanma",
-      "es": "Yanma"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "LUGIA",
-      "HO_OH"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "A4-019",
-    "name": {
-      "en": "Yanmega",
-      "es": "Yanmega"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "LUGIA",
-      "HO_OH"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "A4-020",
-    "name": {
-      "en": "Pineco",
-      "es": "Pineco"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "LUGIA",
-      "HO_OH"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "A4-021",
-    "name": {
-      "en": "Shuckle ex",
-      "es": "Shuckle ex"
-    },
-    "rarity": "FOUR_DIAMOND",
-    "origins": [
-      "LUGIA"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "A4-022",
-    "name": {
-      "en": "Heracross",
-      "es": "Heracross"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "HO_OH"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "A4-023",
-    "name": {
-      "en": "Cherubi",
-      "es": "Cherubi"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "LUGIA",
-      "HO_OH"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "A4-024",
-    "name": {
-      "en": "Cherrim",
-      "es": "Cherrim"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "LUGIA",
-      "HO_OH"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "A4-025",
-    "name": {
-      "en": "Vulpix",
-      "es": "Vulpix"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "LUGIA"
-    ],
-    "type": "FIRE"
-  },
-  {
-    "id": "A4-026",
-    "name": {
-      "en": "Ninetales",
-      "es": "Ninetales"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "LUGIA"
-    ],
-    "type": "FIRE"
-  },
-  {
-    "id": "A4-027",
-    "name": {
-      "en": "Cyndaquil",
-      "es": "Cyndaquil"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "LUGIA"
-    ],
-    "type": "FIRE"
-  },
-  {
-    "id": "A4-028",
-    "name": {
-      "en": "Quilava",
-      "es": "Quilava"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "LUGIA"
-    ],
-    "type": "FIRE"
-  },
-  {
-    "id": "A4-029",
-    "name": {
-      "en": "Typhlosion",
-      "es": "Typhlosion"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "LUGIA"
-    ],
-    "type": "FIRE"
-  },
-  {
-    "id": "A4-030",
-    "name": {
-      "en": "Slugma",
-      "es": "Slugma"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "HO_OH"
-    ],
-    "type": "FIRE"
-  },
-  {
-    "id": "A4-031",
-    "name": {
-      "en": "Magcargo",
-      "es": "Magcargo"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "HO_OH"
-    ],
-    "type": "FIRE"
-  },
-  {
-    "id": "A4-032",
-    "name": {
-      "en": "Magby",
-      "es": "Magby"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "HO_OH"
-    ],
-    "type": "FIRE",
-    "extra": true
-  },
-  {
-    "id": "A4-033",
-    "name": {
-      "en": "Entei",
-      "es": "Entei"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "HO_OH"
-    ],
-    "type": "FIRE"
-  },
-  {
-    "id": "A4-034",
-    "name": {
-      "en": "Ho-Oh ex",
-      "es": "Ho-Oh ex"
-    },
-    "rarity": "FOUR_DIAMOND",
-    "origins": [
-      "HO_OH"
-    ],
-    "type": "FIRE"
-  },
-  {
-    "id": "A4-035",
-    "name": {
-      "en": "Darumaka",
-      "es": "Darumaka"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "LUGIA",
-      "HO_OH"
-    ],
-    "type": "FIRE"
-  },
-  {
-    "id": "A4-036",
-    "name": {
-      "en": "Darmanitan",
-      "es": "Darmanitan"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "LUGIA",
-      "HO_OH"
-    ],
-    "type": "FIRE"
-  },
-  {
-    "id": "A4-037",
-    "name": {
-      "en": "Heatmor",
-      "es": "Heatmor"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "LUGIA",
-      "HO_OH"
-    ],
-    "type": "FIRE"
-  },
-  {
-    "id": "A4-038",
-    "name": {
-      "en": "Poliwag",
-      "es": "Poliwag"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "LUGIA"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A4-039",
-    "name": {
-      "en": "Poliwhirl",
-      "es": "Poliwhirl"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "LUGIA"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A4-040",
-    "name": {
-      "en": "Politoed",
-      "es": "Politoed"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "LUGIA"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A4-041",
-    "name": {
-      "en": "Horsea",
-      "es": "Horsea"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "LUGIA"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A4-042",
-    "name": {
-      "en": "Seadra",
-      "es": "Seadra"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "LUGIA"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A4-043",
-    "name": {
-      "en": "Kingdra ex",
-      "es": "Kingdra ex"
-    },
-    "rarity": "FOUR_DIAMOND",
-    "origins": [
-      "LUGIA"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A4-044",
-    "name": {
-      "en": "Magikarp",
-      "es": "Magikarp"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "LUGIA"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A4-045",
-    "name": {
-      "en": "Gyarados",
-      "es": "Gyarados"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "LUGIA"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A4-046",
-    "name": {
-      "en": "Totodile",
-      "es": "Totodile"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "HO_OH"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A4-047",
-    "name": {
-      "en": "Croconaw",
-      "es": "Croconaw"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "HO_OH"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A4-048",
-    "name": {
-      "en": "Feraligatr",
-      "es": "Feraligatr"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "HO_OH"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A4-049",
-    "name": {
-      "en": "Marill",
-      "es": "Marill"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "HO_OH"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A4-050",
-    "name": {
-      "en": "Azumarill",
-      "es": "Azumarill"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "HO_OH"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A4-051",
-    "name": {
-      "en": "Wooper",
-      "es": "Wooper"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "LUGIA"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A4-052",
-    "name": {
-      "en": "Quagsire",
-      "es": "Quagsire"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "LUGIA"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A4-053",
-    "name": {
-      "en": "Qwilfish",
-      "es": "Qwilfish"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "LUGIA"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A4-054",
-    "name": {
-      "en": "Corsola",
-      "es": "Corsola"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "LUGIA"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A4-055",
-    "name": {
-      "en": "Remoraid",
-      "es": "Remoraid"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "LUGIA"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A4-056",
-    "name": {
-      "en": "Octillery",
-      "es": "Octillery"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "LUGIA"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A4-057",
-    "name": {
-      "en": "Delibird",
-      "es": "Delibird"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "HO_OH"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A4-058",
-    "name": {
-      "en": "Mantine",
-      "es": "Mantine"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "LUGIA"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A4-059",
-    "name": {
-      "en": "Suicune",
-      "es": "Suicune"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "LUGIA"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A4-060",
-    "name": {
-      "en": "Corphish",
-      "es": "Corphish"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "LUGIA"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A4-061",
-    "name": {
-      "en": "Crawdaunt",
-      "es": "Crawdaunt"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "LUGIA"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A4-062",
-    "name": {
-      "en": "Ducklett",
-      "es": "Ducklett"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "HO_OH"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A4-063",
-    "name": {
-      "en": "Swanna",
-      "es": "Swanna"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "HO_OH"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A4-064",
-    "name": {
-      "en": "Chinchou",
-      "es": "Chinchou"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "LUGIA"
-    ],
-    "type": "LIGHTNING"
-  },
-  {
-    "id": "A4-065",
-    "name": {
-      "en": "Lanturn ex",
-      "es": "Lanturn ex"
-    },
-    "rarity": "FOUR_DIAMOND",
-    "origins": [
-      "LUGIA"
-    ],
-    "type": "LIGHTNING"
-  },
-  {
-    "id": "A4-066",
-    "name": {
-      "en": "Pichu",
-      "es": "Pichu"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "LUGIA"
-    ],
-    "type": "LIGHTNING",
-    "extra": true
-  },
-  {
-    "id": "A4-067",
-    "name": {
-      "en": "Mareep",
-      "es": "Mareep"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "LUGIA"
-    ],
-    "type": "LIGHTNING"
-  },
-  {
-    "id": "A4-068",
-    "name": {
-      "en": "Flaaffy",
-      "es": "Flaaffy"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "LUGIA"
-    ],
-    "type": "LIGHTNING"
-  },
-  {
-    "id": "A4-069",
-    "name": {
-      "en": "Ampharos",
-      "es": "Ampharos"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "LUGIA"
-    ],
-    "type": "LIGHTNING"
-  },
-  {
-    "id": "A4-070",
-    "name": {
-      "en": "Elekid",
-      "es": "Elekid"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "LUGIA"
-    ],
-    "type": "LIGHTNING",
-    "extra": true
-  },
-  {
-    "id": "A4-071",
-    "name": {
-      "en": "Raikou",
-      "es": "Raikou"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "HO_OH"
-    ],
-    "type": "LIGHTNING"
-  },
-  {
-    "id": "A4-072",
-    "name": {
-      "en": "Emolga",
-      "es": "Emolga"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "LUGIA",
-      "HO_OH"
-    ],
-    "type": "LIGHTNING"
-  },
-  {
-    "id": "A4-073",
-    "name": {
-      "en": "Slowpoke",
-      "es": "Slowpoke"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "LUGIA"
-    ],
-    "type": "Psychic"
-  },
-  {
-    "id": "A4-074",
-    "name": {
-      "en": "Slowking",
-      "es": "Slowking"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "LUGIA"
-    ],
-    "type": "Psychic"
-  },
-  {
-    "id": "A4-075",
-    "name": {
-      "en": "Smoochum",
-      "es": "Smoochum"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "HO_OH"
-    ],
-    "type": "Psychic",
-    "extra": true
-  },
-  {
-    "id": "A4-076",
-    "name": {
-      "en": "Jynx",
-      "es": "Jynx"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "LUGIA",
-      "HO_OH"
-    ],
-    "type": "Psychic"
-  },
-  {
-    "id": "A4-077",
-    "name": {
-      "en": "Cleffa",
-      "es": "Cleffa"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "LUGIA"
-    ],
-    "type": "Psychic",
-    "extra": true
-  },
-  {
-    "id": "A4-078",
-    "name": {
-      "en": "Togepi",
-      "es": "Togepi"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "HO_OH"
-    ],
-    "type": "Psychic"
-  },
-  {
-    "id": "A4-079",
-    "name": {
-      "en": "Togetic",
-      "es": "Togetic"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "HO_OH"
-    ],
-    "type": "Psychic"
-  },
-  {
-    "id": "A4-080",
-    "name": {
-      "en": "Togekiss",
-      "es": "Togekiss"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "HO_OH"
-    ],
-    "type": "Psychic"
-  },
-  {
-    "id": "A4-081",
-    "name": {
-      "en": "Natu",
-      "es": "Natu"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "LUGIA"
-    ],
-    "type": "Psychic"
-  },
-  {
-    "id": "A4-082",
-    "name": {
-      "en": "Xatu",
-      "es": "Xatu"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "LUGIA"
-    ],
-    "type": "Psychic"
-  },
-  {
-    "id": "A4-083",
-    "name": {
-      "en": "Espeon ex",
-      "es": "Espeon ex"
-    },
-    "rarity": "FOUR_DIAMOND",
-    "origins": [
-      "LUGIA"
-    ],
-    "type": "Psychic"
-  },
-  {
-    "id": "A4-084",
-    "name": {
-      "en": "Unown",
-      "es": "Unown"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "HO_OH"
-    ],
-    "type": "Psychic"
-  },
-  {
-    "id": "A4-085",
-    "name": {
-      "en": "Unown",
-      "es": "Unown"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "LUGIA"
-    ],
-    "type": "Psychic"
-  },
-  {
-    "id": "A4-086",
-    "name": {
-      "en": "Wobbuffet",
-      "es": "Wobbuffet"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "LUGIA"
-    ],
-    "type": "Psychic"
-  },
-  {
-    "id": "A4-087",
-    "name": {
-      "en": "Girafarig",
-      "es": "Girafarig"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "HO_OH"
-    ],
-    "type": "Psychic"
-  },
-  {
-    "id": "A4-088",
-    "name": {
-      "en": "Snubbull",
-      "es": "Snubbull"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "LUGIA",
-      "HO_OH"
-    ],
-    "type": "Psychic"
-  },
-  {
-    "id": "A4-089",
-    "name": {
-      "en": "Granbull",
-      "es": "Granbull"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "LUGIA",
-      "HO_OH"
-    ],
-    "type": "Psychic"
-  },
-  {
-    "id": "A4-090",
-    "name": {
-      "en": "Munna",
-      "es": "Munna"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "LUGIA",
-      "HO_OH"
-    ],
-    "type": "Psychic"
-  },
-  {
-    "id": "A4-091",
-    "name": {
-      "en": "Musharna",
-      "es": "Musharna"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "LUGIA",
-      "HO_OH"
-    ],
-    "type": "Psychic"
-  },
-  {
-    "id": "A4-092",
-    "name": {
-      "en": "Onix",
-      "es": "Onix"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "HO_OH"
-    ],
-    "type": "FIGHTING"
-  },
-  {
-    "id": "A4-093",
-    "name": {
-      "en": "Sudowoodo",
-      "es": "Sudowoodo"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "LUGIA",
-      "HO_OH"
-    ],
-    "type": "FIGHTING"
-  },
-  {
-    "id": "A4-094",
-    "name": {
-      "en": "Gligar",
-      "es": "Gligar"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "HO_OH"
-    ],
-    "type": "FIGHTING"
-  },
-  {
-    "id": "A4-095",
-    "name": {
-      "en": "Gliscor",
-      "es": "Gliscor"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "HO_OH"
-    ],
-    "type": "FIGHTING"
-  },
-  {
-    "id": "A4-096",
-    "name": {
-      "en": "Swinub",
-      "es": "Swinub"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "HO_OH"
-    ],
-    "type": "FIGHTING"
-  },
-  {
-    "id": "A4-097",
-    "name": {
-      "en": "Piloswine",
-      "es": "Piloswine"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "HO_OH"
-    ],
-    "type": "FIGHTING"
-  },
-  {
-    "id": "A4-098",
-    "name": {
-      "en": "Mamoswine",
-      "es": "Mamoswine"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "HO_OH"
-    ],
-    "type": "FIGHTING"
-  },
-  {
-    "id": "A4-099",
-    "name": {
-      "en": "Phanpy",
-      "es": "Phanpy"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "HO_OH"
-    ],
-    "type": "FIGHTING"
-  },
-  {
-    "id": "A4-100",
-    "name": {
-      "en": "Donphan ex",
-      "es": "Donphan ex"
-    },
-    "rarity": "FOUR_DIAMOND",
-    "origins": [
-      "HO_OH"
-    ],
-    "type": "FIGHTING"
-  },
-  {
-    "id": "A4-101",
-    "name": {
-      "en": "Tyrogue",
-      "es": "Tyrogue"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "HO_OH"
-    ],
-    "type": "FIGHTING",
-    "extra": true
-  },
-  {
-    "id": "A4-102",
-    "name": {
-      "en": "Hitmontop",
-      "es": "Hitmontop"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "LUGIA",
-      "HO_OH"
-    ],
-    "type": "FIGHTING"
-  },
-  {
-    "id": "A4-103",
-    "name": {
-      "en": "Larvitar",
-      "es": "Larvitar"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "HO_OH"
-    ],
-    "type": "FIGHTING"
-  },
-  {
-    "id": "A4-104",
-    "name": {
-      "en": "Pupitar",
-      "es": "Pupitar"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "HO_OH"
-    ],
-    "type": "FIGHTING"
-  },
-  {
-    "id": "A4-105",
-    "name": {
-      "en": "Binacle",
-      "es": "Binacle"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "LUGIA"
-    ],
-    "type": "FIGHTING"
-  },
-  {
-    "id": "A4-106",
-    "name": {
-      "en": "Barbaracle",
-      "es": "Barbaracle"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "LUGIA"
-    ],
-    "type": "FIGHTING"
-  },
-  {
-    "id": "A4-107",
-    "name": {
-      "en": "Zubat",
-      "es": "Zubat"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "HO_OH"
-    ],
-    "type": "DARKNESS"
-  },
-  {
-    "id": "A4-108",
-    "name": {
-      "en": "Golbat",
-      "es": "Golbat"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "HO_OH"
-    ],
-    "type": "DARKNESS"
-  },
-  {
-    "id": "A4-109",
-    "name": {
-      "en": "Crobat ex",
-      "es": "Crobat ex"
-    },
-    "rarity": "FOUR_DIAMOND",
-    "origins": [
-      "HO_OH"
-    ],
-    "type": "DARKNESS"
-  },
-  {
-    "id": "A4-110",
-    "name": {
-      "en": "Spinarak",
-      "es": "Spinarak"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "HO_OH"
-    ],
-    "type": "DARKNESS"
-  },
-  {
-    "id": "A4-111",
-    "name": {
-      "en": "Ariados",
-      "es": "Ariados"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "HO_OH"
-    ],
-    "type": "DARKNESS"
-  },
-  {
-    "id": "A4-112",
-    "name": {
-      "en": "Umbreon ex",
-      "es": "Umbreon ex"
-    },
-    "rarity": "FOUR_DIAMOND",
-    "origins": [
-      "HO_OH"
-    ],
-    "type": "DARKNESS"
-  },
-  {
-    "id": "A4-113",
-    "name": {
-      "en": "Murkrow",
-      "es": "Murkrow"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "LUGIA"
-    ],
-    "type": "DARKNESS"
-  },
-  {
-    "id": "A4-114",
-    "name": {
-      "en": "Honchkrow",
-      "es": "Honchkrow"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "LUGIA"
-    ],
-    "type": "DARKNESS"
-  },
-  {
-    "id": "A4-115",
-    "name": {
-      "en": "Sneasel",
-      "es": "Sneasel"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "LUGIA"
-    ],
-    "type": "DARKNESS"
-  },
-  {
-    "id": "A4-116",
-    "name": {
-      "en": "Weavile",
-      "es": "Weavile"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "LUGIA"
-    ],
-    "type": "DARKNESS"
-  },
-  {
-    "id": "A4-117",
-    "name": {
-      "en": "Houndour",
-      "es": "Houndour"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "LUGIA",
-      "HO_OH"
-    ],
-    "type": "DARKNESS"
-  },
-  {
-    "id": "A4-118",
-    "name": {
-      "en": "Houndoom",
-      "es": "Houndoom"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "LUGIA",
-      "HO_OH"
-    ],
-    "type": "DARKNESS"
-  },
-  {
-    "id": "A4-119",
-    "name": {
-      "en": "Tyranitar",
-      "es": "Tyranitar"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "HO_OH"
-    ],
-    "type": "DARKNESS"
-  },
-  {
-    "id": "A4-120",
-    "name": {
-      "en": "Absol",
-      "es": "Absol"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "LUGIA",
-      "HO_OH"
-    ],
-    "type": "DARKNESS"
-  },
-  {
-    "id": "A4-121",
-    "name": {
-      "en": "Forretress",
-      "es": "Forretress"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "LUGIA",
-      "HO_OH"
-    ],
-    "type": "METAL"
-  },
-  {
-    "id": "A4-122",
-    "name": {
-      "en": "Steelix",
-      "es": "Steelix"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "HO_OH"
-    ],
-    "type": "METAL"
-  },
-  {
-    "id": "A4-123",
-    "name": {
-      "en": "Scizor",
-      "es": "Scizor"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "LUGIA"
-    ],
-    "type": "METAL"
-  },
-  {
-    "id": "A4-124",
-    "name": {
-      "en": "Skarmory ex",
-      "es": "Skarmory ex"
-    },
-    "rarity": "FOUR_DIAMOND",
-    "origins": [
-      "HO_OH"
-    ],
-    "type": "METAL"
-  },
-  {
-    "id": "A4-125",
-    "name": {
-      "en": "Mawile",
-      "es": "Mawile"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "LUGIA",
-      "HO_OH"
-    ],
-    "type": "METAL"
-  },
-  {
-    "id": "A4-126",
-    "name": {
-      "en": "Klink",
-      "es": "Klink"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "HO_OH"
-    ],
-    "type": "METAL"
-  },
-  {
-    "id": "A4-127",
-    "name": {
-      "en": "Klang",
-      "es": "Klang"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "HO_OH"
-    ],
-    "type": "METAL"
-  },
-  {
-    "id": "A4-128",
-    "name": {
-      "en": "Klinklang",
-      "es": "Klinklang"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "HO_OH"
-    ],
-    "type": "METAL"
-  },
-  {
-    "id": "A4-129",
-    "name": {
-      "en": "Spearow",
-      "es": "Spearow"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "HO_OH"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "A4-130",
-    "name": {
-      "en": "Fearow",
-      "es": "Fearow"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "HO_OH"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "A4-131",
-    "name": {
-      "en": "Chansey",
-      "es": "Chansey"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "HO_OH"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "A4-132",
-    "name": {
-      "en": "Blissey",
-      "es": "Blissey"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "HO_OH"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "A4-133",
-    "name": {
-      "en": "Kangaskhan",
-      "es": "Kangaskhan"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "HO_OH"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "A4-134",
-    "name": {
-      "en": "Eevee",
-      "es": "Eevee"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "LUGIA",
-      "HO_OH"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "A4-135",
-    "name": {
-      "en": "Porygon",
-      "es": "Porygon"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "LUGIA"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "A4-136",
-    "name": {
-      "en": "Porygon2",
-      "es": "Porygon2"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "LUGIA"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "A4-137",
-    "name": {
-      "en": "Porygon-Z",
-      "es": "Porygon-Z"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "LUGIA"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "A4-138",
-    "name": {
-      "en": "Sentret",
-      "es": "Sentret"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "HO_OH"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "A4-139",
-    "name": {
-      "en": "Furret",
-      "es": "Furret"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "HO_OH"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "A4-140",
-    "name": {
-      "en": "Hoothoot",
-      "es": "Hoothoot"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "HO_OH"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "A4-141",
-    "name": {
-      "en": "Noctowl",
-      "es": "Noctowl"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "HO_OH"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "A4-142",
-    "name": {
-      "en": "Aipom",
-      "es": "Aipom"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "LUGIA",
-      "HO_OH"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "A4-143",
-    "name": {
-      "en": "Ambipom",
-      "es": "Ambipom"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "LUGIA",
-      "HO_OH"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "A4-144",
-    "name": {
-      "en": "Dunsparce",
-      "es": "Dunsparce"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "LUGIA",
-      "HO_OH"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "A4-145",
-    "name": {
-      "en": "Teddiursa",
-      "es": "Teddiursa"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "HO_OH"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "A4-146",
-    "name": {
-      "en": "Ursaring",
-      "es": "Ursaring"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "HO_OH"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "A4-147",
-    "name": {
-      "en": "Stantler",
-      "es": "Stantler"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "HO_OH"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "A4-148",
-    "name": {
-      "en": "Smeargle",
-      "es": "Smeargle"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "LUGIA"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "A4-149",
-    "name": {
-      "en": "Lugia ex",
-      "es": "Lugia ex"
-    },
-    "rarity": "FOUR_DIAMOND",
-    "origins": [
-      "LUGIA"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "A4-150",
-    "name": {
-      "en": "Bouffalant",
-      "es": "Bouffalant"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "LUGIA",
-      "HO_OH"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "A4-151",
-    "name": {
-      "en": "Elemental Switch",
-      "es": "Permuta Elemental"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "LUGIA"
-    ],
-    "type": "TRAINER"
-  },
-  {
-    "id": "A4-152",
-    "name": {
-      "en": "Squirt Bottle",
-      "es": "Squirgadera"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "LUGIA"
-    ],
-    "type": "TRAINER"
-  },
-  {
-    "id": "A4-153",
-    "name": {
-      "en": "Steel Apron",
-      "es": "Peto de Acero"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "HO_OH"
-    ],
-    "type": "TRAINER"
-  },
-  {
-    "id": "A4-154",
-    "name": {
-      "en": "Dark Pendant",
-      "es": "Colgante Sombrío"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "HO_OH"
-    ],
-    "type": "TRAINER"
-  },
-  {
-    "id": "A4-155",
-    "name": {
-      "en": "Rescue Scarf",
-      "es": "Bufanda Rescatadora"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "LUGIA",
-      "HO_OH"
-    ],
-    "type": "TRAINER"
-  },
-  {
-    "id": "A4-156",
-    "name": {
-      "en": "Will",
-      "es": "Mento"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "LUGIA"
-    ],
-    "type": "TRAINER"
-  },
-  {
-    "id": "A4-157",
-    "name": {
-      "en": "Lyra",
-      "es": "Lira"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "LUGIA"
-    ],
-    "type": "TRAINER"
-  },
-  {
-    "id": "A4-158",
-    "name": {
-      "en": "Silver",
-      "es": "Plata"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "HO_OH"
-    ],
-    "type": "TRAINER"
-  },
-  {
-    "id": "A4-159",
-    "name": {
-      "en": "Fisher",
-      "es": "Pescador"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "LUGIA"
-    ],
-    "type": "TRAINER"
-  },
-  {
-    "id": "A4-160",
-    "name": {
-      "en": "Jasmine",
-      "es": "Yasmina"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "HO_OH"
-    ],
-    "type": "TRAINER"
-  },
-  {
-    "id": "A4-161",
-    "name": {
-      "en": "Hiker",
-      "es": "Montañero"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "HO_OH"
-    ],
-    "type": "TRAINER"
-  },
-  {
-    "id": "A4-162",
-    "name": {
-      "en": "Chikorita",
-      "es": "Chikorita"
-    },
-    "rarity": "ONE_STAR",
-    "origins": [
-      "LUGIA"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "A4-163",
-    "name": {
-      "en": "Bellossom",
-      "es": "Bellossom"
-    },
-    "rarity": "ONE_STAR",
-    "origins": [
-      "LUGIA"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "A4-164",
-    "name": {
-      "en": "Heracross",
-      "es": "Heracross"
-    },
-    "rarity": "ONE_STAR",
-    "origins": [
-      "HO_OH"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "A4-165",
-    "name": {
-      "en": "Cyndaquil",
-      "es": "Cyndaquil"
-    },
-    "rarity": "ONE_STAR",
-    "origins": [
-      "LUGIA"
-    ],
-    "type": "FIRE"
-  },
-  {
-    "id": "A4-166",
-    "name": {
-      "en": "Magby",
-      "es": "Magby"
-    },
-    "rarity": "ONE_STAR",
-    "origins": [
-      "HO_OH"
-    ],
-    "type": "FIRE",
-    "extra": true
-  },
-  {
-    "id": "A4-167",
-    "name": {
-      "en": "Totodile",
-      "es": "Totodile"
-    },
-    "rarity": "ONE_STAR",
-    "origins": [
-      "HO_OH"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A4-168",
-    "name": {
-      "en": "Qwilfish",
-      "es": "Qwilfish"
-    },
-    "rarity": "ONE_STAR",
-    "origins": [
-      "LUGIA"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A4-169",
-    "name": {
-      "en": "Octillery",
-      "es": "Octillery"
-    },
-    "rarity": "ONE_STAR",
-    "origins": [
-      "LUGIA"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A4-170",
-    "name": {
-      "en": "Delibird",
-      "es": "Delibird"
-    },
-    "rarity": "ONE_STAR",
-    "origins": [
-      "HO_OH"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A4-171",
-    "name": {
-      "en": "Pichu",
-      "es": "Pichu"
-    },
-    "rarity": "ONE_STAR",
-    "origins": [
-      "LUGIA"
-    ],
-    "type": "LIGHTNING",
-    "extra": true
-  },
-  {
-    "id": "A4-172",
-    "name": {
-      "en": "Ampharos",
-      "es": "Ampharos"
-    },
-    "rarity": "ONE_STAR",
-    "origins": [
-      "LUGIA"
-    ],
-    "type": "LIGHTNING"
-  },
-  {
-    "id": "A4-173",
-    "name": {
-      "en": "Togepi",
-      "es": "Togepi"
-    },
-    "rarity": "ONE_STAR",
-    "origins": [
-      "HO_OH"
-    ],
-    "type": "Psychic"
-  },
-  {
-    "id": "A4-174",
-    "name": {
-      "en": "Xatu",
-      "es": "Xatu"
-    },
-    "rarity": "ONE_STAR",
-    "origins": [
-      "LUGIA"
-    ],
-    "type": "Psychic"
-  },
-  {
-    "id": "A4-175",
-    "name": {
-      "en": "Wobbuffet",
-      "es": "Wobbuffet"
-    },
-    "rarity": "ONE_STAR",
-    "origins": [
-      "LUGIA"
-    ],
-    "type": "Psychic"
-  },
-  {
-    "id": "A4-176",
-    "name": {
-      "en": "Gligar",
-      "es": "Gligar"
-    },
-    "rarity": "ONE_STAR",
-    "origins": [
-      "HO_OH"
-    ],
-    "type": "FIGHTING"
-  },
-  {
-    "id": "A4-177",
-    "name": {
-      "en": "Spinarak",
-      "es": "Spinarak"
-    },
-    "rarity": "ONE_STAR",
-    "origins": [
-      "HO_OH"
-    ],
-    "type": "DARKNESS"
-  },
-  {
-    "id": "A4-178",
-    "name": {
-      "en": "Murkrow",
-      "es": "Murkrow"
-    },
-    "rarity": "ONE_STAR",
-    "origins": [
-      "LUGIA"
-    ],
-    "type": "DARKNESS"
-  },
-  {
-    "id": "A4-179",
-    "name": {
-      "en": "Tyranitar",
-      "es": "Tyranitar"
-    },
-    "rarity": "ONE_STAR",
-    "origins": [
-      "HO_OH"
-    ],
-    "type": "DARKNESS"
-  },
-  {
-    "id": "A4-180",
-    "name": {
-      "en": "Scizor",
-      "es": "Scizor"
-    },
-    "rarity": "ONE_STAR",
-    "origins": [
-      "LUGIA"
-    ],
-    "type": "METAL"
-  },
-  {
-    "id": "A4-181",
-    "name": {
-      "en": "Sentret",
-      "es": "Sentret"
-    },
-    "rarity": "ONE_STAR",
-    "origins": [
-      "HO_OH"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "A4-182",
-    "name": {
-      "en": "Hoothoot",
-      "es": "Hoothoot"
-    },
-    "rarity": "ONE_STAR",
-    "origins": [
-      "HO_OH"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "A4-183",
-    "name": {
-      "en": "Stantler",
-      "es": "Stantler"
-    },
-    "rarity": "ONE_STAR",
-    "origins": [
-      "HO_OH"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "A4-184",
-    "name": {
-      "en": "Smeargle",
-      "es": "Smeargle"
-    },
-    "rarity": "ONE_STAR",
-    "origins": [
-      "LUGIA"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "A4-185",
-    "name": {
-      "en": "Blissey",
-      "es": "Blissey"
-    },
-    "rarity": "ONE_STAR",
-    "origins": [
-      "HO_OH"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "A4-186",
-    "name": {
-      "en": "Shuckle ex",
-      "es": "Shuckle ex"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "LUGIA"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "A4-187",
-    "name": {
-      "en": "Ho-Oh ex",
-      "es": "Ho-Oh ex"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "HO_OH"
-    ],
-    "type": "FIRE"
-  },
-  {
-    "id": "A4-188",
-    "name": {
-      "en": "Kingdra ex",
-      "es": "Kingdra ex"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "LUGIA"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A4-189",
-    "name": {
-      "en": "Lanturn ex",
-      "es": "Lanturn ex"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "LUGIA"
-    ],
-    "type": "LIGHTNING"
-  },
-  {
-    "id": "A4-190",
-    "name": {
-      "en": "Espeon ex",
-      "es": "Espeon ex"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "LUGIA"
-    ],
-    "type": "Psychic"
-  },
-  {
-    "id": "A4-191",
-    "name": {
-      "en": "Donphan ex",
-      "es": "Donphan ex"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "HO_OH"
-    ],
-    "type": "FIGHTING"
-  },
-  {
-    "id": "A4-192",
-    "name": {
-      "en": "Crobat ex",
-      "es": "Crobat ex"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "HO_OH"
-    ],
-    "type": "DARKNESS"
-  },
-  {
-    "id": "A4-193",
-    "name": {
-      "en": "Umbreon ex",
-      "es": "Umbreon ex"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "HO_OH"
-    ],
-    "type": "DARKNESS"
-  },
-  {
-    "id": "A4-194",
-    "name": {
-      "en": "Skarmory ex",
-      "es": "Skarmory ex"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "HO_OH"
-    ],
-    "type": "METAL"
-  },
-  {
-    "id": "A4-195",
-    "name": {
-      "en": "Lugia ex",
-      "es": "Lugia ex"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "LUGIA"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "A4-196",
-    "name": {
-      "en": "Will",
-      "es": "Mento"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "LUGIA"
-    ],
-    "type": "TRAINER"
-  },
-  {
-    "id": "A4-197",
-    "name": {
-      "en": "Lyra",
-      "es": "Lira"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "LUGIA"
-    ],
-    "type": "TRAINER"
-  },
-  {
-    "id": "A4-198",
-    "name": {
-      "en": "Silver",
-      "es": "Plata"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "HO_OH"
-    ],
-    "type": "TRAINER"
-  },
-  {
-    "id": "A4-199",
-    "name": {
-      "en": "Fisher",
-      "es": "Pescador"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "LUGIA"
-    ],
-    "type": "TRAINER"
-  },
-  {
-    "id": "A4-200",
-    "name": {
-      "en": "Jasmine",
-      "es": "Yasmina"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "HO_OH"
-    ],
-    "type": "TRAINER"
-  },
-  {
-    "id": "A4-201",
-    "name": {
-      "en": "Hiker",
-      "es": "Montañero"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "HO_OH"
-    ],
-    "type": "TRAINER"
-  },
-  {
-    "id": "A4-202",
-    "name": {
-      "en": "Shuckle ex",
-      "es": "Shuckle ex"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "LUGIA"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "A4-203",
-    "name": {
-      "en": "Kingdra ex",
-      "es": "Kingdra ex"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "LUGIA"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A4-204",
-    "name": {
-      "en": "Lanturn ex",
-      "es": "Lanturn ex"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "LUGIA"
-    ],
-    "type": "LIGHTNING"
-  },
-  {
-    "id": "A4-205",
-    "name": {
-      "en": "Espeon ex",
-      "es": "Espeon ex"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "LUGIA"
-    ],
-    "type": "Psychic"
-  },
-  {
-    "id": "A4-206",
-    "name": {
-      "en": "Donphan ex",
-      "es": "Donphan ex"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "HO_OH"
-    ],
-    "type": "FIGHTING"
-  },
-  {
-    "id": "A4-207",
-    "name": {
-      "en": "Crobat ex",
-      "es": "Crobat ex"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "HO_OH"
-    ],
-    "type": "DARKNESS"
-  },
-  {
-    "id": "A4-208",
-    "name": {
-      "en": "Umbreon ex",
-      "es": "Umbreon ex"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "HO_OH"
-    ],
-    "type": "DARKNESS"
-  },
-  {
-    "id": "A4-209",
-    "name": {
-      "en": "Skarmory ex",
-      "es": "Skarmory ex"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "HO_OH"
-    ],
-    "type": "METAL"
-  },
-  {
-    "id": "A4-210",
-    "name": {
-      "en": "Ho-Oh ex",
-      "es": "Ho-Oh ex"
-    },
-    "rarity": "THREE_STAR",
-    "origins": [
-      "HO_OH"
-    ],
-    "type": "FIRE",
-    "image": "{pockettrade}A4_210_##lang##_placeholder"
-  },
-  {
-    "id": "A4-211",
-    "name": {
-      "en": "Lugia ex",
-      "es": "Lugia ex"
-    },
-    "rarity": "THREE_STAR",
-    "origins": [
-      "LUGIA"
-    ],
-    "type": "COLORLESS",
-    "image": "{pockettrade}A4_211_##lang##_placeholder"
-  },
-  {
-    "id": "A4-212",
-    "name": {
-      "en": "Yanma",
-      "es": "Yanma"
-    },
-    "rarity": "ONE_SHINY",
-    "origins": [
-      "HO_OH"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "A4-213",
-    "name": {
-      "en": "Flareon",
-      "es": "Flareon"
-    },
-    "rarity": "ONE_SHINY",
-    "origins": [
-      "HO_OH"
-    ],
-    "type": "FIRE"
-  },
-  {
-    "id": "A4-214",
-    "name": {
-      "en": "Magikarp",
-      "es": "Magikarp"
-    },
-    "rarity": "ONE_SHINY",
-    "origins": [
-      "LUGIA"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A4-215",
-    "name": {
-      "en": "Gyarados",
-      "es": "Gyarados"
-    },
-    "rarity": "ONE_SHINY",
-    "origins": [
-      "LUGIA"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A4-216",
-    "name": {
-      "en": "Vaporeon",
-      "es": "Vaporeon"
-    },
-    "rarity": "ONE_SHINY",
-    "origins": [
-      "LUGIA"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A4-217",
-    "name": {
-      "en": "Magnemite",
-      "es": "Magnemite"
-    },
-    "rarity": "ONE_SHINY",
-    "origins": [
-      "LUGIA"
-    ],
-    "type": "LIGHTNING"
-  },
-  {
-    "id": "A4-218",
-    "name": {
-      "en": "Magneton",
-      "es": "Magneton"
-    },
-    "rarity": "ONE_SHINY",
-    "origins": [
-      "LUGIA"
-    ],
-    "type": "LIGHTNING"
-  },
-  {
-    "id": "A4-219",
-    "name": {
-      "en": "Jolteon",
-      "es": "Jolteon"
-    },
-    "rarity": "ONE_SHINY",
-    "origins": [
-      "LUGIA"
-    ],
-    "type": "LIGHTNING"
-  },
-  {
-    "id": "A4-220",
-    "name": {
-      "en": "Misdreavus",
-      "es": "Misdreavus"
-    },
-    "rarity": "ONE_SHINY",
-    "origins": [
-      "HO_OH"
-    ],
-    "type": "Psychic"
-  },
-  {
-    "id": "A4-221",
-    "name": {
-      "en": "Mankey",
-      "es": "Mankey"
-    },
-    "rarity": "ONE_SHINY",
-    "origins": [
-      "HO_OH"
-    ],
-    "type": "FIGHTING"
-  },
-  {
-    "id": "A4-222",
-    "name": {
-      "en": "Primeape",
-      "es": "Primeape"
-    },
-    "rarity": "ONE_SHINY",
-    "origins": [
-      "HO_OH"
-    ],
-    "type": "FIGHTING"
-  },
-  {
-    "id": "A4-223",
-    "name": {
-      "en": "Nidoran♀",
-      "es": "Nidoran♀"
-    },
-    "rarity": "ONE_SHINY",
-    "origins": [
-      "LUGIA"
-    ],
-    "type": "DARKNESS"
-  },
-  {
-    "id": "A4-224",
-    "name": {
-      "en": "Nidorina",
-      "es": "Nidorina"
-    },
-    "rarity": "ONE_SHINY",
-    "origins": [
-      "LUGIA"
-    ],
-    "type": "DARKNESS"
-  },
-  {
-    "id": "A4-225",
-    "name": {
-      "en": "Nidoqueen",
-      "es": "Nidoqueen"
-    },
-    "rarity": "ONE_SHINY",
-    "origins": [
-      "LUGIA"
-    ],
-    "type": "DARKNESS"
-  },
-  {
-    "id": "A4-226",
-    "name": {
-      "en": "Nidoran♂",
-      "es": "Nidoran♂"
-    },
-    "rarity": "ONE_SHINY",
-    "origins": [
-      "HO_OH"
-    ],
-    "type": "DARKNESS"
-  },
-  {
-    "id": "A4-227",
-    "name": {
-      "en": "Nidorino",
-      "es": "Nidorino"
-    },
-    "rarity": "ONE_SHINY",
-    "origins": [
-      "HO_OH"
-    ],
-    "type": "DARKNESS"
-  },
-  {
-    "id": "A4-228",
-    "name": {
-      "en": "Nidoking",
-      "es": "Nidoking"
-    },
-    "rarity": "ONE_SHINY",
-    "origins": [
-      "HO_OH"
-    ],
-    "type": "DARKNESS"
-  },
-  {
-    "id": "A4-229",
-    "name": {
-      "en": "Sneasel",
-      "es": "Sneasel"
-    },
-    "rarity": "ONE_SHINY",
-    "origins": [
-      "LUGIA"
-    ],
-    "type": "DARKNESS"
-  },
-  {
-    "id": "A4-230",
-    "name": {
-      "en": "Lickitung",
-      "es": "Lickitung"
-    },
-    "rarity": "ONE_SHINY",
-    "origins": [
-      "HO_OH"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "A4-231",
-    "name": {
-      "en": "Eevee",
-      "es": "Eevee"
-    },
-    "rarity": "ONE_SHINY",
-    "origins": [
-      "HO_OH"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "A4-232",
-    "name": {
-      "en": "Yanmega ex",
-      "es": "Yanmega ex"
-    },
-    "rarity": "TWO_SHINY",
-    "origins": [
-      "HO_OH"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "A4-233",
-    "name": {
-      "en": "Leafeon ex",
-      "es": "Leafeon ex"
-    },
-    "rarity": "TWO_SHINY",
-    "origins": [
-      "HO_OH"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "A4-234",
-    "name": {
-      "en": "Gyarados ex",
-      "es": "Gyarados ex"
-    },
-    "rarity": "TWO_SHINY",
-    "origins": [
-      "LUGIA"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A4-235",
-    "name": {
-      "en": "Glaceon ex",
-      "es": "Glaceon ex"
-    },
-    "rarity": "TWO_SHINY",
-    "origins": [
-      "LUGIA"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A4-236",
-    "name": {
-      "en": "Pachirisu ex",
-      "es": "Pachirisu ex"
-    },
-    "rarity": "TWO_SHINY",
-    "origins": [
-      "LUGIA"
-    ],
-    "type": "LIGHTNING"
-  },
-  {
-    "id": "A4-237",
-    "name": {
-      "en": "Mismagius ex",
-      "es": "Mismagius ex"
-    },
-    "rarity": "TWO_SHINY",
-    "origins": [
-      "HO_OH"
-    ],
-    "type": "Psychic"
-  },
-  {
-    "id": "A4-238",
-    "name": {
-      "en": "Weavile ex",
-      "es": "Weavile ex"
-    },
-    "rarity": "TWO_SHINY",
-    "origins": [
-      "LUGIA"
-    ],
-    "type": "DARKNESS"
-  },
-  {
-    "id": "A4-239",
-    "name": {
-      "en": "Lickilicky ex",
-      "es": "Lickilicky ex"
-    },
-    "rarity": "TWO_SHINY",
-    "origins": [
-      "HO_OH"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "A4-240",
-    "name": {
-      "en": "Ho-Oh ex",
-      "es": "Ho-Oh ex"
-    },
-    "rarity": "CROWN",
-    "origins": [
-      "LUGIA",
-      "HO_OH"
-    ],
-    "type": "FIRE"
-  },
-  {
-    "id": "A4-241",
-    "name": {
-      "en": "Lugia ex",
-      "es": "Lugia ex"
-    },
-    "rarity": "CROWN",
-    "origins": [
-      "LUGIA",
-      "HO_OH"
-    ],
-    "type": "COLORLESS"
-  }
+    {
+        "id": "A4-001",
+        "name": {
+            "en": "Oddish",
+            "es": "Oddish"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "LUGIA"
+        ],
+        "type": "GRASS",
+        "hash": "11aa0b1578d16707ee"
+    },
+    {
+        "id": "A4-002",
+        "name": {
+            "en": "Gloom",
+            "es": "Gloom"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "LUGIA"
+        ],
+        "type": "GRASS",
+        "hash": "219992d664ea676e84"
+    },
+    {
+        "id": "A4-003",
+        "name": {
+            "en": "Bellossom",
+            "es": "Bellossom"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "LUGIA"
+        ],
+        "type": "GRASS",
+        "hash": "31b6076efacacc6141"
+    },
+    {
+        "id": "A4-004",
+        "name": {
+            "en": "Tangela",
+            "es": "Tangela"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "HO_OH"
+        ],
+        "type": "GRASS",
+        "hash": "11aa55916e1aea3f48"
+    },
+    {
+        "id": "A4-005",
+        "name": {
+            "en": "Tangrowth",
+            "es": "Tangrowth"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "HO_OH"
+        ],
+        "type": "GRASS",
+        "hash": "31f62dcab0cd09ce15"
+    },
+    {
+        "id": "A4-006",
+        "name": {
+            "en": "Scyther",
+            "es": "Scyther"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "LUGIA"
+        ],
+        "type": "GRASS",
+        "hash": "11b285b81fce5e60e1"
+    },
+    {
+        "id": "A4-007",
+        "name": {
+            "en": "Pinsir",
+            "es": "Pinsir"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "LUGIA"
+        ],
+        "type": "GRASS",
+        "hash": "1183dd546529e931b3"
+    },
+    {
+        "id": "A4-008",
+        "name": {
+            "en": "Chikorita",
+            "es": "Chikorita"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "LUGIA"
+        ],
+        "type": "GRASS",
+        "hash": "11cfb2204df0a517b5"
+    },
+    {
+        "id": "A4-009",
+        "name": {
+            "en": "Bayleef",
+            "es": "Bayleef"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "LUGIA"
+        ],
+        "type": "GRASS",
+        "hash": "21c4f40e95bd0b7561"
+    },
+    {
+        "id": "A4-010",
+        "name": {
+            "en": "Meganium",
+            "es": "Meganium"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "LUGIA"
+        ],
+        "type": "GRASS",
+        "hash": "31d15e4af049520eef"
+    },
+    {
+        "id": "A4-011",
+        "name": {
+            "en": "Ledyba",
+            "es": "Ledyba"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "LUGIA"
+        ],
+        "type": "GRASS",
+        "hash": "11e93e98ad1946caca"
+    },
+    {
+        "id": "A4-012",
+        "name": {
+            "en": "Ledian",
+            "es": "Ledian"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "LUGIA"
+        ],
+        "type": "GRASS",
+        "hash": "11d2ba49c933c26dcc"
+    },
+    {
+        "id": "A4-013",
+        "name": {
+            "en": "Hoppip",
+            "es": "Hoppip"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "HO_OH"
+        ],
+        "type": "GRASS",
+        "hash": "11bce4c0f6dc0db0d4"
+    },
+    {
+        "id": "A4-014",
+        "name": {
+            "en": "Skiploom",
+            "es": "Skiploom"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "HO_OH"
+        ],
+        "type": "GRASS",
+        "hash": "21de4c6d6de464c8c2"
+    },
+    {
+        "id": "A4-015",
+        "name": {
+            "en": "Jumpluff",
+            "es": "Jumpluff"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "HO_OH"
+        ],
+        "type": "GRASS",
+        "hash": "31b3ea06a87a78cd0d"
+    },
+    {
+        "id": "A4-016",
+        "name": {
+            "en": "Sunkern",
+            "es": "Sunkern"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "LUGIA",
+            "HO_OH"
+        ],
+        "type": "GRASS",
+        "hash": "1192adf163c3460edc"
+    },
+    {
+        "id": "A4-017",
+        "name": {
+            "en": "Sunflora",
+            "es": "Sunflora"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "LUGIA",
+            "HO_OH"
+        ],
+        "type": "GRASS",
+        "hash": "21fa8b3e643c418e66"
+    },
+    {
+        "id": "A4-018",
+        "name": {
+            "en": "Yanma",
+            "es": "Yanma"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "LUGIA",
+            "HO_OH"
+        ],
+        "type": "GRASS",
+        "hash": "11d533e12c236e9f30"
+    },
+    {
+        "id": "A4-019",
+        "name": {
+            "en": "Yanmega",
+            "es": "Yanmega"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "LUGIA",
+            "HO_OH"
+        ],
+        "type": "GRASS",
+        "hash": "21e49cd3df99414ea0"
+    },
+    {
+        "id": "A4-020",
+        "name": {
+            "en": "Pineco",
+            "es": "Pineco"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "LUGIA",
+            "HO_OH"
+        ],
+        "type": "GRASS",
+        "hash": "119215c523a763e6e3"
+    },
+    {
+        "id": "A4-021",
+        "name": {
+            "en": "Shuckle ex",
+            "es": "Shuckle ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "LUGIA"
+        ],
+        "type": "GRASS",
+        "hash": "4191279f587caf6818"
+    },
+    {
+        "id": "A4-022",
+        "name": {
+            "en": "Heracross",
+            "es": "Heracross"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "HO_OH"
+        ],
+        "type": "GRASS",
+        "hash": "31e1fc5a3c14ca27c6"
+    },
+    {
+        "id": "A4-023",
+        "name": {
+            "en": "Cherubi",
+            "es": "Cherubi"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "LUGIA",
+            "HO_OH"
+        ],
+        "type": "GRASS",
+        "hash": "11f952d9d0a0e74aa9"
+    },
+    {
+        "id": "A4-024",
+        "name": {
+            "en": "Cherrim",
+            "es": "Cherrim"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "LUGIA",
+            "HO_OH"
+        ],
+        "type": "GRASS",
+        "hash": "2183f357c0e823287f"
+    },
+    {
+        "id": "A4-025",
+        "name": {
+            "en": "Vulpix",
+            "es": "Vulpix"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "LUGIA"
+        ],
+        "type": "FIRE",
+        "hash": "11d75f0ae85e648835"
+    },
+    {
+        "id": "A4-026",
+        "name": {
+            "en": "Ninetales",
+            "es": "Ninetales"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "LUGIA"
+        ],
+        "type": "FIRE",
+        "hash": "3195df58bec0a4cd60"
+    },
+    {
+        "id": "A4-027",
+        "name": {
+            "en": "Cyndaquil",
+            "es": "Cyndaquil"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "LUGIA"
+        ],
+        "type": "FIRE",
+        "hash": "118ef7294a4619ab3c"
+    },
+    {
+        "id": "A4-028",
+        "name": {
+            "en": "Quilava",
+            "es": "Quilava"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "LUGIA"
+        ],
+        "type": "FIRE",
+        "hash": "21815edd33e649ea06"
+    },
+    {
+        "id": "A4-029",
+        "name": {
+            "en": "Typhlosion",
+            "es": "Typhlosion"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "LUGIA"
+        ],
+        "type": "FIRE",
+        "hash": "31de055b5b9db4e0c0"
+    },
+    {
+        "id": "A4-030",
+        "name": {
+            "en": "Slugma",
+            "es": "Slugma"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "HO_OH"
+        ],
+        "type": "FIRE",
+        "hash": "11aeee80c9d3820afd"
+    },
+    {
+        "id": "A4-031",
+        "name": {
+            "en": "Magcargo",
+            "es": "Magcargo"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "HO_OH"
+        ],
+        "type": "FIRE",
+        "hash": "21a8a8ced251aaaece"
+    },
+    {
+        "id": "A4-032",
+        "name": {
+            "en": "Magby",
+            "es": "Magby"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "HO_OH"
+        ],
+        "type": "FIRE",
+        "extra": "true",
+        "hash": "31e5131b6ebc185e85"
+    },
+    {
+        "id": "A4-033",
+        "name": {
+            "en": "Entei",
+            "es": "Entei"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "HO_OH"
+        ],
+        "type": "FIRE",
+        "hash": "31a1ef1bfcdcc03a04"
+    },
+    {
+        "id": "A4-034",
+        "name": {
+            "en": "Ho-Oh ex",
+            "es": "Ho-Oh ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "HO_OH"
+        ],
+        "type": "FIRE",
+        "hash": "41afd3d02628dad658"
+    },
+    {
+        "id": "A4-035",
+        "name": {
+            "en": "Darumaka",
+            "es": "Darumaka"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "LUGIA",
+            "HO_OH"
+        ],
+        "type": "FIRE",
+        "hash": "11edc8f360d8108ddb"
+    },
+    {
+        "id": "A4-036",
+        "name": {
+            "en": "Darmanitan",
+            "es": "Darmanitan"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "LUGIA",
+            "HO_OH"
+        ],
+        "type": "FIRE",
+        "hash": "21e4d4872f4cec4671"
+    },
+    {
+        "id": "A4-037",
+        "name": {
+            "en": "Heatmor",
+            "es": "Heatmor"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "LUGIA",
+            "HO_OH"
+        ],
+        "type": "FIRE",
+        "hash": "11e3ae90c30fc1f585"
+    },
+    {
+        "id": "A4-038",
+        "name": {
+            "en": "Poliwag",
+            "es": "Poliwag"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "LUGIA"
+        ],
+        "type": "WATER",
+        "hash": "11a9fc844987374b36"
+    },
+    {
+        "id": "A4-039",
+        "name": {
+            "en": "Poliwhirl",
+            "es": "Poliwhirl"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "LUGIA"
+        ],
+        "type": "WATER",
+        "hash": "21d0c75f6872adc4c2"
+    },
+    {
+        "id": "A4-040",
+        "name": {
+            "en": "Politoed",
+            "es": "Politoed"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "LUGIA"
+        ],
+        "type": "WATER",
+        "hash": "318cf4558e42735eac"
+    },
+    {
+        "id": "A4-041",
+        "name": {
+            "en": "Horsea",
+            "es": "Horsea"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "LUGIA"
+        ],
+        "type": "WATER",
+        "hash": "11d0d907cf8853a76c"
+    },
+    {
+        "id": "A4-042",
+        "name": {
+            "en": "Seadra",
+            "es": "Seadra"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "LUGIA"
+        ],
+        "type": "WATER",
+        "hash": "2195bbdf8c20f83704"
+    },
+    {
+        "id": "A4-043",
+        "name": {
+            "en": "Kingdra ex",
+            "es": "Kingdra ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "LUGIA"
+        ],
+        "type": "WATER",
+        "hash": "41ac8d39f017c9c6c9"
+    },
+    {
+        "id": "A4-044",
+        "name": {
+            "en": "Magikarp",
+            "es": "Magikarp"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "LUGIA"
+        ],
+        "type": "WATER",
+        "hash": "11b5cf3a3cac384463"
+    },
+    {
+        "id": "A4-045",
+        "name": {
+            "en": "Gyarados",
+            "es": "Gyarados"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "LUGIA"
+        ],
+        "type": "WATER",
+        "hash": "31ed1c829b9cecc266"
+    },
+    {
+        "id": "A4-046",
+        "name": {
+            "en": "Totodile",
+            "es": "Totodile"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "HO_OH"
+        ],
+        "type": "WATER",
+        "hash": "11a0f6da498d20dbb3"
+    },
+    {
+        "id": "A4-047",
+        "name": {
+            "en": "Croconaw",
+            "es": "Croconaw"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "HO_OH"
+        ],
+        "type": "WATER",
+        "hash": "21d857bdd1e489d142"
+    },
+    {
+        "id": "A4-048",
+        "name": {
+            "en": "Feraligatr",
+            "es": "Feraligatr"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "HO_OH"
+        ],
+        "type": "WATER",
+        "hash": "31d4fef04083cdac47"
+    },
+    {
+        "id": "A4-049",
+        "name": {
+            "en": "Marill",
+            "es": "Marill"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "HO_OH"
+        ],
+        "type": "WATER",
+        "hash": "11ee1693881a3fdc58"
+    },
+    {
+        "id": "A4-050",
+        "name": {
+            "en": "Azumarill",
+            "es": "Azumarill"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "HO_OH"
+        ],
+        "type": "WATER",
+        "hash": "21e811dc5ecbe8c472"
+    },
+    {
+        "id": "A4-051",
+        "name": {
+            "en": "Wooper",
+            "es": "Wooper"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "LUGIA"
+        ],
+        "type": "WATER",
+        "hash": "11fd90a043aeced88e"
+    },
+    {
+        "id": "A4-052",
+        "name": {
+            "en": "Quagsire",
+            "es": "Quagsire"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "LUGIA"
+        ],
+        "type": "WATER",
+        "hash": "21f89483e196665337"
+    },
+    {
+        "id": "A4-053",
+        "name": {
+            "en": "Qwilfish",
+            "es": "Qwilfish"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "LUGIA"
+        ],
+        "type": "WATER",
+        "hash": "21c1623a95fd820fcb"
+    },
+    {
+        "id": "A4-054",
+        "name": {
+            "en": "Corsola",
+            "es": "Corsola"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "LUGIA"
+        ],
+        "type": "WATER",
+        "hash": "11f09fad72c82ca3c8"
+    },
+    {
+        "id": "A4-055",
+        "name": {
+            "en": "Remoraid",
+            "es": "Remoraid"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "LUGIA"
+        ],
+        "type": "WATER",
+        "hash": "11dee473f09991cc82"
+    },
+    {
+        "id": "A4-056",
+        "name": {
+            "en": "Octillery",
+            "es": "Octillery"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "LUGIA"
+        ],
+        "type": "WATER",
+        "hash": "31fadad0c0581b0ecf"
+    },
+    {
+        "id": "A4-057",
+        "name": {
+            "en": "Delibird",
+            "es": "Delibird"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "HO_OH"
+        ],
+        "type": "WATER",
+        "hash": "21d4cd6eb25c4c6b24"
+    },
+    {
+        "id": "A4-058",
+        "name": {
+            "en": "Mantine",
+            "es": "Mantine"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "LUGIA"
+        ],
+        "type": "WATER",
+        "hash": "21c43438cdf7334c9c"
+    },
+    {
+        "id": "A4-059",
+        "name": {
+            "en": "Suicune",
+            "es": "Suicune"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "LUGIA"
+        ],
+        "type": "WATER",
+        "hash": "31ae6d99a5c9e01ec1"
+    },
+    {
+        "id": "A4-060",
+        "name": {
+            "en": "Corphish",
+            "es": "Corphish"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "LUGIA"
+        ],
+        "type": "WATER",
+        "hash": "118e8d61ab964e9527"
+    },
+    {
+        "id": "A4-061",
+        "name": {
+            "en": "Crawdaunt",
+            "es": "Crawdaunt"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "LUGIA"
+        ],
+        "type": "WATER",
+        "hash": "31ef86f04b8e88c23d"
+    },
+    {
+        "id": "A4-062",
+        "name": {
+            "en": "Ducklett",
+            "es": "Ducklett"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "HO_OH"
+        ],
+        "type": "WATER",
+        "hash": "11911d2b42f23ccbd9"
+    },
+    {
+        "id": "A4-063",
+        "name": {
+            "en": "Swanna",
+            "es": "Swanna"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "HO_OH"
+        ],
+        "type": "WATER",
+        "hash": "21e06d415a7e4cbc4b"
+    },
+    {
+        "id": "A4-064",
+        "name": {
+            "en": "Chinchou",
+            "es": "Chinchou"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "LUGIA"
+        ],
+        "type": "LIGHTNING",
+        "hash": "11c94637acca271c3b"
+    },
+    {
+        "id": "A4-065",
+        "name": {
+            "en": "Lanturn ex",
+            "es": "Lanturn ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "LUGIA"
+        ],
+        "type": "LIGHTNING",
+        "hash": "41bebd2361768bd060"
+    },
+    {
+        "id": "A4-066",
+        "name": {
+            "en": "Pichu",
+            "es": "Pichu"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "LUGIA"
+        ],
+        "type": "LIGHTNING",
+        "extra": "true",
+        "hash": "319cd137e7588c512d"
+    },
+    {
+        "id": "A4-067",
+        "name": {
+            "en": "Mareep",
+            "es": "Mareep"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "LUGIA"
+        ],
+        "type": "LIGHTNING",
+        "hash": "11cdfd1291506d0bf4"
+    },
+    {
+        "id": "A4-068",
+        "name": {
+            "en": "Flaaffy",
+            "es": "Flaaffy"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "LUGIA"
+        ],
+        "type": "LIGHTNING",
+        "hash": "218958e7c89b0d966d"
+    },
+    {
+        "id": "A4-069",
+        "name": {
+            "en": "Ampharos",
+            "es": "Ampharos"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "LUGIA"
+        ],
+        "type": "LIGHTNING",
+        "hash": "3195795afc6c72822c"
+    },
+    {
+        "id": "A4-070",
+        "name": {
+            "en": "Elekid",
+            "es": "Elekid"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "LUGIA"
+        ],
+        "type": "LIGHTNING",
+        "extra": "true",
+        "hash": "318d7f825ecc8f21a1"
+    },
+    {
+        "id": "A4-071",
+        "name": {
+            "en": "Raikou",
+            "es": "Raikou"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "HO_OH"
+        ],
+        "type": "LIGHTNING",
+        "hash": "319ce8cab741cc7362"
+    },
+    {
+        "id": "A4-072",
+        "name": {
+            "en": "Emolga",
+            "es": "Emolga"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "LUGIA",
+            "HO_OH"
+        ],
+        "type": "LIGHTNING",
+        "hash": "11a8524dd6a3cdb269"
+    },
+    {
+        "id": "A4-073",
+        "name": {
+            "en": "Slowpoke",
+            "es": "Slowpoke"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "LUGIA"
+        ],
+        "type": "Psychic",
+        "hash": "11ea93b76c802a9f91"
+    },
+    {
+        "id": "A4-074",
+        "name": {
+            "en": "Slowking",
+            "es": "Slowking"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "LUGIA"
+        ],
+        "type": "Psychic",
+        "hash": "21979c4f907550b26e"
+    },
+    {
+        "id": "A4-075",
+        "name": {
+            "en": "Smoochum",
+            "es": "Smoochum"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "HO_OH"
+        ],
+        "type": "Psychic",
+        "extra": "true",
+        "hash": "31d3fa0fd2e0689865"
+    },
+    {
+        "id": "A4-076",
+        "name": {
+            "en": "Jynx",
+            "es": "Jynx"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "LUGIA",
+            "HO_OH"
+        ],
+        "type": "Psychic",
+        "hash": "1194c6863e9d3f1236"
+    },
+    {
+        "id": "A4-077",
+        "name": {
+            "en": "Cleffa",
+            "es": "Cleffa"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "LUGIA"
+        ],
+        "type": "Psychic",
+        "extra": "true",
+        "hash": "31e5b392164dae8ac5"
+    },
+    {
+        "id": "A4-078",
+        "name": {
+            "en": "Togepi",
+            "es": "Togepi"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "HO_OH"
+        ],
+        "type": "Psychic",
+        "hash": "119f83789761d2a1b2"
+    },
+    {
+        "id": "A4-079",
+        "name": {
+            "en": "Togetic",
+            "es": "Togetic"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "HO_OH"
+        ],
+        "type": "Psychic",
+        "hash": "219c1c346d67631a3d"
+    },
+    {
+        "id": "A4-080",
+        "name": {
+            "en": "Togekiss",
+            "es": "Togekiss"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "HO_OH"
+        ],
+        "type": "Psychic",
+        "hash": "31d1b44ab23c573179"
+    },
+    {
+        "id": "A4-081",
+        "name": {
+            "en": "Natu",
+            "es": "Natu"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "LUGIA"
+        ],
+        "type": "Psychic",
+        "hash": "11df38244344c657dd"
+    },
+    {
+        "id": "A4-082",
+        "name": {
+            "en": "Xatu",
+            "es": "Xatu"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "LUGIA"
+        ],
+        "type": "Psychic",
+        "hash": "31e75d6608812798fe"
+    },
+    {
+        "id": "A4-083",
+        "name": {
+            "en": "Espeon ex",
+            "es": "Espeon ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "LUGIA"
+        ],
+        "type": "Psychic",
+        "hash": "41d27692596d89a18f"
+    },
+    {
+        "id": "A4-084",
+        "name": {
+            "en": "Unown",
+            "es": "Unown"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "HO_OH"
+        ],
+        "type": "Psychic",
+        "hash": "31fca2aec7cc4c9324"
+    },
+    {
+        "id": "A4-085",
+        "name": {
+            "en": "Unown",
+            "es": "Unown"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "LUGIA"
+        ],
+        "type": "Psychic",
+        "hash": "31bf8c8274b4ea4f60"
+    },
+    {
+        "id": "A4-086",
+        "name": {
+            "en": "Wobbuffet",
+            "es": "Wobbuffet"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "LUGIA"
+        ],
+        "type": "Psychic",
+        "hash": "118e78d158b56f6322"
+    },
+    {
+        "id": "A4-087",
+        "name": {
+            "en": "Girafarig",
+            "es": "Girafarig"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "HO_OH"
+        ],
+        "type": "Psychic",
+        "hash": "11c892b2cc5617b59d"
+    },
+    {
+        "id": "A4-088",
+        "name": {
+            "en": "Snubbull",
+            "es": "Snubbull"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "LUGIA",
+            "HO_OH"
+        ],
+        "type": "Psychic",
+        "hash": "118faf09a1a59da594"
+    },
+    {
+        "id": "A4-089",
+        "name": {
+            "en": "Granbull",
+            "es": "Granbull"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "LUGIA",
+            "HO_OH"
+        ],
+        "type": "Psychic",
+        "hash": "21f48a59872e54ecf0"
+    },
+    {
+        "id": "A4-090",
+        "name": {
+            "en": "Munna",
+            "es": "Munna"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "LUGIA",
+            "HO_OH"
+        ],
+        "type": "Psychic",
+        "hash": "11cce07c9071ee2177"
+    },
+    {
+        "id": "A4-091",
+        "name": {
+            "en": "Musharna",
+            "es": "Musharna"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "LUGIA",
+            "HO_OH"
+        ],
+        "type": "Psychic",
+        "hash": "219e81302ff3bec438"
+    },
+    {
+        "id": "A4-092",
+        "name": {
+            "en": "Onix",
+            "es": "Onix"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "HO_OH"
+        ],
+        "type": "FIGHTING",
+        "hash": "1194a453cc4fb34d36"
+    },
+    {
+        "id": "A4-093",
+        "name": {
+            "en": "Sudowoodo",
+            "es": "Sudowoodo"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "LUGIA",
+            "HO_OH"
+        ],
+        "type": "FIGHTING",
+        "hash": "1196a9197286a5b579"
+    },
+    {
+        "id": "A4-094",
+        "name": {
+            "en": "Gligar",
+            "es": "Gligar"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "HO_OH"
+        ],
+        "type": "FIGHTING",
+        "hash": "11ff1643342953a8ad"
+    },
+    {
+        "id": "A4-095",
+        "name": {
+            "en": "Gliscor",
+            "es": "Gliscor"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "HO_OH"
+        ],
+        "type": "FIGHTING",
+        "hash": "21c0ccde87bcd3891a"
+    },
+    {
+        "id": "A4-096",
+        "name": {
+            "en": "Swinub",
+            "es": "Swinub"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "HO_OH"
+        ],
+        "type": "FIGHTING",
+        "hash": "1199ec7763c63e1142"
+    },
+    {
+        "id": "A4-097",
+        "name": {
+            "en": "Piloswine",
+            "es": "Piloswine"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "HO_OH"
+        ],
+        "type": "FIGHTING",
+        "hash": "219adde5d682d2c2d0"
+    },
+    {
+        "id": "A4-098",
+        "name": {
+            "en": "Mamoswine",
+            "es": "Mamoswine"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "HO_OH"
+        ],
+        "type": "FIGHTING",
+        "hash": "31e8d64f0c4265dcf1"
+    },
+    {
+        "id": "A4-099",
+        "name": {
+            "en": "Phanpy",
+            "es": "Phanpy"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "HO_OH"
+        ],
+        "type": "FIGHTING",
+        "hash": "11c1973cc8276cf817"
+    },
+    {
+        "id": "A4-100",
+        "name": {
+            "en": "Donphan ex",
+            "es": "Donphan ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "HO_OH"
+        ],
+        "type": "FIGHTING",
+        "hash": "41b6d041dd89f4e4c6"
+    },
+    {
+        "id": "A4-101",
+        "name": {
+            "en": "Tyrogue",
+            "es": "Tyrogue"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "HO_OH"
+        ],
+        "type": "FIGHTING",
+        "extra": "true",
+        "hash": "31e09b183f08d9575e"
+    },
+    {
+        "id": "A4-102",
+        "name": {
+            "en": "Hitmontop",
+            "es": "Hitmontop"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "LUGIA",
+            "HO_OH"
+        ],
+        "type": "FIGHTING",
+        "hash": "11eb1ad2d9ce469948"
+    },
+    {
+        "id": "A4-103",
+        "name": {
+            "en": "Larvitar",
+            "es": "Larvitar"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "HO_OH"
+        ],
+        "type": "FIGHTING",
+        "hash": "11994964369a1f8e8f"
+    },
+    {
+        "id": "A4-104",
+        "name": {
+            "en": "Pupitar",
+            "es": "Pupitar"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "HO_OH"
+        ],
+        "type": "FIGHTING",
+        "hash": "21cd8e923549e8a73a"
+    },
+    {
+        "id": "A4-105",
+        "name": {
+            "en": "Binacle",
+            "es": "Binacle"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "LUGIA"
+        ],
+        "type": "FIGHTING",
+        "hash": "11f7eaca9d38c01a23"
+    },
+    {
+        "id": "A4-106",
+        "name": {
+            "en": "Barbaracle",
+            "es": "Barbaracle"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "LUGIA"
+        ],
+        "type": "FIGHTING",
+        "hash": "2192bee8949dc9a4e2"
+    },
+    {
+        "id": "A4-107",
+        "name": {
+            "en": "Zubat",
+            "es": "Zubat"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "HO_OH"
+        ],
+        "type": "DARKNESS",
+        "hash": "1194f0b193eb638e1c"
+    },
+    {
+        "id": "A4-108",
+        "name": {
+            "en": "Golbat",
+            "es": "Golbat"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "HO_OH"
+        ],
+        "type": "DARKNESS",
+        "hash": "21e12dce78966e98c1"
+    },
+    {
+        "id": "A4-109",
+        "name": {
+            "en": "Crobat ex",
+            "es": "Crobat ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "HO_OH"
+        ],
+        "type": "DARKNESS",
+        "hash": "41ecd17b8cd4c811f4"
+    },
+    {
+        "id": "A4-110",
+        "name": {
+            "en": "Spinarak",
+            "es": "Spinarak"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "HO_OH"
+        ],
+        "type": "DARKNESS",
+        "hash": "11bccc42328f63d8d6"
+    },
+    {
+        "id": "A4-111",
+        "name": {
+            "en": "Ariados",
+            "es": "Ariados"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "HO_OH"
+        ],
+        "type": "DARKNESS",
+        "hash": "21c05ff4ec436f83a0"
+    },
+    {
+        "id": "A4-112",
+        "name": {
+            "en": "Umbreon ex",
+            "es": "Umbreon ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "HO_OH"
+        ],
+        "type": "DARKNESS",
+        "hash": "41bf858b9f413195c4"
+    },
+    {
+        "id": "A4-113",
+        "name": {
+            "en": "Murkrow",
+            "es": "Murkrow"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "LUGIA"
+        ],
+        "type": "DARKNESS",
+        "hash": "11a6e5d95a90dac899"
+    },
+    {
+        "id": "A4-114",
+        "name": {
+            "en": "Honchkrow",
+            "es": "Honchkrow"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "LUGIA"
+        ],
+        "type": "DARKNESS",
+        "hash": "21d9746799ec866189"
+    },
+    {
+        "id": "A4-115",
+        "name": {
+            "en": "Sneasel",
+            "es": "Sneasel"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "LUGIA"
+        ],
+        "type": "DARKNESS",
+        "hash": "11c2e2c9399bda8794"
+    },
+    {
+        "id": "A4-116",
+        "name": {
+            "en": "Weavile",
+            "es": "Weavile"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "LUGIA"
+        ],
+        "type": "DARKNESS",
+        "hash": "2191d49fcf74984c64"
+    },
+    {
+        "id": "A4-117",
+        "name": {
+            "en": "Houndour",
+            "es": "Houndour"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "LUGIA",
+            "HO_OH"
+        ],
+        "type": "DARKNESS",
+        "hash": "11abb8d4dec605b84a"
+    },
+    {
+        "id": "A4-118",
+        "name": {
+            "en": "Houndoom",
+            "es": "Houndoom"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "LUGIA",
+            "HO_OH"
+        ],
+        "type": "DARKNESS",
+        "hash": "21beda4946ec30c669"
+    },
+    {
+        "id": "A4-119",
+        "name": {
+            "en": "Tyranitar",
+            "es": "Tyranitar"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "HO_OH"
+        ],
+        "type": "DARKNESS",
+        "hash": "31e5c698cb842f2b6a"
+    },
+    {
+        "id": "A4-120",
+        "name": {
+            "en": "Absol",
+            "es": "Absol"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "LUGIA",
+            "HO_OH"
+        ],
+        "type": "DARKNESS",
+        "hash": "21df91214e3332396e"
+    },
+    {
+        "id": "A4-121",
+        "name": {
+            "en": "Forretress",
+            "es": "Forretress"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "LUGIA",
+            "HO_OH"
+        ],
+        "type": "METAL",
+        "hash": "21cac047dfb8366c54"
+    },
+    {
+        "id": "A4-122",
+        "name": {
+            "en": "Steelix",
+            "es": "Steelix"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "HO_OH"
+        ],
+        "type": "METAL",
+        "hash": "31f3db00c897ee0cc9"
+    },
+    {
+        "id": "A4-123",
+        "name": {
+            "en": "Scizor",
+            "es": "Scizor"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "LUGIA"
+        ],
+        "type": "METAL",
+        "hash": "31a691965ce3a7584b"
+    },
+    {
+        "id": "A4-124",
+        "name": {
+            "en": "Skarmory ex",
+            "es": "Skarmory ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "HO_OH"
+        ],
+        "type": "METAL",
+        "hash": "41b39a3925861b6dc3"
+    },
+    {
+        "id": "A4-125",
+        "name": {
+            "en": "Mawile",
+            "es": "Mawile"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "LUGIA",
+            "HO_OH"
+        ],
+        "type": "METAL",
+        "hash": "1193a198187ecc8fc7"
+    },
+    {
+        "id": "A4-126",
+        "name": {
+            "en": "Klink",
+            "es": "Klink"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "HO_OH"
+        ],
+        "type": "METAL",
+        "hash": "1191c1a4cc6179ed6b"
+    },
+    {
+        "id": "A4-127",
+        "name": {
+            "en": "Klang",
+            "es": "Klang"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "HO_OH"
+        ],
+        "type": "METAL",
+        "hash": "21a4a853c3369eb83b"
+    },
+    {
+        "id": "A4-128",
+        "name": {
+            "en": "Klinklang",
+            "es": "Klinklang"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "HO_OH"
+        ],
+        "type": "METAL",
+        "hash": "31d4a8ca772cc44f78"
+    },
+    {
+        "id": "A4-129",
+        "name": {
+            "en": "Spearow",
+            "es": "Spearow"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "HO_OH"
+        ],
+        "type": "COLORLESS",
+        "hash": "11fcce86d05991ba43"
+    },
+    {
+        "id": "A4-130",
+        "name": {
+            "en": "Fearow",
+            "es": "Fearow"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "HO_OH"
+        ],
+        "type": "COLORLESS",
+        "hash": "11b98a1afec996b4c0"
+    },
+    {
+        "id": "A4-131",
+        "name": {
+            "en": "Chansey",
+            "es": "Chansey"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "HO_OH"
+        ],
+        "type": "COLORLESS",
+        "hash": "1181ae69d257e50e99"
+    },
+    {
+        "id": "A4-132",
+        "name": {
+            "en": "Blissey",
+            "es": "Blissey"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "HO_OH"
+        ],
+        "type": "COLORLESS",
+        "hash": "31d2c4799e269856dc"
+    },
+    {
+        "id": "A4-133",
+        "name": {
+            "en": "Kangaskhan",
+            "es": "Kangaskhan"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "HO_OH"
+        ],
+        "type": "COLORLESS",
+        "hash": "31e4a41a1be1b05aef"
+    },
+    {
+        "id": "A4-134",
+        "name": {
+            "en": "Eevee",
+            "es": "Eevee"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "LUGIA",
+            "HO_OH"
+        ],
+        "type": "COLORLESS",
+        "hash": "119586099d9be2e317"
+    },
+    {
+        "id": "A4-135",
+        "name": {
+            "en": "Porygon",
+            "es": "Porygon"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "LUGIA"
+        ],
+        "type": "COLORLESS",
+        "hash": "11bcd3c28e4d6e8159"
+    },
+    {
+        "id": "A4-136",
+        "name": {
+            "en": "Porygon2",
+            "es": "Porygon2"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "LUGIA"
+        ],
+        "type": "COLORLESS",
+        "hash": "21d47f630ee4d8cc81"
+    },
+    {
+        "id": "A4-137",
+        "name": {
+            "en": "Porygon-Z",
+            "es": "Porygon-Z"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "LUGIA"
+        ],
+        "type": "COLORLESS",
+        "hash": "3195f64be2641c59cc"
+    },
+    {
+        "id": "A4-138",
+        "name": {
+            "en": "Sentret",
+            "es": "Sentret"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "HO_OH"
+        ],
+        "type": "COLORLESS",
+        "hash": "11bbc2e41ec2358f32"
+    },
+    {
+        "id": "A4-139",
+        "name": {
+            "en": "Furret",
+            "es": "Furret"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "HO_OH"
+        ],
+        "type": "COLORLESS",
+        "hash": "11e0195e6d8ced688e"
+    },
+    {
+        "id": "A4-140",
+        "name": {
+            "en": "Hoothoot",
+            "es": "Hoothoot"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "HO_OH"
+        ],
+        "type": "COLORLESS",
+        "hash": "11dc5606842e3e5ced"
+    },
+    {
+        "id": "A4-141",
+        "name": {
+            "en": "Noctowl",
+            "es": "Noctowl"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "HO_OH"
+        ],
+        "type": "COLORLESS",
+        "hash": "11d7b2121dcd47e81c"
+    },
+    {
+        "id": "A4-142",
+        "name": {
+            "en": "Aipom",
+            "es": "Aipom"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "LUGIA",
+            "HO_OH"
+        ],
+        "type": "COLORLESS",
+        "hash": "11f4f8aa874c8c472d"
+    },
+    {
+        "id": "A4-143",
+        "name": {
+            "en": "Ambipom",
+            "es": "Ambipom"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "LUGIA",
+            "HO_OH"
+        ],
+        "type": "COLORLESS",
+        "hash": "11ce4e6cf0481e529f"
+    },
+    {
+        "id": "A4-144",
+        "name": {
+            "en": "Dunsparce",
+            "es": "Dunsparce"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "LUGIA",
+            "HO_OH"
+        ],
+        "type": "COLORLESS",
+        "hash": "119dcb613c9c86d343"
+    },
+    {
+        "id": "A4-145",
+        "name": {
+            "en": "Teddiursa",
+            "es": "Teddiursa"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "HO_OH"
+        ],
+        "type": "COLORLESS",
+        "hash": "11d8f43611e58f498e"
+    },
+    {
+        "id": "A4-146",
+        "name": {
+            "en": "Ursaring",
+            "es": "Ursaring"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "HO_OH"
+        ],
+        "type": "COLORLESS",
+        "hash": "21e8e0fa5416d687e8"
+    },
+    {
+        "id": "A4-147",
+        "name": {
+            "en": "Stantler",
+            "es": "Stantler"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "HO_OH"
+        ],
+        "type": "COLORLESS",
+        "hash": "21b97640699e3da643"
+    },
+    {
+        "id": "A4-148",
+        "name": {
+            "en": "Smeargle",
+            "es": "Smeargle"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "LUGIA"
+        ],
+        "type": "COLORLESS",
+        "hash": "21f6d4f4068e293993"
+    },
+    {
+        "id": "A4-149",
+        "name": {
+            "en": "Lugia ex",
+            "es": "Lugia ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "LUGIA"
+        ],
+        "type": "COLORLESS",
+        "hash": "41fcc53cd9c41a4396"
+    },
+    {
+        "id": "A4-150",
+        "name": {
+            "en": "Bouffalant",
+            "es": "Bouffalant"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "LUGIA",
+            "HO_OH"
+        ],
+        "type": "COLORLESS",
+        "hash": "21b832c2e737c701ec"
+    },
+    {
+        "id": "A4-151",
+        "name": {
+            "en": "Elemental Switch",
+            "es": "Permuta Elemental"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "LUGIA"
+        ],
+        "type": "TRAINER",
+        "hash": "218a937cb0e3cce1c3"
+    },
+    {
+        "id": "A4-152",
+        "name": {
+            "en": "Squirt Bottle",
+            "es": "Squirgadera"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "LUGIA"
+        ],
+        "type": "TRAINER",
+        "hash": "21e19a9429dab89e93"
+    },
+    {
+        "id": "A4-153",
+        "name": {
+            "en": "Steel Apron",
+            "es": "Peto de Acero"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "HO_OH"
+        ],
+        "type": "TRAINER",
+        "hash": "21d1d3128cabb3b493"
+    },
+    {
+        "id": "A4-154",
+        "name": {
+            "en": "Dark Pendant",
+            "es": "Colgante Sombrío"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "HO_OH"
+        ],
+        "type": "TRAINER",
+        "hash": "21d2a8bca6b18cacb3"
+    },
+    {
+        "id": "A4-155",
+        "name": {
+            "en": "Rescue Scarf",
+            "es": "Bufanda Rescatadora"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "LUGIA",
+            "HO_OH"
+        ],
+        "type": "TRAINER",
+        "hash": "21ba9186cdc9f2941e"
+    },
+    {
+        "id": "A4-156",
+        "name": {
+            "en": "Will",
+            "es": "Mento"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "LUGIA"
+        ],
+        "type": "TRAINER",
+        "hash": "21c69ea1f9ac83b382"
+    },
+    {
+        "id": "A4-157",
+        "name": {
+            "en": "Lyra",
+            "es": "Lira"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "LUGIA"
+        ],
+        "type": "TRAINER",
+        "hash": "21f1cafb0089778639"
+    },
+    {
+        "id": "A4-158",
+        "name": {
+            "en": "Silver",
+            "es": "Plata"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "HO_OH"
+        ],
+        "type": "TRAINER",
+        "hash": "21a2d9eea5998ca20f"
+    },
+    {
+        "id": "A4-159",
+        "name": {
+            "en": "Fisher",
+            "es": "Pescador"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "LUGIA"
+        ],
+        "type": "TRAINER",
+        "hash": "218d93e6d2c2c996d4"
+    },
+    {
+        "id": "A4-160",
+        "name": {
+            "en": "Jasmine",
+            "es": "Yasmina"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "HO_OH"
+        ],
+        "type": "TRAINER",
+        "hash": "21eaed958092da8bb8"
+    },
+    {
+        "id": "A4-161",
+        "name": {
+            "en": "Hiker",
+            "es": "Montañero"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "HO_OH"
+        ],
+        "type": "TRAINER",
+        "hash": "21b187c0d966b1d96a"
+    },
+    {
+        "id": "A4-162",
+        "name": {
+            "en": "Chikorita",
+            "es": "Chikorita"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "LUGIA"
+        ],
+        "type": "GRASS",
+        "hash": "139b90875e3e3e0e86"
+    },
+    {
+        "id": "A4-163",
+        "name": {
+            "en": "Bellossom",
+            "es": "Bellossom"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "LUGIA"
+        ],
+        "type": "GRASS",
+        "hash": "13e9c621b6618f386e"
+    },
+    {
+        "id": "A4-164",
+        "name": {
+            "en": "Heracross",
+            "es": "Heracross"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "HO_OH"
+        ],
+        "type": "GRASS",
+        "hash": "13e1f4bc5ea5e209e0"
+    },
+    {
+        "id": "A4-165",
+        "name": {
+            "en": "Cyndaquil",
+            "es": "Cyndaquil"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "LUGIA"
+        ],
+        "type": "FIRE",
+        "hash": "13e7adb855449b9544"
+    },
+    {
+        "id": "A4-166",
+        "name": {
+            "en": "Magby",
+            "es": "Magby"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "HO_OH"
+        ],
+        "type": "FIRE",
+        "extra": "true",
+        "hash": "13b9c43b78857e6099"
+    },
+    {
+        "id": "A4-167",
+        "name": {
+            "en": "Totodile",
+            "es": "Totodile"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "HO_OH"
+        ],
+        "type": "WATER",
+        "hash": "139ef3a6ce4c104ac7"
+    },
+    {
+        "id": "A4-168",
+        "name": {
+            "en": "Qwilfish",
+            "es": "Qwilfish"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "LUGIA"
+        ],
+        "type": "WATER",
+        "hash": "13fa3ac8c0c765b730"
+    },
+    {
+        "id": "A4-169",
+        "name": {
+            "en": "Octillery",
+            "es": "Octillery"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "LUGIA"
+        ],
+        "type": "WATER",
+        "hash": "13b999d0c6ec14f5c2"
+    },
+    {
+        "id": "A4-170",
+        "name": {
+            "en": "Delibird",
+            "es": "Delibird"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "HO_OH"
+        ],
+        "type": "WATER",
+        "hash": "13cb2e2799d26d8689"
+    },
+    {
+        "id": "A4-171",
+        "name": {
+            "en": "Pichu",
+            "es": "Pichu"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "LUGIA"
+        ],
+        "type": "LIGHTNING",
+        "extra": "true",
+        "hash": "13c7edac55ac62c18c"
+    },
+    {
+        "id": "A4-172",
+        "name": {
+            "en": "Ampharos",
+            "es": "Ampharos"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "LUGIA"
+        ],
+        "type": "LIGHTNING",
+        "hash": "138cf3fccc73c0ccc0"
+    },
+    {
+        "id": "A4-173",
+        "name": {
+            "en": "Togepi",
+            "es": "Togepi"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "HO_OH"
+        ],
+        "type": "Psychic",
+        "hash": "13ea9067f65c386853"
+    },
+    {
+        "id": "A4-174",
+        "name": {
+            "en": "Xatu",
+            "es": "Xatu"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "LUGIA"
+        ],
+        "type": "Psychic",
+        "hash": "13c9bc96da6982e8cc"
+    },
+    {
+        "id": "A4-175",
+        "name": {
+            "en": "Wobbuffet",
+            "es": "Wobbuffet"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "LUGIA"
+        ],
+        "type": "Psychic",
+        "hash": "13a3a9a3a79594f606"
+    },
+    {
+        "id": "A4-176",
+        "name": {
+            "en": "Gligar",
+            "es": "Gligar"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "HO_OH"
+        ],
+        "type": "FIGHTING",
+        "hash": "13df1764f82ce23138"
+    },
+    {
+        "id": "A4-177",
+        "name": {
+            "en": "Spinarak",
+            "es": "Spinarak"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "HO_OH"
+        ],
+        "type": "DARKNESS",
+        "hash": "13892282df69f75991"
+    },
+    {
+        "id": "A4-178",
+        "name": {
+            "en": "Murkrow",
+            "es": "Murkrow"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "LUGIA"
+        ],
+        "type": "DARKNESS",
+        "hash": "13d2d4fc11e21d3a2e"
+    },
+    {
+        "id": "A4-179",
+        "name": {
+            "en": "Tyranitar",
+            "es": "Tyranitar"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "HO_OH"
+        ],
+        "type": "DARKNESS",
+        "hash": "13acd2f6c08fc84cb3"
+    },
+    {
+        "id": "A4-180",
+        "name": {
+            "en": "Scizor",
+            "es": "Scizor"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "LUGIA"
+        ],
+        "type": "METAL",
+        "hash": "13d2ed0d18f55a89e4"
+    },
+    {
+        "id": "A4-181",
+        "name": {
+            "en": "Sentret",
+            "es": "Sentret"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "HO_OH"
+        ],
+        "type": "COLORLESS",
+        "hash": "13e9960c4b878973cd"
+    },
+    {
+        "id": "A4-182",
+        "name": {
+            "en": "Hoothoot",
+            "es": "Hoothoot"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "HO_OH"
+        ],
+        "type": "COLORLESS",
+        "hash": "13e57846839fc69c38"
+    },
+    {
+        "id": "A4-183",
+        "name": {
+            "en": "Stantler",
+            "es": "Stantler"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "HO_OH"
+        ],
+        "type": "COLORLESS",
+        "hash": "138351bfe789c079c2"
+    },
+    {
+        "id": "A4-184",
+        "name": {
+            "en": "Smeargle",
+            "es": "Smeargle"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "LUGIA"
+        ],
+        "type": "COLORLESS",
+        "hash": "139321e3f29e18e8c7"
+    },
+    {
+        "id": "A4-185",
+        "name": {
+            "en": "Blissey",
+            "es": "Blissey"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "HO_OH"
+        ],
+        "type": "COLORLESS",
+        "hash": "13f9a85b29253cad1a"
+    },
+    {
+        "id": "A4-186",
+        "name": {
+            "en": "Shuckle ex",
+            "es": "Shuckle ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "LUGIA"
+        ],
+        "type": "GRASS",
+        "hash": "23ce68403727b9de51"
+    },
+    {
+        "id": "A4-187",
+        "name": {
+            "en": "Ho-Oh ex",
+            "es": "Ho-Oh ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "HO_OH"
+        ],
+        "type": "FIRE",
+        "hash": "23fe87e23d4a588c54"
+    },
+    {
+        "id": "A4-188",
+        "name": {
+            "en": "Kingdra ex",
+            "es": "Kingdra ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "LUGIA"
+        ],
+        "type": "WATER",
+        "hash": "2390fa62cb7d4eca14"
+    },
+    {
+        "id": "A4-189",
+        "name": {
+            "en": "Lanturn ex",
+            "es": "Lanturn ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "LUGIA"
+        ],
+        "type": "LIGHTNING",
+        "hash": "23c3e18d0e5a69d63c"
+    },
+    {
+        "id": "A4-190",
+        "name": {
+            "en": "Espeon ex",
+            "es": "Espeon ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "LUGIA"
+        ],
+        "type": "Psychic",
+        "hash": "23c87eb34bc81d54e1"
+    },
+    {
+        "id": "A4-191",
+        "name": {
+            "en": "Donphan ex",
+            "es": "Donphan ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "HO_OH"
+        ],
+        "type": "FIGHTING",
+        "hash": "23cc84b9d9f5764960"
+    },
+    {
+        "id": "A4-192",
+        "name": {
+            "en": "Crobat ex",
+            "es": "Crobat ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "HO_OH"
+        ],
+        "type": "DARKNESS",
+        "hash": "23c870d7a35c4bced0"
+    },
+    {
+        "id": "A4-193",
+        "name": {
+            "en": "Umbreon ex",
+            "es": "Umbreon ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "HO_OH"
+        ],
+        "type": "DARKNESS",
+        "hash": "23cbd12c8f782e4743"
+    },
+    {
+        "id": "A4-194",
+        "name": {
+            "en": "Skarmory ex",
+            "es": "Skarmory ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "HO_OH"
+        ],
+        "type": "METAL",
+        "hash": "23d6b23c0af047dae8"
+    },
+    {
+        "id": "A4-195",
+        "name": {
+            "en": "Lugia ex",
+            "es": "Lugia ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "LUGIA"
+        ],
+        "type": "COLORLESS",
+        "hash": "23be11d10760cbf4ec"
+    },
+    {
+        "id": "A4-196",
+        "name": {
+            "en": "Will",
+            "es": "Mento"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "LUGIA"
+        ],
+        "type": "TRAINER",
+        "hash": "23e8b7c29bc6c5a984"
+    },
+    {
+        "id": "A4-197",
+        "name": {
+            "en": "Lyra",
+            "es": "Lira"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "LUGIA"
+        ],
+        "type": "TRAINER",
+        "hash": "23a9f39660f6e59890"
+    },
+    {
+        "id": "A4-198",
+        "name": {
+            "en": "Silver",
+            "es": "Plata"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "HO_OH"
+        ],
+        "type": "TRAINER",
+        "hash": "2388a0a59ff2e0e3e3"
+    },
+    {
+        "id": "A4-199",
+        "name": {
+            "en": "Fisher",
+            "es": "Pescador"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "LUGIA"
+        ],
+        "type": "TRAINER",
+        "hash": "2382ccad93f1a796c1"
+    },
+    {
+        "id": "A4-200",
+        "name": {
+            "en": "Jasmine",
+            "es": "Yasmina"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "HO_OH"
+        ],
+        "type": "TRAINER",
+        "hash": "23fbcc06c73720478d"
+    },
+    {
+        "id": "A4-201",
+        "name": {
+            "en": "Hiker",
+            "es": "Montañero"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "HO_OH"
+        ],
+        "type": "TRAINER",
+        "hash": "23cee1e1d2b285ecc1"
+    },
+    {
+        "id": "A4-202",
+        "name": {
+            "en": "Shuckle ex",
+            "es": "Shuckle ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "LUGIA"
+        ],
+        "type": "GRASS",
+        "hash": "23a9eb438e5e1e0e1a"
+    },
+    {
+        "id": "A4-203",
+        "name": {
+            "en": "Kingdra ex",
+            "es": "Kingdra ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "LUGIA"
+        ],
+        "type": "WATER",
+        "hash": "239bde0c9863d2ecc2"
+    },
+    {
+        "id": "A4-204",
+        "name": {
+            "en": "Lanturn ex",
+            "es": "Lanturn ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "LUGIA"
+        ],
+        "type": "LIGHTNING",
+        "hash": "23deab31c8c66cd486"
+    },
+    {
+        "id": "A4-205",
+        "name": {
+            "en": "Espeon ex",
+            "es": "Espeon ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "LUGIA"
+        ],
+        "type": "Psychic",
+        "hash": "23a61885674e4977ad"
+    },
+    {
+        "id": "A4-206",
+        "name": {
+            "en": "Donphan ex",
+            "es": "Donphan ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "HO_OH"
+        ],
+        "type": "FIGHTING",
+        "hash": "23ede6a49037d8c70c"
+    },
+    {
+        "id": "A4-207",
+        "name": {
+            "en": "Crobat ex",
+            "es": "Crobat ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "HO_OH"
+        ],
+        "type": "DARKNESS",
+        "hash": "23b0ebcd48ca9e45cc"
+    },
+    {
+        "id": "A4-208",
+        "name": {
+            "en": "Umbreon ex",
+            "es": "Umbreon ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "HO_OH"
+        ],
+        "type": "DARKNESS",
+        "hash": "23b4fcc8c8cea0d2c7"
+    },
+    {
+        "id": "A4-209",
+        "name": {
+            "en": "Skarmory ex",
+            "es": "Skarmory ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "HO_OH"
+        ],
+        "type": "METAL",
+        "hash": "2387b8e63758a4719c"
+    },
+    {
+        "id": "A4-210",
+        "name": {
+            "en": "Ho-Oh ex",
+            "es": "Ho-Oh ex"
+        },
+        "rarity": "THREE_STAR",
+        "origins": [
+            "HO_OH"
+        ],
+        "type": "FIRE",
+        "hash": "338f5af06f09d28f60"
+    },
+    {
+        "id": "A4-211",
+        "name": {
+            "en": "Lugia ex",
+            "es": "Lugia ex"
+        },
+        "rarity": "THREE_STAR",
+        "origins": [
+            "LUGIA"
+        ],
+        "type": "COLORLESS",
+        "hash": "33c2db2ddd3b02318e"
+    },
+    {
+        "id": "A4-212",
+        "name": {
+            "en": "Yanma",
+            "es": "Yanma"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "HO_OH"
+        ],
+        "type": "GRASS",
+        "hash": "14b09b8d6c96cd23a6"
+    },
+    {
+        "id": "A4-213",
+        "name": {
+            "en": "Flareon",
+            "es": "Flareon"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "HO_OH"
+        ],
+        "type": "FIRE",
+        "hash": "14e90d9495276b16ae"
+    },
+    {
+        "id": "A4-214",
+        "name": {
+            "en": "Magikarp",
+            "es": "Magikarp"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "LUGIA"
+        ],
+        "type": "WATER",
+        "hash": "14a40d877599f9368c"
+    },
+    {
+        "id": "A4-215",
+        "name": {
+            "en": "Gyarados",
+            "es": "Gyarados"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "LUGIA"
+        ],
+        "type": "WATER",
+        "hash": "14b947c60c9f91936c"
+    },
+    {
+        "id": "A4-216",
+        "name": {
+            "en": "Vaporeon",
+            "es": "Vaporeon"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "LUGIA"
+        ],
+        "type": "WATER",
+        "hash": "14e14f94851c999fcc"
+    },
+    {
+        "id": "A4-217",
+        "name": {
+            "en": "Magnemite",
+            "es": "Magnemite"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "LUGIA"
+        ],
+        "type": "LIGHTNING",
+        "hash": "14bac3a53ccfd8060e"
+    },
+    {
+        "id": "A4-218",
+        "name": {
+            "en": "Magneton",
+            "es": "Magneton"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "LUGIA"
+        ],
+        "type": "LIGHTNING",
+        "hash": "14e90984f38e3c9dcc"
+    },
+    {
+        "id": "A4-219",
+        "name": {
+            "en": "Jolteon",
+            "es": "Jolteon"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "LUGIA"
+        ],
+        "type": "LIGHTNING",
+        "hash": "14e11391459ecc5ebc"
+    },
+    {
+        "id": "A4-220",
+        "name": {
+            "en": "Misdreavus",
+            "es": "Misdreavus"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "HO_OH"
+        ],
+        "type": "Psychic",
+        "hash": "14e10996859ecd9f98"
+    },
+    {
+        "id": "A4-221",
+        "name": {
+            "en": "Mankey",
+            "es": "Mankey"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "HO_OH"
+        ],
+        "type": "FIGHTING",
+        "hash": "14e901b435cfbc918e"
+    },
+    {
+        "id": "A4-222",
+        "name": {
+            "en": "Primeape",
+            "es": "Primeape"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "HO_OH"
+        ],
+        "type": "FIGHTING",
+        "hash": "14e98ea5a51e3d8c98"
+    },
+    {
+        "id": "A4-223",
+        "name": {
+            "en": "Nidoran♀",
+            "es": "Nidoran♀"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "LUGIA"
+        ],
+        "type": "DARKNESS",
+        "hash": "14e11b96cd867d1926"
+    },
+    {
+        "id": "A4-224",
+        "name": {
+            "en": "Nidorina",
+            "es": "Nidorina"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "LUGIA"
+        ],
+        "type": "DARKNESS",
+        "hash": "14e10796999dec9926"
+    },
+    {
+        "id": "A4-225",
+        "name": {
+            "en": "Nidoqueen",
+            "es": "Nidoqueen"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "LUGIA"
+        ],
+        "type": "DARKNESS",
+        "hash": "14a19395c99c9c8f66"
+    },
+    {
+        "id": "A4-226",
+        "name": {
+            "en": "Nidoran♂",
+            "es": "Nidoran♂"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "HO_OH"
+        ],
+        "type": "DARKNESS",
+        "hash": "14e54d949393ac0f63"
+    },
+    {
+        "id": "A4-227",
+        "name": {
+            "en": "Nidorino",
+            "es": "Nidorino"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "HO_OH"
+        ],
+        "type": "DARKNESS",
+        "hash": "14e10f911d93346cee"
+    },
+    {
+        "id": "A4-228",
+        "name": {
+            "en": "Nidoking",
+            "es": "Nidoking"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "HO_OH"
+        ],
+        "type": "DARKNESS",
+        "hash": "14e80794cd8ef38b32"
+    },
+    {
+        "id": "A4-229",
+        "name": {
+            "en": "Sneasel",
+            "es": "Sneasel"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "LUGIA"
+        ],
+        "type": "DARKNESS",
+        "hash": "14e50d93c592c78f98"
+    },
+    {
+        "id": "A4-230",
+        "name": {
+            "en": "Lickitung",
+            "es": "Lickitung"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "HO_OH"
+        ],
+        "type": "COLORLESS",
+        "hash": "14e90795dd172516b8"
+    },
+    {
+        "id": "A4-231",
+        "name": {
+            "en": "Eevee",
+            "es": "Eevee"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "HO_OH"
+        ],
+        "type": "COLORLESS",
+        "hash": "14b809b1d196b48d6f"
+    },
+    {
+        "id": "A4-232",
+        "name": {
+            "en": "Yanmega ex",
+            "es": "Yanmega ex"
+        },
+        "rarity": "TWO_SHINY",
+        "origins": [
+            "HO_OH"
+        ],
+        "type": "GRASS",
+        "hash": "24ed9446409bf6aaa5"
+    },
+    {
+        "id": "A4-233",
+        "name": {
+            "en": "Leafeon ex",
+            "es": "Leafeon ex"
+        },
+        "rarity": "TWO_SHINY",
+        "origins": [
+            "HO_OH"
+        ],
+        "type": "GRASS",
+        "hash": "248f54e1921ee9bc13"
+    },
+    {
+        "id": "A4-234",
+        "name": {
+            "en": "Gyarados ex",
+            "es": "Gyarados ex"
+        },
+        "rarity": "TWO_SHINY",
+        "origins": [
+            "LUGIA"
+        ],
+        "type": "WATER",
+        "hash": "24b6e4dcd2c33e6181"
+    },
+    {
+        "id": "A4-235",
+        "name": {
+            "en": "Glaceon ex",
+            "es": "Glaceon ex"
+        },
+        "rarity": "TWO_SHINY",
+        "origins": [
+            "LUGIA"
+        ],
+        "type": "WATER",
+        "hash": "24b58988567887bb35"
+    },
+    {
+        "id": "A4-236",
+        "name": {
+            "en": "Pachirisu ex",
+            "es": "Pachirisu ex"
+        },
+        "rarity": "TWO_SHINY",
+        "origins": [
+            "LUGIA"
+        ],
+        "type": "LIGHTNING",
+        "hash": "24b66d4b0e33eaa630"
+    },
+    {
+        "id": "A4-237",
+        "name": {
+            "en": "Mismagius ex",
+            "es": "Mismagius ex"
+        },
+        "rarity": "TWO_SHINY",
+        "origins": [
+            "HO_OH"
+        ],
+        "type": "Psychic",
+        "hash": "24ad94c11e03e4beb9"
+    },
+    {
+        "id": "A4-238",
+        "name": {
+            "en": "Weavile ex",
+            "es": "Weavile ex"
+        },
+        "rarity": "TWO_SHINY",
+        "origins": [
+            "LUGIA"
+        ],
+        "type": "DARKNESS",
+        "hash": "24eb95964862ad1e95"
+    },
+    {
+        "id": "A4-239",
+        "name": {
+            "en": "Lickilicky ex",
+            "es": "Lickilicky ex"
+        },
+        "rarity": "TWO_SHINY",
+        "origins": [
+            "HO_OH"
+        ],
+        "type": "COLORLESS",
+        "hash": "24a635ca721c988fcd"
+    },
+    {
+        "id": "A4-240",
+        "name": {
+            "en": "Ho-Oh ex",
+            "es": "Ho-Oh ex"
+        },
+        "rarity": "CROWN",
+        "origins": [
+            "LUGIA",
+            "HO_OH"
+        ],
+        "type": "FIRE",
+        "hash": "15df87629de85b8054"
+    },
+    {
+        "id": "A4-241",
+        "name": {
+            "en": "Lugia ex",
+            "es": "Lugia ex"
+        },
+        "rarity": "CROWN",
+        "origins": [
+            "LUGIA",
+            "HO_OH"
+        ],
+        "type": "COLORLESS",
+        "hash": "15bc397163e3c3648c"
+    }
 ]

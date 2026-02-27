@@ -1,1286 +1,1393 @@
 [
-  {
-    "id": "A3b-001",
-    "name": {
-      "en": "Tropius",
-      "es": "Tropius"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "EEVEE"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "A3b-002",
-    "name": {
-      "en": "Leafeon",
-      "es": "Leafeon"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "EEVEE"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "A3b-003",
-    "name": {
-      "en": "Bounsweet",
-      "es": "Bounsweet"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "EEVEE"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "A3b-004",
-    "name": {
-      "en": "Steenee",
-      "es": "Steenee"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "EEVEE"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "A3b-005",
-    "name": {
-      "en": "Tsareena",
-      "es": "Tsareena"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "EEVEE"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "A3b-006",
-    "name": {
-      "en": "Applin",
-      "es": "Applin"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "EEVEE"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "A3b-007",
-    "name": {
-      "en": "Appletun",
-      "es": "Appletun"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "EEVEE"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "A3b-008",
-    "name": {
-      "en": "Flareon",
-      "es": "Flareon"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "EEVEE"
-    ],
-    "type": "FIRE"
-  },
-  {
-    "id": "A3b-009",
-    "name": {
-      "en": "Flareon ex",
-      "es": "Flareon ex"
-    },
-    "rarity": "FOUR_DIAMOND",
-    "origins": [
-      "EEVEE"
-    ],
-    "type": "FIRE"
-  },
-  {
-    "id": "A3b-010",
-    "name": {
-      "en": "Torkoal",
-      "es": "Torkoal"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "EEVEE"
-    ],
-    "type": "FIRE"
-  },
-  {
-    "id": "A3b-011",
-    "name": {
-      "en": "Litten",
-      "es": "Litten"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "EEVEE"
-    ],
-    "type": "FIRE"
-  },
-  {
-    "id": "A3b-012",
-    "name": {
-      "en": "Torracat",
-      "es": "Torracat"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "EEVEE"
-    ],
-    "type": "FIRE"
-  },
-  {
-    "id": "A3b-013",
-    "name": {
-      "en": "Incineroar",
-      "es": "Incineroar"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "EEVEE"
-    ],
-    "type": "FIRE"
-  },
-  {
-    "id": "A3b-014",
-    "name": {
-      "en": "Salandit",
-      "es": "Salandit"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "EEVEE"
-    ],
-    "type": "FIRE"
-  },
-  {
-    "id": "A3b-015",
-    "name": {
-      "en": "Salazzle",
-      "es": "Salazzle"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "EEVEE"
-    ],
-    "type": "FIRE"
-  },
-  {
-    "id": "A3b-016",
-    "name": {
-      "en": "Vaporeon",
-      "es": "Vaporeon"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "EEVEE"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A3b-017",
-    "name": {
-      "en": "Glaceon",
-      "es": "Glaceon"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "EEVEE"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A3b-018",
-    "name": {
-      "en": "Vanillite",
-      "es": "Vanillite"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "EEVEE"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A3b-019",
-    "name": {
-      "en": "Vanillish",
-      "es": "Vanillish"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "EEVEE"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A3b-020",
-    "name": {
-      "en": "Vanilluxe",
-      "es": "Vanilluxe"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "EEVEE"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A3b-021",
-    "name": {
-      "en": "Alomomola",
-      "es": "Alomomola"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "EEVEE"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A3b-022",
-    "name": {
-      "en": "Popplio",
-      "es": "Popplio"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "EEVEE"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A3b-023",
-    "name": {
-      "en": "Brionne",
-      "es": "Brionne"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "EEVEE"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A3b-024",
-    "name": {
-      "en": "Primarina ex",
-      "es": "Primarina ex"
-    },
-    "rarity": "FOUR_DIAMOND",
-    "origins": [
-      "EEVEE"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A3b-025",
-    "name": {
-      "en": "Jolteon",
-      "es": "Jolteon"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "EEVEE"
-    ],
-    "type": "LIGHTNING"
-  },
-  {
-    "id": "A3b-026",
-    "name": {
-      "en": "Joltik",
-      "es": "Joltik"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "EEVEE"
-    ],
-    "type": "LIGHTNING"
-  },
-  {
-    "id": "A3b-027",
-    "name": {
-      "en": "Galvantula",
-      "es": "Galvantula"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "EEVEE"
-    ],
-    "type": "LIGHTNING"
-  },
-  {
-    "id": "A3b-028",
-    "name": {
-      "en": "Espeon",
-      "es": "Espeon"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "EEVEE"
-    ],
-    "type": "PSYCHIC"
-  },
-  {
-    "id": "A3b-029",
-    "name": {
-      "en": "Woobat",
-      "es": "Woobat"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "EEVEE"
-    ],
-    "type": "PSYCHIC"
-  },
-  {
-    "id": "A3b-030",
-    "name": {
-      "en": "Swoobat",
-      "es": "Swoobat"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "EEVEE"
-    ],
-    "type": "PSYCHIC"
-  },
-  {
-    "id": "A3b-031",
-    "name": {
-      "en": "Swirlix",
-      "es": "Swirlix"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "EEVEE"
-    ],
-    "type": "PSYCHIC"
-  },
-  {
-    "id": "A3b-032",
-    "name": {
-      "en": "Slurpuff",
-      "es": "Slurpuff"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "EEVEE"
-    ],
-    "type": "PSYCHIC"
-  },
-  {
-    "id": "A3b-033",
-    "name": {
-      "en": "Sylveon",
-      "es": "Sylveon"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "EEVEE"
-    ],
-    "type": "PSYCHIC"
-  },
-  {
-    "id": "A3b-034",
-    "name": {
-      "en": "Sylveon ex",
-      "es": "Sylveon ex"
-    },
-    "rarity": "FOUR_DIAMOND",
-    "origins": [
-      "EEVEE"
-    ],
-    "type": "PSYCHIC"
-  },
-  {
-    "id": "A3b-035",
-    "name": {
-      "en": "Mimikyu",
-      "es": "Mimikyu"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "EEVEE"
-    ],
-    "type": "PSYCHIC"
-  },
-  {
-    "id": "A3b-036",
-    "name": {
-      "en": "Milcery",
-      "es": "Milcery"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "EEVEE"
-    ],
-    "type": "PSYCHIC"
-  },
-  {
-    "id": "A3b-037",
-    "name": {
-      "en": "Alcremie",
-      "es": "Alcremie"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "EEVEE"
-    ],
-    "type": "PSYCHIC"
-  },
-  {
-    "id": "A3b-038",
-    "name": {
-      "en": "Barboach",
-      "es": "Barboach"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "EEVEE"
-    ],
-    "type": "FIGHTING"
-  },
-  {
-    "id": "A3b-039",
-    "name": {
-      "en": "Whiscash",
-      "es": "Whiscash"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "EEVEE"
-    ],
-    "type": "FIGHTING"
-  },
-  {
-    "id": "A3b-040",
-    "name": {
-      "en": "Mienfoo",
-      "es": "Mienfoo"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "EEVEE"
-    ],
-    "type": "FIGHTING"
-  },
-  {
-    "id": "A3b-041",
-    "name": {
-      "en": "Mienshao",
-      "es": "Mienshao"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "EEVEE"
-    ],
-    "type": "FIGHTING"
-  },
-  {
-    "id": "A3b-042",
-    "name": {
-      "en": "Carbink",
-      "es": "Carbink"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "EEVEE"
-    ],
-    "type": "FIGHTING"
-  },
-  {
-    "id": "A3b-043",
-    "name": {
-      "en": "Umbreon",
-      "es": "Umbreon"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "EEVEE"
-    ],
-    "type": "DARKNESS"
-  },
-  {
-    "id": "A3b-044",
-    "name": {
-      "en": "Sableye",
-      "es": "Sableye"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "EEVEE"
-    ],
-    "type": "DARKNESS"
-  },
-  {
-    "id": "A3b-045",
-    "name": {
-      "en": "Purrloin",
-      "es": "Purrloin"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "EEVEE"
-    ],
-    "type": "DARKNESS"
-  },
-  {
-    "id": "A3b-046",
-    "name": {
-      "en": "Liepard",
-      "es": "Liepard"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "EEVEE"
-    ],
-    "type": "DARKNESS"
-  },
-  {
-    "id": "A3b-047",
-    "name": {
-      "en": "Mawile",
-      "es": "Mawile"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "EEVEE"
-    ],
-    "type": "METAL"
-  },
-  {
-    "id": "A3b-048",
-    "name": {
-      "en": "Togedemaru",
-      "es": "Togedemaru"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "EEVEE"
-    ],
-    "type": "METAL"
-  },
-  {
-    "id": "A3b-049",
-    "name": {
-      "en": "Meltan",
-      "es": "Meltan"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "EEVEE"
-    ],
-    "type": "METAL"
-  },
-  {
-    "id": "A3b-050",
-    "name": {
-      "en": "Melmetal",
-      "es": "Melmetal"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "EEVEE"
-    ],
-    "type": "METAL"
-  },
-  {
-    "id": "A3b-051",
-    "name": {
-      "en": "Dratini",
-      "es": "Dratini"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "EEVEE"
-    ],
-    "type": "DRAGON"
-  },
-  {
-    "id": "A3b-052",
-    "name": {
-      "en": "Dragonair",
-      "es": "Dragonair"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "EEVEE"
-    ],
-    "type": "DRAGON"
-  },
-  {
-    "id": "A3b-053",
-    "name": {
-      "en": "Dragonite ex",
-      "es": "Dragonite ex"
-    },
-    "rarity": "FOUR_DIAMOND",
-    "origins": [
-      "EEVEE"
-    ],
-    "type": "DRAGON"
-  },
-  {
-    "id": "A3b-054",
-    "name": {
-      "en": "Drampa",
-      "es": "Drampa"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "EEVEE"
-    ],
-    "type": "DRAGON"
-  },
-  {
-    "id": "A3b-055",
-    "name": {
-      "en": "Eevee",
-      "es": "Eevee"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "EEVEE"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "A3b-056",
-    "name": {
-      "en": "Eevee ex",
-      "es": "Eevee ex"
-    },
-    "rarity": "FOUR_DIAMOND",
-    "origins": [
-      "EEVEE"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "A3b-057",
-    "name": {
-      "en": "Snorlax ex",
-      "es": "Snorlax ex"
-    },
-    "rarity": "FOUR_DIAMOND",
-    "origins": [
-      "EEVEE"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "A3b-058",
-    "name": {
-      "en": "Aipom",
-      "es": "Aipom"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "EEVEE"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "A3b-059",
-    "name": {
-      "en": "Ambipom",
-      "es": "Ambipom"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "EEVEE"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "A3b-060",
-    "name": {
-      "en": "Chatot",
-      "es": "Chatot"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "EEVEE"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "A3b-061",
-    "name": {
-      "en": "Audino",
-      "es": "Audino"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "EEVEE"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "A3b-062",
-    "name": {
-      "en": "Minccino",
-      "es": "Minccino"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "EEVEE"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "A3b-063",
-    "name": {
-      "en": "Cinccino",
-      "es": "Cinccino"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "EEVEE"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "A3b-064",
-    "name": {
-      "en": "Skwovet",
-      "es": "Skwovet"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "EEVEE"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "A3b-065",
-    "name": {
-      "en": "Greedent",
-      "es": "Greedent"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "EEVEE"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "A3b-066",
-    "name": {
-      "en": "Eevee Bag",
-      "es": "Mochila de Eevee"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "EEVEE"
-    ],
-    "type": "TRAINER"
-  },
-  {
-    "id": "A3b-067",
-    "name": {
-      "en": "Leftovers",
-      "es": "Restos"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "EEVEE"
-    ],
-    "type": "TRAINER"
-  },
-  {
-    "id": "A3b-068",
-    "name": {
-      "en": "Hau",
-      "es": "Tilo"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "EEVEE"
-    ],
-    "type": "TRAINER"
-  },
-  {
-    "id": "A3b-069",
-    "name": {
-      "en": "Penny",
-      "es": "Noa"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "EEVEE"
-    ],
-    "type": "TRAINER"
-  },
-  {
-    "id": "A3b-070",
-    "name": {
-      "en": "Leafeon",
-      "es": "Leafeon"
-    },
-    "rarity": "ONE_STAR",
-    "origins": [
-      "EEVEE"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "A3b-071",
-    "name": {
-      "en": "Flareon",
-      "es": "Flareon"
-    },
-    "rarity": "ONE_STAR",
-    "origins": [
-      "EEVEE"
-    ],
-    "type": "FIRE"
-  },
-  {
-    "id": "A3b-072",
-    "name": {
-      "en": "Vaporeon",
-      "es": "Vaporeon"
-    },
-    "rarity": "ONE_STAR",
-    "origins": [
-      "EEVEE"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A3b-073",
-    "name": {
-      "en": "Glaceon",
-      "es": "Glaceon"
-    },
-    "rarity": "ONE_STAR",
-    "origins": [
-      "EEVEE"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A3b-074",
-    "name": {
-      "en": "Jolteon",
-      "es": "Jolteon"
-    },
-    "rarity": "ONE_STAR",
-    "origins": [
-      "EEVEE"
-    ],
-    "type": "LIGHTNING"
-  },
-  {
-    "id": "A3b-075",
-    "name": {
-      "en": "Espeon",
-      "es": "Espeon"
-    },
-    "rarity": "ONE_STAR",
-    "origins": [
-      "EEVEE"
-    ],
-    "type": "PSYCHIC"
-  },
-  {
-    "id": "A3b-076",
-    "name": {
-      "en": "Sylveon",
-      "es": "Sylveon"
-    },
-    "rarity": "ONE_STAR",
-    "origins": [
-      "EEVEE"
-    ],
-    "type": "PSYCHIC"
-  },
-  {
-    "id": "A3b-077",
-    "name": {
-      "en": "Umbreon",
-      "es": "Umbreon"
-    },
-    "rarity": "ONE_STAR",
-    "origins": [
-      "EEVEE"
-    ],
-    "type": "DARKNESS"
-  },
-  {
-    "id": "A3b-078",
-    "name": {
-      "en": "Eevee",
-      "es": "Eevee"
-    },
-    "rarity": "ONE_STAR",
-    "origins": [
-      "EEVEE"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "A3b-079",
-    "name": {
-      "en": "Flareon ex",
-      "es": "Flareon ex"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "EEVEE"
-    ],
-    "type": "FIRE"
-  },
-  {
-    "id": "A3b-080",
-    "name": {
-      "en": "Primarina ex",
-      "es": "Primarina ex"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "EEVEE"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A3b-081",
-    "name": {
-      "en": "Sylveon ex",
-      "es": "Sylveon ex"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "EEVEE"
-    ],
-    "type": "PSYCHIC"
-  },
-  {
-    "id": "A3b-082",
-    "name": {
-      "en": "Dragonite ex",
-      "es": "Dragonite ex"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "EEVEE"
-    ],
-    "type": "DRAGON"
-  },
-  {
-    "id": "A3b-083",
-    "name": {
-      "en": "Eevee ex",
-      "es": "Eevee ex"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "EEVEE"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "A3b-084",
-    "name": {
-      "en": "Snorlax ex",
-      "es": "Snorlax ex"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "EEVEE"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "A3b-085",
-    "name": {
-      "en": "Hau",
-      "es": "Tilo"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "EEVEE"
-    ],
-    "type": "TRAINER"
-  },
-  {
-    "id": "A3b-086",
-    "name": {
-      "en": "Penny",
-      "es": "Noa"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "EEVEE"
-    ],
-    "type": "TRAINER"
-  },
-  {
-    "id": "A3b-087",
-    "name": {
-      "en": "Flareon ex",
-      "es": "Flareon ex"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "EEVEE"
-    ],
-    "type": "FIRE"
-  },
-  {
-    "id": "A3b-088",
-    "name": {
-      "en": "Primarina ex",
-      "es": "Primarina ex"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "EEVEE"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A3b-089",
-    "name": {
-      "en": "Sylveon ex",
-      "es": "Sylveon ex"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "EEVEE"
-    ],
-    "type": "PSYCHIC"
-  },
-  {
-    "id": "A3b-090",
-    "name": {
-      "en": "Dragonite ex",
-      "es": "Dragonite ex"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "EEVEE"
-    ],
-    "type": "DRAGON"
-  },
-  {
-    "id": "A3b-091",
-    "name": {
-      "en": "Snorlax ex",
-      "es": "Snorlax ex"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "EEVEE"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "A3b-092",
-    "name": {
-      "en": "Eevee ex",
-      "es": "Eevee ex"
-    },
-    "rarity": "THREE_STAR",
-    "origins": [
-      "EEVEE"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "A3b-093",
-    "name": {
-      "en": "Pinsir",
-      "es": "Pinsir"
-    },
-    "rarity": "ONE_SHINY",
-    "origins": [
-      "EEVEE"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "A3b-094",
-    "name": {
-      "en": "Lapras",
-      "es": "Lapras"
-    },
-    "rarity": "ONE_SHINY",
-    "origins": [
-      "EEVEE"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A3b-095",
-    "name": {
-      "en": "Voltorb",
-      "es": "Voltorb"
-    },
-    "rarity": "ONE_SHINY",
-    "origins": [
-      "EEVEE"
-    ],
-    "type": "LIGHTNING"
-  },
-  {
-    "id": "A3b-096",
-    "name": {
-      "en": "Electrode",
-      "es": "Electrode"
-    },
-    "rarity": "ONE_SHINY",
-    "origins": [
-      "EEVEE"
-    ],
-    "type": "LIGHTNING"
-  },
-  {
-    "id": "A3b-097",
-    "name": {
-      "en": "Ralts",
-      "es": "Ralts"
-    },
-    "rarity": "ONE_SHINY",
-    "origins": [
-      "EEVEE"
-    ],
-    "type": "PSYCHIC"
-  },
-  {
-    "id": "A3b-098",
-    "name": {
-      "en": "Kirlia",
-      "es": "Kirlia"
-    },
-    "rarity": "ONE_SHINY",
-    "origins": [
-      "EEVEE"
-    ],
-    "type": "PSYCHIC"
-  },
-  {
-    "id": "A3b-099",
-    "name": {
-      "en": "Gardevoir",
-      "es": "Gardevoir"
-    },
-    "rarity": "ONE_SHINY",
-    "origins": [
-      "EEVEE"
-    ],
-    "type": "PSYCHIC"
-  },
-  {
-    "id": "A3b-100",
-    "name": {
-      "en": "Ekans",
-      "es": "Ekans"
-    },
-    "rarity": "ONE_SHINY",
-    "origins": [
-      "EEVEE"
-    ],
-    "type": "DARKNESS"
-  },
-  {
-    "id": "A3b-101",
-    "name": {
-      "en": "Arbok",
-      "es": "Arbok"
-    },
-    "rarity": "ONE_SHINY",
-    "origins": [
-      "EEVEE"
-    ],
-    "type": "DARKNESS"
-  },
-  {
-    "id": "A3b-102",
-    "name": {
-      "en": "Farfetch'd",
-      "es": "Farfetch'd"
-    },
-    "rarity": "ONE_SHINY",
-    "origins": [
-      "EEVEE"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "A3b-103",
-    "name": {
-      "en": "Moltres ex",
-      "es": "Moltres ex"
-    },
-    "rarity": "TWO_SHINY",
-    "origins": [
-      "EEVEE"
-    ],
-    "type": "FIRE"
-  },
-  {
-    "id": "A3b-104",
-    "name": {
-      "en": "Articuno ex",
-      "es": "Articuno ex"
-    },
-    "rarity": "TWO_SHINY",
-    "origins": [
-      "EEVEE"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A3b-105",
-    "name": {
-      "en": "Zapdos ex",
-      "es": "Zapdos ex"
-    },
-    "rarity": "TWO_SHINY",
-    "origins": [
-      "EEVEE"
-    ],
-    "type": "LIGHTNING"
-  },
-  {
-    "id": "A3b-106",
-    "name": {
-      "en": "Gallade ex",
-      "es": "Gallade ex"
-    },
-    "rarity": "TWO_SHINY",
-    "origins": [
-      "EEVEE"
-    ],
-    "type": "FIGHTING"
-  },
-  {
-    "id": "A3b-107",
-    "name": {
-      "en": "Eevee Bag",
-      "es": "Mochila de Eevee"
-    },
-    "rarity": "CROWN",
-    "origins": [
-      "EEVEE"
-    ],
-    "type": "TRAINER"
-  }
+    {
+        "id": "A3b-001",
+        "name": {
+            "en": "Tropius",
+            "es": "Tropius"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "EEVEE"
+        ],
+        "type": "GRASS",
+        "hash": "21f43716a183d03e97"
+    },
+    {
+        "id": "A3b-002",
+        "name": {
+            "en": "Leafeon",
+            "es": "Leafeon"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "EEVEE"
+        ],
+        "type": "GRASS",
+        "hash": "31d1ac1486494bf79e"
+    },
+    {
+        "id": "A3b-003",
+        "name": {
+            "en": "Bounsweet",
+            "es": "Bounsweet"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "EEVEE"
+        ],
+        "type": "GRASS",
+        "hash": "11cd4463259f9cbc31"
+    },
+    {
+        "id": "A3b-004",
+        "name": {
+            "en": "Steenee",
+            "es": "Steenee"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "EEVEE"
+        ],
+        "type": "GRASS",
+        "hash": "11c6f411c7b93acc94"
+    },
+    {
+        "id": "A3b-005",
+        "name": {
+            "en": "Tsareena",
+            "es": "Tsareena"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "EEVEE"
+        ],
+        "type": "GRASS",
+        "hash": "21f5a6c23c98c96bc2"
+    },
+    {
+        "id": "A3b-006",
+        "name": {
+            "en": "Applin",
+            "es": "Applin"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "EEVEE"
+        ],
+        "type": "GRASS",
+        "hash": "118298e5b53db1346d"
+    },
+    {
+        "id": "A3b-007",
+        "name": {
+            "en": "Appletun",
+            "es": "Appletun"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "EEVEE"
+        ],
+        "type": "GRASS",
+        "hash": "21d1da6e8d26669961"
+    },
+    {
+        "id": "A3b-008",
+        "name": {
+            "en": "Flareon",
+            "es": "Flareon"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "EEVEE"
+        ],
+        "type": "FIRE",
+        "hash": "31bce89e9c42658d63"
+    },
+    {
+        "id": "A3b-009",
+        "name": {
+            "en": "Flareon ex",
+            "es": "Flareon ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "EEVEE"
+        ],
+        "type": "FIRE",
+        "hash": "41db1374a5a8ea4a1e"
+    },
+    {
+        "id": "A3b-010",
+        "name": {
+            "en": "Torkoal",
+            "es": "Torkoal"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "EEVEE"
+        ],
+        "type": "FIRE",
+        "hash": "11d8869c6c47ed3e18"
+    },
+    {
+        "id": "A3b-011",
+        "name": {
+            "en": "Litten",
+            "es": "Litten"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "EEVEE"
+        ],
+        "type": "FIRE",
+        "hash": "11b4bfd2ed88a0bc48"
+    },
+    {
+        "id": "A3b-012",
+        "name": {
+            "en": "Torracat",
+            "es": "Torracat"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "EEVEE"
+        ],
+        "type": "FIRE",
+        "hash": "11f8c80a63751dad8b"
+    },
+    {
+        "id": "A3b-013",
+        "name": {
+            "en": "Incineroar",
+            "es": "Incineroar"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "EEVEE"
+        ],
+        "type": "FIRE",
+        "hash": "21f8f1440b4ddc1b6a"
+    },
+    {
+        "id": "A3b-014",
+        "name": {
+            "en": "Salandit",
+            "es": "Salandit"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "EEVEE"
+        ],
+        "type": "FIRE",
+        "hash": "11b19e41af5aa58f50"
+    },
+    {
+        "id": "A3b-015",
+        "name": {
+            "en": "Salazzle",
+            "es": "Salazzle"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "EEVEE"
+        ],
+        "type": "FIRE",
+        "hash": "21a9c9c7349d1682b7"
+    },
+    {
+        "id": "A3b-016",
+        "name": {
+            "en": "Vaporeon",
+            "es": "Vaporeon"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "EEVEE"
+        ],
+        "type": "WATER",
+        "hash": "31ae9944331ec67966"
+    },
+    {
+        "id": "A3b-017",
+        "name": {
+            "en": "Glaceon",
+            "es": "Glaceon"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "EEVEE"
+        ],
+        "type": "WATER",
+        "hash": "31991ec678da263595"
+    },
+    {
+        "id": "A3b-018",
+        "name": {
+            "en": "Vanillite",
+            "es": "Vanillite"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "EEVEE"
+        ],
+        "type": "WATER",
+        "hash": "1184085e7b7177595c"
+    },
+    {
+        "id": "A3b-019",
+        "name": {
+            "en": "Vanillish",
+            "es": "Vanillish"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "EEVEE"
+        ],
+        "type": "WATER",
+        "hash": "118515666819fe4ead"
+    },
+    {
+        "id": "A3b-020",
+        "name": {
+            "en": "Vanilluxe",
+            "es": "Vanilluxe"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "EEVEE"
+        ],
+        "type": "WATER",
+        "hash": "21ff8ec130869c28ed"
+    },
+    {
+        "id": "A3b-021",
+        "name": {
+            "en": "Alomomola",
+            "es": "Alomomola"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "EEVEE"
+        ],
+        "type": "WATER",
+        "hash": "11cce364d3b2318d39"
+    },
+    {
+        "id": "A3b-022",
+        "name": {
+            "en": "Popplio",
+            "es": "Popplio"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "EEVEE"
+        ],
+        "type": "WATER",
+        "hash": "11a6ce9ba50ec876c1"
+    },
+    {
+        "id": "A3b-023",
+        "name": {
+            "en": "Brionne",
+            "es": "Brionne"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "EEVEE"
+        ],
+        "type": "WATER",
+        "hash": "11f4c4c3143a4b765e"
+    },
+    {
+        "id": "A3b-024",
+        "name": {
+            "en": "Primarina ex",
+            "es": "Primarina ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "EEVEE"
+        ],
+        "type": "WATER",
+        "hash": "41f7530bb2759e6050"
+    },
+    {
+        "id": "A3b-025",
+        "name": {
+            "en": "Jolteon",
+            "es": "Jolteon"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "EEVEE"
+        ],
+        "type": "LIGHTNING",
+        "hash": "31d99836c4ce4ccb17"
+    },
+    {
+        "id": "A3b-026",
+        "name": {
+            "en": "Joltik",
+            "es": "Joltik"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "EEVEE"
+        ],
+        "type": "LIGHTNING",
+        "hash": "11bd8b64354a768972"
+    },
+    {
+        "id": "A3b-027",
+        "name": {
+            "en": "Galvantula",
+            "es": "Galvantula"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "EEVEE"
+        ],
+        "type": "LIGHTNING",
+        "hash": "21855e9b717c8853d1"
+    },
+    {
+        "id": "A3b-028",
+        "name": {
+            "en": "Espeon",
+            "es": "Espeon"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "EEVEE"
+        ],
+        "type": "PSYCHIC",
+        "hash": "318cab6e6c6283d6c5"
+    },
+    {
+        "id": "A3b-029",
+        "name": {
+            "en": "Woobat",
+            "es": "Woobat"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "EEVEE"
+        ],
+        "type": "PSYCHIC",
+        "hash": "1195926c4f4b624bd9"
+    },
+    {
+        "id": "A3b-030",
+        "name": {
+            "en": "Swoobat",
+            "es": "Swoobat"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "EEVEE"
+        ],
+        "type": "PSYCHIC",
+        "hash": "219ab2b88f616bca64"
+    },
+    {
+        "id": "A3b-031",
+        "name": {
+            "en": "Swirlix",
+            "es": "Swirlix"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "EEVEE"
+        ],
+        "type": "PSYCHIC",
+        "hash": "11a1574f6834b52acd"
+    },
+    {
+        "id": "A3b-032",
+        "name": {
+            "en": "Slurpuff",
+            "es": "Slurpuff"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "EEVEE"
+        ],
+        "type": "PSYCHIC",
+        "hash": "2187a642b778ccf314"
+    },
+    {
+        "id": "A3b-033",
+        "name": {
+            "en": "Sylveon",
+            "es": "Sylveon"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "EEVEE"
+        ],
+        "type": "PSYCHIC",
+        "hash": "31c1a24ecc30c563ff"
+    },
+    {
+        "id": "A3b-034",
+        "name": {
+            "en": "Sylveon ex",
+            "es": "Sylveon ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "EEVEE"
+        ],
+        "type": "PSYCHIC",
+        "hash": "419f23e95952c344f1"
+    },
+    {
+        "id": "A3b-035",
+        "name": {
+            "en": "Mimikyu",
+            "es": "Mimikyu"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "EEVEE"
+        ],
+        "type": "PSYCHIC",
+        "hash": "21db24e50bae8b685a"
+    },
+    {
+        "id": "A3b-036",
+        "name": {
+            "en": "Milcery",
+            "es": "Milcery"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "EEVEE"
+        ],
+        "type": "PSYCHIC",
+        "hash": "11878a74ab5f630974"
+    },
+    {
+        "id": "A3b-037",
+        "name": {
+            "en": "Alcremie",
+            "es": "Alcremie"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "EEVEE"
+        ],
+        "type": "PSYCHIC",
+        "hash": "21d4ae2c53e72c78a4"
+    },
+    {
+        "id": "A3b-038",
+        "name": {
+            "en": "Barboach",
+            "es": "Barboach"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "EEVEE"
+        ],
+        "type": "FIGHTING",
+        "hash": "11c4ff7ac049c2c49e"
+    },
+    {
+        "id": "A3b-039",
+        "name": {
+            "en": "Whiscash",
+            "es": "Whiscash"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "EEVEE"
+        ],
+        "type": "FIGHTING",
+        "hash": "21b34cdf706c0b8ccc"
+    },
+    {
+        "id": "A3b-040",
+        "name": {
+            "en": "Mienfoo",
+            "es": "Mienfoo"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "EEVEE"
+        ],
+        "type": "FIGHTING",
+        "hash": "1194e4a9829f0c3b7b"
+    },
+    {
+        "id": "A3b-041",
+        "name": {
+            "en": "Mienshao",
+            "es": "Mienshao"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "EEVEE"
+        ],
+        "type": "FIGHTING",
+        "hash": "21d1836d6dd227482f"
+    },
+    {
+        "id": "A3b-042",
+        "name": {
+            "en": "Carbink",
+            "es": "Carbink"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "EEVEE"
+        ],
+        "type": "FIGHTING",
+        "hash": "118a29e427f31cc679"
+    },
+    {
+        "id": "A3b-043",
+        "name": {
+            "en": "Umbreon",
+            "es": "Umbreon"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "EEVEE"
+        ],
+        "type": "DARKNESS",
+        "hash": "31d138e66d90c75cc9"
+    },
+    {
+        "id": "A3b-044",
+        "name": {
+            "en": "Sableye",
+            "es": "Sableye"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "EEVEE"
+        ],
+        "type": "DARKNESS",
+        "hash": "11c1103c3226ebebdd"
+    },
+    {
+        "id": "A3b-045",
+        "name": {
+            "en": "Purrloin",
+            "es": "Purrloin"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "EEVEE"
+        ],
+        "type": "DARKNESS",
+        "hash": "11f5ec7031a9e166c4"
+    },
+    {
+        "id": "A3b-046",
+        "name": {
+            "en": "Liepard",
+            "es": "Liepard"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "EEVEE"
+        ],
+        "type": "DARKNESS",
+        "hash": "21934e2e58e5c991da"
+    },
+    {
+        "id": "A3b-047",
+        "name": {
+            "en": "Mawile",
+            "es": "Mawile"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "EEVEE"
+        ],
+        "type": "METAL",
+        "hash": "11ea7b2d85758d1944"
+    },
+    {
+        "id": "A3b-048",
+        "name": {
+            "en": "Togedemaru",
+            "es": "Togedemaru"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "EEVEE"
+        ],
+        "type": "METAL",
+        "hash": "11cd5a346c644657ad"
+    },
+    {
+        "id": "A3b-049",
+        "name": {
+            "en": "Meltan",
+            "es": "Meltan"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "EEVEE"
+        ],
+        "type": "METAL",
+        "hash": "119e8461996c38ba7d"
+    },
+    {
+        "id": "A3b-050",
+        "name": {
+            "en": "Melmetal",
+            "es": "Melmetal"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "EEVEE"
+        ],
+        "type": "METAL",
+        "hash": "21f9c9a148f04e63ce"
+    },
+    {
+        "id": "A3b-051",
+        "name": {
+            "en": "Dratini",
+            "es": "Dratini"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "EEVEE"
+        ],
+        "type": "DRAGON",
+        "hash": "1188972bd8361dea47"
+    },
+    {
+        "id": "A3b-052",
+        "name": {
+            "en": "Dragonair",
+            "es": "Dragonair"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "EEVEE"
+        ],
+        "type": "DRAGON",
+        "hash": "11c15c6f6e56f068c1"
+    },
+    {
+        "id": "A3b-053",
+        "name": {
+            "en": "Dragonite ex",
+            "es": "Dragonite ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "EEVEE"
+        ],
+        "type": "DRAGON",
+        "hash": "41de350cd045e9b366"
+    },
+    {
+        "id": "A3b-054",
+        "name": {
+            "en": "Drampa",
+            "es": "Drampa"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "EEVEE"
+        ],
+        "type": "DRAGON",
+        "hash": "21d656f1494d9196b8"
+    },
+    {
+        "id": "A3b-055",
+        "name": {
+            "en": "Eevee",
+            "es": "Eevee"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "EEVEE"
+        ],
+        "type": "COLORLESS",
+        "hash": "11b5ba06cd89e4c81f"
+    },
+    {
+        "id": "A3b-056",
+        "name": {
+            "en": "Eevee ex",
+            "es": "Eevee ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "EEVEE"
+        ],
+        "type": "COLORLESS",
+        "hash": "41ec2d90c5e1e371d8"
+    },
+    {
+        "id": "A3b-057",
+        "name": {
+            "en": "Snorlax ex",
+            "es": "Snorlax ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "EEVEE"
+        ],
+        "type": "COLORLESS",
+        "hash": "419a612d34cb9f7458"
+    },
+    {
+        "id": "A3b-058",
+        "name": {
+            "en": "Aipom",
+            "es": "Aipom"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "EEVEE"
+        ],
+        "type": "COLORLESS",
+        "hash": "11852d1bfc6fba2029"
+    },
+    {
+        "id": "A3b-059",
+        "name": {
+            "en": "Ambipom",
+            "es": "Ambipom"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "EEVEE"
+        ],
+        "type": "COLORLESS",
+        "hash": "21bcf0f24bcb4e6830"
+    },
+    {
+        "id": "A3b-060",
+        "name": {
+            "en": "Chatot",
+            "es": "Chatot"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "EEVEE"
+        ],
+        "type": "COLORLESS",
+        "hash": "11a34e0cac1d9bb339"
+    },
+    {
+        "id": "A3b-061",
+        "name": {
+            "en": "Audino",
+            "es": "Audino"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "EEVEE"
+        ],
+        "type": "COLORLESS",
+        "hash": "11869b730c3e733466"
+    },
+    {
+        "id": "A3b-062",
+        "name": {
+            "en": "Minccino",
+            "es": "Minccino"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "EEVEE"
+        ],
+        "type": "COLORLESS",
+        "hash": "1185c1f9077dc28b66"
+    },
+    {
+        "id": "A3b-063",
+        "name": {
+            "en": "Cinccino",
+            "es": "Cinccino"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "EEVEE"
+        ],
+        "type": "COLORLESS",
+        "hash": "218afd4a8e34862bb6"
+    },
+    {
+        "id": "A3b-064",
+        "name": {
+            "en": "Skwovet",
+            "es": "Skwovet"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "EEVEE"
+        ],
+        "type": "COLORLESS",
+        "hash": "11cfce37945881254f"
+    },
+    {
+        "id": "A3b-065",
+        "name": {
+            "en": "Greedent",
+            "es": "Greedent"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "EEVEE"
+        ],
+        "type": "COLORLESS",
+        "hash": "21b8a0d3df64094f96"
+    },
+    {
+        "id": "A3b-066",
+        "name": {
+            "en": "Eevee Bag",
+            "es": "Mochila de Eevee"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "EEVEE"
+        ],
+        "type": "TRAINER",
+        "hash": "21a49a66c9983f96c6"
+    },
+    {
+        "id": "A3b-067",
+        "name": {
+            "en": "Leftovers",
+            "es": "Restos"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "EEVEE"
+        ],
+        "type": "TRAINER",
+        "hash": "21c6b89acc64b39b8c"
+    },
+    {
+        "id": "A3b-068",
+        "name": {
+            "en": "Hau",
+            "es": "Tilo"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "EEVEE"
+        ],
+        "type": "TRAINER",
+        "hash": "21a0c0de82df8f95b4"
+    },
+    {
+        "id": "A3b-069",
+        "name": {
+            "en": "Penny",
+            "es": "Noa"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "EEVEE"
+        ],
+        "type": "TRAINER",
+        "hash": "21d88493a6cbccb693"
+    },
+    {
+        "id": "A3b-070",
+        "name": {
+            "en": "Leafeon",
+            "es": "Leafeon"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "EEVEE"
+        ],
+        "type": "GRASS",
+        "hash": "1393bc6c59dc679424"
+    },
+    {
+        "id": "A3b-071",
+        "name": {
+            "en": "Flareon",
+            "es": "Flareon"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "EEVEE"
+        ],
+        "type": "FIRE",
+        "hash": "13d09cc7795a460767"
+    },
+    {
+        "id": "A3b-072",
+        "name": {
+            "en": "Vaporeon",
+            "es": "Vaporeon"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "EEVEE"
+        ],
+        "type": "WATER",
+        "hash": "139fc4364b11fb412b"
+    },
+    {
+        "id": "A3b-073",
+        "name": {
+            "en": "Glaceon",
+            "es": "Glaceon"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "EEVEE"
+        ],
+        "type": "WATER",
+        "hash": "139cc780173c8bcd6d"
+    },
+    {
+        "id": "A3b-074",
+        "name": {
+            "en": "Jolteon",
+            "es": "Jolteon"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "EEVEE"
+        ],
+        "type": "LIGHTNING",
+        "hash": "13d1726cc8d91983cf"
+    },
+    {
+        "id": "A3b-075",
+        "name": {
+            "en": "Espeon",
+            "es": "Espeon"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "EEVEE"
+        ],
+        "type": "PSYCHIC",
+        "hash": "1384bc87d36759d816"
+    },
+    {
+        "id": "A3b-076",
+        "name": {
+            "en": "Sylveon",
+            "es": "Sylveon"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "EEVEE"
+        ],
+        "type": "PSYCHIC",
+        "hash": "13a3411f044733dcdf"
+    },
+    {
+        "id": "A3b-077",
+        "name": {
+            "en": "Umbreon",
+            "es": "Umbreon"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "EEVEE"
+        ],
+        "type": "DARKNESS",
+        "hash": "139dd2f2d6dd564090"
+    },
+    {
+        "id": "A3b-078",
+        "name": {
+            "en": "Eevee",
+            "es": "Eevee"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "EEVEE"
+        ],
+        "type": "COLORLESS",
+        "hash": "138fc791d9da36608c"
+    },
+    {
+        "id": "A3b-079",
+        "name": {
+            "en": "Flareon ex",
+            "es": "Flareon ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "EEVEE"
+        ],
+        "type": "FIRE",
+        "hash": "23f85a46b1384f174d"
+    },
+    {
+        "id": "A3b-080",
+        "name": {
+            "en": "Primarina ex",
+            "es": "Primarina ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "EEVEE"
+        ],
+        "type": "WATER",
+        "hash": "23d11fb33b8fe0c444"
+    },
+    {
+        "id": "A3b-081",
+        "name": {
+            "en": "Sylveon ex",
+            "es": "Sylveon ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "EEVEE"
+        ],
+        "type": "PSYCHIC",
+        "hash": "23b92cce8516f955c1"
+    },
+    {
+        "id": "A3b-082",
+        "name": {
+            "en": "Dragonite ex",
+            "es": "Dragonite ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "EEVEE"
+        ],
+        "type": "DRAGON",
+        "hash": "239268c80b3b9effc0"
+    },
+    {
+        "id": "A3b-083",
+        "name": {
+            "en": "Eevee ex",
+            "es": "Eevee ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "EEVEE"
+        ],
+        "type": "COLORLESS",
+        "hash": "23cbc8f2e43f88e115"
+    },
+    {
+        "id": "A3b-084",
+        "name": {
+            "en": "Snorlax ex",
+            "es": "Snorlax ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "EEVEE"
+        ],
+        "type": "COLORLESS",
+        "hash": "23d43ce2c36f3cf880"
+    },
+    {
+        "id": "A3b-085",
+        "name": {
+            "en": "Hau",
+            "es": "Tilo"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "EEVEE"
+        ],
+        "type": "TRAINER",
+        "hash": "23e4a5c3928e92ecd6"
+    },
+    {
+        "id": "A3b-086",
+        "name": {
+            "en": "Penny",
+            "es": "Noa"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "EEVEE"
+        ],
+        "type": "TRAINER",
+        "hash": "23eec3698c93a6d494"
+    },
+    {
+        "id": "A3b-087",
+        "name": {
+            "en": "Flareon ex",
+            "es": "Flareon ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "EEVEE"
+        ],
+        "type": "FIRE",
+        "hash": "23e61a1cf970c566e4"
+    },
+    {
+        "id": "A3b-088",
+        "name": {
+            "en": "Primarina ex",
+            "es": "Primarina ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "EEVEE"
+        ],
+        "type": "WATER",
+        "hash": "23b59b90cb473c7426"
+    },
+    {
+        "id": "A3b-089",
+        "name": {
+            "en": "Sylveon ex",
+            "es": "Sylveon ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "EEVEE"
+        ],
+        "type": "PSYCHIC",
+        "hash": "23e92d9dd06063c766"
+    },
+    {
+        "id": "A3b-090",
+        "name": {
+            "en": "Dragonite ex",
+            "es": "Dragonite ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "EEVEE"
+        ],
+        "type": "DRAGON",
+        "hash": "23c9a2125a6ef44d3d"
+    },
+    {
+        "id": "A3b-091",
+        "name": {
+            "en": "Snorlax ex",
+            "es": "Snorlax ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "EEVEE"
+        ],
+        "type": "COLORLESS",
+        "hash": "239ef96a6685c6d098"
+    },
+    {
+        "id": "A3b-092",
+        "name": {
+            "en": "Eevee ex",
+            "es": "Eevee ex"
+        },
+        "rarity": "THREE_STAR",
+        "origins": [
+            "EEVEE"
+        ],
+        "type": "COLORLESS",
+        "hash": "33d917d6f02c3881de"
+    },
+    {
+        "id": "A3b-093",
+        "name": {
+            "en": "Pinsir",
+            "es": "Pinsir"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "EEVEE"
+        ],
+        "type": "GRASS",
+        "hash": "14e48d94608dbd3ac7"
+    },
+    {
+        "id": "A3b-094",
+        "name": {
+            "en": "Lapras",
+            "es": "Lapras"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "EEVEE"
+        ],
+        "type": "WATER",
+        "hash": "14b91994c4c7dd13e1"
+    },
+    {
+        "id": "A3b-095",
+        "name": {
+            "en": "Voltorb",
+            "es": "Voltorb"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "EEVEE"
+        ],
+        "type": "LIGHTNING",
+        "hash": "14e52792cd19dd07a8"
+    },
+    {
+        "id": "A3b-096",
+        "name": {
+            "en": "Electrode",
+            "es": "Electrode"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "EEVEE"
+        ],
+        "type": "LIGHTNING",
+        "hash": "14ed8bb22c23279e98"
+    },
+    {
+        "id": "A3b-097",
+        "name": {
+            "en": "Ralts",
+            "es": "Ralts"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "EEVEE"
+        ],
+        "type": "PSYCHIC",
+        "hash": "14b12194cd9d8d2fc3"
+    },
+    {
+        "id": "A3b-098",
+        "name": {
+            "en": "Kirlia",
+            "es": "Kirlia"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "EEVEE"
+        ],
+        "type": "PSYCHIC",
+        "hash": "14b40d96c59fe70d48"
+    },
+    {
+        "id": "A3b-099",
+        "name": {
+            "en": "Gardevoir",
+            "es": "Gardevoir"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "EEVEE"
+        ],
+        "type": "PSYCHIC",
+        "hash": "14b113c5cc33dd06ba"
+    },
+    {
+        "id": "A3b-100",
+        "name": {
+            "en": "Ekans",
+            "es": "Ekans"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "EEVEE"
+        ],
+        "type": "DARKNESS",
+        "hash": "14b989844597ef1d8a"
+    },
+    {
+        "id": "A3b-101",
+        "name": {
+            "en": "Arbok",
+            "es": "Arbok"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "EEVEE"
+        ],
+        "type": "DARKNESS",
+        "hash": "14e549929426dd1f6c"
+    },
+    {
+        "id": "A3b-102",
+        "name": {
+            "en": "Farfetch'd",
+            "es": "Farfetch'd"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "EEVEE"
+        ],
+        "type": "COLORLESS",
+        "hash": "14e68d9559cfa71188"
+    },
+    {
+        "id": "A3b-103",
+        "name": {
+            "en": "Moltres ex",
+            "es": "Moltres ex"
+        },
+        "rarity": "TWO_SHINY",
+        "origins": [
+            "EEVEE"
+        ],
+        "type": "FIRE",
+        "hash": "2480df914832bded27"
+    },
+    {
+        "id": "A3b-104",
+        "name": {
+            "en": "Articuno ex",
+            "es": "Articuno ex"
+        },
+        "rarity": "TWO_SHINY",
+        "origins": [
+            "EEVEE"
+        ],
+        "type": "WATER",
+        "hash": "24c5b9ce5832f5a09c"
+    },
+    {
+        "id": "A3b-105",
+        "name": {
+            "en": "Zapdos ex",
+            "es": "Zapdos ex"
+        },
+        "rarity": "TWO_SHINY",
+        "origins": [
+            "EEVEE"
+        ],
+        "type": "LIGHTNING",
+        "hash": "24ade5c80b8abaf415"
+    },
+    {
+        "id": "A3b-106",
+        "name": {
+            "en": "Gallade ex",
+            "es": "Gallade ex"
+        },
+        "rarity": "TWO_SHINY",
+        "origins": [
+            "EEVEE"
+        ],
+        "type": "FIGHTING",
+        "hash": "24cde98a162693ec9c"
+    },
+    {
+        "id": "A3b-107",
+        "name": {
+            "en": "Eevee Bag",
+            "es": "Mochila de Eevee"
+        },
+        "rarity": "CROWN",
+        "origins": [
+            "EEVEE"
+        ],
+        "type": "TRAINER",
+        "hash": "15ed5293b42b6b50c9"
+    }
 ]

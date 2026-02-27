@@ -1,3526 +1,3812 @@
 [
-  {
-    "id": "A1-001",
-    "name": {
-      "en": "Bulbasaur",
-      "es": "Bulbasaur"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "MEWTWO"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "A1-002",
-    "name": {
-      "en": "Ivysaur",
-      "es": "Ivysaur"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "MEWTWO"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "A1-003",
-    "name": {
-      "en": "Venusaur",
-      "es": "Venusaur"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "MEWTWO"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "A1-004",
-    "name": {
-      "en": "Venusaur ex",
-      "es": "Venusaur ex"
-    },
-    "rarity": "FOUR_DIAMOND",
-    "origins": [
-      "MEWTWO"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "A1-005",
-    "name": {
-      "en": "Caterpie",
-      "es": "Caterpie"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "PIKACHU"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "A1-006",
-    "name": {
-      "en": "Metapod",
-      "es": "Metapod"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "PIKACHU"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "A1-007",
-    "name": {
-      "en": "Butterfree",
-      "es": "Butterfree"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "PIKACHU"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "A1-008",
-    "name": {
-      "en": "Weedle",
-      "es": "Weedle"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "MEWTWO"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "A1-009",
-    "name": {
-      "en": "Kakuna",
-      "es": "Kakuna"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "MEWTWO"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "A1-010",
-    "name": {
-      "en": "Beedrill",
-      "es": "Beedrill"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "MEWTWO"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "A1-011",
-    "name": {
-      "en": "Oddish",
-      "es": "Oddish"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "CHARIZARD"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "A1-012",
-    "name": {
-      "en": "Gloom",
-      "es": "Gloom"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "CHARIZARD"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "A1-013",
-    "name": {
-      "en": "Vileplume",
-      "es": "Vileplume"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "CHARIZARD"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "A1-014",
-    "name": {
-      "en": "Paras",
-      "es": "Paras"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "PIKACHU"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "A1-015",
-    "name": {
-      "en": "Parasect",
-      "es": "Parasect"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "PIKACHU"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "A1-016",
-    "name": {
-      "en": "Venonat",
-      "es": "Venonat"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "MEWTWO"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "A1-017",
-    "name": {
-      "en": "Venomoth",
-      "es": "Venomoth"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "MEWTWO"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "A1-018",
-    "name": {
-      "en": "Bellsprout",
-      "es": "Bellsprout"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "CHARIZARD"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "A1-019",
-    "name": {
-      "en": "Weepinbell",
-      "es": "Weepinbell"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "CHARIZARD"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "A1-020",
-    "name": {
-      "en": "Victreebel",
-      "es": "Victreebel"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "CHARIZARD"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "A1-021",
-    "name": {
-      "en": "Exeggcute",
-      "es": "Exeggcute"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "CHARIZARD"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "A1-022",
-    "name": {
-      "en": "Exeggutor",
-      "es": "Exeggutor"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "CHARIZARD"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "A1-023",
-    "name": {
-      "en": "Exeggutor ex",
-      "es": "Exeggutor ex"
-    },
-    "rarity": "FOUR_DIAMOND",
-    "origins": [
-      "CHARIZARD"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "A1-024",
-    "name": {
-      "en": "Tangela",
-      "es": "Tangela"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "CHARIZARD"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "A1-025",
-    "name": {
-      "en": "Scyther",
-      "es": "Scyther"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "MEWTWO"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "A1-026",
-    "name": {
-      "en": "Pinsir",
-      "es": "Pinsir"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "MEWTWO",
-      "CHARIZARD",
-      "PIKACHU"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "A1-027",
-    "name": {
-      "en": "Cottonee",
-      "es": "Cottonee"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "MEWTWO",
-      "CHARIZARD",
-      "PIKACHU"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "A1-028",
-    "name": {
-      "en": "Whimsicott",
-      "es": "Whimsicott"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "MEWTWO",
-      "CHARIZARD",
-      "PIKACHU"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "A1-029",
-    "name": {
-      "en": "Petilil",
-      "es": "Petilil"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "MEWTWO",
-      "CHARIZARD",
-      "PIKACHU"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "A1-030",
-    "name": {
-      "en": "Lilligant",
-      "es": "Lilligant"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "MEWTWO",
-      "CHARIZARD",
-      "PIKACHU"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "A1-031",
-    "name": {
-      "en": "Skiddo",
-      "es": "Skiddo"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "CHARIZARD"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "A1-032",
-    "name": {
-      "en": "Gogoat",
-      "es": "Gogoat"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "CHARIZARD"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "A1-033",
-    "name": {
-      "en": "Charmander",
-      "es": "Charmander"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "CHARIZARD"
-    ],
-    "type": "FIRE"
-  },
-  {
-    "id": "A1-034",
-    "name": {
-      "en": "Charmeleon",
-      "es": "Charmeleon"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "CHARIZARD"
-    ],
-    "type": "FIRE"
-  },
-  {
-    "id": "A1-035",
-    "name": {
-      "en": "Charizard",
-      "es": "Charizard"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "CHARIZARD"
-    ],
-    "type": "FIRE"
-  },
-  {
-    "id": "A1-036",
-    "name": {
-      "en": "Charizard ex",
-      "es": "Charizard ex"
-    },
-    "rarity": "FOUR_DIAMOND",
-    "origins": [
-      "CHARIZARD"
-    ],
-    "type": "FIRE"
-  },
-  {
-    "id": "A1-037",
-    "name": {
-      "en": "Vulpix",
-      "es": "Vulpix"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "CHARIZARD"
-    ],
-    "type": "FIRE"
-  },
-  {
-    "id": "A1-038",
-    "name": {
-      "en": "Ninetales",
-      "es": "Ninetales"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "CHARIZARD"
-    ],
-    "type": "FIRE"
-  },
-  {
-    "id": "A1-039",
-    "name": {
-      "en": "Growlithe",
-      "es": "Growlithe"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "PIKACHU"
-    ],
-    "type": "FIRE"
-  },
-  {
-    "id": "A1-040",
-    "name": {
-      "en": "Arcanine",
-      "es": "Arcanine"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "PIKACHU"
-    ],
-    "type": "FIRE"
-  },
-  {
-    "id": "A1-041",
-    "name": {
-      "en": "Arcanine ex",
-      "es": "Arcanine ex"
-    },
-    "rarity": "FOUR_DIAMOND",
-    "origins": [
-      "PIKACHU"
-    ],
-    "type": "FIRE"
-  },
-  {
-    "id": "A1-042",
-    "name": {
-      "en": "Ponyta",
-      "es": "Ponyta"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "MEWTWO",
-      "CHARIZARD",
-      "PIKACHU"
-    ],
-    "type": "FIRE"
-  },
-  {
-    "id": "A1-043",
-    "name": {
-      "en": "Rapidash",
-      "es": "Rapidash"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "MEWTWO",
-      "CHARIZARD",
-      "PIKACHU"
-    ],
-    "type": "FIRE"
-  },
-  {
-    "id": "A1-044",
-    "name": {
-      "en": "Magmar",
-      "es": "Magmar"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "CHARIZARD"
-    ],
-    "type": "FIRE"
-  },
-  {
-    "id": "A1-045",
-    "name": {
-      "en": "Flareon",
-      "es": "Flareon"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "CHARIZARD"
-    ],
-    "type": "FIRE"
-  },
-  {
-    "id": "A1-046",
-    "name": {
-      "en": "Moltres",
-      "es": "Moltres"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "CHARIZARD"
-    ],
-    "type": "FIRE"
-  },
-  {
-    "id": "A1-047",
-    "name": {
-      "en": "Moltres ex",
-      "es": "Moltres ex"
-    },
-    "rarity": "FOUR_DIAMOND",
-    "origins": [
-      "CHARIZARD"
-    ],
-    "type": "FIRE"
-  },
-  {
-    "id": "A1-048",
-    "name": {
-      "en": "Heatmor",
-      "es": "Heatmor"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "MEWTWO",
-      "CHARIZARD",
-      "PIKACHU"
-    ],
-    "type": "FIRE"
-  },
-  {
-    "id": "A1-049",
-    "name": {
-      "en": "Salandit",
-      "es": "Salandit"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "MEWTWO"
-    ],
-    "type": "FIRE"
-  },
-  {
-    "id": "A1-050",
-    "name": {
-      "en": "Salazzle",
-      "es": "Salazzle"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "MEWTWO"
-    ],
-    "type": "FIRE"
-  },
-  {
-    "id": "A1-051",
-    "name": {
-      "en": "Sizzlipede",
-      "es": "Sizzlipede"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "MEWTWO",
-      "CHARIZARD",
-      "PIKACHU"
-    ],
-    "type": "FIRE"
-  },
-  {
-    "id": "A1-052",
-    "name": {
-      "en": "Centiskorch",
-      "es": "Centiskorch"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "MEWTWO",
-      "CHARIZARD",
-      "PIKACHU"
-    ],
-    "type": "FIRE"
-  },
-  {
-    "id": "A1-053",
-    "name": {
-      "en": "Squirtle",
-      "es": "Squirtle"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "PIKACHU"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A1-054",
-    "name": {
-      "en": "Wartortle",
-      "es": "Wartortle"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "PIKACHU"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A1-055",
-    "name": {
-      "en": "Blastoise",
-      "es": "Blastoise"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "PIKACHU"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A1-056",
-    "name": {
-      "en": "Blastoise ex",
-      "es": "Blastoise ex"
-    },
-    "rarity": "FOUR_DIAMOND",
-    "origins": [
-      "PIKACHU"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A1-057",
-    "name": {
-      "en": "Psyduck",
-      "es": "Psyduck"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "MEWTWO",
-      "CHARIZARD",
-      "PIKACHU"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A1-058",
-    "name": {
-      "en": "Golduck",
-      "es": "Golduck"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "MEWTWO",
-      "CHARIZARD",
-      "PIKACHU"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A1-059",
-    "name": {
-      "en": "Poliwag",
-      "es": "Poliwag"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "CHARIZARD"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A1-060",
-    "name": {
-      "en": "Poliwhirl",
-      "es": "Poliwhirl"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "CHARIZARD"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A1-061",
-    "name": {
-      "en": "Poliwrath",
-      "es": "Poliwrath"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "CHARIZARD"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A1-062",
-    "name": {
-      "en": "Tentacool",
-      "es": "Tentacool"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "MEWTWO"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A1-063",
-    "name": {
-      "en": "Tentacruel",
-      "es": "Tentacruel"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "MEWTWO"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A1-064",
-    "name": {
-      "en": "Seel",
-      "es": "Seel"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "PIKACHU"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A1-065",
-    "name": {
-      "en": "Dewgong",
-      "es": "Dewgong"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "PIKACHU"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A1-066",
-    "name": {
-      "en": "Shellder",
-      "es": "Shellder"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "MEWTWO"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A1-067",
-    "name": {
-      "en": "Cloyster",
-      "es": "Cloyster"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "MEWTWO"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A1-068",
-    "name": {
-      "en": "Krabby",
-      "es": "Krabby"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "MEWTWO"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A1-069",
-    "name": {
-      "en": "Kingler",
-      "es": "Kingler"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "MEWTWO"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A1-070",
-    "name": {
-      "en": "Horsea",
-      "es": "Horsea"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "PIKACHU"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A1-071",
-    "name": {
-      "en": "Seadra",
-      "es": "Seadra"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "PIKACHU"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A1-072",
-    "name": {
-      "en": "Goldeen",
-      "es": "Goldeen"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "PIKACHU"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A1-073",
-    "name": {
-      "en": "Seaking",
-      "es": "Seaking"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "PIKACHU"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A1-074",
-    "name": {
-      "en": "Staryu",
-      "es": "Staryu"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "CHARIZARD"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A1-075",
-    "name": {
-      "en": "Starmie",
-      "es": "Starmie"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "CHARIZARD"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A1-076",
-    "name": {
-      "en": "Starmie ex",
-      "es": "Starmie ex"
-    },
-    "rarity": "FOUR_DIAMOND",
-    "origins": [
-      "CHARIZARD"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A1-077",
-    "name": {
-      "en": "Magikarp",
-      "es": "Magikarp"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "PIKACHU"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A1-078",
-    "name": {
-      "en": "Gyarados",
-      "es": "Gyarados"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "PIKACHU"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A1-079",
-    "name": {
-      "en": "Lapras",
-      "es": "Lapras"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "CHARIZARD"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A1-080",
-    "name": {
-      "en": "Vaporeon",
-      "es": "Vaporeon"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "MEWTWO"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A1-081",
-    "name": {
-      "en": "Omanyte",
-      "es": "Omanyte"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "PIKACHU"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A1-082",
-    "name": {
-      "en": "Omastar",
-      "es": "Omastar"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "PIKACHU"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A1-083",
-    "name": {
-      "en": "Articuno",
-      "es": "Articuno"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "MEWTWO"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A1-084",
-    "name": {
-      "en": "Articuno ex",
-      "es": "Articuno ex"
-    },
-    "rarity": "FOUR_DIAMOND",
-    "origins": [
-      "MEWTWO"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A1-085",
-    "name": {
-      "en": "Ducklett",
-      "es": "Ducklett"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "CHARIZARD"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A1-086",
-    "name": {
-      "en": "Swanna",
-      "es": "Swanna"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "CHARIZARD"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A1-087",
-    "name": {
-      "en": "Froakie",
-      "es": "Froakie"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "CHARIZARD"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A1-088",
-    "name": {
-      "en": "Frogadier",
-      "es": "Frogadier"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "CHARIZARD"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A1-089",
-    "name": {
-      "en": "Greninja",
-      "es": "Greninja"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "CHARIZARD"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A1-090",
-    "name": {
-      "en": "Pyukumuku",
-      "es": "Pyukumuku"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "CHARIZARD"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A1-091",
-    "name": {
-      "en": "Bruxish",
-      "es": "Bruxish"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "MEWTWO",
-      "CHARIZARD",
-      "PIKACHU"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A1-092",
-    "name": {
-      "en": "Snom",
-      "es": "Snom"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "MEWTWO",
-      "CHARIZARD",
-      "PIKACHU"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A1-093",
-    "name": {
-      "en": "Frosmoth",
-      "es": "Frosmoth"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "MEWTWO",
-      "CHARIZARD",
-      "PIKACHU"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A1-094",
-    "name": {
-      "en": "Pikachu",
-      "es": "Pikachu"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "PIKACHU"
-    ],
-    "type": "LIGHTNING"
-  },
-  {
-    "id": "A1-095",
-    "name": {
-      "en": "Raichu",
-      "es": "Raichu"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "PIKACHU"
-    ],
-    "type": "LIGHTNING"
-  },
-  {
-    "id": "A1-096",
-    "name": {
-      "en": "Pikachu ex",
-      "es": "Pikachu ex"
-    },
-    "rarity": "FOUR_DIAMOND",
-    "origins": [
-      "PIKACHU"
-    ],
-    "type": "LIGHTNING"
-  },
-  {
-    "id": "A1-097",
-    "name": {
-      "en": "Magnemite",
-      "es": "Magnemite"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "PIKACHU"
-    ],
-    "type": "LIGHTNING"
-  },
-  {
-    "id": "A1-098",
-    "name": {
-      "en": "Magneton",
-      "es": "Magneton"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "PIKACHU"
-    ],
-    "type": "LIGHTNING"
-  },
-  {
-    "id": "A1-099",
-    "name": {
-      "en": "Voltorb",
-      "es": "Voltorb"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "PIKACHU"
-    ],
-    "type": "LIGHTNING"
-  },
-  {
-    "id": "A1-100",
-    "name": {
-      "en": "Electrode",
-      "es": "Electrode"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "PIKACHU"
-    ],
-    "type": "LIGHTNING"
-  },
-  {
-    "id": "A1-101",
-    "name": {
-      "en": "Electabuzz",
-      "es": "Electabuzz"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "PIKACHU"
-    ],
-    "type": "LIGHTNING"
-  },
-  {
-    "id": "A1-102",
-    "name": {
-      "en": "Jolteon",
-      "es": "Jolteon"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "PIKACHU"
-    ],
-    "type": "LIGHTNING"
-  },
-  {
-    "id": "A1-103",
-    "name": {
-      "en": "Zapdos",
-      "es": "Zapdos"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "PIKACHU"
-    ],
-    "type": "LIGHTNING"
-  },
-  {
-    "id": "A1-104",
-    "name": {
-      "en": "Zapdos ex",
-      "es": "Zapdos ex"
-    },
-    "rarity": "FOUR_DIAMOND",
-    "origins": [
-      "PIKACHU"
-    ],
-    "type": "LIGHTNING"
-  },
-  {
-    "id": "A1-105",
-    "name": {
-      "en": "Blitzle",
-      "es": "Blitzle"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "MEWTWO",
-      "CHARIZARD",
-      "PIKACHU"
-    ],
-    "type": "LIGHTNING"
-  },
-  {
-    "id": "A1-106",
-    "name": {
-      "en": "Zebstrika",
-      "es": "Zebstrika"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "MEWTWO",
-      "CHARIZARD",
-      "PIKACHU"
-    ],
-    "type": "LIGHTNING"
-  },
-  {
-    "id": "A1-107",
-    "name": {
-      "en": "Tynamo",
-      "es": "Tynamo"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "MEWTWO"
-    ],
-    "type": "LIGHTNING"
-  },
-  {
-    "id": "A1-108",
-    "name": {
-      "en": "Eelektrik",
-      "es": "Eelektrik"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "MEWTWO"
-    ],
-    "type": "LIGHTNING"
-  },
-  {
-    "id": "A1-109",
-    "name": {
-      "en": "Eelektross",
-      "es": "Eelektross"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "MEWTWO"
-    ],
-    "type": "LIGHTNING"
-  },
-  {
-    "id": "A1-110",
-    "name": {
-      "en": "Helioptile",
-      "es": "Helioptile"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "MEWTWO",
-      "CHARIZARD",
-      "PIKACHU"
-    ],
-    "type": "LIGHTNING"
-  },
-  {
-    "id": "A1-111",
-    "name": {
-      "en": "Heliolisk",
-      "es": "Heliolisk"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "MEWTWO",
-      "CHARIZARD",
-      "PIKACHU"
-    ],
-    "type": "LIGHTNING"
-  },
-  {
-    "id": "A1-112",
-    "name": {
-      "en": "Pincurchin",
-      "es": "Pincurchin"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "MEWTWO",
-      "CHARIZARD",
-      "PIKACHU"
-    ],
-    "type": "LIGHTNING"
-  },
-  {
-    "id": "A1-113",
-    "name": {
-      "en": "Clefairy",
-      "es": "Clefairy"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "PIKACHU"
-    ],
-    "type": "PSYCHIC"
-  },
-  {
-    "id": "A1-114",
-    "name": {
-      "en": "Clefable",
-      "es": "Clefable"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "PIKACHU"
-    ],
-    "type": "PSYCHIC"
-  },
-  {
-    "id": "A1-115",
-    "name": {
-      "en": "Abra",
-      "es": "Abra"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "CHARIZARD"
-    ],
-    "type": "PSYCHIC"
-  },
-  {
-    "id": "A1-116",
-    "name": {
-      "en": "Kadabra",
-      "es": "Kadabra"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "CHARIZARD"
-    ],
-    "type": "PSYCHIC"
-  },
-  {
-    "id": "A1-117",
-    "name": {
-      "en": "Alakazam",
-      "es": "Alakazam"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "CHARIZARD"
-    ],
-    "type": "PSYCHIC"
-  },
-  {
-    "id": "A1-118",
-    "name": {
-      "en": "Slowpoke",
-      "es": "Slowpoke"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "MEWTWO",
-      "CHARIZARD",
-      "PIKACHU"
-    ],
-    "type": "PSYCHIC"
-  },
-  {
-    "id": "A1-119",
-    "name": {
-      "en": "Slowbro",
-      "es": "Slowbro"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "MEWTWO",
-      "CHARIZARD",
-      "PIKACHU"
-    ],
-    "type": "PSYCHIC"
-  },
-  {
-    "id": "A1-120",
-    "name": {
-      "en": "Gastly",
-      "es": "Gastly"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "MEWTWO"
-    ],
-    "type": "PSYCHIC"
-  },
-  {
-    "id": "A1-121",
-    "name": {
-      "en": "Haunter",
-      "es": "Haunter"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "MEWTWO"
-    ],
-    "type": "PSYCHIC"
-  },
-  {
-    "id": "A1-122",
-    "name": {
-      "en": "Gengar",
-      "es": "Gengar"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "MEWTWO"
-    ],
-    "type": "PSYCHIC"
-  },
-  {
-    "id": "A1-123",
-    "name": {
-      "en": "Gengar ex",
-      "es": "Gengar ex"
-    },
-    "rarity": "FOUR_DIAMOND",
-    "origins": [
-      "MEWTWO"
-    ],
-    "type": "PSYCHIC"
-  },
-  {
-    "id": "A1-124",
-    "name": {
-      "en": "Drowzee",
-      "es": "Drowzee"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "PIKACHU"
-    ],
-    "type": "PSYCHIC"
-  },
-  {
-    "id": "A1-125",
-    "name": {
-      "en": "Hypno",
-      "es": "Hypno"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "PIKACHU"
-    ],
-    "type": "PSYCHIC"
-  },
-  {
-    "id": "A1-126",
-    "name": {
-      "en": "Mr. Mime",
-      "es": "Mr. Mime"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "MEWTWO"
-    ],
-    "type": "PSYCHIC"
-  },
-  {
-    "id": "A1-127",
-    "name": {
-      "en": "Jynx",
-      "es": "Jynx"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "MEWTWO"
-    ],
-    "type": "PSYCHIC"
-  },
-  {
-    "id": "A1-128",
-    "name": {
-      "en": "Mewtwo",
-      "es": "Mewtwo"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "MEWTWO"
-    ],
-    "type": "PSYCHIC"
-  },
-  {
-    "id": "A1-129",
-    "name": {
-      "en": "Mewtwo ex",
-      "es": "Mewtwo ex"
-    },
-    "rarity": "FOUR_DIAMOND",
-    "origins": [
-      "MEWTWO"
-    ],
-    "type": "PSYCHIC"
-  },
-  {
-    "id": "A1-130",
-    "name": {
-      "en": "Ralts",
-      "es": "Ralts"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "MEWTWO"
-    ],
-    "type": "PSYCHIC"
-  },
-  {
-    "id": "A1-131",
-    "name": {
-      "en": "Kirlia",
-      "es": "Kirlia"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "MEWTWO"
-    ],
-    "type": "PSYCHIC"
-  },
-  {
-    "id": "A1-132",
-    "name": {
-      "en": "Gardevoir",
-      "es": "Gardevoir"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "MEWTWO"
-    ],
-    "type": "PSYCHIC"
-  },
-  {
-    "id": "A1-133",
-    "name": {
-      "en": "Woobat",
-      "es": "Woobat"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "MEWTWO",
-      "CHARIZARD",
-      "PIKACHU"
-    ],
-    "type": "PSYCHIC"
-  },
-  {
-    "id": "A1-134",
-    "name": {
-      "en": "Swoobat",
-      "es": "Swoobat"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "MEWTWO",
-      "CHARIZARD",
-      "PIKACHU"
-    ],
-    "type": "PSYCHIC"
-  },
-  {
-    "id": "A1-135",
-    "name": {
-      "en": "Golett",
-      "es": "Golett"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "MEWTWO",
-      "CHARIZARD",
-      "PIKACHU"
-    ],
-    "type": "PSYCHIC"
-  },
-  {
-    "id": "A1-136",
-    "name": {
-      "en": "Golurk",
-      "es": "Golurk"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "MEWTWO",
-      "CHARIZARD",
-      "PIKACHU"
-    ],
-    "type": "PSYCHIC"
-  },
-  {
-    "id": "A1-137",
-    "name": {
-      "en": "Sandshrew",
-      "es": "Sandshrew"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "MEWTWO",
-      "CHARIZARD",
-      "PIKACHU"
-    ],
-    "type": "FIGHTING"
-  },
-  {
-    "id": "A1-138",
-    "name": {
-      "en": "Sandslash",
-      "es": "Sandslash"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "MEWTWO",
-      "CHARIZARD",
-      "PIKACHU"
-    ],
-    "type": "FIGHTING"
-  },
-  {
-    "id": "A1-139",
-    "name": {
-      "en": "Diglett",
-      "es": "Diglett"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "PIKACHU"
-    ],
-    "type": "FIGHTING"
-  },
-  {
-    "id": "A1-140",
-    "name": {
-      "en": "Dugtrio",
-      "es": "Dugtrio"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "PIKACHU"
-    ],
-    "type": "FIGHTING"
-  },
-  {
-    "id": "A1-141",
-    "name": {
-      "en": "Mankey",
-      "es": "Mankey"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "CHARIZARD"
-    ],
-    "type": "FIGHTING"
-  },
-  {
-    "id": "A1-142",
-    "name": {
-      "en": "Primeape",
-      "es": "Primeape"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "CHARIZARD"
-    ],
-    "type": "FIGHTING"
-  },
-  {
-    "id": "A1-143",
-    "name": {
-      "en": "Machop",
-      "es": "Machop"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "CHARIZARD"
-    ],
-    "type": "FIGHTING"
-  },
-  {
-    "id": "A1-144",
-    "name": {
-      "en": "Machoke",
-      "es": "Machoke"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "CHARIZARD"
-    ],
-    "type": "FIGHTING"
-  },
-  {
-    "id": "A1-145",
-    "name": {
-      "en": "Machamp",
-      "es": "Machamp"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "CHARIZARD"
-    ],
-    "type": "FIGHTING"
-  },
-  {
-    "id": "A1-146",
-    "name": {
-      "en": "Machamp ex",
-      "es": "Machamp ex"
-    },
-    "rarity": "FOUR_DIAMOND",
-    "origins": [
-      "CHARIZARD"
-    ],
-    "type": "FIGHTING"
-  },
-  {
-    "id": "A1-147",
-    "name": {
-      "en": "Geodude",
-      "es": "Geodude"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "PIKACHU"
-    ],
-    "type": "FIGHTING"
-  },
-  {
-    "id": "A1-148",
-    "name": {
-      "en": "Graveler",
-      "es": "Graveler"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "PIKACHU"
-    ],
-    "type": "FIGHTING"
-  },
-  {
-    "id": "A1-149",
-    "name": {
-      "en": "Golem",
-      "es": "Golem"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "PIKACHU"
-    ],
-    "type": "FIGHTING"
-  },
-  {
-    "id": "A1-150",
-    "name": {
-      "en": "Onix",
-      "es": "Onix"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "PIKACHU"
-    ],
-    "type": "FIGHTING"
-  },
-  {
-    "id": "A1-151",
-    "name": {
-      "en": "Cubone",
-      "es": "Cubone"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "MEWTWO"
-    ],
-    "type": "FIGHTING"
-  },
-  {
-    "id": "A1-152",
-    "name": {
-      "en": "Marowak",
-      "es": "Marowak"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "MEWTWO"
-    ],
-    "type": "FIGHTING"
-  },
-  {
-    "id": "A1-153",
-    "name": {
-      "en": "Marowak ex",
-      "es": "Marowak ex"
-    },
-    "rarity": "FOUR_DIAMOND",
-    "origins": [
-      "MEWTWO"
-    ],
-    "type": "FIGHTING"
-  },
-  {
-    "id": "A1-154",
-    "name": {
-      "en": "Hitmonlee",
-      "es": "Hitmonlee"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "MEWTWO"
-    ],
-    "type": "FIGHTING"
-  },
-  {
-    "id": "A1-155",
-    "name": {
-      "en": "Hitmonchan",
-      "es": "Hitmonchan"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "CHARIZARD"
-    ],
-    "type": "FIGHTING"
-  },
-  {
-    "id": "A1-156",
-    "name": {
-      "en": "Rhyhorn",
-      "es": "Rhyhorn"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "MEWTWO"
-    ],
-    "type": "FIGHTING"
-  },
-  {
-    "id": "A1-157",
-    "name": {
-      "en": "Rhydon",
-      "es": "Rhydon"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "MEWTWO"
-    ],
-    "type": "FIGHTING"
-  },
-  {
-    "id": "A1-158",
-    "name": {
-      "en": "Kabuto",
-      "es": "Kabuto"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "CHARIZARD"
-    ],
-    "type": "FIGHTING"
-  },
-  {
-    "id": "A1-159",
-    "name": {
-      "en": "Kabutops",
-      "es": "Kabutops"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "CHARIZARD"
-    ],
-    "type": "FIGHTING"
-  },
-  {
-    "id": "A1-160",
-    "name": {
-      "en": "Mienfoo",
-      "es": "Mienfoo"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "PIKACHU"
-    ],
-    "type": "FIGHTING"
-  },
-  {
-    "id": "A1-161",
-    "name": {
-      "en": "Mienshao",
-      "es": "Mienshao"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "PIKACHU"
-    ],
-    "type": "FIGHTING"
-  },
-  {
-    "id": "A1-162",
-    "name": {
-      "en": "Clobbopus",
-      "es": "Clobbopus"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "MEWTWO",
-      "CHARIZARD",
-      "PIKACHU"
-    ],
-    "type": "FIGHTING"
-  },
-  {
-    "id": "A1-163",
-    "name": {
-      "en": "Grapploct",
-      "es": "Grapploct"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "MEWTWO",
-      "CHARIZARD",
-      "PIKACHU"
-    ],
-    "type": "FIGHTING"
-  },
-  {
-    "id": "A1-164",
-    "name": {
-      "en": "Ekans",
-      "es": "Ekans"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "MEWTWO",
-      "CHARIZARD",
-      "PIKACHU"
-    ],
-    "type": "DARKNESS"
-  },
-  {
-    "id": "A1-165",
-    "name": {
-      "en": "Arbok",
-      "es": "Arbok"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "MEWTWO",
-      "CHARIZARD",
-      "PIKACHU"
-    ],
-    "type": "DARKNESS"
-  },
-  {
-    "id": "A1-166",
-    "name": {
-      "en": "Nidoran♀",
-      "es": "Nidoran♀"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "PIKACHU"
-    ],
-    "type": "DARKNESS"
-  },
-  {
-    "id": "A1-167",
-    "name": {
-      "en": "Nidorina",
-      "es": "Nidorina"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "PIKACHU"
-    ],
-    "type": "DARKNESS"
-  },
-  {
-    "id": "A1-168",
-    "name": {
-      "en": "Nidoqueen",
-      "es": "Nidoqueen"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "PIKACHU"
-    ],
-    "type": "DARKNESS"
-  },
-  {
-    "id": "A1-169",
-    "name": {
-      "en": "Nidoran♂",
-      "es": "Nidoran♂"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "PIKACHU"
-    ],
-    "type": "DARKNESS"
-  },
-  {
-    "id": "A1-170",
-    "name": {
-      "en": "Nidorino",
-      "es": "Nidorino"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "PIKACHU"
-    ],
-    "type": "DARKNESS"
-  },
-  {
-    "id": "A1-171",
-    "name": {
-      "en": "Nidoking",
-      "es": "Nidoking"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "PIKACHU"
-    ],
-    "type": "DARKNESS"
-  },
-  {
-    "id": "A1-172",
-    "name": {
-      "en": "Zubat",
-      "es": "Zubat"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "MEWTWO"
-    ],
-    "type": "DARKNESS"
-  },
-  {
-    "id": "A1-173",
-    "name": {
-      "en": "Golbat",
-      "es": "Golbat"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "MEWTWO"
-    ],
-    "type": "DARKNESS"
-  },
-  {
-    "id": "A1-174",
-    "name": {
-      "en": "Grimer",
-      "es": "Grimer"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "MEWTWO"
-    ],
-    "type": "DARKNESS"
-  },
-  {
-    "id": "A1-175",
-    "name": {
-      "en": "Muk",
-      "es": "Muk"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "MEWTWO"
-    ],
-    "type": "DARKNESS"
-  },
-  {
-    "id": "A1-176",
-    "name": {
-      "en": "Koffing",
-      "es": "Koffing"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "MEWTWO"
-    ],
-    "type": "DARKNESS"
-  },
-  {
-    "id": "A1-177",
-    "name": {
-      "en": "Weezing",
-      "es": "Weezing"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "MEWTWO"
-    ],
-    "type": "DARKNESS"
-  },
-  {
-    "id": "A1-178",
-    "name": {
-      "en": "Mawile",
-      "es": "Mawile"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "CHARIZARD"
-    ],
-    "type": "METAL"
-  },
-  {
-    "id": "A1-179",
-    "name": {
-      "en": "Pawniard",
-      "es": "Pawniard"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "MEWTWO",
-      "CHARIZARD",
-      "PIKACHU"
-    ],
-    "type": "METAL"
-  },
-  {
-    "id": "A1-180",
-    "name": {
-      "en": "Bisharp",
-      "es": "Bisharp"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "MEWTWO",
-      "CHARIZARD",
-      "PIKACHU"
-    ],
-    "type": "METAL"
-  },
-  {
-    "id": "A1-181",
-    "name": {
-      "en": "Meltan",
-      "es": "Meltan"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "CHARIZARD"
-    ],
-    "type": "METAL"
-  },
-  {
-    "id": "A1-182",
-    "name": {
-      "en": "Melmetal",
-      "es": "Melmetal"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "CHARIZARD"
-    ],
-    "type": "METAL"
-  },
-  {
-    "id": "A1-183",
-    "name": {
-      "en": "Dratini",
-      "es": "Dratini"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "MEWTWO"
-    ],
-    "type": "DRAGON"
-  },
-  {
-    "id": "A1-184",
-    "name": {
-      "en": "Dragonair",
-      "es": "Dragonair"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "MEWTWO"
-    ],
-    "type": "DRAGON"
-  },
-  {
-    "id": "A1-185",
-    "name": {
-      "en": "Dragonite",
-      "es": "Dragonite"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "MEWTWO"
-    ],
-    "type": "DRAGON"
-  },
-  {
-    "id": "A1-186",
-    "name": {
-      "en": "Pidgey",
-      "es": "Pidgey"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "MEWTWO"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "A1-187",
-    "name": {
-      "en": "Pidgeotto",
-      "es": "Pidgeotto"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "MEWTWO"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "A1-188",
-    "name": {
-      "en": "Pidgeot",
-      "es": "Pidgeot"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "MEWTWO"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "A1-189",
-    "name": {
-      "en": "Rattata",
-      "es": "Rattata"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "MEWTWO",
-      "CHARIZARD",
-      "PIKACHU"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "A1-190",
-    "name": {
-      "en": "Raticate",
-      "es": "Raticate"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "MEWTWO",
-      "CHARIZARD",
-      "PIKACHU"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "A1-191",
-    "name": {
-      "en": "Spearow",
-      "es": "Spearow"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "CHARIZARD"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "A1-192",
-    "name": {
-      "en": "Fearow",
-      "es": "Fearow"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "CHARIZARD"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "A1-193",
-    "name": {
-      "en": "Jigglypuff",
-      "es": "Jigglypuff"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "PIKACHU"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "A1-194",
-    "name": {
-      "en": "Wigglytuff",
-      "es": "Wigglytuff"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "PIKACHU"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "A1-195",
-    "name": {
-      "en": "Wigglytuff ex",
-      "es": "Wigglytuff ex"
-    },
-    "rarity": "FOUR_DIAMOND",
-    "origins": [
-      "PIKACHU"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "A1-196",
-    "name": {
-      "en": "Meowth",
-      "es": "Meowth"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "CHARIZARD"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "A1-197",
-    "name": {
-      "en": "Persian",
-      "es": "Persian"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "CHARIZARD"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "A1-198",
-    "name": {
-      "en": "Farfetch\u0027d",
-      "es": "Farfetch\u0027d"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "MEWTWO",
-      "CHARIZARD",
-      "PIKACHU"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "A1-199",
-    "name": {
-      "en": "Doduo",
-      "es": "Doduo"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "MEWTWO",
-      "CHARIZARD",
-      "PIKACHU"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "A1-200",
-    "name": {
-      "en": "Dodrio",
-      "es": "Dodrio"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "MEWTWO",
-      "CHARIZARD",
-      "PIKACHU"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "A1-201",
-    "name": {
-      "en": "Lickitung",
-      "es": "Lickitung"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "MEWTWO"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "A1-202",
-    "name": {
-      "en": "Chansey",
-      "es": "Chansey"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "PIKACHU"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "A1-203",
-    "name": {
-      "en": "Kangaskhan",
-      "es": "Kangaskhan"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "CHARIZARD"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "A1-204",
-    "name": {
-      "en": "Tauros",
-      "es": "Tauros"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "CHARIZARD"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "A1-205",
-    "name": {
-      "en": "Ditto",
-      "es": "Ditto"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "MEWTWO"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "A1-206",
-    "name": {
-      "en": "Eevee",
-      "es": "Eevee"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "CHARIZARD"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "A1-207",
-    "name": {
-      "en": "Eevee",
-      "es": "Eevee"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "MEWTWO"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "A1-208",
-    "name": {
-      "en": "Eevee",
-      "es": "Eevee"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "PIKACHU"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "A1-209",
-    "name": {
-      "en": "Porygon",
-      "es": "Porygon"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "MEWTWO"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "A1-210",
-    "name": {
-      "en": "Aerodactyl",
-      "es": "Aerodactyl"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "MEWTWO"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "A1-211",
-    "name": {
-      "en": "Snorlax",
-      "es": "Snorlax"
-    },
-    "rarity": "THREE_DIAMOND",
-    "origins": [
-      "PIKACHU"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "A1-212",
-    "name": {
-      "en": "Minccino",
-      "es": "Minccino"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "MEWTWO",
-      "CHARIZARD",
-      "PIKACHU"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "A1-213",
-    "name": {
-      "en": "Cinccino",
-      "es": "Cinccino"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "MEWTWO",
-      "CHARIZARD",
-      "PIKACHU"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "A1-214",
-    "name": {
-      "en": "Wooloo",
-      "es": "Wooloo"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "MEWTWO",
-      "CHARIZARD",
-      "PIKACHU"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "A1-215",
-    "name": {
-      "en": "Dubwool",
-      "es": "Dubwool"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "MEWTWO",
-      "CHARIZARD",
-      "PIKACHU"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "A1-216",
-    "name": {
-      "en": "Helix Fossil",
-      "es": "Fósil Hélix"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "PIKACHU"
-    ],
-    "type": "TRAINER"
-  },
-  {
-    "id": "A1-217",
-    "name": {
-      "en": "Dome Fossil",
-      "es": "Fósil Domo"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "CHARIZARD"
-    ],
-    "type": "TRAINER"
-  },
-  {
-    "id": "A1-218",
-    "name": {
-      "en": "Old Amber",
-      "es": "Ámbar Viejo"
-    },
-    "rarity": "ONE_DIAMOND",
-    "origins": [
-      "MEWTWO"
-    ],
-    "type": "TRAINER"
-  },
-  {
-    "id": "A1-219",
-    "name": {
-      "en": "Erika",
-      "es": "Erika"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "CHARIZARD"
-    ],
-    "type": "TRAINER"
-  },
-  {
-    "id": "A1-220",
-    "name": {
-      "en": "Misty",
-      "es": "Misty"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "PIKACHU"
-    ],
-    "type": "TRAINER"
-  },
-  {
-    "id": "A1-221",
-    "name": {
-      "en": "Blaine",
-      "es": "Blaine"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "CHARIZARD"
-    ],
-    "type": "TRAINER"
-  },
-  {
-    "id": "A1-222",
-    "name": {
-      "en": "Koga",
-      "es": "Koga"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "MEWTWO"
-    ],
-    "type": "TRAINER"
-  },
-  {
-    "id": "A1-223",
-    "name": {
-      "en": "Giovanni",
-      "es": "Giovanni"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "MEWTWO"
-    ],
-    "type": "TRAINER"
-  },
-  {
-    "id": "A1-224",
-    "name": {
-      "en": "Brock",
-      "es": "Brock"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "PIKACHU"
-    ],
-    "type": "TRAINER"
-  },
-  {
-    "id": "A1-225",
-    "name": {
-      "en": "Sabrina",
-      "es": "Sabrina"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "CHARIZARD"
-    ],
-    "type": "TRAINER"
-  },
-  {
-    "id": "A1-226",
-    "name": {
-      "en": "Lt. Surge",
-      "es": "Teniente Surge"
-    },
-    "rarity": "TWO_DIAMOND",
-    "origins": [
-      "PIKACHU"
-    ],
-    "type": "TRAINER"
-  },
-  {
-    "id": "A1-227",
-    "name": {
-      "en": "Bulbasaur",
-      "es": "Bulbasaur"
-    },
-    "rarity": "ONE_STAR",
-    "origins": [
-      "MEWTWO"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "A1-228",
-    "name": {
-      "en": "Gloom",
-      "es": "Gloom"
-    },
-    "rarity": "ONE_STAR",
-    "origins": [
-      "CHARIZARD"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "A1-229",
-    "name": {
-      "en": "Pinsir",
-      "es": "Pinsir"
-    },
-    "rarity": "ONE_STAR",
-    "origins": [
-      "CHARIZARD"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "A1-230",
-    "name": {
-      "en": "Charmander",
-      "es": "Charmander"
-    },
-    "rarity": "ONE_STAR",
-    "origins": [
-      "CHARIZARD"
-    ],
-    "type": "FIRE"
-  },
-  {
-    "id": "A1-231",
-    "name": {
-      "en": "Rapidash",
-      "es": "Rapidash"
-    },
-    "rarity": "ONE_STAR",
-    "origins": [
-      "CHARIZARD"
-    ],
-    "type": "FIRE"
-  },
-  {
-    "id": "A1-232",
-    "name": {
-      "en": "Squirtle",
-      "es": "Squirtle"
-    },
-    "rarity": "ONE_STAR",
-    "origins": [
-      "PIKACHU"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A1-233",
-    "name": {
-      "en": "Gyarados",
-      "es": "Gyarados"
-    },
-    "rarity": "ONE_STAR",
-    "origins": [
-      "PIKACHU"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A1-234",
-    "name": {
-      "en": "Lapras",
-      "es": "Lapras"
-    },
-    "rarity": "ONE_STAR",
-    "origins": [
-      "CHARIZARD"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A1-235",
-    "name": {
-      "en": "Electrode",
-      "es": "Electrode"
-    },
-    "rarity": "ONE_STAR",
-    "origins": [
-      "PIKACHU"
-    ],
-    "type": "LIGHTNING"
-  },
-  {
-    "id": "A1-236",
-    "name": {
-      "en": "Alakazam",
-      "es": "Alakazam"
-    },
-    "rarity": "ONE_STAR",
-    "origins": [
-      "CHARIZARD"
-    ],
-    "type": "PSYCHIC"
-  },
-  {
-    "id": "A1-237",
-    "name": {
-      "en": "Slowpoke",
-      "es": "Slowpoke"
-    },
-    "rarity": "ONE_STAR",
-    "origins": [
-      "CHARIZARD"
-    ],
-    "type": "PSYCHIC"
-  },
-  {
-    "id": "A1-238",
-    "name": {
-      "en": "Diglett",
-      "es": "Diglett"
-    },
-    "rarity": "ONE_STAR",
-    "origins": [
-      "PIKACHU"
-    ],
-    "type": "FIGHTING"
-  },
-  {
-    "id": "A1-239",
-    "name": {
-      "en": "Cubone",
-      "es": "Cubone"
-    },
-    "rarity": "ONE_STAR",
-    "origins": [
-      "MEWTWO"
-    ],
-    "type": "FIGHTING"
-  },
-  {
-    "id": "A1-240",
-    "name": {
-      "en": "Nidoqueen",
-      "es": "Nidoqueen"
-    },
-    "rarity": "ONE_STAR",
-    "origins": [
-      "PIKACHU"
-    ],
-    "type": "DARKNESS"
-  },
-  {
-    "id": "A1-241",
-    "name": {
-      "en": "Nidoking",
-      "es": "Nidoking"
-    },
-    "rarity": "ONE_STAR",
-    "origins": [
-      "PIKACHU"
-    ],
-    "type": "DARKNESS"
-  },
-  {
-    "id": "A1-242",
-    "name": {
-      "en": "Golbat",
-      "es": "Golbat"
-    },
-    "rarity": "ONE_STAR",
-    "origins": [
-      "MEWTWO"
-    ],
-    "type": "DARKNESS"
-  },
-  {
-    "id": "A1-243",
-    "name": {
-      "en": "Weezing",
-      "es": "Weezing"
-    },
-    "rarity": "ONE_STAR",
-    "origins": [
-      "MEWTWO"
-    ],
-    "type": "DARKNESS"
-  },
-  {
-    "id": "A1-244",
-    "name": {
-      "en": "Dragonite",
-      "es": "Dragonite"
-    },
-    "rarity": "ONE_STAR",
-    "origins": [
-      "MEWTWO"
-    ],
-    "type": "DRAGON"
-  },
-  {
-    "id": "A1-245",
-    "name": {
-      "en": "Pidgeot",
-      "es": "Pidgeot"
-    },
-    "rarity": "ONE_STAR",
-    "origins": [
-      "MEWTWO"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "A1-246",
-    "name": {
-      "en": "Meowth",
-      "es": "Meowth"
-    },
-    "rarity": "ONE_STAR",
-    "origins": [
-      "CHARIZARD"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "A1-247",
-    "name": {
-      "en": "Ditto",
-      "es": "Ditto"
-    },
-    "rarity": "ONE_STAR",
-    "origins": [
-      "MEWTWO"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "A1-248",
-    "name": {
-      "en": "Eevee",
-      "es": "Eevee"
-    },
-    "rarity": "ONE_STAR",
-    "origins": [
-      "PIKACHU"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "A1-249",
-    "name": {
-      "en": "Porygon",
-      "es": "Porygon"
-    },
-    "rarity": "ONE_STAR",
-    "origins": [
-      "MEWTWO"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "A1-250",
-    "name": {
-      "en": "Snorlax",
-      "es": "Snorlax"
-    },
-    "rarity": "ONE_STAR",
-    "origins": [
-      "PIKACHU"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "A1-251",
-    "name": {
-      "en": "Venusaur ex",
-      "es": "Venusaur ex"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "MEWTWO"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "A1-252",
-    "name": {
-      "en": "Exeggutor ex",
-      "es": "Exeggutor ex"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "CHARIZARD"
-    ],
-    "type": "GRASS"
-  },
-  {
-    "id": "A1-253",
-    "name": {
-      "en": "Charizard ex",
-      "es": "Charizard ex"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "CHARIZARD"
-    ],
-    "type": "FIRE"
-  },
-  {
-    "id": "A1-254",
-    "name": {
-      "en": "Arcanine ex",
-      "es": "Arcanine ex"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "PIKACHU"
-    ],
-    "type": "FIRE"
-  },
-  {
-    "id": "A1-255",
-    "name": {
-      "en": "Moltres ex",
-      "es": "Moltres ex"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "CHARIZARD"
-    ],
-    "type": "FIRE"
-  },
-  {
-    "id": "A1-256",
-    "name": {
-      "en": "Blastoise ex",
-      "es": "Blastoise ex"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "PIKACHU"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A1-257",
-    "name": {
-      "en": "Starmie ex",
-      "es": "Starmie ex"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "CHARIZARD"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A1-258",
-    "name": {
-      "en": "Articuno ex",
-      "es": "Articuno ex"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "MEWTWO"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A1-259",
-    "name": {
-      "en": "Pikachu ex",
-      "es": "Pikachu ex"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "PIKACHU"
-    ],
-    "type": "LIGHTNING"
-  },
-  {
-    "id": "A1-260",
-    "name": {
-      "en": "Zapdos ex",
-      "es": "Zapdos ex"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "PIKACHU"
-    ],
-    "type": "LIGHTNING"
-  },
-  {
-    "id": "A1-261",
-    "name": {
-      "en": "Gengar ex",
-      "es": "Gengar ex"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "MEWTWO"
-    ],
-    "type": "PSYCHIC"
-  },
-  {
-    "id": "A1-262",
-    "name": {
-      "en": "Mewtwo ex",
-      "es": "Mewtwo ex"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "MEWTWO"
-    ],
-    "type": "PSYCHIC"
-  },
-  {
-    "id": "A1-263",
-    "name": {
-      "en": "Machamp ex",
-      "es": "Machamp ex"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "CHARIZARD"
-    ],
-    "type": "FIGHTING"
-  },
-  {
-    "id": "A1-264",
-    "name": {
-      "en": "Marowak ex",
-      "es": "Marowak ex"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "MEWTWO"
-    ],
-    "type": "FIGHTING"
-  },
-  {
-    "id": "A1-265",
-    "name": {
-      "en": "Wigglytuff ex",
-      "es": "Wigglytuff ex"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "PIKACHU"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "A1-266",
-    "name": {
-      "en": "Erika",
-      "es": "Erika"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "CHARIZARD"
-    ],
-    "type": "TRAINER"
-  },
-  {
-    "id": "A1-267",
-    "name": {
-      "en": "Misty",
-      "es": "Misty"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "PIKACHU"
-    ],
-    "type": "TRAINER"
-  },
-  {
-    "id": "A1-268",
-    "name": {
-      "en": "Blaine",
-      "es": "Blaine"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "CHARIZARD"
-    ],
-    "type": "TRAINER"
-  },
-  {
-    "id": "A1-269",
-    "name": {
-      "en": "Koga",
-      "es": "Koga"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "MEWTWO"
-    ],
-    "type": "TRAINER"
-  },
-  {
-    "id": "A1-270",
-    "name": {
-      "en": "Giovanni",
-      "es": "Giovanni"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "MEWTWO"
-    ],
-    "type": "TRAINER"
-  },
-  {
-    "id": "A1-271",
-    "name": {
-      "en": "Brock",
-      "es": "Brock"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "PIKACHU"
-    ],
-    "type": "TRAINER"
-  },
-  {
-    "id": "A1-272",
-    "name": {
-      "en": "Sabrina",
-      "es": "Sabrina"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "CHARIZARD"
-    ],
-    "type": "TRAINER"
-  },
-  {
-    "id": "A1-273",
-    "name": {
-      "en": "Lt. Surge",
-      "es": "Teniente Surge"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "PIKACHU"
-    ],
-    "type": "TRAINER"
-  },
-  {
-    "id": "A1-274",
-    "name": {
-      "en": "Moltres ex",
-      "es": "Moltres ex"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "CHARIZARD"
-    ],
-    "type": "FIRE"
-  },
-  {
-    "id": "A1-275",
-    "name": {
-      "en": "Articuno ex",
-      "es": "Articuno ex"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "MEWTWO"
-    ],
-    "type": "WATER"
-  },
-  {
-    "id": "A1-276",
-    "name": {
-      "en": "Zapdos ex",
-      "es": "Zapdos ex"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "PIKACHU"
-    ],
-    "type": "LIGHTNING"
-  },
-  {
-    "id": "A1-277",
-    "name": {
-      "en": "Gengar ex",
-      "es": "Gengar ex"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "MEWTWO"
-    ],
-    "type": "PSYCHIC"
-  },
-  {
-    "id": "A1-278",
-    "name": {
-      "en": "Machamp ex",
-      "es": "Machamp ex"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "CHARIZARD"
-    ],
-    "type": "FIGHTING"
-  },
-  {
-    "id": "A1-279",
-    "name": {
-      "en": "Wigglytuff ex",
-      "es": "Wigglytuff ex"
-    },
-    "rarity": "TWO_STAR",
-    "origins": [
-      "PIKACHU"
-    ],
-    "type": "COLORLESS"
-  },
-  {
-    "id": "A1-280",
-    "name": {
-      "en": "Charizard ex",
-      "es": "Charizard ex"
-    },
-    "rarity": "THREE_STAR",
-    "origins": [
-      "CHARIZARD"
-    ],
-    "type": "FIRE"
-  },
-  {
-    "id": "A1-281",
-    "name": {
-      "en": "Pikachu ex",
-      "es": "Pikachu ex"
-    },
-    "rarity": "THREE_STAR",
-    "origins": [
-      "PIKACHU"
-    ],
-    "type": "LIGHTNING"
-  },
-  {
-    "id": "A1-282",
-    "name": {
-      "en": "Mewtwo ex",
-      "es": "Mewtwo ex"
-    },
-    "rarity": "THREE_STAR",
-    "origins": [
-      "MEWTWO"
-    ],
-    "type": "PSYCHIC"
-  },
-  {
-    "id": "A1-283",
-    "name": {
-      "en": "Mew",
-      "es": "Mew"
-    },
-    "rarity": "THREE_STAR",
-    "origins": [
-      "NONE"
-    ],
-    "type": "PSYCHIC"
-  },
-  {
-    "id": "A1-284",
-    "name": {
-      "en": "Charizard ex",
-      "es": "Charizard ex"
-    },
-    "rarity": "CROWN",
-    "origins": [
-      "MEWTWO",
-      "CHARIZARD",
-      "PIKACHU"
-    ],
-    "type": "FIRE"
-  },
-  {
-    "id": "A1-285",
-    "name": {
-      "en": "Pikachu ex",
-      "es": "Pikachu ex"
-    },
-    "rarity": "CROWN",
-    "origins": [
-      "MEWTWO",
-      "CHARIZARD",
-      "PIKACHU"
-    ],
-    "type": "LIGHTNING"
-  },
-  {
-    "id": "A1-286",
-    "name": {
-      "en": "Mewtwo ex",
-      "es": "Mewtwo ex"
-    },
-    "rarity": "CROWN",
-    "origins": [
-      "MEWTWO",
-      "CHARIZARD",
-      "PIKACHU"
-    ],
-    "type": "PSYCHIC"
-  }
+    {
+        "id": "A1-001",
+        "name": {
+            "en": "Bulbasaur",
+            "es": "Bulbasaur"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEWTWO"
+        ],
+        "type": "GRASS",
+        "hash": "11d45cd2f9cbe42c44"
+    },
+    {
+        "id": "A1-002",
+        "name": {
+            "en": "Ivysaur",
+            "es": "Ivysaur"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEWTWO"
+        ],
+        "type": "GRASS",
+        "hash": "21af1d84d99d6ad160"
+    },
+    {
+        "id": "A1-003",
+        "name": {
+            "en": "Venusaur",
+            "es": "Venusaur"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "MEWTWO"
+        ],
+        "type": "GRASS",
+        "hash": "31949cf79e494562e2"
+    },
+    {
+        "id": "A1-004",
+        "name": {
+            "en": "Venusaur ex",
+            "es": "Venusaur ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "MEWTWO"
+        ],
+        "type": "GRASS",
+        "hash": "41ce97984d574412f9"
+    },
+    {
+        "id": "A1-005",
+        "name": {
+            "en": "Caterpie",
+            "es": "Caterpie"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "PIKACHU"
+        ],
+        "type": "GRASS",
+        "hash": "1185872bcab42cceb6"
+    },
+    {
+        "id": "A1-006",
+        "name": {
+            "en": "Metapod",
+            "es": "Metapod"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "PIKACHU"
+        ],
+        "type": "GRASS",
+        "hash": "11dfb08463e8fdc0c1"
+    },
+    {
+        "id": "A1-007",
+        "name": {
+            "en": "Butterfree",
+            "es": "Butterfree"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "PIKACHU"
+        ],
+        "type": "GRASS",
+        "hash": "31c415dbee62245ce9"
+    },
+    {
+        "id": "A1-008",
+        "name": {
+            "en": "Weedle",
+            "es": "Weedle"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEWTWO"
+        ],
+        "type": "GRASS",
+        "hash": "11ebc91cccd064cbb2"
+    },
+    {
+        "id": "A1-009",
+        "name": {
+            "en": "Kakuna",
+            "es": "Kakuna"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEWTWO"
+        ],
+        "type": "GRASS",
+        "hash": "1198432ffe64c5c2c5"
+    },
+    {
+        "id": "A1-010",
+        "name": {
+            "en": "Beedrill",
+            "es": "Beedrill"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "MEWTWO"
+        ],
+        "type": "GRASS",
+        "hash": "31a83fb5c29c48c66d"
+    },
+    {
+        "id": "A1-011",
+        "name": {
+            "en": "Oddish",
+            "es": "Oddish"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "CHARIZARD"
+        ],
+        "type": "GRASS",
+        "hash": "118cc752315d5a6739"
+    },
+    {
+        "id": "A1-012",
+        "name": {
+            "en": "Gloom",
+            "es": "Gloom"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "CHARIZARD"
+        ],
+        "type": "GRASS",
+        "hash": "21d186ecc099d53c3b"
+    },
+    {
+        "id": "A1-013",
+        "name": {
+            "en": "Vileplume",
+            "es": "Vileplume"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "CHARIZARD"
+        ],
+        "type": "GRASS",
+        "hash": "31e66a9db54188ccd9"
+    },
+    {
+        "id": "A1-014",
+        "name": {
+            "en": "Paras",
+            "es": "Paras"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "PIKACHU"
+        ],
+        "type": "GRASS",
+        "hash": "11abc46cb679190ea5"
+    },
+    {
+        "id": "A1-015",
+        "name": {
+            "en": "Parasect",
+            "es": "Parasect"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "PIKACHU"
+        ],
+        "type": "GRASS",
+        "hash": "21e18f4d69e27689c8"
+    },
+    {
+        "id": "A1-016",
+        "name": {
+            "en": "Venonat",
+            "es": "Venonat"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEWTWO"
+        ],
+        "type": "GRASS",
+        "hash": "11d22d4972c6e3ca6a"
+    },
+    {
+        "id": "A1-017",
+        "name": {
+            "en": "Venomoth",
+            "es": "Venomoth"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEWTWO"
+        ],
+        "type": "GRASS",
+        "hash": "2191f4fce049860f8f"
+    },
+    {
+        "id": "A1-018",
+        "name": {
+            "en": "Bellsprout",
+            "es": "Bellsprout"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "CHARIZARD"
+        ],
+        "type": "GRASS",
+        "hash": "11f5d6ab0a92260e3e"
+    },
+    {
+        "id": "A1-019",
+        "name": {
+            "en": "Weepinbell",
+            "es": "Weepinbell"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "CHARIZARD"
+        ],
+        "type": "GRASS",
+        "hash": "21cdd874c4c66958ce"
+    },
+    {
+        "id": "A1-020",
+        "name": {
+            "en": "Victreebel",
+            "es": "Victreebel"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "CHARIZARD"
+        ],
+        "type": "GRASS",
+        "hash": "31de863b8fe09e6a80"
+    },
+    {
+        "id": "A1-021",
+        "name": {
+            "en": "Exeggcute",
+            "es": "Exeggcute"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "CHARIZARD"
+        ],
+        "type": "GRASS",
+        "hash": "11919c69cf0af12d66"
+    },
+    {
+        "id": "A1-022",
+        "name": {
+            "en": "Exeggutor",
+            "es": "Exeggutor"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "CHARIZARD"
+        ],
+        "type": "GRASS",
+        "hash": "3193b47cae80c4dadc"
+    },
+    {
+        "id": "A1-023",
+        "name": {
+            "en": "Exeggutor ex",
+            "es": "Exeggutor ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "CHARIZARD"
+        ],
+        "type": "GRASS",
+        "hash": "41e61e6a79419ac5c6"
+    },
+    {
+        "id": "A1-024",
+        "name": {
+            "en": "Tangela",
+            "es": "Tangela"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "CHARIZARD"
+        ],
+        "type": "GRASS",
+        "hash": "11b7f2c9acc8465d28"
+    },
+    {
+        "id": "A1-025",
+        "name": {
+            "en": "Scyther",
+            "es": "Scyther"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEWTWO"
+        ],
+        "type": "GRASS",
+        "hash": "11a5c7158c152b4fda"
+    },
+    {
+        "id": "A1-026",
+        "name": {
+            "en": "Pinsir",
+            "es": "Pinsir"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEWTWO",
+            "CHARIZARD",
+            "PIKACHU"
+        ],
+        "type": "GRASS",
+        "hash": "21c7c849a73bd6212e"
+    },
+    {
+        "id": "A1-027",
+        "name": {
+            "en": "Cottonee",
+            "es": "Cottonee"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEWTWO",
+            "CHARIZARD",
+            "PIKACHU"
+        ],
+        "type": "GRASS",
+        "hash": "118ae2259e724b6bac"
+    },
+    {
+        "id": "A1-028",
+        "name": {
+            "en": "Whimsicott",
+            "es": "Whimsicott"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEWTWO",
+            "CHARIZARD",
+            "PIKACHU"
+        ],
+        "type": "GRASS",
+        "hash": "21a38898a47df31a1f"
+    },
+    {
+        "id": "A1-029",
+        "name": {
+            "en": "Petilil",
+            "es": "Petilil"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEWTWO",
+            "CHARIZARD",
+            "PIKACHU"
+        ],
+        "type": "GRASS",
+        "hash": "11ccf2f3bd890e44c2"
+    },
+    {
+        "id": "A1-030",
+        "name": {
+            "en": "Lilligant",
+            "es": "Lilligant"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEWTWO",
+            "CHARIZARD",
+            "PIKACHU"
+        ],
+        "type": "GRASS",
+        "hash": "21959617e2b8d87986"
+    },
+    {
+        "id": "A1-031",
+        "name": {
+            "en": "Skiddo",
+            "es": "Skiddo"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "CHARIZARD"
+        ],
+        "type": "GRASS",
+        "hash": "11e8d2d3312bc6f0ca"
+    },
+    {
+        "id": "A1-032",
+        "name": {
+            "en": "Gogoat",
+            "es": "Gogoat"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "CHARIZARD"
+        ],
+        "type": "GRASS",
+        "hash": "11e6c2cd65689db382"
+    },
+    {
+        "id": "A1-033",
+        "name": {
+            "en": "Charmander",
+            "es": "Charmander"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "CHARIZARD"
+        ],
+        "type": "FIRE",
+        "hash": "11944ea74d2fe644c3"
+    },
+    {
+        "id": "A1-034",
+        "name": {
+            "en": "Charmeleon",
+            "es": "Charmeleon"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "CHARIZARD"
+        ],
+        "type": "FIRE",
+        "hash": "21939e9ece6ce0922c"
+    },
+    {
+        "id": "A1-035",
+        "name": {
+            "en": "Charizard",
+            "es": "Charizard"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "CHARIZARD"
+        ],
+        "type": "FIRE",
+        "hash": "31f938f4c0dacc079c"
+    },
+    {
+        "id": "A1-036",
+        "name": {
+            "en": "Charizard ex",
+            "es": "Charizard ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "CHARIZARD"
+        ],
+        "type": "FIRE",
+        "hash": "41cab5a56a493c9653"
+    },
+    {
+        "id": "A1-037",
+        "name": {
+            "en": "Vulpix",
+            "es": "Vulpix"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "CHARIZARD"
+        ],
+        "type": "FIRE",
+        "hash": "11b7f65581e1fa0a81"
+    },
+    {
+        "id": "A1-038",
+        "name": {
+            "en": "Ninetales",
+            "es": "Ninetales"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "CHARIZARD"
+        ],
+        "type": "FIRE",
+        "hash": "2187f97a8450c45ed5"
+    },
+    {
+        "id": "A1-039",
+        "name": {
+            "en": "Growlithe",
+            "es": "Growlithe"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "PIKACHU"
+        ],
+        "type": "FIRE",
+        "hash": "11e8b317ccec3acb20"
+    },
+    {
+        "id": "A1-040",
+        "name": {
+            "en": "Arcanine",
+            "es": "Arcanine"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "PIKACHU"
+        ],
+        "type": "FIRE",
+        "hash": "31f0e34694391f86ae"
+    },
+    {
+        "id": "A1-041",
+        "name": {
+            "en": "Arcanine ex",
+            "es": "Arcanine ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "PIKACHU"
+        ],
+        "type": "FIRE",
+        "hash": "41ac8367f15c2dc16a"
+    },
+    {
+        "id": "A1-042",
+        "name": {
+            "en": "Ponyta",
+            "es": "Ponyta"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEWTWO",
+            "CHARIZARD",
+            "PIKACHU"
+        ],
+        "type": "FIRE",
+        "hash": "11941c383a72dc7673"
+    },
+    {
+        "id": "A1-043",
+        "name": {
+            "en": "Rapidash",
+            "es": "Rapidash"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEWTWO",
+            "CHARIZARD",
+            "PIKACHU"
+        ],
+        "type": "FIRE",
+        "hash": "21d7e162ceda9e2184"
+    },
+    {
+        "id": "A1-044",
+        "name": {
+            "en": "Magmar",
+            "es": "Magmar"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "CHARIZARD"
+        ],
+        "type": "FIRE",
+        "hash": "11fd5887c24e2d19e2"
+    },
+    {
+        "id": "A1-045",
+        "name": {
+            "en": "Flareon",
+            "es": "Flareon"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "CHARIZARD"
+        ],
+        "type": "FIRE",
+        "hash": "31d4be5671284c6ecc"
+    },
+    {
+        "id": "A1-046",
+        "name": {
+            "en": "Moltres",
+            "es": "Moltres"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "CHARIZARD"
+        ],
+        "type": "FIRE",
+        "hash": "31de2dc338062fd20f"
+    },
+    {
+        "id": "A1-047",
+        "name": {
+            "en": "Moltres ex",
+            "es": "Moltres ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "CHARIZARD"
+        ],
+        "type": "FIRE",
+        "hash": "4189cb876ceb2a2655"
+    },
+    {
+        "id": "A1-048",
+        "name": {
+            "en": "Heatmor",
+            "es": "Heatmor"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEWTWO",
+            "CHARIZARD",
+            "PIKACHU"
+        ],
+        "type": "FIRE",
+        "hash": "11f23d0a343d737489"
+    },
+    {
+        "id": "A1-049",
+        "name": {
+            "en": "Salandit",
+            "es": "Salandit"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEWTWO"
+        ],
+        "type": "FIRE",
+        "hash": "11a7b43c018cc7c73b"
+    },
+    {
+        "id": "A1-050",
+        "name": {
+            "en": "Salazzle",
+            "es": "Salazzle"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEWTWO"
+        ],
+        "type": "FIRE",
+        "hash": "11ba89b874e49793e0"
+    },
+    {
+        "id": "A1-051",
+        "name": {
+            "en": "Sizzlipede",
+            "es": "Sizzlipede"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEWTWO",
+            "CHARIZARD",
+            "PIKACHU"
+        ],
+        "type": "FIRE",
+        "hash": "11e50b08f25b3327f4"
+    },
+    {
+        "id": "A1-052",
+        "name": {
+            "en": "Centiskorch",
+            "es": "Centiskorch"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEWTWO",
+            "CHARIZARD",
+            "PIKACHU"
+        ],
+        "type": "FIRE",
+        "hash": "21ba7fd640da68489c"
+    },
+    {
+        "id": "A1-053",
+        "name": {
+            "en": "Squirtle",
+            "es": "Squirtle"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "PIKACHU"
+        ],
+        "type": "WATER",
+        "hash": "11fbc2269a6c2579a4"
+    },
+    {
+        "id": "A1-054",
+        "name": {
+            "en": "Wartortle",
+            "es": "Wartortle"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "PIKACHU"
+        ],
+        "type": "WATER",
+        "hash": "21b6e11b8e2ed610cd"
+    },
+    {
+        "id": "A1-055",
+        "name": {
+            "en": "Blastoise",
+            "es": "Blastoise"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "PIKACHU"
+        ],
+        "type": "WATER",
+        "hash": "31a0b407781bce4f6d"
+    },
+    {
+        "id": "A1-056",
+        "name": {
+            "en": "Blastoise ex",
+            "es": "Blastoise ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "PIKACHU"
+        ],
+        "type": "WATER",
+        "hash": "419881ef3c49e88edc"
+    },
+    {
+        "id": "A1-057",
+        "name": {
+            "en": "Psyduck",
+            "es": "Psyduck"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEWTWO",
+            "CHARIZARD",
+            "PIKACHU"
+        ],
+        "type": "WATER",
+        "hash": "11d897e7b1a1789a28"
+    },
+    {
+        "id": "A1-058",
+        "name": {
+            "en": "Golduck",
+            "es": "Golduck"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEWTWO",
+            "CHARIZARD",
+            "PIKACHU"
+        ],
+        "type": "WATER",
+        "hash": "21a38c86b14e72bccd"
+    },
+    {
+        "id": "A1-059",
+        "name": {
+            "en": "Poliwag",
+            "es": "Poliwag"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "CHARIZARD"
+        ],
+        "type": "WATER",
+        "hash": "11f20f66f81f750924"
+    },
+    {
+        "id": "A1-060",
+        "name": {
+            "en": "Poliwhirl",
+            "es": "Poliwhirl"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "CHARIZARD"
+        ],
+        "type": "WATER",
+        "hash": "21e1cc46c65d5cd664"
+    },
+    {
+        "id": "A1-061",
+        "name": {
+            "en": "Poliwrath",
+            "es": "Poliwrath"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "CHARIZARD"
+        ],
+        "type": "WATER",
+        "hash": "31ade4469a1d66469d"
+    },
+    {
+        "id": "A1-062",
+        "name": {
+            "en": "Tentacool",
+            "es": "Tentacool"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEWTWO"
+        ],
+        "type": "WATER",
+        "hash": "11b1a10d459d3c6e4f"
+    },
+    {
+        "id": "A1-063",
+        "name": {
+            "en": "Tentacruel",
+            "es": "Tentacruel"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEWTWO"
+        ],
+        "type": "WATER",
+        "hash": "21c16dc4ed36b4934c"
+    },
+    {
+        "id": "A1-064",
+        "name": {
+            "en": "Seel",
+            "es": "Seel"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "PIKACHU"
+        ],
+        "type": "WATER",
+        "hash": "11f1135c67b17c4334"
+    },
+    {
+        "id": "A1-065",
+        "name": {
+            "en": "Dewgong",
+            "es": "Dewgong"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "PIKACHU"
+        ],
+        "type": "WATER",
+        "hash": "21c62c795bc5f40a4d"
+    },
+    {
+        "id": "A1-066",
+        "name": {
+            "en": "Shellder",
+            "es": "Shellder"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEWTWO"
+        ],
+        "type": "WATER",
+        "hash": "119c48ba468b478f6e"
+    },
+    {
+        "id": "A1-067",
+        "name": {
+            "en": "Cloyster",
+            "es": "Cloyster"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEWTWO"
+        ],
+        "type": "WATER",
+        "hash": "21c1f94c6c5c16ae8e"
+    },
+    {
+        "id": "A1-068",
+        "name": {
+            "en": "Krabby",
+            "es": "Krabby"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEWTWO"
+        ],
+        "type": "WATER",
+        "hash": "11aa57d0cd9ca96227"
+    },
+    {
+        "id": "A1-069",
+        "name": {
+            "en": "Kingler",
+            "es": "Kingler"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEWTWO"
+        ],
+        "type": "WATER",
+        "hash": "21cdef70d427508ea8"
+    },
+    {
+        "id": "A1-070",
+        "name": {
+            "en": "Horsea",
+            "es": "Horsea"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "PIKACHU"
+        ],
+        "type": "WATER",
+        "hash": "11fcb1824e7bc80cb3"
+    },
+    {
+        "id": "A1-071",
+        "name": {
+            "en": "Seadra",
+            "es": "Seadra"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "PIKACHU"
+        ],
+        "type": "WATER",
+        "hash": "21cdd2c094577e8c27"
+    },
+    {
+        "id": "A1-072",
+        "name": {
+            "en": "Goldeen",
+            "es": "Goldeen"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "PIKACHU"
+        ],
+        "type": "WATER",
+        "hash": "1194a91ba46a79cf92"
+    },
+    {
+        "id": "A1-073",
+        "name": {
+            "en": "Seaking",
+            "es": "Seaking"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "PIKACHU"
+        ],
+        "type": "WATER",
+        "hash": "11c6439ad17aad266c"
+    },
+    {
+        "id": "A1-074",
+        "name": {
+            "en": "Staryu",
+            "es": "Staryu"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "CHARIZARD"
+        ],
+        "type": "WATER",
+        "hash": "11f4d0fa681c9d0e8d"
+    },
+    {
+        "id": "A1-075",
+        "name": {
+            "en": "Starmie",
+            "es": "Starmie"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "CHARIZARD"
+        ],
+        "type": "WATER",
+        "hash": "21f3e488d18e897caa"
+    },
+    {
+        "id": "A1-076",
+        "name": {
+            "en": "Starmie ex",
+            "es": "Starmie ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "CHARIZARD"
+        ],
+        "type": "WATER",
+        "hash": "41bb47c08e4f39946c"
+    },
+    {
+        "id": "A1-077",
+        "name": {
+            "en": "Magikarp",
+            "es": "Magikarp"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "PIKACHU"
+        ],
+        "type": "WATER",
+        "hash": "11b24fc5381e33a1d3"
+    },
+    {
+        "id": "A1-078",
+        "name": {
+            "en": "Gyarados",
+            "es": "Gyarados"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "PIKACHU"
+        ],
+        "type": "WATER",
+        "hash": "31fc81608f0fec4fc8"
+    },
+    {
+        "id": "A1-079",
+        "name": {
+            "en": "Lapras",
+            "es": "Lapras"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "CHARIZARD"
+        ],
+        "type": "WATER",
+        "hash": "31a3b3588eca8e631d"
+    },
+    {
+        "id": "A1-080",
+        "name": {
+            "en": "Vaporeon",
+            "es": "Vaporeon"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "MEWTWO"
+        ],
+        "type": "WATER",
+        "hash": "3191387e4eccebca44"
+    },
+    {
+        "id": "A1-081",
+        "name": {
+            "en": "Omanyte",
+            "es": "Omanyte"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "PIKACHU"
+        ],
+        "type": "WATER",
+        "hash": "21d8c8e9e3270f985a"
+    },
+    {
+        "id": "A1-082",
+        "name": {
+            "en": "Omastar",
+            "es": "Omastar"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "PIKACHU"
+        ],
+        "type": "WATER",
+        "hash": "31cddd74ec4be14c02"
+    },
+    {
+        "id": "A1-083",
+        "name": {
+            "en": "Articuno",
+            "es": "Articuno"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "MEWTWO"
+        ],
+        "type": "WATER",
+        "hash": "31da5892ee8d07790d"
+    },
+    {
+        "id": "A1-084",
+        "name": {
+            "en": "Articuno ex",
+            "es": "Articuno ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "MEWTWO"
+        ],
+        "type": "WATER",
+        "hash": "41ebcfa1180ab64bb2"
+    },
+    {
+        "id": "A1-085",
+        "name": {
+            "en": "Ducklett",
+            "es": "Ducklett"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "CHARIZARD"
+        ],
+        "type": "WATER",
+        "hash": "11c499223d5a39ed71"
+    },
+    {
+        "id": "A1-086",
+        "name": {
+            "en": "Swanna",
+            "es": "Swanna"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "CHARIZARD"
+        ],
+        "type": "WATER",
+        "hash": "21d043717c4c7c8ec7"
+    },
+    {
+        "id": "A1-087",
+        "name": {
+            "en": "Froakie",
+            "es": "Froakie"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "CHARIZARD"
+        ],
+        "type": "WATER",
+        "hash": "119eca653216d943b5"
+    },
+    {
+        "id": "A1-088",
+        "name": {
+            "en": "Frogadier",
+            "es": "Frogadier"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "CHARIZARD"
+        ],
+        "type": "WATER",
+        "hash": "21e4075ce01fcc0dde"
+    },
+    {
+        "id": "A1-089",
+        "name": {
+            "en": "Greninja",
+            "es": "Greninja"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "CHARIZARD"
+        ],
+        "type": "WATER",
+        "hash": "31d2e2889947c8cf3b"
+    },
+    {
+        "id": "A1-090",
+        "name": {
+            "en": "Pyukumuku",
+            "es": "Pyukumuku"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "CHARIZARD"
+        ],
+        "type": "WATER",
+        "hash": "119e900c61a9c7d57e"
+    },
+    {
+        "id": "A1-091",
+        "name": {
+            "en": "Bruxish",
+            "es": "Bruxish"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEWTWO",
+            "CHARIZARD",
+            "PIKACHU"
+        ],
+        "type": "WATER",
+        "hash": "21e11ae6499ab614bd"
+    },
+    {
+        "id": "A1-092",
+        "name": {
+            "en": "Snom",
+            "es": "Snom"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEWTWO",
+            "CHARIZARD",
+            "PIKACHU"
+        ],
+        "type": "WATER",
+        "hash": "119d8d33fc9920cb07"
+    },
+    {
+        "id": "A1-093",
+        "name": {
+            "en": "Frosmoth",
+            "es": "Frosmoth"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEWTWO",
+            "CHARIZARD",
+            "PIKACHU"
+        ],
+        "type": "WATER",
+        "hash": "2185bd6a6b78c852cc"
+    },
+    {
+        "id": "A1-094",
+        "name": {
+            "en": "Pikachu",
+            "es": "Pikachu"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "PIKACHU"
+        ],
+        "type": "LIGHTNING",
+        "hash": "11c34025ab5a9d8bdb"
+    },
+    {
+        "id": "A1-095",
+        "name": {
+            "en": "Raichu",
+            "es": "Raichu"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "PIKACHU"
+        ],
+        "type": "LIGHTNING",
+        "hash": "318d8ad7dcc276c648"
+    },
+    {
+        "id": "A1-096",
+        "name": {
+            "en": "Pikachu ex",
+            "es": "Pikachu ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "PIKACHU"
+        ],
+        "type": "LIGHTNING",
+        "hash": "41a233797c0d82e6ad"
+    },
+    {
+        "id": "A1-097",
+        "name": {
+            "en": "Magnemite",
+            "es": "Magnemite"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "PIKACHU"
+        ],
+        "type": "LIGHTNING",
+        "hash": "11d7c119993b2cc8b3"
+    },
+    {
+        "id": "A1-098",
+        "name": {
+            "en": "Magneton",
+            "es": "Magneton"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "PIKACHU"
+        ],
+        "type": "LIGHTNING",
+        "hash": "31c1fce1b51aac8d94"
+    },
+    {
+        "id": "A1-099",
+        "name": {
+            "en": "Voltorb",
+            "es": "Voltorb"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "PIKACHU"
+        ],
+        "type": "LIGHTNING",
+        "hash": "11e68c5a8139e646f5"
+    },
+    {
+        "id": "A1-100",
+        "name": {
+            "en": "Electrode",
+            "es": "Electrode"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "PIKACHU"
+        ],
+        "type": "LIGHTNING",
+        "hash": "21c9c93774d2d28ccc"
+    },
+    {
+        "id": "A1-101",
+        "name": {
+            "en": "Electabuzz",
+            "es": "Electabuzz"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "PIKACHU"
+        ],
+        "type": "LIGHTNING",
+        "hash": "11b09f2478f3607cb1"
+    },
+    {
+        "id": "A1-102",
+        "name": {
+            "en": "Jolteon",
+            "es": "Jolteon"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "PIKACHU"
+        ],
+        "type": "LIGHTNING",
+        "hash": "3199a8fa32436992d7"
+    },
+    {
+        "id": "A1-103",
+        "name": {
+            "en": "Zapdos",
+            "es": "Zapdos"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "PIKACHU"
+        ],
+        "type": "LIGHTNING",
+        "hash": "31b3cb8049deb69534"
+    },
+    {
+        "id": "A1-104",
+        "name": {
+            "en": "Zapdos ex",
+            "es": "Zapdos ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "PIKACHU"
+        ],
+        "type": "LIGHTNING",
+        "hash": "41eadd125dc57e0603"
+    },
+    {
+        "id": "A1-105",
+        "name": {
+            "en": "Blitzle",
+            "es": "Blitzle"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEWTWO",
+            "CHARIZARD",
+            "PIKACHU"
+        ],
+        "type": "LIGHTNING",
+        "hash": "1185f1dc7e2d0d1689"
+    },
+    {
+        "id": "A1-106",
+        "name": {
+            "en": "Zebstrika",
+            "es": "Zebstrika"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEWTWO",
+            "CHARIZARD",
+            "PIKACHU"
+        ],
+        "type": "LIGHTNING",
+        "hash": "21b1b85ea74cd9e019"
+    },
+    {
+        "id": "A1-107",
+        "name": {
+            "en": "Tynamo",
+            "es": "Tynamo"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEWTWO"
+        ],
+        "type": "LIGHTNING",
+        "hash": "118a58f63b494e16e5"
+    },
+    {
+        "id": "A1-108",
+        "name": {
+            "en": "Eelektrik",
+            "es": "Eelektrik"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEWTWO"
+        ],
+        "type": "LIGHTNING",
+        "hash": "21eeb5cc46924f1d18"
+    },
+    {
+        "id": "A1-109",
+        "name": {
+            "en": "Eelektross",
+            "es": "Eelektross"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "MEWTWO"
+        ],
+        "type": "LIGHTNING",
+        "hash": "31bdac8bfab0a4c0b4"
+    },
+    {
+        "id": "A1-110",
+        "name": {
+            "en": "Helioptile",
+            "es": "Helioptile"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEWTWO",
+            "CHARIZARD",
+            "PIKACHU"
+        ],
+        "type": "LIGHTNING",
+        "hash": "11d8a0522df74ed916"
+    },
+    {
+        "id": "A1-111",
+        "name": {
+            "en": "Heliolisk",
+            "es": "Heliolisk"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEWTWO",
+            "CHARIZARD",
+            "PIKACHU"
+        ],
+        "type": "LIGHTNING",
+        "hash": "11982bc7d6863f30c9"
+    },
+    {
+        "id": "A1-112",
+        "name": {
+            "en": "Pincurchin",
+            "es": "Pincurchin"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEWTWO",
+            "CHARIZARD",
+            "PIKACHU"
+        ],
+        "type": "LIGHTNING",
+        "hash": "21e506833dccc565b3"
+    },
+    {
+        "id": "A1-113",
+        "name": {
+            "en": "Clefairy",
+            "es": "Clefairy"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "PIKACHU"
+        ],
+        "type": "PSYCHIC",
+        "hash": "1193531beb1e1c4a99"
+    },
+    {
+        "id": "A1-114",
+        "name": {
+            "en": "Clefable",
+            "es": "Clefable"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "PIKACHU"
+        ],
+        "type": "PSYCHIC",
+        "hash": "21c46bf23d07125cce"
+    },
+    {
+        "id": "A1-115",
+        "name": {
+            "en": "Abra",
+            "es": "Abra"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "CHARIZARD"
+        ],
+        "type": "PSYCHIC",
+        "hash": "11ee134de4b2c88cce"
+    },
+    {
+        "id": "A1-116",
+        "name": {
+            "en": "Kadabra",
+            "es": "Kadabra"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "CHARIZARD"
+        ],
+        "type": "PSYCHIC",
+        "hash": "2196e1627b6fc8c898"
+    },
+    {
+        "id": "A1-117",
+        "name": {
+            "en": "Alakazam",
+            "es": "Alakazam"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "CHARIZARD"
+        ],
+        "type": "PSYCHIC",
+        "hash": "3193bcf05669e61e84"
+    },
+    {
+        "id": "A1-118",
+        "name": {
+            "en": "Slowpoke",
+            "es": "Slowpoke"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEWTWO",
+            "CHARIZARD",
+            "PIKACHU"
+        ],
+        "type": "PSYCHIC",
+        "hash": "1186bb990d3176c6e4"
+    },
+    {
+        "id": "A1-119",
+        "name": {
+            "en": "Slowbro",
+            "es": "Slowbro"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEWTWO",
+            "CHARIZARD",
+            "PIKACHU"
+        ],
+        "type": "PSYCHIC",
+        "hash": "2193e428966e94679b"
+    },
+    {
+        "id": "A1-120",
+        "name": {
+            "en": "Gastly",
+            "es": "Gastly"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEWTWO"
+        ],
+        "type": "PSYCHIC",
+        "hash": "11a6ed69139e4cd2d0"
+    },
+    {
+        "id": "A1-121",
+        "name": {
+            "en": "Haunter",
+            "es": "Haunter"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEWTWO"
+        ],
+        "type": "PSYCHIC",
+        "hash": "21ad1546ff03dcc988"
+    },
+    {
+        "id": "A1-122",
+        "name": {
+            "en": "Gengar",
+            "es": "Gengar"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "MEWTWO"
+        ],
+        "type": "PSYCHIC",
+        "hash": "31c1bbc68d5ac0ce5a"
+    },
+    {
+        "id": "A1-123",
+        "name": {
+            "en": "Gengar ex",
+            "es": "Gengar ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "MEWTWO"
+        ],
+        "type": "PSYCHIC",
+        "hash": "41bccd90b5278ab2cc"
+    },
+    {
+        "id": "A1-124",
+        "name": {
+            "en": "Drowzee",
+            "es": "Drowzee"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "PIKACHU"
+        ],
+        "type": "PSYCHIC",
+        "hash": "11951a7096735abc1d"
+    },
+    {
+        "id": "A1-125",
+        "name": {
+            "en": "Hypno",
+            "es": "Hypno"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "PIKACHU"
+        ],
+        "type": "PSYCHIC",
+        "hash": "31cfd2e26d70162c3c"
+    },
+    {
+        "id": "A1-126",
+        "name": {
+            "en": "Mr. Mime",
+            "es": "Mr. Mime"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEWTWO"
+        ],
+        "type": "PSYCHIC",
+        "hash": "21ddb133a82c8e233e"
+    },
+    {
+        "id": "A1-127",
+        "name": {
+            "en": "Jynx",
+            "es": "Jynx"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEWTWO"
+        ],
+        "type": "PSYCHIC",
+        "hash": "11b0d15d34c769f930"
+    },
+    {
+        "id": "A1-128",
+        "name": {
+            "en": "Mewtwo",
+            "es": "Mewtwo"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "MEWTWO"
+        ],
+        "type": "PSYCHIC",
+        "hash": "3184be523519dd2d56"
+    },
+    {
+        "id": "A1-129",
+        "name": {
+            "en": "Mewtwo ex",
+            "es": "Mewtwo ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "MEWTWO"
+        ],
+        "type": "PSYCHIC",
+        "hash": "41e5172b5ac6f1421d"
+    },
+    {
+        "id": "A1-130",
+        "name": {
+            "en": "Ralts",
+            "es": "Ralts"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEWTWO"
+        ],
+        "type": "PSYCHIC",
+        "hash": "1191252e8f6c1bd335"
+    },
+    {
+        "id": "A1-131",
+        "name": {
+            "en": "Kirlia",
+            "es": "Kirlia"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEWTWO"
+        ],
+        "type": "PSYCHIC",
+        "hash": "2182f15f86af05e499"
+    },
+    {
+        "id": "A1-132",
+        "name": {
+            "en": "Gardevoir",
+            "es": "Gardevoir"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "MEWTWO"
+        ],
+        "type": "PSYCHIC",
+        "hash": "31c6ec1519ec8b58ad"
+    },
+    {
+        "id": "A1-133",
+        "name": {
+            "en": "Woobat",
+            "es": "Woobat"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEWTWO",
+            "CHARIZARD",
+            "PIKACHU"
+        ],
+        "type": "PSYCHIC",
+        "hash": "11df087977629d8862"
+    },
+    {
+        "id": "A1-134",
+        "name": {
+            "en": "Swoobat",
+            "es": "Swoobat"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEWTWO",
+            "CHARIZARD",
+            "PIKACHU"
+        ],
+        "type": "PSYCHIC",
+        "hash": "118fcac3f8b264d832"
+    },
+    {
+        "id": "A1-135",
+        "name": {
+            "en": "Golett",
+            "es": "Golett"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEWTWO",
+            "CHARIZARD",
+            "PIKACHU"
+        ],
+        "type": "PSYCHIC",
+        "hash": "11a5692a745d2a1e9b"
+    },
+    {
+        "id": "A1-136",
+        "name": {
+            "en": "Golurk",
+            "es": "Golurk"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEWTWO",
+            "CHARIZARD",
+            "PIKACHU"
+        ],
+        "type": "PSYCHIC",
+        "hash": "21bc9cd98fc348e41a"
+    },
+    {
+        "id": "A1-137",
+        "name": {
+            "en": "Sandshrew",
+            "es": "Sandshrew"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEWTWO",
+            "CHARIZARD",
+            "PIKACHU"
+        ],
+        "type": "FIGHTING",
+        "hash": "118c5e6381157fee09"
+    },
+    {
+        "id": "A1-138",
+        "name": {
+            "en": "Sandslash",
+            "es": "Sandslash"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEWTWO",
+            "CHARIZARD",
+            "PIKACHU"
+        ],
+        "type": "FIGHTING",
+        "hash": "21cdb4b39aec90c9c2"
+    },
+    {
+        "id": "A1-139",
+        "name": {
+            "en": "Diglett",
+            "es": "Diglett"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "PIKACHU"
+        ],
+        "type": "FIGHTING",
+        "hash": "11e3ad0c60a3877de4"
+    },
+    {
+        "id": "A1-140",
+        "name": {
+            "en": "Dugtrio",
+            "es": "Dugtrio"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "PIKACHU"
+        ],
+        "type": "FIGHTING",
+        "hash": "21fdcd0b094f55d0d0"
+    },
+    {
+        "id": "A1-141",
+        "name": {
+            "en": "Mankey",
+            "es": "Mankey"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "CHARIZARD"
+        ],
+        "type": "FIGHTING",
+        "hash": "119a536145ef50b659"
+    },
+    {
+        "id": "A1-142",
+        "name": {
+            "en": "Primeape",
+            "es": "Primeape"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "CHARIZARD"
+        ],
+        "type": "FIGHTING",
+        "hash": "21f8a5269e97908dc6"
+    },
+    {
+        "id": "A1-143",
+        "name": {
+            "en": "Machop",
+            "es": "Machop"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "CHARIZARD"
+        ],
+        "type": "FIGHTING",
+        "hash": "11d4b0b0fd5a6a3e12"
+    },
+    {
+        "id": "A1-144",
+        "name": {
+            "en": "Machoke",
+            "es": "Machoke"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "CHARIZARD"
+        ],
+        "type": "FIGHTING",
+        "hash": "21a5f4dd0adc0c699c"
+    },
+    {
+        "id": "A1-145",
+        "name": {
+            "en": "Machamp",
+            "es": "Machamp"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "CHARIZARD"
+        ],
+        "type": "FIGHTING",
+        "hash": "31c5f2f0e45ac548ce"
+    },
+    {
+        "id": "A1-146",
+        "name": {
+            "en": "Machamp ex",
+            "es": "Machamp ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "CHARIZARD"
+        ],
+        "type": "FIGHTING",
+        "hash": "41afd39ec5c4f22228"
+    },
+    {
+        "id": "A1-147",
+        "name": {
+            "en": "Geodude",
+            "es": "Geodude"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "PIKACHU"
+        ],
+        "type": "FIGHTING",
+        "hash": "11851c3a60f678dbc3"
+    },
+    {
+        "id": "A1-148",
+        "name": {
+            "en": "Graveler",
+            "es": "Graveler"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "PIKACHU"
+        ],
+        "type": "FIGHTING",
+        "hash": "2199eaefa9e50c44c8"
+    },
+    {
+        "id": "A1-149",
+        "name": {
+            "en": "Golem",
+            "es": "Golem"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "PIKACHU"
+        ],
+        "type": "FIGHTING",
+        "hash": "31ebba4aee60c65485"
+    },
+    {
+        "id": "A1-150",
+        "name": {
+            "en": "Onix",
+            "es": "Onix"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "PIKACHU"
+        ],
+        "type": "FIGHTING",
+        "hash": "2187870f91d0e2b86f"
+    },
+    {
+        "id": "A1-151",
+        "name": {
+            "en": "Cubone",
+            "es": "Cubone"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEWTWO"
+        ],
+        "type": "FIGHTING",
+        "hash": "11e4db12a65d1a3b58"
+    },
+    {
+        "id": "A1-152",
+        "name": {
+            "en": "Marowak",
+            "es": "Marowak"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEWTWO"
+        ],
+        "type": "FIGHTING",
+        "hash": "21d1feae4886619c99"
+    },
+    {
+        "id": "A1-153",
+        "name": {
+            "en": "Marowak ex",
+            "es": "Marowak ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "MEWTWO"
+        ],
+        "type": "FIGHTING",
+        "hash": "418acf5b7c59365881"
+    },
+    {
+        "id": "A1-154",
+        "name": {
+            "en": "Hitmonlee",
+            "es": "Hitmonlee"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEWTWO"
+        ],
+        "type": "FIGHTING",
+        "hash": "11a62dd19e9e995868"
+    },
+    {
+        "id": "A1-155",
+        "name": {
+            "en": "Hitmonchan",
+            "es": "Hitmonchan"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "CHARIZARD"
+        ],
+        "type": "FIGHTING",
+        "hash": "11a44d1b963bd94e64"
+    },
+    {
+        "id": "A1-156",
+        "name": {
+            "en": "Rhyhorn",
+            "es": "Rhyhorn"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEWTWO"
+        ],
+        "type": "FIGHTING",
+        "hash": "1184c8f0e8aa2ffe51"
+    },
+    {
+        "id": "A1-157",
+        "name": {
+            "en": "Rhydon",
+            "es": "Rhydon"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEWTWO"
+        ],
+        "type": "FIGHTING",
+        "hash": "21f5c24493896f4ec6"
+    },
+    {
+        "id": "A1-158",
+        "name": {
+            "en": "Kabuto",
+            "es": "Kabuto"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "CHARIZARD"
+        ],
+        "type": "FIGHTING",
+        "hash": "21a39dd87a68c7e448"
+    },
+    {
+        "id": "A1-159",
+        "name": {
+            "en": "Kabutops",
+            "es": "Kabutops"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "CHARIZARD"
+        ],
+        "type": "FIGHTING",
+        "hash": "31e7630a6c59cee80d"
+    },
+    {
+        "id": "A1-160",
+        "name": {
+            "en": "Mienfoo",
+            "es": "Mienfoo"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "PIKACHU"
+        ],
+        "type": "FIGHTING",
+        "hash": "11a6938dc8309ef36c"
+    },
+    {
+        "id": "A1-161",
+        "name": {
+            "en": "Mienshao",
+            "es": "Mienshao"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "PIKACHU"
+        ],
+        "type": "FIGHTING",
+        "hash": "21964c6d676fc86498"
+    },
+    {
+        "id": "A1-162",
+        "name": {
+            "en": "Clobbopus",
+            "es": "Clobbopus"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEWTWO",
+            "CHARIZARD",
+            "PIKACHU"
+        ],
+        "type": "FIGHTING",
+        "hash": "11bd49e6961c696664"
+    },
+    {
+        "id": "A1-163",
+        "name": {
+            "en": "Grapploct",
+            "es": "Grapploct"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEWTWO",
+            "CHARIZARD",
+            "PIKACHU"
+        ],
+        "type": "FIGHTING",
+        "hash": "21addd1443daf0f8c0"
+    },
+    {
+        "id": "A1-164",
+        "name": {
+            "en": "Ekans",
+            "es": "Ekans"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEWTWO",
+            "CHARIZARD",
+            "PIKACHU"
+        ],
+        "type": "DARKNESS",
+        "hash": "11e4e22f19d8e62719"
+    },
+    {
+        "id": "A1-165",
+        "name": {
+            "en": "Arbok",
+            "es": "Arbok"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEWTWO",
+            "CHARIZARD",
+            "PIKACHU"
+        ],
+        "type": "DARKNESS",
+        "hash": "21e5e1949c978c8a57"
+    },
+    {
+        "id": "A1-166",
+        "name": {
+            "en": "Nidoran♀",
+            "es": "Nidoran♀"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "PIKACHU"
+        ],
+        "type": "DARKNESS",
+        "hash": "118d4d3396703c67f0"
+    },
+    {
+        "id": "A1-167",
+        "name": {
+            "en": "Nidorina",
+            "es": "Nidorina"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "PIKACHU"
+        ],
+        "type": "DARKNESS",
+        "hash": "21a5a74f9970d96245"
+    },
+    {
+        "id": "A1-168",
+        "name": {
+            "en": "Nidoqueen",
+            "es": "Nidoqueen"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "PIKACHU"
+        ],
+        "type": "DARKNESS",
+        "hash": "31b9e1878bd0901ef3"
+    },
+    {
+        "id": "A1-169",
+        "name": {
+            "en": "Nidoran♂",
+            "es": "Nidoran♂"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "PIKACHU"
+        ],
+        "type": "DARKNESS",
+        "hash": "11a4e399cb476c191b"
+    },
+    {
+        "id": "A1-170",
+        "name": {
+            "en": "Nidorino",
+            "es": "Nidorino"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "PIKACHU"
+        ],
+        "type": "DARKNESS",
+        "hash": "218742caff569463a8"
+    },
+    {
+        "id": "A1-171",
+        "name": {
+            "en": "Nidoking",
+            "es": "Nidoking"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "PIKACHU"
+        ],
+        "type": "DARKNESS",
+        "hash": "31fde9158ad2b0164e"
+    },
+    {
+        "id": "A1-172",
+        "name": {
+            "en": "Zubat",
+            "es": "Zubat"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEWTWO"
+        ],
+        "type": "DARKNESS",
+        "hash": "11ccce143b335d8936"
+    },
+    {
+        "id": "A1-173",
+        "name": {
+            "en": "Golbat",
+            "es": "Golbat"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEWTWO"
+        ],
+        "type": "DARKNESS",
+        "hash": "21f3c1f0ec34d88c93"
+    },
+    {
+        "id": "A1-174",
+        "name": {
+            "en": "Grimer",
+            "es": "Grimer"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEWTWO"
+        ],
+        "type": "DARKNESS",
+        "hash": "11fad7a14b8d4c864c"
+    },
+    {
+        "id": "A1-175",
+        "name": {
+            "en": "Muk",
+            "es": "Muk"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "MEWTWO"
+        ],
+        "type": "DARKNESS",
+        "hash": "31c5c75e9c21cce163"
+    },
+    {
+        "id": "A1-176",
+        "name": {
+            "en": "Koffing",
+            "es": "Koffing"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEWTWO"
+        ],
+        "type": "DARKNESS",
+        "hash": "11876595e1d3617833"
+    },
+    {
+        "id": "A1-177",
+        "name": {
+            "en": "Weezing",
+            "es": "Weezing"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "MEWTWO"
+        ],
+        "type": "DARKNESS",
+        "hash": "31acedd0ac9416ce3a"
+    },
+    {
+        "id": "A1-178",
+        "name": {
+            "en": "Mawile",
+            "es": "Mawile"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "CHARIZARD"
+        ],
+        "type": "METAL",
+        "hash": "11cdc0159d3ef036d4"
+    },
+    {
+        "id": "A1-179",
+        "name": {
+            "en": "Pawniard",
+            "es": "Pawniard"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEWTWO",
+            "CHARIZARD",
+            "PIKACHU"
+        ],
+        "type": "METAL",
+        "hash": "11b3fa1601499cf965"
+    },
+    {
+        "id": "A1-180",
+        "name": {
+            "en": "Bisharp",
+            "es": "Bisharp"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEWTWO",
+            "CHARIZARD",
+            "PIKACHU"
+        ],
+        "type": "METAL",
+        "hash": "21c2d7087fcd7c62a0"
+    },
+    {
+        "id": "A1-181",
+        "name": {
+            "en": "Meltan",
+            "es": "Meltan"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "CHARIZARD"
+        ],
+        "type": "METAL",
+        "hash": "11d9f434e629c73033"
+    },
+    {
+        "id": "A1-182",
+        "name": {
+            "en": "Melmetal",
+            "es": "Melmetal"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "CHARIZARD"
+        ],
+        "type": "METAL",
+        "hash": "31cae425874b1b4af3"
+    },
+    {
+        "id": "A1-183",
+        "name": {
+            "en": "Dratini",
+            "es": "Dratini"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEWTWO"
+        ],
+        "type": "DRAGON",
+        "hash": "11d2cc6dd10f32748b"
+    },
+    {
+        "id": "A1-184",
+        "name": {
+            "en": "Dragonair",
+            "es": "Dragonair"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEWTWO"
+        ],
+        "type": "DRAGON",
+        "hash": "21d987b29cca6d0b26"
+    },
+    {
+        "id": "A1-185",
+        "name": {
+            "en": "Dragonite",
+            "es": "Dragonite"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "MEWTWO"
+        ],
+        "type": "DRAGON",
+        "hash": "31b58c0fdb529c4e54"
+    },
+    {
+        "id": "A1-186",
+        "name": {
+            "en": "Pidgey",
+            "es": "Pidgey"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEWTWO"
+        ],
+        "type": "COLORLESS",
+        "hash": "11b3a90380ecb8d53f"
+    },
+    {
+        "id": "A1-187",
+        "name": {
+            "en": "Pidgeotto",
+            "es": "Pidgeotto"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEWTWO"
+        ],
+        "type": "COLORLESS",
+        "hash": "1190a20ccd7dfe9a2a"
+    },
+    {
+        "id": "A1-188",
+        "name": {
+            "en": "Pidgeot",
+            "es": "Pidgeot"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "MEWTWO"
+        ],
+        "type": "COLORLESS",
+        "hash": "31c4b473d96c0e0b5e"
+    },
+    {
+        "id": "A1-189",
+        "name": {
+            "en": "Rattata",
+            "es": "Rattata"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEWTWO",
+            "CHARIZARD",
+            "PIKACHU"
+        ],
+        "type": "COLORLESS",
+        "hash": "11d2f87903dfdc0701"
+    },
+    {
+        "id": "A1-190",
+        "name": {
+            "en": "Raticate",
+            "es": "Raticate"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEWTWO",
+            "CHARIZARD",
+            "PIKACHU"
+        ],
+        "type": "COLORLESS",
+        "hash": "11cdb366cc1096ac9e"
+    },
+    {
+        "id": "A1-191",
+        "name": {
+            "en": "Spearow",
+            "es": "Spearow"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "CHARIZARD"
+        ],
+        "type": "COLORLESS",
+        "hash": "1182a3055cbf63b41f"
+    },
+    {
+        "id": "A1-192",
+        "name": {
+            "en": "Fearow",
+            "es": "Fearow"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "CHARIZARD"
+        ],
+        "type": "COLORLESS",
+        "hash": "11dcce8daccc9b6019"
+    },
+    {
+        "id": "A1-193",
+        "name": {
+            "en": "Jigglypuff",
+            "es": "Jigglypuff"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "PIKACHU"
+        ],
+        "type": "COLORLESS",
+        "hash": "11e8cc85d9b236cc63"
+    },
+    {
+        "id": "A1-194",
+        "name": {
+            "en": "Wigglytuff",
+            "es": "Wigglytuff"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "PIKACHU"
+        ],
+        "type": "COLORLESS",
+        "hash": "118f3250d47e8eb49a"
+    },
+    {
+        "id": "A1-195",
+        "name": {
+            "en": "Wigglytuff ex",
+            "es": "Wigglytuff ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "PIKACHU"
+        ],
+        "type": "COLORLESS",
+        "hash": "41ad2dc970361b1bc6"
+    },
+    {
+        "id": "A1-196",
+        "name": {
+            "en": "Meowth",
+            "es": "Meowth"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "CHARIZARD"
+        ],
+        "type": "COLORLESS",
+        "hash": "1185f0164aa95ee37c"
+    },
+    {
+        "id": "A1-197",
+        "name": {
+            "en": "Persian",
+            "es": "Persian"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "CHARIZARD"
+        ],
+        "type": "COLORLESS",
+        "hash": "21c16b60d64e7e84cd"
+    },
+    {
+        "id": "A1-198",
+        "name": {
+            "en": "Farfetch'd",
+            "es": "Farfetch'd"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEWTWO",
+            "CHARIZARD",
+            "PIKACHU"
+        ],
+        "type": "COLORLESS",
+        "hash": "11e93332cc66ddc461"
+    },
+    {
+        "id": "A1-199",
+        "name": {
+            "en": "Doduo",
+            "es": "Doduo"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEWTWO",
+            "CHARIZARD",
+            "PIKACHU"
+        ],
+        "type": "COLORLESS",
+        "hash": "11a9878a3d1d56b48d"
+    },
+    {
+        "id": "A1-200",
+        "name": {
+            "en": "Dodrio",
+            "es": "Dodrio"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEWTWO",
+            "CHARIZARD",
+            "PIKACHU"
+        ],
+        "type": "COLORLESS",
+        "hash": "21f2f444e6ccc6c8cc"
+    },
+    {
+        "id": "A1-201",
+        "name": {
+            "en": "Lickitung",
+            "es": "Lickitung"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEWTWO"
+        ],
+        "type": "COLORLESS",
+        "hash": "21d5e5cac525f43912"
+    },
+    {
+        "id": "A1-202",
+        "name": {
+            "en": "Chansey",
+            "es": "Chansey"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "PIKACHU"
+        ],
+        "type": "COLORLESS",
+        "hash": "21fe83e567823e9248"
+    },
+    {
+        "id": "A1-203",
+        "name": {
+            "en": "Kangaskhan",
+            "es": "Kangaskhan"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "CHARIZARD"
+        ],
+        "type": "COLORLESS",
+        "hash": "31c4f5d3de1884a789"
+    },
+    {
+        "id": "A1-204",
+        "name": {
+            "en": "Tauros",
+            "es": "Tauros"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "CHARIZARD"
+        ],
+        "type": "COLORLESS",
+        "hash": "21a5ae5a9d7d1c0632"
+    },
+    {
+        "id": "A1-205",
+        "name": {
+            "en": "Ditto",
+            "es": "Ditto"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "MEWTWO"
+        ],
+        "type": "COLORLESS",
+        "hash": "31bc9a3ca9587dc223"
+    },
+    {
+        "id": "A1-206",
+        "name": {
+            "en": "Eevee",
+            "es": "Eevee"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "CHARIZARD"
+        ],
+        "type": "COLORLESS",
+        "hash": "11c12f3f943e9c3470"
+    },
+    {
+        "id": "A1-207",
+        "name": {
+            "en": "Eevee",
+            "es": "Eevee"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEWTWO"
+        ],
+        "type": "COLORLESS",
+        "hash": "11c8f9a3681e67b846"
+    },
+    {
+        "id": "A1-208",
+        "name": {
+            "en": "Eevee",
+            "es": "Eevee"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "PIKACHU"
+        ],
+        "type": "COLORLESS",
+        "hash": "11a824c79f9779d803"
+    },
+    {
+        "id": "A1-209",
+        "name": {
+            "en": "Porygon",
+            "es": "Porygon"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEWTWO"
+        ],
+        "type": "COLORLESS",
+        "hash": "21ff1189217cc72f14"
+    },
+    {
+        "id": "A1-210",
+        "name": {
+            "en": "Aerodactyl",
+            "es": "Aerodactyl"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "MEWTWO"
+        ],
+        "type": "COLORLESS",
+        "hash": "31d41e5ef6484c57b0"
+    },
+    {
+        "id": "A1-211",
+        "name": {
+            "en": "Snorlax",
+            "es": "Snorlax"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "PIKACHU"
+        ],
+        "type": "COLORLESS",
+        "hash": "31eea1d38e38c04c77"
+    },
+    {
+        "id": "A1-212",
+        "name": {
+            "en": "Minccino",
+            "es": "Minccino"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEWTWO",
+            "CHARIZARD",
+            "PIKACHU"
+        ],
+        "type": "COLORLESS",
+        "hash": "1196af5188fb0bc41e"
+    },
+    {
+        "id": "A1-213",
+        "name": {
+            "en": "Cinccino",
+            "es": "Cinccino"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEWTWO",
+            "CHARIZARD",
+            "PIKACHU"
+        ],
+        "type": "COLORLESS",
+        "hash": "2185ee6fd1328661a3"
+    },
+    {
+        "id": "A1-214",
+        "name": {
+            "en": "Wooloo",
+            "es": "Wooloo"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEWTWO",
+            "CHARIZARD",
+            "PIKACHU"
+        ],
+        "type": "COLORLESS",
+        "hash": "1192972cccf9713323"
+    },
+    {
+        "id": "A1-215",
+        "name": {
+            "en": "Dubwool",
+            "es": "Dubwool"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEWTWO",
+            "CHARIZARD",
+            "PIKACHU"
+        ],
+        "type": "COLORLESS",
+        "hash": "11f9f90e649692486d"
+    },
+    {
+        "id": "A1-216",
+        "name": {
+            "en": "Helix Fossil",
+            "es": "Fósil Hélix"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "PIKACHU"
+        ],
+        "type": "TRAINER",
+        "hash": "1196d8e8b9b4e68d90"
+    },
+    {
+        "id": "A1-217",
+        "name": {
+            "en": "Dome Fossil",
+            "es": "Fósil Domo"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "CHARIZARD"
+        ],
+        "type": "TRAINER",
+        "hash": "11c499fae0b4b0b6a5"
+    },
+    {
+        "id": "A1-218",
+        "name": {
+            "en": "Old Amber",
+            "es": "Ámbar Viejo"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEWTWO"
+        ],
+        "type": "TRAINER",
+        "hash": "118883e69d9cd516d3"
+    },
+    {
+        "id": "A1-219",
+        "name": {
+            "en": "Erika",
+            "es": "Erika"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "CHARIZARD"
+        ],
+        "type": "TRAINER",
+        "hash": "21c6f1269993aec90e"
+    },
+    {
+        "id": "A1-220",
+        "name": {
+            "en": "Misty",
+            "es": "Misty"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "PIKACHU"
+        ],
+        "type": "TRAINER",
+        "hash": "21e74b09a699b3670c"
+    },
+    {
+        "id": "A1-221",
+        "name": {
+            "en": "Blaine",
+            "es": "Blaine"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "CHARIZARD"
+        ],
+        "type": "TRAINER",
+        "hash": "21885fc782a69b96a3"
+    },
+    {
+        "id": "A1-222",
+        "name": {
+            "en": "Koga",
+            "es": "Koga"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEWTWO"
+        ],
+        "type": "TRAINER",
+        "hash": "21f68c938bcd8c9683"
+    },
+    {
+        "id": "A1-223",
+        "name": {
+            "en": "Giovanni",
+            "es": "Giovanni"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEWTWO"
+        ],
+        "type": "TRAINER",
+        "hash": "21f18baeb6c1cc82a5"
+    },
+    {
+        "id": "A1-224",
+        "name": {
+            "en": "Brock",
+            "es": "Brock"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "PIKACHU"
+        ],
+        "type": "TRAINER",
+        "hash": "21eef9968383895607"
+    },
+    {
+        "id": "A1-225",
+        "name": {
+            "en": "Sabrina",
+            "es": "Sabrina"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "CHARIZARD"
+        ],
+        "type": "TRAINER",
+        "hash": "21a48a9ba6c4a6b3c7"
+    },
+    {
+        "id": "A1-226",
+        "name": {
+            "en": "Lt. Surge",
+            "es": "Teniente Surge"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "PIKACHU"
+        ],
+        "type": "TRAINER",
+        "hash": "21f1c8863496c66db6"
+    },
+    {
+        "id": "A1-227",
+        "name": {
+            "en": "Bulbasaur",
+            "es": "Bulbasaur"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "MEWTWO"
+        ],
+        "type": "GRASS",
+        "hash": "138731f2c52977e05a"
+    },
+    {
+        "id": "A1-228",
+        "name": {
+            "en": "Gloom",
+            "es": "Gloom"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "CHARIZARD"
+        ],
+        "type": "GRASS",
+        "hash": "138c9ab9f4c685d263"
+    },
+    {
+        "id": "A1-229",
+        "name": {
+            "en": "Pinsir",
+            "es": "Pinsir"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "CHARIZARD"
+        ],
+        "type": "GRASS",
+        "hash": "13941173b3656e7a68"
+    },
+    {
+        "id": "A1-230",
+        "name": {
+            "en": "Charmander",
+            "es": "Charmander"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "CHARIZARD"
+        ],
+        "type": "FIRE",
+        "hash": "13c97ca718dca5da21"
+    },
+    {
+        "id": "A1-231",
+        "name": {
+            "en": "Rapidash",
+            "es": "Rapidash"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "CHARIZARD"
+        ],
+        "type": "FIRE",
+        "hash": "13de19b7624d4ce464"
+    },
+    {
+        "id": "A1-232",
+        "name": {
+            "en": "Squirtle",
+            "es": "Squirtle"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "PIKACHU"
+        ],
+        "type": "WATER",
+        "hash": "13d2bd9b88758a8b54"
+    },
+    {
+        "id": "A1-233",
+        "name": {
+            "en": "Gyarados",
+            "es": "Gyarados"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "PIKACHU"
+        ],
+        "type": "WATER",
+        "hash": "139c5269cde6968c8d"
+    },
+    {
+        "id": "A1-234",
+        "name": {
+            "en": "Lapras",
+            "es": "Lapras"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "CHARIZARD"
+        ],
+        "type": "WATER",
+        "hash": "13c62df2315ae3a45a"
+    },
+    {
+        "id": "A1-235",
+        "name": {
+            "en": "Electrode",
+            "es": "Electrode"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "PIKACHU"
+        ],
+        "type": "LIGHTNING",
+        "hash": "13cd1a7fc61107cc93"
+    },
+    {
+        "id": "A1-236",
+        "name": {
+            "en": "Alakazam",
+            "es": "Alakazam"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "CHARIZARD"
+        ],
+        "type": "PSYCHIC",
+        "hash": "13960d6be46deb4c88"
+    },
+    {
+        "id": "A1-237",
+        "name": {
+            "en": "Slowpoke",
+            "es": "Slowpoke"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "CHARIZARD"
+        ],
+        "type": "PSYCHIC",
+        "hash": "13d39b1a9c9d1d62e0"
+    },
+    {
+        "id": "A1-238",
+        "name": {
+            "en": "Diglett",
+            "es": "Diglett"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "PIKACHU"
+        ],
+        "type": "FIGHTING",
+        "hash": "13f7f6720a4a2a1b0b"
+    },
+    {
+        "id": "A1-239",
+        "name": {
+            "en": "Cubone",
+            "es": "Cubone"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "MEWTWO"
+        ],
+        "type": "FIGHTING",
+        "hash": "13f01fcd64a7837486"
+    },
+    {
+        "id": "A1-240",
+        "name": {
+            "en": "Nidoqueen",
+            "es": "Nidoqueen"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "PIKACHU"
+        ],
+        "type": "DARKNESS",
+        "hash": "13d0d07e4a5be2ca8d"
+    },
+    {
+        "id": "A1-241",
+        "name": {
+            "en": "Nidoking",
+            "es": "Nidoking"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "PIKACHU"
+        ],
+        "type": "DARKNESS",
+        "hash": "1390f4db57869a4c5a"
+    },
+    {
+        "id": "A1-242",
+        "name": {
+            "en": "Golbat",
+            "es": "Golbat"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "MEWTWO"
+        ],
+        "type": "DARKNESS",
+        "hash": "13eb957cc7d02285d8"
+    },
+    {
+        "id": "A1-243",
+        "name": {
+            "en": "Weezing",
+            "es": "Weezing"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "MEWTWO"
+        ],
+        "type": "DARKNESS",
+        "hash": "1396ffc89872a66225"
+    },
+    {
+        "id": "A1-244",
+        "name": {
+            "en": "Dragonite",
+            "es": "Dragonite"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "MEWTWO"
+        ],
+        "type": "DRAGON",
+        "hash": "13952d5ecccb72ccc0"
+    },
+    {
+        "id": "A1-245",
+        "name": {
+            "en": "Pidgeot",
+            "es": "Pidgeot"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "MEWTWO"
+        ],
+        "type": "COLORLESS",
+        "hash": "13a89a6f8ff0e582a4"
+    },
+    {
+        "id": "A1-246",
+        "name": {
+            "en": "Meowth",
+            "es": "Meowth"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "CHARIZARD"
+        ],
+        "type": "COLORLESS",
+        "hash": "13ce2eba3a1611f329"
+    },
+    {
+        "id": "A1-247",
+        "name": {
+            "en": "Ditto",
+            "es": "Ditto"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "MEWTWO"
+        ],
+        "type": "COLORLESS",
+        "hash": "13953f524a6aa0af35"
+    },
+    {
+        "id": "A1-248",
+        "name": {
+            "en": "Eevee",
+            "es": "Eevee"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "PIKACHU"
+        ],
+        "type": "COLORLESS",
+        "hash": "138c8e34b39419f3e6"
+    },
+    {
+        "id": "A1-249",
+        "name": {
+            "en": "Porygon",
+            "es": "Porygon"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "MEWTWO"
+        ],
+        "type": "COLORLESS",
+        "hash": "1393d2eb663151993c"
+    },
+    {
+        "id": "A1-250",
+        "name": {
+            "en": "Snorlax",
+            "es": "Snorlax"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "PIKACHU"
+        ],
+        "type": "COLORLESS",
+        "hash": "13d62155cf1e612dc6"
+    },
+    {
+        "id": "A1-251",
+        "name": {
+            "en": "Venusaur ex",
+            "es": "Venusaur ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "MEWTWO"
+        ],
+        "type": "GRASS",
+        "hash": "239e06f9298ede5458"
+    },
+    {
+        "id": "A1-252",
+        "name": {
+            "en": "Exeggutor ex",
+            "es": "Exeggutor ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "CHARIZARD"
+        ],
+        "type": "GRASS",
+        "hash": "23e83c96dd3fc30950"
+    },
+    {
+        "id": "A1-253",
+        "name": {
+            "en": "Charizard ex",
+            "es": "Charizard ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "CHARIZARD"
+        ],
+        "type": "FIRE",
+        "hash": "23c073bd29c70dcc9c"
+    },
+    {
+        "id": "A1-254",
+        "name": {
+            "en": "Arcanine ex",
+            "es": "Arcanine ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "PIKACHU"
+        ],
+        "type": "FIRE",
+        "hash": "23d5c540596eae5b46"
+    },
+    {
+        "id": "A1-255",
+        "name": {
+            "en": "Moltres ex",
+            "es": "Moltres ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "CHARIZARD"
+        ],
+        "type": "FIRE",
+        "hash": "23e2fa9528395dc645"
+    },
+    {
+        "id": "A1-256",
+        "name": {
+            "en": "Blastoise ex",
+            "es": "Blastoise ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "PIKACHU"
+        ],
+        "type": "WATER",
+        "hash": "23ccf89b43660cd8dc"
+    },
+    {
+        "id": "A1-257",
+        "name": {
+            "en": "Starmie ex",
+            "es": "Starmie ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "CHARIZARD"
+        ],
+        "type": "WATER",
+        "hash": "23f7c93146d84952d6"
+    },
+    {
+        "id": "A1-258",
+        "name": {
+            "en": "Articuno ex",
+            "es": "Articuno ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "MEWTWO"
+        ],
+        "type": "WATER",
+        "hash": "23ac39c3f0e7c9b806"
+    },
+    {
+        "id": "A1-259",
+        "name": {
+            "en": "Pikachu ex",
+            "es": "Pikachu ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "PIKACHU"
+        ],
+        "type": "LIGHTNING",
+        "hash": "23f99248295e797398"
+    },
+    {
+        "id": "A1-260",
+        "name": {
+            "en": "Zapdos ex",
+            "es": "Zapdos ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "PIKACHU"
+        ],
+        "type": "LIGHTNING",
+        "hash": "2395202dabab5ed4d4"
+    },
+    {
+        "id": "A1-261",
+        "name": {
+            "en": "Gengar ex",
+            "es": "Gengar ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "MEWTWO"
+        ],
+        "type": "PSYCHIC",
+        "hash": "23f9e181c88a5cde1e"
+    },
+    {
+        "id": "A1-262",
+        "name": {
+            "en": "Mewtwo ex",
+            "es": "Mewtwo ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "MEWTWO"
+        ],
+        "type": "PSYCHIC",
+        "hash": "23cc44422cb97df35a"
+    },
+    {
+        "id": "A1-263",
+        "name": {
+            "en": "Machamp ex",
+            "es": "Machamp ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "CHARIZARD"
+        ],
+        "type": "FIGHTING",
+        "hash": "23cb7aa95a4d4cd095"
+    },
+    {
+        "id": "A1-264",
+        "name": {
+            "en": "Marowak ex",
+            "es": "Marowak ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "MEWTWO"
+        ],
+        "type": "FIGHTING",
+        "hash": "23cb28247779c8ead8"
+    },
+    {
+        "id": "A1-265",
+        "name": {
+            "en": "Wigglytuff ex",
+            "es": "Wigglytuff ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "PIKACHU"
+        ],
+        "type": "COLORLESS",
+        "hash": "23de53a92a4afc9704"
+    },
+    {
+        "id": "A1-266",
+        "name": {
+            "en": "Erika",
+            "es": "Erika"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "CHARIZARD"
+        ],
+        "type": "TRAINER",
+        "hash": "23b072c39bcccb90ce"
+    },
+    {
+        "id": "A1-267",
+        "name": {
+            "en": "Misty",
+            "es": "Misty"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "PIKACHU"
+        ],
+        "type": "TRAINER",
+        "hash": "23c0159383eefba0f4"
+    },
+    {
+        "id": "A1-268",
+        "name": {
+            "en": "Blaine",
+            "es": "Blaine"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "CHARIZARD"
+        ],
+        "type": "TRAINER",
+        "hash": "23808c92a7ff93e5c1"
+    },
+    {
+        "id": "A1-269",
+        "name": {
+            "en": "Koga",
+            "es": "Koga"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "MEWTWO"
+        ],
+        "type": "TRAINER",
+        "hash": "23ceb3cb8da5d4c4c0"
+    },
+    {
+        "id": "A1-270",
+        "name": {
+            "en": "Giovanni",
+            "es": "Giovanni"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "MEWTWO"
+        ],
+        "type": "TRAINER",
+        "hash": "2398a6a6a7e6d2e0d4"
+    },
+    {
+        "id": "A1-271",
+        "name": {
+            "en": "Brock",
+            "es": "Brock"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "PIKACHU"
+        ],
+        "type": "TRAINER",
+        "hash": "23b0c765a68ad9d685"
+    },
+    {
+        "id": "A1-272",
+        "name": {
+            "en": "Sabrina",
+            "es": "Sabrina"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "CHARIZARD"
+        ],
+        "type": "TRAINER",
+        "hash": "23b4c336a28df5d2c8"
+    },
+    {
+        "id": "A1-273",
+        "name": {
+            "en": "Lt. Surge",
+            "es": "Teniente Surge"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "PIKACHU"
+        ],
+        "type": "TRAINER",
+        "hash": "2384c733dabeb990d0"
+    },
+    {
+        "id": "A1-274",
+        "name": {
+            "en": "Moltres ex",
+            "es": "Moltres ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "CHARIZARD"
+        ],
+        "type": "FIRE",
+        "hash": "23c3f9f9b912d440c9"
+    },
+    {
+        "id": "A1-275",
+        "name": {
+            "en": "Articuno ex",
+            "es": "Articuno ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "MEWTWO"
+        ],
+        "type": "WATER",
+        "hash": "23c7bb1f347040783e"
+    },
+    {
+        "id": "A1-276",
+        "name": {
+            "en": "Zapdos ex",
+            "es": "Zapdos ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "PIKACHU"
+        ],
+        "type": "LIGHTNING",
+        "hash": "23cee76dcb23706068"
+    },
+    {
+        "id": "A1-277",
+        "name": {
+            "en": "Gengar ex",
+            "es": "Gengar ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "MEWTWO"
+        ],
+        "type": "PSYCHIC",
+        "hash": "23bee699cdc2f4c880"
+    },
+    {
+        "id": "A1-278",
+        "name": {
+            "en": "Machamp ex",
+            "es": "Machamp ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "CHARIZARD"
+        ],
+        "type": "FIGHTING",
+        "hash": "23cdae3d7ac22441d3"
+    },
+    {
+        "id": "A1-279",
+        "name": {
+            "en": "Wigglytuff ex",
+            "es": "Wigglytuff ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "PIKACHU"
+        ],
+        "type": "COLORLESS",
+        "hash": "23f8a08e634b1a3d9d"
+    },
+    {
+        "id": "A1-280",
+        "name": {
+            "en": "Charizard ex",
+            "es": "Charizard ex"
+        },
+        "rarity": "THREE_STAR",
+        "origins": [
+            "CHARIZARD"
+        ],
+        "type": "FIRE",
+        "hash": "339292f446d1c9de65"
+    },
+    {
+        "id": "A1-281",
+        "name": {
+            "en": "Pikachu ex",
+            "es": "Pikachu ex"
+        },
+        "rarity": "THREE_STAR",
+        "origins": [
+            "PIKACHU"
+        ],
+        "type": "LIGHTNING",
+        "hash": "338d30879f74a65a95"
+    },
+    {
+        "id": "A1-282",
+        "name": {
+            "en": "Mewtwo ex",
+            "es": "Mewtwo ex"
+        },
+        "rarity": "THREE_STAR",
+        "origins": [
+            "MEWTWO"
+        ],
+        "type": "PSYCHIC",
+        "hash": "33d8cc3727ff041989"
+    },
+    {
+        "id": "A1-283",
+        "name": {
+            "en": "Mew",
+            "es": "Mew"
+        },
+        "rarity": "THREE_STAR",
+        "origins": [
+            "NONE"
+        ],
+        "type": "PSYCHIC",
+        "hash": "338fd390c87cbf5083"
+    },
+    {
+        "id": "A1-284",
+        "name": {
+            "en": "Charizard ex",
+            "es": "Charizard ex"
+        },
+        "rarity": "CROWN",
+        "origins": [
+            "MEWTWO",
+            "CHARIZARD",
+            "PIKACHU"
+        ],
+        "type": "FIRE",
+        "hash": "15c8d3af29aa29e691"
+    },
+    {
+        "id": "A1-285",
+        "name": {
+            "en": "Pikachu ex",
+            "es": "Pikachu ex"
+        },
+        "rarity": "CROWN",
+        "origins": [
+            "MEWTWO",
+            "CHARIZARD",
+            "PIKACHU"
+        ],
+        "type": "LIGHTNING",
+        "hash": "15d9a608bb9a1df390"
+    },
+    {
+        "id": "A1-286",
+        "name": {
+            "en": "Mewtwo ex",
+            "es": "Mewtwo ex"
+        },
+        "rarity": "CROWN",
+        "origins": [
+            "MEWTWO",
+            "CHARIZARD",
+            "PIKACHU"
+        ],
+        "type": "PSYCHIC",
+        "hash": "15cf225a34b235b59a"
+    }
 ]
