@@ -11,7 +11,7 @@
             "PALKIA"
         ],
         "type": "GRASS",
-        "hash": "11961436b56b4bc969"
+        "original": "A2-001"
     },
     {
         "id": "A2-002",
@@ -25,7 +25,7 @@
             "PALKIA"
         ],
         "type": "GRASS",
-        "hash": "11e7895eb01d863d98"
+        "original": "A2-002"
     },
     {
         "id": "A2-003",
@@ -39,7 +39,7 @@
             "PALKIA"
         ],
         "type": "GRASS",
-        "hash": "21a08c78ea8a9cb6af"
+        "original": "A2-003"
     },
     {
         "id": "A2-004",
@@ -52,7 +52,7 @@
             "DIALGA"
         ],
         "type": "GRASS",
-        "hash": "11d7c9cb30cc66381b"
+        "original": "A2-004"
     },
     {
         "id": "A2-005",
@@ -65,7 +65,7 @@
             "DIALGA"
         ],
         "type": "GRASS",
-        "hash": "21a0875ae9c95ee06e"
+        "original": "A2-005"
     },
     {
         "id": "A2-006",
@@ -78,7 +78,7 @@
             "DIALGA"
         ],
         "type": "GRASS",
-        "hash": "11ea53d33a8a66b449"
+        "original": "A2-006"
     },
     {
         "id": "A2-007",
@@ -91,7 +91,7 @@
             "DIALGA"
         ],
         "type": "GRASS",
-        "hash": "41ec17b9d91e4ac3c0"
+        "original": "A2-007"
     },
     {
         "id": "A2-008",
@@ -105,7 +105,7 @@
             "PALKIA"
         ],
         "type": "GRASS",
-        "hash": "11ab34144bb68d34af"
+        "original": "A2-008"
     },
     {
         "id": "A2-009",
@@ -119,7 +119,7 @@
             "PALKIA"
         ],
         "type": "GRASS",
-        "hash": "21c1c4c9f87c8c6727"
+        "original": "A2-009"
     },
     {
         "id": "A2-010",
@@ -132,7 +132,7 @@
             "PALKIA"
         ],
         "type": "GRASS",
-        "hash": "11c74abba34c5897a1"
+        "original": "A2-010"
     },
     {
         "id": "A2-011",
@@ -145,7 +145,7 @@
             "PALKIA"
         ],
         "type": "GRASS",
-        "hash": "21bcb63e89c14055f5"
+        "original": "A2-011"
     },
     {
         "id": "A2-012",
@@ -158,7 +158,7 @@
             "PALKIA"
         ],
         "type": "GRASS",
-        "hash": "3184ce7836e1bdc8cc"
+        "original": "A2-012"
     },
     {
         "id": "A2-013",
@@ -171,7 +171,7 @@
             "PALKIA"
         ],
         "type": "GRASS",
-        "hash": "11ecec4c4c9a3b8e23"
+        "original": "A2-013"
     },
     {
         "id": "A2-014",
@@ -184,7 +184,7 @@
             "PALKIA"
         ],
         "type": "GRASS",
-        "hash": "11a6ae3811846cde9f"
+        "original": "A2-014"
     },
     {
         "id": "A2-015",
@@ -198,7 +198,7 @@
             "PALKIA"
         ],
         "type": "GRASS",
-        "hash": "11c93a3e33f8682aa3"
+        "original": "A2-015"
     },
     {
         "id": "A2-016",
@@ -212,7 +212,7 @@
             "PALKIA"
         ],
         "type": "GRASS",
-        "hash": "11c27c97771c0fc0c3"
+        "original": "A2-016"
     },
     {
         "id": "A2-017",
@@ -225,7 +225,7 @@
             "DIALGA"
         ],
         "type": "GRASS",
-        "hash": "1190e51b293c53adb5"
+        "original": "A2-017"
     },
     {
         "id": "A2-018",
@@ -238,7 +238,7 @@
             "DIALGA"
         ],
         "type": "GRASS",
-        "hash": "21b0db5e94cce74c09"
+        "original": "A2-018"
     },
     {
         "id": "A2-019",
@@ -251,7 +251,7 @@
             "PALKIA"
         ],
         "type": "GRASS",
-        "hash": "21d6201b734c9f7368"
+        "original": "A2-019"
     },
     {
         "id": "A2-020",
@@ -264,7 +264,7 @@
             "DIALGA"
         ],
         "type": "GRASS",
-        "hash": "31878d67cc10426dfe"
+        "original": "A2-020"
     },
     {
         "id": "A2-021",
@@ -278,7 +278,7 @@
             "PALKIA"
         ],
         "type": "GRASS",
-        "hash": "11b1ecc73a4cf241b4"
+        "original": "A2-021"
     },
     {
         "id": "A2-022",
@@ -291,7 +291,7 @@
             "DIALGA"
         ],
         "type": "GRASS",
-        "hash": "31d0ce023a94657f9e"
+        "original": "A2-022"
     },
     {
         "id": "A2-023",
@@ -304,7 +304,7 @@
             "PALKIA"
         ],
         "type": "FIRE",
-        "hash": "11dd2c4a8527fe60a5"
+        "original": "A2-023"
     },
     {
         "id": "A2-024",
@@ -317,7 +317,7 @@
             "PALKIA"
         ],
         "type": "FIRE",
-        "hash": "31c6ec381b45a6718f"
+        "original": "A2-024"
     },
     {
         "id": "A2-025",
@@ -331,7 +331,7 @@
             "PALKIA"
         ],
         "type": "FIRE",
-        "hash": "11949ce471b8c17b69"
+        "original": "A2-025"
     },
     {
         "id": "A2-026",
@@ -345,7 +345,7 @@
             "PALKIA"
         ],
         "type": "FIRE",
-        "hash": "21e4a5d87acbe05ac8"
+        "original": "A2-026"
     },
     {
         "id": "A2-027",
@@ -358,7 +358,7 @@
             "PALKIA"
         ],
         "type": "FIRE",
-        "hash": "11c1915ac4bdbf4712"
+        "original": "A2-027"
     },
     {
         "id": "A2-028",
@@ -371,7 +371,7 @@
             "PALKIA"
         ],
         "type": "FIRE",
-        "hash": "21c1bf2cf169d2a449"
+        "original": "A2-028"
     },
     {
         "id": "A2-029",
@@ -384,7 +384,7 @@
             "PALKIA"
         ],
         "type": "FIRE",
-        "hash": "41deb4c143c4b3d51a"
+        "original": "A2-029"
     },
     {
         "id": "A2-030",
@@ -398,7 +398,7 @@
             "PALKIA"
         ],
         "type": "FIRE",
-        "hash": "11b5685f209dae8c0f"
+        "original": "A2-030"
     },
     {
         "id": "A2-031",
@@ -411,7 +411,7 @@
             "DIALGA"
         ],
         "type": "WATER",
-        "hash": "11da26568dc599e532"
+        "original": "A2-031"
     },
     {
         "id": "A2-032",
@@ -424,7 +424,7 @@
             "DIALGA"
         ],
         "type": "WATER",
-        "hash": "21e0ef4d780d328d1b"
+        "original": "A2-032"
     },
     {
         "id": "A2-033",
@@ -437,7 +437,7 @@
             "DIALGA"
         ],
         "type": "WATER",
-        "hash": "31bdd8060f9334d0dd"
+        "original": "A2-033"
     },
     {
         "id": "A2-034",
@@ -450,7 +450,7 @@
             "PALKIA"
         ],
         "type": "WATER",
-        "hash": "218ad4a55fe7cc440e"
+        "original": "A2-034"
     },
     {
         "id": "A2-035",
@@ -463,7 +463,7 @@
             "PALKIA"
         ],
         "type": "WATER",
-        "hash": "11898f39326ecc1736"
+        "original": "A2-035"
     },
     {
         "id": "A2-036",
@@ -476,7 +476,7 @@
             "PALKIA"
         ],
         "type": "WATER",
-        "hash": "21be6848c4745f1ba5"
+        "original": "A2-036"
     },
     {
         "id": "A2-037",
@@ -489,7 +489,7 @@
             "PALKIA"
         ],
         "type": "WATER",
-        "hash": "31ad8eda7119f484c6"
+        "original": "A2-037"
     },
     {
         "id": "A2-038",
@@ -503,7 +503,7 @@
             "PALKIA"
         ],
         "type": "WATER",
-        "hash": "11c566c1f097368dd2"
+        "original": "A2-038"
     },
     {
         "id": "A2-039",
@@ -517,7 +517,7 @@
             "PALKIA"
         ],
         "type": "WATER",
-        "hash": "21d0d3cac4a7ecb82c"
+        "original": "A2-039"
     },
     {
         "id": "A2-040",
@@ -530,7 +530,7 @@
             "PALKIA"
         ],
         "type": "WATER",
-        "hash": "11f8866487c72b5a4b"
+        "original": "A2-040"
     },
     {
         "id": "A2-041",
@@ -543,7 +543,7 @@
             "PALKIA"
         ],
         "type": "WATER",
-        "hash": "21a3dc74a7dcc89849"
+        "original": "A2-041"
     },
     {
         "id": "A2-042",
@@ -557,7 +557,7 @@
             "PALKIA"
         ],
         "type": "WATER",
-        "hash": "11c3b09dd9642b9a36"
+        "original": "A2-042"
     },
     {
         "id": "A2-043",
@@ -571,7 +571,7 @@
             "PALKIA"
         ],
         "type": "WATER",
-        "hash": "21f859c7ec62d40ec2"
+        "original": "A2-043"
     },
     {
         "id": "A2-044",
@@ -585,7 +585,7 @@
             "PALKIA"
         ],
         "type": "WATER",
-        "hash": "11a88797664a755175"
+        "original": "A2-044"
     },
     {
         "id": "A2-045",
@@ -599,7 +599,7 @@
             "PALKIA"
         ],
         "type": "WATER",
-        "hash": "21da0f6345b16d17e0"
+        "original": "A2-045"
     },
     {
         "id": "A2-046",
@@ -612,7 +612,7 @@
             "PALKIA"
         ],
         "type": "WATER",
-        "hash": "31c31e73a6724c24dd"
+        "original": "A2-046"
     },
     {
         "id": "A2-047",
@@ -626,7 +626,7 @@
             "PALKIA"
         ],
         "type": "WATER",
-        "hash": "11e0bbc3e51ce13358"
+        "original": "A2-047"
     },
     {
         "id": "A2-048",
@@ -640,7 +640,7 @@
             "PALKIA"
         ],
         "type": "WATER",
-        "hash": "11f0decb70cca14aa3"
+        "original": "A2-048"
     },
     {
         "id": "A2-049",
@@ -653,7 +653,7 @@
             "PALKIA"
         ],
         "type": "WATER",
-        "hash": "419ce3fbb03b1cc403"
+        "original": "A2-049"
     },
     {
         "id": "A2-050",
@@ -666,7 +666,7 @@
             "PALKIA"
         ],
         "type": "WATER",
-        "hash": "21eb01995a52f57a51"
+        "original": "A2-050"
     },
     {
         "id": "A2-051",
@@ -680,7 +680,7 @@
             "PALKIA"
         ],
         "type": "LIGHTNING",
-        "hash": "11b97820e11d9f61dc"
+        "original": "A2-051"
     },
     {
         "id": "A2-052",
@@ -694,7 +694,7 @@
             "PALKIA"
         ],
         "type": "LIGHTNING",
-        "hash": "21c9447ec36e9d9c88"
+        "original": "A2-052"
     },
     {
         "id": "A2-053",
@@ -708,7 +708,7 @@
             "PALKIA"
         ],
         "type": "LIGHTNING",
-        "hash": "3198d4e27199ac24f7"
+        "original": "A2-053"
     },
     {
         "id": "A2-054",
@@ -722,7 +722,7 @@
             "PALKIA"
         ],
         "type": "LIGHTNING",
-        "hash": "11ea0566b0936b8d3e"
+        "original": "A2-054"
     },
     {
         "id": "A2-055",
@@ -736,7 +736,7 @@
             "PALKIA"
         ],
         "type": "LIGHTNING",
-        "hash": "21c91bb4e49e936a62"
+        "original": "A2-055"
     },
     {
         "id": "A2-056",
@@ -749,7 +749,7 @@
             "DIALGA"
         ],
         "type": "LIGHTNING",
-        "hash": "11c2c97d6c0f097e86"
+        "original": "A2-056"
     },
     {
         "id": "A2-057",
@@ -762,7 +762,7 @@
             "DIALGA"
         ],
         "type": "LIGHTNING",
-        "hash": "3180d61fde2caa731a"
+        "original": "A2-057"
     },
     {
         "id": "A2-058",
@@ -775,7 +775,7 @@
             "DIALGA"
         ],
         "type": "LIGHTNING",
-        "hash": "11cdd85065dac729b4"
+        "original": "A2-058"
     },
     {
         "id": "A2-059",
@@ -788,7 +788,7 @@
             "DIALGA"
         ],
         "type": "LIGHTNING",
-        "hash": "21d1b2cc0c735e4e1b"
+        "original": "A2-059"
     },
     {
         "id": "A2-060",
@@ -801,7 +801,7 @@
             "DIALGA"
         ],
         "type": "LIGHTNING",
-        "hash": "31bfb8d334404674c7"
+        "original": "A2-060"
     },
     {
         "id": "A2-061",
@@ -814,7 +814,7 @@
             "DIALGA"
         ],
         "type": "LIGHTNING",
-        "hash": "41e1f37a4c0d69901f"
+        "original": "A2-061"
     },
     {
         "id": "A2-062",
@@ -827,7 +827,7 @@
             "PALKIA"
         ],
         "type": "LIGHTNING",
-        "hash": "1180c557aa273751dd"
+        "original": "A2-062"
     },
     {
         "id": "A2-063",
@@ -841,7 +841,7 @@
             "PALKIA"
         ],
         "type": "PSYCHIC",
-        "hash": "118e0c30361f7be38b"
+        "original": "A2-063"
     },
     {
         "id": "A2-064",
@@ -855,7 +855,7 @@
             "PALKIA"
         ],
         "type": "PSYCHIC",
-        "hash": "21c30a7e5fe4e9c142"
+        "original": "A2-064"
     },
     {
         "id": "A2-065",
@@ -869,7 +869,7 @@
             "PALKIA"
         ],
         "type": "PSYCHIC",
-        "hash": "31d1ae7a941acc36cc"
+        "original": "A2-065"
     },
     {
         "id": "A2-066",
@@ -882,7 +882,7 @@
             "PALKIA"
         ],
         "type": "PSYCHIC",
-        "hash": "11ded8707145272ecc"
+        "original": "A2-066"
     },
     {
         "id": "A2-067",
@@ -895,7 +895,7 @@
             "PALKIA"
         ],
         "type": "PSYCHIC",
-        "hash": "41b8d6eccf42c4c1d1"
+        "original": "A2-067"
     },
     {
         "id": "A2-068",
@@ -908,7 +908,7 @@
             "DIALGA"
         ],
         "type": "PSYCHIC",
-        "hash": "11d6771b0c39a4398e"
+        "original": "A2-068"
     },
     {
         "id": "A2-069",
@@ -921,7 +921,7 @@
             "DIALGA"
         ],
         "type": "PSYCHIC",
-        "hash": "11caf677c6c99c4848"
+        "original": "A2-069"
     },
     {
         "id": "A2-070",
@@ -934,7 +934,7 @@
             "DIALGA"
         ],
         "type": "PSYCHIC",
-        "hash": "11d8553d39305a5b66"
+        "original": "A2-070"
     },
     {
         "id": "A2-071",
@@ -947,7 +947,7 @@
             "DIALGA"
         ],
         "type": "PSYCHIC",
-        "hash": "2198f960cfcd90e0ce"
+        "original": "A2-071"
     },
     {
         "id": "A2-072",
@@ -960,7 +960,7 @@
             "DIALGA"
         ],
         "type": "PSYCHIC",
-        "hash": "31d6981bfc6884ec6a"
+        "original": "A2-072"
     },
     {
         "id": "A2-073",
@@ -973,7 +973,7 @@
             "DIALGA"
         ],
         "type": "PSYCHIC",
-        "hash": "11b7254930c03bf3cb"
+        "original": "A2-073"
     },
     {
         "id": "A2-074",
@@ -986,7 +986,7 @@
             "DIALGA"
         ],
         "type": "PSYCHIC",
-        "hash": "21db36769348e863c8"
+        "original": "A2-074"
     },
     {
         "id": "A2-075",
@@ -1000,7 +1000,7 @@
             "PALKIA"
         ],
         "type": "PSYCHIC",
-        "hash": "21e1b33e4b1c05594f"
+        "original": "A2-075"
     },
     {
         "id": "A2-076",
@@ -1014,7 +1014,7 @@
             "PALKIA"
         ],
         "type": "PSYCHIC",
-        "hash": "318b9f307f3e643015"
+        "original": "A2-076"
     },
     {
         "id": "A2-077",
@@ -1028,7 +1028,7 @@
             "PALKIA"
         ],
         "type": "PSYCHIC",
-        "hash": "21848f3bb4c91ea563"
+        "original": "A2-077"
     },
     {
         "id": "A2-078",
@@ -1041,7 +1041,7 @@
             "PALKIA"
         ],
         "type": "PSYCHIC",
-        "hash": "31d81b66e09c56bc33"
+        "original": "A2-078"
     },
     {
         "id": "A2-079",
@@ -1054,7 +1054,7 @@
             "PALKIA"
         ],
         "type": "PSYCHIC",
-        "hash": "31dbff900ccc47c08d"
+        "original": "A2-079"
     },
     {
         "id": "A2-080",
@@ -1067,7 +1067,7 @@
             "PALKIA"
         ],
         "type": "FIGHTING",
-        "hash": "11eba20cce3299e61b"
+        "original": "A2-080"
     },
     {
         "id": "A2-081",
@@ -1080,7 +1080,7 @@
             "PALKIA"
         ],
         "type": "FIGHTING",
-        "hash": "21888c5f76dd08e2ce"
+        "original": "A2-081"
     },
     {
         "id": "A2-082",
@@ -1093,7 +1093,7 @@
             "PALKIA"
         ],
         "type": "FIGHTING",
-        "hash": "31ef5c8aed88e49452"
+        "original": "A2-082"
     },
     {
         "id": "A2-083",
@@ -1106,7 +1106,7 @@
             "DIALGA"
         ],
         "type": "FIGHTING",
-        "hash": "11c0e9eb72a6768e22"
+        "original": "A2-083"
     },
     {
         "id": "A2-084",
@@ -1119,7 +1119,7 @@
             "DIALGA"
         ],
         "type": "FIGHTING",
-        "hash": "21e86d82738c8d99ec"
+        "original": "A2-084"
     },
     {
         "id": "A2-085",
@@ -1132,7 +1132,7 @@
             "DIALGA"
         ],
         "type": "FIGHTING",
-        "hash": "11fbdb2d82124471b6"
+        "original": "A2-085"
     },
     {
         "id": "A2-086",
@@ -1146,7 +1146,7 @@
             "PALKIA"
         ],
         "type": "FIGHTING",
-        "hash": "11f0d1cbc4649ed269"
+        "original": "A2-086"
     },
     {
         "id": "A2-087",
@@ -1160,7 +1160,7 @@
             "PALKIA"
         ],
         "type": "FIGHTING",
-        "hash": "218b95317612a7676a"
+        "original": "A2-087"
     },
     {
         "id": "A2-088",
@@ -1173,7 +1173,7 @@
             "DIALGA"
         ],
         "type": "FIGHTING",
-        "hash": "21c7de3891c0e0be2e"
+        "original": "A2-088"
     },
     {
         "id": "A2-089",
@@ -1186,7 +1186,7 @@
             "DIALGA"
         ],
         "type": "FIGHTING",
-        "hash": "31b898dc86c0cce6e7"
+        "original": "A2-089"
     },
     {
         "id": "A2-090",
@@ -1199,7 +1199,7 @@
             "DIALGA"
         ],
         "type": "FIGHTING",
-        "hash": "11d6266998adc53437"
+        "original": "A2-090"
     },
     {
         "id": "A2-091",
@@ -1212,7 +1212,7 @@
             "DIALGA"
         ],
         "type": "FIGHTING",
-        "hash": "11e0ea1fc1788f6493"
+        "original": "A2-091"
     },
     {
         "id": "A2-092",
@@ -1225,7 +1225,7 @@
             "DIALGA"
         ],
         "type": "FIGHTING",
-        "hash": "31c838dee3e4d4c9c1"
+        "original": "A2-092"
     },
     {
         "id": "A2-093",
@@ -1238,7 +1238,7 @@
             "PALKIA"
         ],
         "type": "FIGHTING",
-        "hash": "1184eb775149d65e24"
+        "original": "A2-093"
     },
     {
         "id": "A2-094",
@@ -1251,7 +1251,7 @@
             "PALKIA"
         ],
         "type": "FIGHTING",
-        "hash": "21ebc8c3bdec1cb014"
+        "original": "A2-094"
     },
     {
         "id": "A2-095",
@@ -1264,7 +1264,7 @@
             "DIALGA"
         ],
         "type": "FIGHTING",
-        "hash": "41fa429b49a4eb10dd"
+        "original": "A2-095"
     },
     {
         "id": "A2-096",
@@ -1277,7 +1277,7 @@
             "DIALGA"
         ],
         "type": "DARKNESS",
-        "hash": "11e2219cde1fc1e439"
+        "original": "A2-096"
     },
     {
         "id": "A2-097",
@@ -1290,7 +1290,7 @@
             "DIALGA"
         ],
         "type": "DARKNESS",
-        "hash": "21dbce64659bd96420"
+        "original": "A2-097"
     },
     {
         "id": "A2-098",
@@ -1303,7 +1303,7 @@
             "PALKIA"
         ],
         "type": "DARKNESS",
-        "hash": "11f6f0790ce93b3205"
+        "original": "A2-098"
     },
     {
         "id": "A2-099",
@@ -1316,7 +1316,7 @@
             "PALKIA"
         ],
         "type": "DARKNESS",
-        "hash": "41af85e41f97a44998"
+        "original": "A2-099"
     },
     {
         "id": "A2-100",
@@ -1330,7 +1330,7 @@
             "PALKIA"
         ],
         "type": "DARKNESS",
-        "hash": "11a4e3d9da9791b604"
+        "original": "A2-100"
     },
     {
         "id": "A2-101",
@@ -1344,7 +1344,7 @@
             "PALKIA"
         ],
         "type": "DARKNESS",
-        "hash": "21c8e1b39ed9246497"
+        "original": "A2-101"
     },
     {
         "id": "A2-102",
@@ -1357,7 +1357,7 @@
             "DIALGA"
         ],
         "type": "DARKNESS",
-        "hash": "11eacb92344fa4992e"
+        "original": "A2-102"
     },
     {
         "id": "A2-103",
@@ -1370,7 +1370,7 @@
             "DIALGA"
         ],
         "type": "DARKNESS",
-        "hash": "2194a5ffc6e348cd40"
+        "original": "A2-103"
     },
     {
         "id": "A2-104",
@@ -1383,7 +1383,7 @@
             "PALKIA"
         ],
         "type": "DARKNESS",
-        "hash": "21c1b10f97c9cb8764"
+        "original": "A2-104"
     },
     {
         "id": "A2-105",
@@ -1397,7 +1397,7 @@
             "PALKIA"
         ],
         "type": "DARKNESS",
-        "hash": "11bce0f89c89666c2e"
+        "original": "A2-105"
     },
     {
         "id": "A2-106",
@@ -1411,7 +1411,7 @@
             "PALKIA"
         ],
         "type": "DARKNESS",
-        "hash": "21eda3d280c39e919d"
+        "original": "A2-106"
     },
     {
         "id": "A2-107",
@@ -1424,7 +1424,7 @@
             "DIALGA"
         ],
         "type": "DARKNESS",
-        "hash": "11d38470bb1af2649b"
+        "original": "A2-107"
     },
     {
         "id": "A2-108",
@@ -1437,7 +1437,7 @@
             "DIALGA"
         ],
         "type": "DARKNESS",
-        "hash": "21d3d8dc8eb6646360"
+        "original": "A2-108"
     },
     {
         "id": "A2-109",
@@ -1450,7 +1450,7 @@
             "DIALGA"
         ],
         "type": "DARKNESS",
-        "hash": "3185cccae2a23333bb"
+        "original": "A2-109"
     },
     {
         "id": "A2-110",
@@ -1463,7 +1463,7 @@
             "DIALGA"
         ],
         "type": "DARKNESS",
-        "hash": "41e6948ae9c1eea2aa"
+        "original": "A2-110"
     },
     {
         "id": "A2-111",
@@ -1477,7 +1477,7 @@
             "PALKIA"
         ],
         "type": "METAL",
-        "hash": "21cadbd4b5a769081a"
+        "original": "A2-111"
     },
     {
         "id": "A2-112",
@@ -1490,7 +1490,7 @@
             "DIALGA"
         ],
         "type": "METAL",
-        "hash": "219dd3c5c48173ce13"
+        "original": "A2-112"
     },
     {
         "id": "A2-113",
@@ -1503,7 +1503,7 @@
             "PALKIA"
         ],
         "type": "METAL",
-        "hash": "21caf17cc16196969c"
+        "original": "A2-113"
     },
     {
         "id": "A2-114",
@@ -1516,7 +1516,7 @@
             "PALKIA"
         ],
         "type": "METAL",
-        "hash": "3189add4bdcee20ca4"
+        "original": "A2-114"
     },
     {
         "id": "A2-115",
@@ -1529,7 +1529,7 @@
             "PALKIA"
         ],
         "type": "METAL",
-        "hash": "118fb58dc9e4e0702b"
+        "original": "A2-115"
     },
     {
         "id": "A2-116",
@@ -1542,7 +1542,7 @@
             "DIALGA"
         ],
         "type": "METAL",
-        "hash": "11f64bac3119cc2766"
+        "original": "A2-116"
     },
     {
         "id": "A2-117",
@@ -1555,7 +1555,7 @@
             "DIALGA"
         ],
         "type": "METAL",
-        "hash": "21d96e64f1d648c3c1"
+        "original": "A2-117"
     },
     {
         "id": "A2-118",
@@ -1569,7 +1569,7 @@
             "PALKIA"
         ],
         "type": "METAL",
-        "hash": "21e6a5905a9e2df161"
+        "original": "A2-118"
     },
     {
         "id": "A2-119",
@@ -1582,7 +1582,7 @@
             "DIALGA"
         ],
         "type": "METAL",
-        "hash": "418af2094763ad6e39"
+        "original": "A2-119"
     },
     {
         "id": "A2-120",
@@ -1595,7 +1595,7 @@
             "DIALGA"
         ],
         "type": "METAL",
-        "hash": "31cd23b3cb95932472"
+        "original": "A2-120"
     },
     {
         "id": "A2-121",
@@ -1608,7 +1608,7 @@
             "PALKIA"
         ],
         "type": "DRAGON",
-        "hash": "11e914bc6298a31fb5"
+        "original": "A2-121"
     },
     {
         "id": "A2-122",
@@ -1621,7 +1621,7 @@
             "PALKIA"
         ],
         "type": "DRAGON",
-        "hash": "21eca4077a6ee88ac3"
+        "original": "A2-122"
     },
     {
         "id": "A2-123",
@@ -1634,7 +1634,7 @@
             "PALKIA"
         ],
         "type": "DRAGON",
-        "hash": "31e8a48ecfc5431a3b"
+        "original": "A2-123"
     },
     {
         "id": "A2-124",
@@ -1647,7 +1647,7 @@
             "PALKIA"
         ],
         "type": "COLORLESS",
-        "hash": "11d2d27b8924a7328f"
+        "original": "A2-124"
     },
     {
         "id": "A2-125",
@@ -1660,7 +1660,7 @@
             "PALKIA"
         ],
         "type": "COLORLESS",
-        "hash": "41e4521ce92cc4d6e7"
+        "original": "A2-125"
     },
     {
         "id": "A2-126",
@@ -1674,7 +1674,7 @@
             "PALKIA"
         ],
         "type": "COLORLESS",
-        "hash": "11e5b81ecd6332d0b2"
+        "original": "A2-126"
     },
     {
         "id": "A2-127",
@@ -1687,7 +1687,7 @@
             "PALKIA"
         ],
         "type": "COLORLESS",
-        "hash": "11ca07b58515b3b3b2"
+        "original": "A2-127"
     },
     {
         "id": "A2-128",
@@ -1700,7 +1700,7 @@
             "PALKIA"
         ],
         "type": "COLORLESS",
-        "hash": "218cded8c92fc460cd"
+        "original": "A2-128"
     },
     {
         "id": "A2-129",
@@ -1713,7 +1713,7 @@
             "PALKIA"
         ],
         "type": "COLORLESS",
-        "hash": "31ab62d0ad95cbe170"
+        "original": "A2-129"
     },
     {
         "id": "A2-130",
@@ -1727,7 +1727,7 @@
             "PALKIA"
         ],
         "type": "COLORLESS",
-        "hash": "11c53e393bea6c1a84"
+        "original": "A2-130"
     },
     {
         "id": "A2-131",
@@ -1741,7 +1741,7 @@
             "PALKIA"
         ],
         "type": "COLORLESS",
-        "hash": "11e4c6a69652ba0dd3"
+        "original": "A2-131"
     },
     {
         "id": "A2-132",
@@ -1754,7 +1754,7 @@
             "PALKIA"
         ],
         "type": "COLORLESS",
-        "hash": "11a7cf3c1981426b67"
+        "original": "A2-132"
     },
     {
         "id": "A2-133",
@@ -1767,7 +1767,7 @@
             "PALKIA"
         ],
         "type": "COLORLESS",
-        "hash": "11f84cc0b2674f16c7"
+        "original": "A2-133"
     },
     {
         "id": "A2-134",
@@ -1780,7 +1780,7 @@
             "PALKIA"
         ],
         "type": "COLORLESS",
-        "hash": "21b831ccd8a76bc1e2"
+        "original": "A2-134"
     },
     {
         "id": "A2-135",
@@ -1793,7 +1793,7 @@
             "DIALGA"
         ],
         "type": "COLORLESS",
-        "hash": "1181c38aacd374b1f9"
+        "original": "A2-135"
     },
     {
         "id": "A2-136",
@@ -1806,7 +1806,7 @@
             "DIALGA"
         ],
         "type": "COLORLESS",
-        "hash": "11a7d3e8694c5e3324"
+        "original": "A2-136"
     },
     {
         "id": "A2-137",
@@ -1819,7 +1819,7 @@
             "DIALGA"
         ],
         "type": "COLORLESS",
-        "hash": "11c33b8925b09e3e2b"
+        "original": "A2-137"
     },
     {
         "id": "A2-138",
@@ -1832,7 +1832,7 @@
             "DIALGA"
         ],
         "type": "COLORLESS",
-        "hash": "11b59c9567c96a4236"
+        "original": "A2-138"
     },
     {
         "id": "A2-139",
@@ -1845,7 +1845,7 @@
             "PALKIA"
         ],
         "type": "COLORLESS",
-        "hash": "11dd9c461a89a97696"
+        "original": "A2-139"
     },
     {
         "id": "A2-140",
@@ -1858,7 +1858,7 @@
             "PALKIA"
         ],
         "type": "COLORLESS",
-        "hash": "219be64095a6dc32dc"
+        "original": "A2-140"
     },
     {
         "id": "A2-141",
@@ -1871,7 +1871,7 @@
             "PALKIA"
         ],
         "type": "COLORLESS",
-        "hash": "11eb47e6669063f038"
+        "original": "A2-141"
     },
     {
         "id": "A2-142",
@@ -1885,7 +1885,7 @@
             "PALKIA"
         ],
         "type": "COLORLESS",
-        "hash": "11b5520c0b1f70fe2e"
+        "original": "A2-142"
     },
     {
         "id": "A2-143",
@@ -1899,7 +1899,7 @@
             "PALKIA"
         ],
         "type": "COLORLESS",
-        "hash": "31bcd311a6c265da6c"
+        "original": "A2-143"
     },
     {
         "id": "A2-144",
@@ -1912,7 +1912,7 @@
             "DIALGA"
         ],
         "type": "TRAINER",
-        "hash": "11d48f8233f498c5b3"
+        "original": "A2-144"
     },
     {
         "id": "A2-145",
@@ -1925,7 +1925,7 @@
             "PALKIA"
         ],
         "type": "TRAINER",
-        "hash": "1194d9afb194869c96"
+        "original": "A2-145"
     },
     {
         "id": "A2-146",
@@ -1938,7 +1938,7 @@
             "DIALGA"
         ],
         "type": "TRAINER",
-        "hash": "21873dcee0b393b08c"
+        "original": "A2-146"
     },
     {
         "id": "A2-147",
@@ -1951,7 +1951,7 @@
             "DIALGA"
         ],
         "type": "TRAINER",
-        "hash": "21d50abbb482fa859c"
+        "original": "A2-147"
     },
     {
         "id": "A2-148",
@@ -1964,7 +1964,7 @@
             "PALKIA"
         ],
         "type": "TRAINER",
-        "hash": "21c23df7a097938a89"
+        "original": "A2-148"
     },
     {
         "id": "A2-149",
@@ -1977,7 +1977,7 @@
             "PALKIA"
         ],
         "type": "TRAINER",
-        "hash": "21b38e8eb99aa487a4"
+        "original": "A2-149"
     },
     {
         "id": "A2-150",
@@ -1990,7 +1990,7 @@
             "PALKIA"
         ],
         "type": "TRAINER",
-        "hash": "218c92a1b7e1c597f0"
+        "original": "A2-150"
     },
     {
         "id": "A2-151",
@@ -2003,7 +2003,7 @@
             "DIALGA"
         ],
         "type": "TRAINER",
-        "hash": "219e86b8b3faa0a586"
+        "original": "A2-151"
     },
     {
         "id": "A2-152",
@@ -2016,7 +2016,7 @@
             "PALKIA"
         ],
         "type": "TRAINER",
-        "hash": "21b498876b53e3d846"
+        "original": "A2-152"
     },
     {
         "id": "A2-153",
@@ -2029,7 +2029,7 @@
             "DIALGA"
         ],
         "type": "TRAINER",
-        "hash": "21a71ce3a3878c878d"
+        "original": "A2-153"
     },
     {
         "id": "A2-154",
@@ -2042,7 +2042,7 @@
             "DIALGA"
         ],
         "type": "TRAINER",
-        "hash": "21b2dde8a693168e19"
+        "original": "A2-154"
     },
     {
         "id": "A2-155",
@@ -2055,7 +2055,7 @@
             "PALKIA"
         ],
         "type": "TRAINER",
-        "hash": "2182b5c84b958cf3e3"
+        "original": "A2-155"
     },
     {
         "id": "A2-156",
@@ -2068,7 +2068,7 @@
             "DIALGA"
         ],
         "type": "GRASS",
-        "hash": "13e088bb93c785bc17"
+        "original": "A2-156"
     },
     {
         "id": "A2-157",
@@ -2081,7 +2081,7 @@
             "DIALGA"
         ],
         "type": "GRASS",
-        "hash": "13a5d55f9783e1f080"
+        "original": "A2-157"
     },
     {
         "id": "A2-158",
@@ -2094,7 +2094,7 @@
             "PALKIA"
         ],
         "type": "GRASS",
-        "hash": "13c34c3d3c3e61b2c5"
+        "original": "A2-158"
     },
     {
         "id": "A2-159",
@@ -2107,7 +2107,7 @@
             "DIALGA"
         ],
         "type": "GRASS",
-        "hash": "139b86cba3b9d12538"
+        "original": "A2-159"
     },
     {
         "id": "A2-160",
@@ -2120,7 +2120,7 @@
             "DIALGA"
         ],
         "type": "WATER",
-        "hash": "13e1d55c853217969e"
+        "original": "A2-160"
     },
     {
         "id": "A2-161",
@@ -2133,7 +2133,7 @@
             "PALKIA"
         ],
         "type": "WATER",
-        "hash": "13d9cd32e07f46c8c4"
+        "original": "A2-161"
     },
     {
         "id": "A2-162",
@@ -2146,7 +2146,7 @@
             "PALKIA"
         ],
         "type": "WATER",
-        "hash": "13c7ce1e78d85093f0"
+        "original": "A2-162"
     },
     {
         "id": "A2-163",
@@ -2159,7 +2159,7 @@
             "DIALGA"
         ],
         "type": "LIGHTNING",
-        "hash": "13dcd917b42ccb0366"
+        "original": "A2-163"
     },
     {
         "id": "A2-164",
@@ -2172,7 +2172,7 @@
             "PALKIA"
         ],
         "type": "LIGHTNING",
-        "hash": "13acba4a45e43f71c2"
+        "original": "A2-164"
     },
     {
         "id": "A2-165",
@@ -2185,7 +2185,7 @@
             "DIALGA"
         ],
         "type": "PSYCHIC",
-        "hash": "13d05d754496e499ab"
+        "original": "A2-165"
     },
     {
         "id": "A2-166",
@@ -2198,7 +2198,7 @@
             "DIALGA"
         ],
         "type": "PSYCHIC",
-        "hash": "13ee79cc202c917da3"
+        "original": "A2-166"
     },
     {
         "id": "A2-167",
@@ -2211,7 +2211,7 @@
             "PALKIA"
         ],
         "type": "PSYCHIC",
-        "hash": "13b64c417e05bdf415"
+        "original": "A2-167"
     },
     {
         "id": "A2-168",
@@ -2224,7 +2224,7 @@
             "PALKIA"
         ],
         "type": "PSYCHIC",
-        "hash": "13c657999329a993ac"
+        "original": "A2-168"
     },
     {
         "id": "A2-169",
@@ -2237,7 +2237,7 @@
             "PALKIA"
         ],
         "type": "FIGHTING",
-        "hash": "13db6e68ecdac188c4"
+        "original": "A2-169"
     },
     {
         "id": "A2-170",
@@ -2250,7 +2250,7 @@
             "DIALGA"
         ],
         "type": "FIGHTING",
-        "hash": "139a6bdcdd92d22690"
+        "original": "A2-170"
     },
     {
         "id": "A2-171",
@@ -2263,7 +2263,7 @@
             "PALKIA"
         ],
         "type": "FIGHTING",
-        "hash": "13cd4c6df21c25e26c"
+        "original": "A2-171"
     },
     {
         "id": "A2-172",
@@ -2276,7 +2276,7 @@
             "PALKIA"
         ],
         "type": "DARKNESS",
-        "hash": "13956a3f683eb58489"
+        "original": "A2-172"
     },
     {
         "id": "A2-173",
@@ -2289,7 +2289,7 @@
             "DIALGA"
         ],
         "type": "DARKNESS",
-        "hash": "13abccec0b2a36b613"
+        "original": "A2-173"
     },
     {
         "id": "A2-174",
@@ -2302,7 +2302,7 @@
             "DIALGA"
         ],
         "type": "METAL",
-        "hash": "13e28d78fe60529ea8"
+        "original": "A2-174"
     },
     {
         "id": "A2-175",
@@ -2315,7 +2315,7 @@
             "PALKIA"
         ],
         "type": "DRAGON",
-        "hash": "1391b1fcdc68cecc60"
+        "original": "A2-175"
     },
     {
         "id": "A2-176",
@@ -2328,7 +2328,7 @@
             "PALKIA"
         ],
         "type": "COLORLESS",
-        "hash": "13cde832480f926edb"
+        "original": "A2-176"
     },
     {
         "id": "A2-177",
@@ -2341,7 +2341,7 @@
             "DIALGA"
         ],
         "type": "COLORLESS",
-        "hash": "139c011543977df5d8"
+        "original": "A2-177"
     },
     {
         "id": "A2-178",
@@ -2354,7 +2354,7 @@
             "PALKIA"
         ],
         "type": "COLORLESS",
-        "hash": "13ad1776ea234cda88"
+        "original": "A2-178"
     },
     {
         "id": "A2-179",
@@ -2367,7 +2367,7 @@
             "DIALGA"
         ],
         "type": "COLORLESS",
-        "hash": "138073de977d027a70"
+        "original": "A2-179"
     },
     {
         "id": "A2-180",
@@ -2380,7 +2380,7 @@
             "DIALGA"
         ],
         "type": "GRASS",
-        "hash": "23eab444e5bba29a46"
+        "original": "A2-180"
     },
     {
         "id": "A2-181",
@@ -2393,7 +2393,7 @@
             "PALKIA"
         ],
         "type": "FIRE",
-        "hash": "23ca7c302bc6fcec88"
+        "original": "A2-181"
     },
     {
         "id": "A2-182",
@@ -2406,7 +2406,7 @@
             "PALKIA"
         ],
         "type": "WATER",
-        "hash": "23f0b423bcc41b7556"
+        "original": "A2-182"
     },
     {
         "id": "A2-183",
@@ -2419,7 +2419,7 @@
             "DIALGA"
         ],
         "type": "LIGHTNING",
-        "hash": "23967d404f3baae330"
+        "original": "A2-183"
     },
     {
         "id": "A2-184",
@@ -2432,7 +2432,7 @@
             "PALKIA"
         ],
         "type": "PSYCHIC",
-        "hash": "23ed99f10a43c4e25d"
+        "original": "A2-184"
     },
     {
         "id": "A2-185",
@@ -2445,7 +2445,7 @@
             "DIALGA"
         ],
         "type": "FIGHTING",
-        "hash": "23cdf8ca26e3d8e098"
+        "original": "A2-185"
     },
     {
         "id": "A2-186",
@@ -2458,7 +2458,7 @@
             "PALKIA"
         ],
         "type": "DARKNESS",
-        "hash": "23fe28e78cc238c2dc"
+        "original": "A2-186"
     },
     {
         "id": "A2-187",
@@ -2471,7 +2471,7 @@
             "DIALGA"
         ],
         "type": "DARKNESS",
-        "hash": "23dcb0736f7c88d841"
+        "original": "A2-187"
     },
     {
         "id": "A2-188",
@@ -2484,7 +2484,7 @@
             "DIALGA"
         ],
         "type": "METAL",
-        "hash": "23e73a916792fd12c0"
+        "original": "A2-188"
     },
     {
         "id": "A2-189",
@@ -2497,7 +2497,7 @@
             "PALKIA"
         ],
         "type": "COLORLESS",
-        "hash": "23ee3e8a6080d9d7cc"
+        "original": "A2-189"
     },
     {
         "id": "A2-190",
@@ -2510,7 +2510,7 @@
             "PALKIA"
         ],
         "type": "TRAINER",
-        "hash": "23c487989df09b9593"
+        "original": "A2-190"
     },
     {
         "id": "A2-191",
@@ -2523,7 +2523,7 @@
             "DIALGA"
         ],
         "type": "TRAINER",
-        "hash": "23e42c82b350facb9d"
+        "original": "A2-191"
     },
     {
         "id": "A2-192",
@@ -2536,7 +2536,7 @@
             "PALKIA"
         ],
         "type": "TRAINER",
-        "hash": "23a3d837a6ee83e490"
+        "original": "A2-192"
     },
     {
         "id": "A2-193",
@@ -2549,7 +2549,7 @@
             "DIALGA"
         ],
         "type": "TRAINER",
-        "hash": "23a09b6f9077e193a1"
+        "original": "A2-193"
     },
     {
         "id": "A2-194",
@@ -2562,7 +2562,7 @@
             "DIALGA"
         ],
         "type": "TRAINER",
-        "hash": "23a28689fab639b2ac"
+        "original": "A2-194"
     },
     {
         "id": "A2-195",
@@ -2575,7 +2575,7 @@
             "PALKIA"
         ],
         "type": "TRAINER",
-        "hash": "2398b7e2c8a7e0d0f2"
+        "original": "A2-195"
     },
     {
         "id": "A2-196",
@@ -2588,7 +2588,7 @@
             "DIALGA"
         ],
         "type": "GRASS",
-        "hash": "23f56f985a19f0c0cc"
+        "original": "A2-196"
     },
     {
         "id": "A2-197",
@@ -2601,7 +2601,7 @@
             "PALKIA"
         ],
         "type": "FIRE",
-        "hash": "23f4a8a892ae85ddc6"
+        "original": "A2-197"
     },
     {
         "id": "A2-198",
@@ -2614,7 +2614,7 @@
             "DIALGA"
         ],
         "type": "LIGHTNING",
-        "hash": "2381be85ce5a758ae1"
+        "original": "A2-198"
     },
     {
         "id": "A2-199",
@@ -2627,7 +2627,7 @@
             "PALKIA"
         ],
         "type": "PSYCHIC",
-        "hash": "23c8bf33a47652607c"
+        "original": "A2-199"
     },
     {
         "id": "A2-200",
@@ -2640,7 +2640,7 @@
             "DIALGA"
         ],
         "type": "FIGHTING",
-        "hash": "23a7f39ccc983609c9"
+        "original": "A2-200"
     },
     {
         "id": "A2-201",
@@ -2653,7 +2653,7 @@
             "PALKIA"
         ],
         "type": "DARKNESS",
-        "hash": "23993ee51aedd0d841"
+        "original": "A2-201"
     },
     {
         "id": "A2-202",
@@ -2666,7 +2666,7 @@
             "DIALGA"
         ],
         "type": "DARKNESS",
-        "hash": "23e4ee963553571886"
+        "original": "A2-202"
     },
     {
         "id": "A2-203",
@@ -2679,7 +2679,7 @@
             "PALKIA"
         ],
         "type": "COLORLESS",
-        "hash": "23bebb02dc4adc40c7"
+        "original": "A2-203"
     },
     {
         "id": "A2-204",
@@ -2692,7 +2692,7 @@
             "PALKIA"
         ],
         "type": "WATER",
-        "hash": "339d8e3a44483d1e3f"
+        "original": "A2-204"
     },
     {
         "id": "A2-205",
@@ -2705,7 +2705,7 @@
             "DIALGA"
         ],
         "type": "METAL",
-        "hash": "33c49f09668f196b56"
+        "original": "A2-205"
     },
     {
         "id": "A2-206",
@@ -2719,7 +2719,7 @@
             "PALKIA"
         ],
         "type": "WATER",
-        "hash": "15b09ca72d64137cb3"
+        "original": "A2-206"
     },
     {
         "id": "A2-207",
@@ -2733,6 +2733,6 @@
             "PALKIA"
         ],
         "type": "METAL",
-        "hash": "15eda61c6982f990ec"
+        "original": "A2-207"
     }
 ]

@@ -10,7 +10,7 @@
             "MEW"
         ],
         "type": "GRASS",
-        "hash": "11c3dc3c63e6e6c214"
+        "original": "A1a-001"
     },
     {
         "id": "A1a-002",
@@ -23,7 +23,7 @@
             "MEW"
         ],
         "type": "GRASS",
-        "hash": "21c996f3acc88bcc58"
+        "original": "A1a-002"
     },
     {
         "id": "A1a-003",
@@ -36,7 +36,7 @@
             "MEW"
         ],
         "type": "GRASS",
-        "hash": "41d4d803761973255f"
+        "original": "A1a-003"
     },
     {
         "id": "A1a-004",
@@ -49,7 +49,7 @@
             "MEW"
         ],
         "type": "GRASS",
-        "hash": "11d0c2e25b6cd03df4"
+        "original": "A1a-004"
     },
     {
         "id": "A1a-005",
@@ -62,7 +62,7 @@
             "MEW"
         ],
         "type": "GRASS",
-        "hash": "21c33f4d38c4cb62cc"
+        "original": "A1a-005"
     },
     {
         "id": "A1a-006",
@@ -75,7 +75,7 @@
             "MEW"
         ],
         "type": "GRASS",
-        "hash": "31d0a40cff6ea82759"
+        "original": "A1a-006"
     },
     {
         "id": "A1a-007",
@@ -88,7 +88,7 @@
             "MEW"
         ],
         "type": "GRASS",
-        "hash": "11cdcf269c4e3488e3"
+        "original": "A1a-007"
     },
     {
         "id": "A1a-008",
@@ -101,7 +101,7 @@
             "MEW"
         ],
         "type": "GRASS",
-        "hash": "219559783beed86884"
+        "original": "A1a-008"
     },
     {
         "id": "A1a-009",
@@ -114,7 +114,7 @@
             "MEW"
         ],
         "type": "GRASS",
-        "hash": "21b6959f999ab48922"
+        "original": "A1a-009"
     },
     {
         "id": "A1a-010",
@@ -127,7 +127,7 @@
             "MEW"
         ],
         "type": "FIRE",
-        "hash": "118bb3b2c9bc5001bf"
+        "original": "A1a-010"
     },
     {
         "id": "A1a-011",
@@ -140,7 +140,7 @@
             "MEW"
         ],
         "type": "FIRE",
-        "hash": "219dee6c6ec2f070c0"
+        "original": "A1a-011"
     },
     {
         "id": "A1a-012",
@@ -153,7 +153,7 @@
             "MEW"
         ],
         "type": "FIRE",
-        "hash": "21a19654cd36875b71"
+        "original": "A1a-012"
     },
     {
         "id": "A1a-013",
@@ -166,7 +166,7 @@
             "MEW"
         ],
         "type": "FIRE",
-        "hash": "11fe0f9132e4669859"
+        "original": "A1a-013"
     },
     {
         "id": "A1a-014",
@@ -179,7 +179,7 @@
             "MEW"
         ],
         "type": "FIRE",
-        "hash": "31b9988cb39194cccf"
+        "original": "A1a-014"
     },
     {
         "id": "A1a-015",
@@ -192,7 +192,7 @@
             "MEW"
         ],
         "type": "FIRE",
-        "hash": "11bc5f81e247a5e24a"
+        "original": "A1a-015"
     },
     {
         "id": "A1a-016",
@@ -205,7 +205,7 @@
             "MEW"
         ],
         "type": "FIRE",
-        "hash": "11cece9db072c6c4c8"
+        "original": "A1a-016"
     },
     {
         "id": "A1a-017",
@@ -218,7 +218,7 @@
             "MEW"
         ],
         "type": "WATER",
-        "hash": "11c7401fe4b9973a85"
+        "original": "A1a-017"
     },
     {
         "id": "A1a-018",
@@ -231,7 +231,7 @@
             "MEW"
         ],
         "type": "WATER",
-        "hash": "41ea399fd4b5484495"
+        "original": "A1a-018"
     },
     {
         "id": "A1a-019",
@@ -244,7 +244,7 @@
             "MEW"
         ],
         "type": "WATER",
-        "hash": "31e4d65aac8186dd3a"
+        "original": "A1a-019"
     },
     {
         "id": "A1a-020",
@@ -257,7 +257,7 @@
             "MEW"
         ],
         "type": "WATER",
-        "hash": "11919ac7be7063823d"
+        "original": "A1a-020"
     },
     {
         "id": "A1a-021",
@@ -270,7 +270,7 @@
             "MEW"
         ],
         "type": "WATER",
-        "hash": "21f344cd39c6249c97"
+        "original": "A1a-021"
     },
     {
         "id": "A1a-022",
@@ -283,7 +283,7 @@
             "MEW"
         ],
         "type": "WATER",
-        "hash": "11fa5f116eed70c201"
+        "original": "A1a-022"
     },
     {
         "id": "A1a-023",
@@ -296,7 +296,7 @@
             "MEW"
         ],
         "type": "WATER",
-        "hash": "21a4af9ed02b4f942a"
+        "original": "A1a-023"
     },
     {
         "id": "A1a-024",
@@ -309,7 +309,7 @@
             "MEW"
         ],
         "type": "WATER",
-        "hash": "11e61e92e6e8239d68"
+        "original": "A1a-024"
     },
     {
         "id": "A1a-025",
@@ -322,7 +322,7 @@
             "MEW"
         ],
         "type": "LIGHTNING",
-        "hash": "119cac21bae70b8f62"
+        "original": "A1a-025"
     },
     {
         "id": "A1a-026",
@@ -335,7 +335,7 @@
             "MEW"
         ],
         "type": "LIGHTNING",
-        "hash": "31d0b84fe329e05cce"
+        "original": "A1a-026"
     },
     {
         "id": "A1a-027",
@@ -348,7 +348,7 @@
             "MEW"
         ],
         "type": "LIGHTNING",
-        "hash": "21d3dcfae1319013e1"
+        "original": "A1a-027"
     },
     {
         "id": "A1a-028",
@@ -361,7 +361,7 @@
             "MEW"
         ],
         "type": "LIGHTNING",
-        "hash": "11cbb925e03ac6dcb0"
+        "original": "A1a-028"
     },
     {
         "id": "A1a-029",
@@ -374,7 +374,7 @@
             "MEW"
         ],
         "type": "LIGHTNING",
-        "hash": "21805b0bb5eeccdec0"
+        "original": "A1a-029"
     },
     {
         "id": "A1a-030",
@@ -387,7 +387,7 @@
             "MEW"
         ],
         "type": "LIGHTNING",
-        "hash": "1188b55797b88f46c4"
+        "original": "A1a-030"
     },
     {
         "id": "A1a-031",
@@ -400,7 +400,7 @@
             "MEW"
         ],
         "type": "PSYCHIC",
-        "hash": "31d036369036d749be"
+        "original": "A1a-031"
     },
     {
         "id": "A1a-032",
@@ -413,7 +413,7 @@
             "MEW"
         ],
         "type": "PSYCHIC",
-        "hash": "41cdb02a1dcd6a156b"
+        "original": "A1a-032"
     },
     {
         "id": "A1a-033",
@@ -426,7 +426,7 @@
             "MEW"
         ],
         "type": "PSYCHIC",
-        "hash": "21c4a67d489a0b7b1b"
+        "original": "A1a-033"
     },
     {
         "id": "A1a-034",
@@ -439,7 +439,7 @@
             "MEW"
         ],
         "type": "PSYCHIC",
-        "hash": "1196a31fd200d9f0ee"
+        "original": "A1a-034"
     },
     {
         "id": "A1a-035",
@@ -452,7 +452,7 @@
             "MEW"
         ],
         "type": "PSYCHIC",
-        "hash": "21916c93da0e979ae2"
+        "original": "A1a-035"
     },
     {
         "id": "A1a-036",
@@ -465,7 +465,7 @@
             "MEW"
         ],
         "type": "PSYCHIC",
-        "hash": "11e29894797b6db098"
+        "original": "A1a-036"
     },
     {
         "id": "A1a-037",
@@ -478,7 +478,7 @@
             "MEW"
         ],
         "type": "PSYCHIC",
-        "hash": "11e571290eccb99c8e"
+        "original": "A1a-037"
     },
     {
         "id": "A1a-038",
@@ -491,7 +491,7 @@
             "MEW"
         ],
         "type": "PSYCHIC",
-        "hash": "21e88fa392fd790d02"
+        "original": "A1a-038"
     },
     {
         "id": "A1a-039",
@@ -504,7 +504,7 @@
             "MEW"
         ],
         "type": "PSYCHIC",
-        "hash": "11c7243e5938dd648b"
+        "original": "A1a-039"
     },
     {
         "id": "A1a-040",
@@ -517,7 +517,7 @@
             "MEW"
         ],
         "type": "PSYCHIC",
-        "hash": "11c5aeecc639c96318"
+        "original": "A1a-040"
     },
     {
         "id": "A1a-041",
@@ -530,7 +530,7 @@
             "MEW"
         ],
         "type": "FIGHTING",
-        "hash": "118c9b72a5bb26d852"
+        "original": "A1a-041"
     },
     {
         "id": "A1a-042",
@@ -543,7 +543,7 @@
             "MEW"
         ],
         "type": "FIGHTING",
-        "hash": "11d9fd6610a29ec907"
+        "original": "A1a-042"
     },
     {
         "id": "A1a-043",
@@ -556,7 +556,7 @@
             "MEW"
         ],
         "type": "FIGHTING",
-        "hash": "1198869f66d8a449af"
+        "original": "A1a-043"
     },
     {
         "id": "A1a-044",
@@ -569,7 +569,7 @@
             "MEW"
         ],
         "type": "FIGHTING",
-        "hash": "21e5c8d8151fe87a0e"
+        "original": "A1a-044"
     },
     {
         "id": "A1a-045",
@@ -582,7 +582,7 @@
             "MEW"
         ],
         "type": "FIGHTING",
-        "hash": "3181e8d7acc9755c94"
+        "original": "A1a-045"
     },
     {
         "id": "A1a-046",
@@ -595,7 +595,7 @@
             "MEW"
         ],
         "type": "FIGHTING",
-        "hash": "41fcc1e33c0dc8663c"
+        "original": "A1a-046"
     },
     {
         "id": "A1a-047",
@@ -608,7 +608,7 @@
             "MEW"
         ],
         "type": "FIGHTING",
-        "hash": "31d6dd5996616065cc"
+        "original": "A1a-047"
     },
     {
         "id": "A1a-048",
@@ -621,7 +621,7 @@
             "MEW"
         ],
         "type": "FIGHTING",
-        "hash": "21f3ac4d83acda14b2"
+        "original": "A1a-048"
     },
     {
         "id": "A1a-049",
@@ -634,7 +634,7 @@
             "MEW"
         ],
         "type": "DARKNESS",
-        "hash": "119ff67031913191d9"
+        "original": "A1a-049"
     },
     {
         "id": "A1a-050",
@@ -647,7 +647,7 @@
             "MEW"
         ],
         "type": "DARKNESS",
-        "hash": "21e5bbc1558c03fe05"
+        "original": "A1a-050"
     },
     {
         "id": "A1a-051",
@@ -660,7 +660,7 @@
             "MEW"
         ],
         "type": "DARKNESS",
-        "hash": "11d3e932b26c4e1ac6"
+        "original": "A1a-051"
     },
     {
         "id": "A1a-052",
@@ -673,7 +673,7 @@
             "MEW"
         ],
         "type": "DARKNESS",
-        "hash": "11bcb408c825c7fb8d"
+        "original": "A1a-052"
     },
     {
         "id": "A1a-053",
@@ -686,7 +686,7 @@
             "MEW"
         ],
         "type": "DARKNESS",
-        "hash": "11a6c38d41fdb230da"
+        "original": "A1a-053"
     },
     {
         "id": "A1a-054",
@@ -699,7 +699,7 @@
             "MEW"
         ],
         "type": "DARKNESS",
-        "hash": "11bcadd142c6944dda"
+        "original": "A1a-054"
     },
     {
         "id": "A1a-055",
@@ -712,7 +712,7 @@
             "MEW"
         ],
         "type": "DARKNESS",
-        "hash": "2192ed49da9c9ac869"
+        "original": "A1a-055"
     },
     {
         "id": "A1a-056",
@@ -725,7 +725,7 @@
             "MEW"
         ],
         "type": "DRAGON",
-        "hash": "21f0fc47ce83d86286"
+        "original": "A1a-056"
     },
     {
         "id": "A1a-057",
@@ -738,7 +738,7 @@
             "MEW"
         ],
         "type": "COLORLESS",
-        "hash": "11cee7e49c19669819"
+        "original": "A1a-057"
     },
     {
         "id": "A1a-058",
@@ -751,7 +751,7 @@
             "MEW"
         ],
         "type": "COLORLESS",
-        "hash": "1197e568cfc7109895"
+        "original": "A1a-058"
     },
     {
         "id": "A1a-059",
@@ -764,7 +764,7 @@
             "MEW"
         ],
         "type": "COLORLESS",
-        "hash": "41f41e8278cfe24696"
+        "original": "A1a-059"
     },
     {
         "id": "A1a-060",
@@ -777,7 +777,7 @@
             "MEW"
         ],
         "type": "COLORLESS",
-        "hash": "3182ca8d493ede7a19"
+        "original": "A1a-060"
     },
     {
         "id": "A1a-061",
@@ -790,7 +790,7 @@
             "MEW"
         ],
         "type": "COLORLESS",
-        "hash": "1184929e85e99595db"
+        "original": "A1a-061"
     },
     {
         "id": "A1a-062",
@@ -803,7 +803,7 @@
             "MEW"
         ],
         "type": "COLORLESS",
-        "hash": "11d573472c45cd3b12"
+        "original": "A1a-062"
     },
     {
         "id": "A1a-063",
@@ -816,7 +816,7 @@
             "MEW"
         ],
         "type": "TRAINER",
-        "hash": "118883e69d9cd516d3"
+        "original": "A1-218"
     },
     {
         "id": "A1a-064",
@@ -829,7 +829,7 @@
             "MEW"
         ],
         "type": "TRAINER",
-        "hash": "21837bd8c7e09bb284"
+        "original": "A1a-064"
     },
     {
         "id": "A1a-065",
@@ -842,7 +842,7 @@
             "MEW"
         ],
         "type": "TRAINER",
-        "hash": "21b08f92dcb0bca3b4"
+        "original": "A1a-065"
     },
     {
         "id": "A1a-066",
@@ -855,7 +855,7 @@
             "MEW"
         ],
         "type": "TRAINER",
-        "hash": "21d2e22dbc37a1a626"
+        "original": "A1a-066"
     },
     {
         "id": "A1a-067",
@@ -868,7 +868,7 @@
             "MEW"
         ],
         "type": "TRAINER",
-        "hash": "21e2d5a47a8aab2f42"
+        "original": "A1a-067"
     },
     {
         "id": "A1a-068",
@@ -881,7 +881,7 @@
             "MEW"
         ],
         "type": "TRAINER",
-        "hash": "21a1c4934df0fa4ae5"
+        "original": "A1a-068"
     },
     {
         "id": "A1a-069",
@@ -894,7 +894,7 @@
             "MEW"
         ],
         "type": "GRASS",
-        "hash": "138cefcfd846c8c584"
+        "original": "A1a-069"
     },
     {
         "id": "A1a-070",
@@ -907,7 +907,7 @@
             "MEW"
         ],
         "type": "GRASS",
-        "hash": "13e3cc1c7f0ed0e2c1"
+        "original": "A1a-070"
     },
     {
         "id": "A1a-071",
@@ -920,7 +920,7 @@
             "MEW"
         ],
         "type": "FIRE",
-        "hash": "13e4d896adc890dea5"
+        "original": "A1a-071"
     },
     {
         "id": "A1a-072",
@@ -933,7 +933,7 @@
             "MEW"
         ],
         "type": "WATER",
-        "hash": "139b6c0c4cf3cf9845"
+        "original": "A1a-072"
     },
     {
         "id": "A1a-073",
@@ -946,7 +946,7 @@
             "MEW"
         ],
         "type": "LIGHTNING",
-        "hash": "13c835d6110b4f37e3"
+        "original": "A1a-073"
     },
     {
         "id": "A1a-074",
@@ -959,7 +959,7 @@
             "MEW"
         ],
         "type": "FIGHTING",
-        "hash": "13a6d6998815bfd4a1"
+        "original": "A1a-074"
     },
     {
         "id": "A1a-075",
@@ -972,7 +972,7 @@
             "MEW"
         ],
         "type": "GRASS",
-        "hash": "23b02fc47a9679ce84"
+        "original": "A1a-075"
     },
     {
         "id": "A1a-076",
@@ -985,7 +985,7 @@
             "MEW"
         ],
         "type": "WATER",
-        "hash": "23d684eda2c67e48d1"
+        "original": "A1a-076"
     },
     {
         "id": "A1a-077",
@@ -998,7 +998,7 @@
             "MEW"
         ],
         "type": "PSYCHIC",
-        "hash": "2391ce4d3f16dd5a10"
+        "original": "A1a-077"
     },
     {
         "id": "A1a-078",
@@ -1011,7 +1011,7 @@
             "MEW"
         ],
         "type": "FIGHTING",
-        "hash": "23d999fd49a09648dc"
+        "original": "A1a-078"
     },
     {
         "id": "A1a-079",
@@ -1024,7 +1024,7 @@
             "MEW"
         ],
         "type": "COLORLESS",
-        "hash": "23b76b5802563dc4dc"
+        "original": "A1a-079"
     },
     {
         "id": "A1a-080",
@@ -1037,7 +1037,7 @@
             "MEW"
         ],
         "type": "TRAINER",
-        "hash": "23afadd2073cb0421f"
+        "original": "A1a-080"
     },
     {
         "id": "A1a-081",
@@ -1050,7 +1050,7 @@
             "MEW"
         ],
         "type": "TRAINER",
-        "hash": "23a180b7dbe7e0d0c9"
+        "original": "A1a-081"
     },
     {
         "id": "A1a-082",
@@ -1063,7 +1063,7 @@
             "MEW"
         ],
         "type": "TRAINER",
-        "hash": "23e99442ad916f70c7"
+        "original": "A1a-082"
     },
     {
         "id": "A1a-083",
@@ -1076,7 +1076,7 @@
             "MEW"
         ],
         "type": "PSYCHIC",
-        "hash": "23c38f7dd258d24872"
+        "original": "A1a-083"
     },
     {
         "id": "A1a-084",
@@ -1089,7 +1089,7 @@
             "MEW"
         ],
         "type": "FIGHTING",
-        "hash": "23e9bb9284c4a768da"
+        "original": "A1a-084"
     },
     {
         "id": "A1a-085",
@@ -1102,7 +1102,7 @@
             "MEW"
         ],
         "type": "GRASS",
-        "hash": "3393456f1a33d54acc"
+        "original": "A1a-085"
     },
     {
         "id": "A1a-086",
@@ -1115,6 +1115,6 @@
             "MEW"
         ],
         "type": "PSYCHIC",
-        "hash": "15d38c4ebf32d93a10"
+        "original": "A1a-086"
     }
 ]

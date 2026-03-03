@@ -10,7 +10,7 @@
             "LUGIA"
         ],
         "type": "GRASS",
-        "hash": "11aa0b1578d16707ee"
+        "original": "A4-001"
     },
     {
         "id": "A4-002",
@@ -23,7 +23,7 @@
             "LUGIA"
         ],
         "type": "GRASS",
-        "hash": "219992d664ea676e84"
+        "original": "A4-002"
     },
     {
         "id": "A4-003",
@@ -36,7 +36,7 @@
             "LUGIA"
         ],
         "type": "GRASS",
-        "hash": "31b6076efacacc6141"
+        "original": "A4-003"
     },
     {
         "id": "A4-004",
@@ -49,7 +49,7 @@
             "HO_OH"
         ],
         "type": "GRASS",
-        "hash": "11aa55916e1aea3f48"
+        "original": "A4-004"
     },
     {
         "id": "A4-005",
@@ -62,7 +62,7 @@
             "HO_OH"
         ],
         "type": "GRASS",
-        "hash": "31f62dcab0cd09ce15"
+        "original": "A4-005"
     },
     {
         "id": "A4-006",
@@ -75,7 +75,7 @@
             "LUGIA"
         ],
         "type": "GRASS",
-        "hash": "11b285b81fce5e60e1"
+        "original": "A4-006"
     },
     {
         "id": "A4-007",
@@ -88,7 +88,7 @@
             "LUGIA"
         ],
         "type": "GRASS",
-        "hash": "1183dd546529e931b3"
+        "original": "A4-007"
     },
     {
         "id": "A4-008",
@@ -101,7 +101,7 @@
             "LUGIA"
         ],
         "type": "GRASS",
-        "hash": "11cfb2204df0a517b5"
+        "original": "A4-008"
     },
     {
         "id": "A4-009",
@@ -114,7 +114,7 @@
             "LUGIA"
         ],
         "type": "GRASS",
-        "hash": "21c4f40e95bd0b7561"
+        "original": "A4-009"
     },
     {
         "id": "A4-010",
@@ -127,7 +127,7 @@
             "LUGIA"
         ],
         "type": "GRASS",
-        "hash": "31d15e4af049520eef"
+        "original": "A4-010"
     },
     {
         "id": "A4-011",
@@ -140,7 +140,7 @@
             "LUGIA"
         ],
         "type": "GRASS",
-        "hash": "11e93e98ad1946caca"
+        "original": "A4-011"
     },
     {
         "id": "A4-012",
@@ -153,7 +153,7 @@
             "LUGIA"
         ],
         "type": "GRASS",
-        "hash": "11d2ba49c933c26dcc"
+        "original": "A4-012"
     },
     {
         "id": "A4-013",
@@ -166,7 +166,7 @@
             "HO_OH"
         ],
         "type": "GRASS",
-        "hash": "11bce4c0f6dc0db0d4"
+        "original": "A4-013"
     },
     {
         "id": "A4-014",
@@ -179,7 +179,7 @@
             "HO_OH"
         ],
         "type": "GRASS",
-        "hash": "21de4c6d6de464c8c2"
+        "original": "A4-014"
     },
     {
         "id": "A4-015",
@@ -192,7 +192,7 @@
             "HO_OH"
         ],
         "type": "GRASS",
-        "hash": "31b3ea06a87a78cd0d"
+        "original": "A4-015"
     },
     {
         "id": "A4-016",
@@ -206,7 +206,7 @@
             "HO_OH"
         ],
         "type": "GRASS",
-        "hash": "1192adf163c3460edc"
+        "original": "A4-016"
     },
     {
         "id": "A4-017",
@@ -220,7 +220,7 @@
             "HO_OH"
         ],
         "type": "GRASS",
-        "hash": "21fa8b3e643c418e66"
+        "original": "A4-017"
     },
     {
         "id": "A4-018",
@@ -234,7 +234,7 @@
             "HO_OH"
         ],
         "type": "GRASS",
-        "hash": "11d533e12c236e9f30"
+        "original": "A4-018"
     },
     {
         "id": "A4-019",
@@ -248,7 +248,7 @@
             "HO_OH"
         ],
         "type": "GRASS",
-        "hash": "21e49cd3df99414ea0"
+        "original": "A4-019"
     },
     {
         "id": "A4-020",
@@ -262,7 +262,7 @@
             "HO_OH"
         ],
         "type": "GRASS",
-        "hash": "119215c523a763e6e3"
+        "original": "A4-020"
     },
     {
         "id": "A4-021",
@@ -275,7 +275,7 @@
             "LUGIA"
         ],
         "type": "GRASS",
-        "hash": "4191279f587caf6818"
+        "original": "A4-021"
     },
     {
         "id": "A4-022",
@@ -288,7 +288,7 @@
             "HO_OH"
         ],
         "type": "GRASS",
-        "hash": "31e1fc5a3c14ca27c6"
+        "original": "A4-022"
     },
     {
         "id": "A4-023",
@@ -302,7 +302,7 @@
             "HO_OH"
         ],
         "type": "GRASS",
-        "hash": "11f952d9d0a0e74aa9"
+        "original": "A4-023"
     },
     {
         "id": "A4-024",
@@ -316,7 +316,7 @@
             "HO_OH"
         ],
         "type": "GRASS",
-        "hash": "2183f357c0e823287f"
+        "original": "A4-024"
     },
     {
         "id": "A4-025",
@@ -329,7 +329,7 @@
             "LUGIA"
         ],
         "type": "FIRE",
-        "hash": "11d75f0ae85e648835"
+        "original": "A4-025"
     },
     {
         "id": "A4-026",
@@ -342,7 +342,7 @@
             "LUGIA"
         ],
         "type": "FIRE",
-        "hash": "3195df58bec0a4cd60"
+        "original": "A4-026"
     },
     {
         "id": "A4-027",
@@ -355,7 +355,7 @@
             "LUGIA"
         ],
         "type": "FIRE",
-        "hash": "118ef7294a4619ab3c"
+        "original": "A4-027"
     },
     {
         "id": "A4-028",
@@ -368,7 +368,7 @@
             "LUGIA"
         ],
         "type": "FIRE",
-        "hash": "21815edd33e649ea06"
+        "original": "A4-028"
     },
     {
         "id": "A4-029",
@@ -381,7 +381,7 @@
             "LUGIA"
         ],
         "type": "FIRE",
-        "hash": "31de055b5b9db4e0c0"
+        "original": "A4-029"
     },
     {
         "id": "A4-030",
@@ -394,7 +394,7 @@
             "HO_OH"
         ],
         "type": "FIRE",
-        "hash": "11aeee80c9d3820afd"
+        "original": "A4-030"
     },
     {
         "id": "A4-031",
@@ -407,7 +407,7 @@
             "HO_OH"
         ],
         "type": "FIRE",
-        "hash": "21a8a8ced251aaaece"
+        "original": "A4-031"
     },
     {
         "id": "A4-032",
@@ -420,8 +420,8 @@
             "HO_OH"
         ],
         "type": "FIRE",
-        "extra": "true",
-        "hash": "31e5131b6ebc185e85"
+        "extra": true,
+        "original": "A4-032"
     },
     {
         "id": "A4-033",
@@ -434,7 +434,7 @@
             "HO_OH"
         ],
         "type": "FIRE",
-        "hash": "31a1ef1bfcdcc03a04"
+        "original": "A4-033"
     },
     {
         "id": "A4-034",
@@ -447,7 +447,7 @@
             "HO_OH"
         ],
         "type": "FIRE",
-        "hash": "41afd3d02628dad658"
+        "original": "A4-034"
     },
     {
         "id": "A4-035",
@@ -461,7 +461,7 @@
             "HO_OH"
         ],
         "type": "FIRE",
-        "hash": "11edc8f360d8108ddb"
+        "original": "A4-035"
     },
     {
         "id": "A4-036",
@@ -475,7 +475,7 @@
             "HO_OH"
         ],
         "type": "FIRE",
-        "hash": "21e4d4872f4cec4671"
+        "original": "A4-036"
     },
     {
         "id": "A4-037",
@@ -489,7 +489,7 @@
             "HO_OH"
         ],
         "type": "FIRE",
-        "hash": "11e3ae90c30fc1f585"
+        "original": "A4-037"
     },
     {
         "id": "A4-038",
@@ -502,7 +502,7 @@
             "LUGIA"
         ],
         "type": "WATER",
-        "hash": "11a9fc844987374b36"
+        "original": "A4-038"
     },
     {
         "id": "A4-039",
@@ -515,7 +515,7 @@
             "LUGIA"
         ],
         "type": "WATER",
-        "hash": "21d0c75f6872adc4c2"
+        "original": "A4-039"
     },
     {
         "id": "A4-040",
@@ -528,7 +528,7 @@
             "LUGIA"
         ],
         "type": "WATER",
-        "hash": "318cf4558e42735eac"
+        "original": "A4-040"
     },
     {
         "id": "A4-041",
@@ -541,7 +541,7 @@
             "LUGIA"
         ],
         "type": "WATER",
-        "hash": "11d0d907cf8853a76c"
+        "original": "A4-041"
     },
     {
         "id": "A4-042",
@@ -554,7 +554,7 @@
             "LUGIA"
         ],
         "type": "WATER",
-        "hash": "2195bbdf8c20f83704"
+        "original": "A4-042"
     },
     {
         "id": "A4-043",
@@ -567,7 +567,7 @@
             "LUGIA"
         ],
         "type": "WATER",
-        "hash": "41ac8d39f017c9c6c9"
+        "original": "A4-043"
     },
     {
         "id": "A4-044",
@@ -580,7 +580,7 @@
             "LUGIA"
         ],
         "type": "WATER",
-        "hash": "11b5cf3a3cac384463"
+        "original": "A4-044"
     },
     {
         "id": "A4-045",
@@ -593,7 +593,7 @@
             "LUGIA"
         ],
         "type": "WATER",
-        "hash": "31ed1c829b9cecc266"
+        "original": "A4-045"
     },
     {
         "id": "A4-046",
@@ -606,7 +606,7 @@
             "HO_OH"
         ],
         "type": "WATER",
-        "hash": "11a0f6da498d20dbb3"
+        "original": "A4-046"
     },
     {
         "id": "A4-047",
@@ -619,7 +619,7 @@
             "HO_OH"
         ],
         "type": "WATER",
-        "hash": "21d857bdd1e489d142"
+        "original": "A4-047"
     },
     {
         "id": "A4-048",
@@ -632,7 +632,7 @@
             "HO_OH"
         ],
         "type": "WATER",
-        "hash": "31d4fef04083cdac47"
+        "original": "A4-048"
     },
     {
         "id": "A4-049",
@@ -645,7 +645,7 @@
             "HO_OH"
         ],
         "type": "WATER",
-        "hash": "11ee1693881a3fdc58"
+        "original": "A4-049"
     },
     {
         "id": "A4-050",
@@ -658,7 +658,7 @@
             "HO_OH"
         ],
         "type": "WATER",
-        "hash": "21e811dc5ecbe8c472"
+        "original": "A4-050"
     },
     {
         "id": "A4-051",
@@ -671,7 +671,7 @@
             "LUGIA"
         ],
         "type": "WATER",
-        "hash": "11fd90a043aeced88e"
+        "original": "A4-051"
     },
     {
         "id": "A4-052",
@@ -684,7 +684,7 @@
             "LUGIA"
         ],
         "type": "WATER",
-        "hash": "21f89483e196665337"
+        "original": "A4-052"
     },
     {
         "id": "A4-053",
@@ -697,7 +697,7 @@
             "LUGIA"
         ],
         "type": "WATER",
-        "hash": "21c1623a95fd820fcb"
+        "original": "A4-053"
     },
     {
         "id": "A4-054",
@@ -710,7 +710,7 @@
             "LUGIA"
         ],
         "type": "WATER",
-        "hash": "11f09fad72c82ca3c8"
+        "original": "A4-054"
     },
     {
         "id": "A4-055",
@@ -723,7 +723,7 @@
             "LUGIA"
         ],
         "type": "WATER",
-        "hash": "11dee473f09991cc82"
+        "original": "A4-055"
     },
     {
         "id": "A4-056",
@@ -736,7 +736,7 @@
             "LUGIA"
         ],
         "type": "WATER",
-        "hash": "31fadad0c0581b0ecf"
+        "original": "A4-056"
     },
     {
         "id": "A4-057",
@@ -749,7 +749,7 @@
             "HO_OH"
         ],
         "type": "WATER",
-        "hash": "21d4cd6eb25c4c6b24"
+        "original": "A4-057"
     },
     {
         "id": "A4-058",
@@ -762,7 +762,7 @@
             "LUGIA"
         ],
         "type": "WATER",
-        "hash": "21c43438cdf7334c9c"
+        "original": "A4-058"
     },
     {
         "id": "A4-059",
@@ -775,7 +775,7 @@
             "LUGIA"
         ],
         "type": "WATER",
-        "hash": "31ae6d99a5c9e01ec1"
+        "original": "A4-059"
     },
     {
         "id": "A4-060",
@@ -788,7 +788,7 @@
             "LUGIA"
         ],
         "type": "WATER",
-        "hash": "118e8d61ab964e9527"
+        "original": "A4-060"
     },
     {
         "id": "A4-061",
@@ -801,7 +801,7 @@
             "LUGIA"
         ],
         "type": "WATER",
-        "hash": "31ef86f04b8e88c23d"
+        "original": "A4-061"
     },
     {
         "id": "A4-062",
@@ -814,7 +814,7 @@
             "HO_OH"
         ],
         "type": "WATER",
-        "hash": "11911d2b42f23ccbd9"
+        "original": "A4-062"
     },
     {
         "id": "A4-063",
@@ -827,7 +827,7 @@
             "HO_OH"
         ],
         "type": "WATER",
-        "hash": "21e06d415a7e4cbc4b"
+        "original": "A4-063"
     },
     {
         "id": "A4-064",
@@ -840,7 +840,7 @@
             "LUGIA"
         ],
         "type": "LIGHTNING",
-        "hash": "11c94637acca271c3b"
+        "original": "A4-064"
     },
     {
         "id": "A4-065",
@@ -853,7 +853,7 @@
             "LUGIA"
         ],
         "type": "LIGHTNING",
-        "hash": "41bebd2361768bd060"
+        "original": "A4-065"
     },
     {
         "id": "A4-066",
@@ -866,8 +866,8 @@
             "LUGIA"
         ],
         "type": "LIGHTNING",
-        "extra": "true",
-        "hash": "319cd137e7588c512d"
+        "extra": true,
+        "original": "A4-066"
     },
     {
         "id": "A4-067",
@@ -880,7 +880,7 @@
             "LUGIA"
         ],
         "type": "LIGHTNING",
-        "hash": "11cdfd1291506d0bf4"
+        "original": "A4-067"
     },
     {
         "id": "A4-068",
@@ -893,7 +893,7 @@
             "LUGIA"
         ],
         "type": "LIGHTNING",
-        "hash": "218958e7c89b0d966d"
+        "original": "A4-068"
     },
     {
         "id": "A4-069",
@@ -906,7 +906,7 @@
             "LUGIA"
         ],
         "type": "LIGHTNING",
-        "hash": "3195795afc6c72822c"
+        "original": "A4-069"
     },
     {
         "id": "A4-070",
@@ -919,8 +919,8 @@
             "LUGIA"
         ],
         "type": "LIGHTNING",
-        "extra": "true",
-        "hash": "318d7f825ecc8f21a1"
+        "extra": true,
+        "original": "A4-070"
     },
     {
         "id": "A4-071",
@@ -933,7 +933,7 @@
             "HO_OH"
         ],
         "type": "LIGHTNING",
-        "hash": "319ce8cab741cc7362"
+        "original": "A4-071"
     },
     {
         "id": "A4-072",
@@ -947,7 +947,7 @@
             "HO_OH"
         ],
         "type": "LIGHTNING",
-        "hash": "11a8524dd6a3cdb269"
+        "original": "A4-072"
     },
     {
         "id": "A4-073",
@@ -959,8 +959,8 @@
         "origins": [
             "LUGIA"
         ],
-        "type": "Psychic",
-        "hash": "11ea93b76c802a9f91"
+        "type": "PSYCHIC",
+        "original": "A4-073"
     },
     {
         "id": "A4-074",
@@ -972,8 +972,8 @@
         "origins": [
             "LUGIA"
         ],
-        "type": "Psychic",
-        "hash": "21979c4f907550b26e"
+        "type": "PSYCHIC",
+        "original": "A4-074"
     },
     {
         "id": "A4-075",
@@ -985,9 +985,9 @@
         "origins": [
             "HO_OH"
         ],
-        "type": "Psychic",
-        "extra": "true",
-        "hash": "31d3fa0fd2e0689865"
+        "type": "PSYCHIC",
+        "extra": true,
+        "original": "A4-075"
     },
     {
         "id": "A4-076",
@@ -1000,8 +1000,8 @@
             "LUGIA",
             "HO_OH"
         ],
-        "type": "Psychic",
-        "hash": "1194c6863e9d3f1236"
+        "type": "PSYCHIC",
+        "original": "A4-076"
     },
     {
         "id": "A4-077",
@@ -1013,9 +1013,9 @@
         "origins": [
             "LUGIA"
         ],
-        "type": "Psychic",
-        "extra": "true",
-        "hash": "31e5b392164dae8ac5"
+        "type": "PSYCHIC",
+        "extra": true,
+        "original": "A4-077"
     },
     {
         "id": "A4-078",
@@ -1027,8 +1027,8 @@
         "origins": [
             "HO_OH"
         ],
-        "type": "Psychic",
-        "hash": "119f83789761d2a1b2"
+        "type": "PSYCHIC",
+        "original": "A4-078"
     },
     {
         "id": "A4-079",
@@ -1040,8 +1040,8 @@
         "origins": [
             "HO_OH"
         ],
-        "type": "Psychic",
-        "hash": "219c1c346d67631a3d"
+        "type": "PSYCHIC",
+        "original": "A4-079"
     },
     {
         "id": "A4-080",
@@ -1053,8 +1053,8 @@
         "origins": [
             "HO_OH"
         ],
-        "type": "Psychic",
-        "hash": "31d1b44ab23c573179"
+        "type": "PSYCHIC",
+        "original": "A4-080"
     },
     {
         "id": "A4-081",
@@ -1066,8 +1066,8 @@
         "origins": [
             "LUGIA"
         ],
-        "type": "Psychic",
-        "hash": "11df38244344c657dd"
+        "type": "PSYCHIC",
+        "original": "A4-081"
     },
     {
         "id": "A4-082",
@@ -1079,8 +1079,8 @@
         "origins": [
             "LUGIA"
         ],
-        "type": "Psychic",
-        "hash": "31e75d6608812798fe"
+        "type": "PSYCHIC",
+        "original": "A4-082"
     },
     {
         "id": "A4-083",
@@ -1092,8 +1092,8 @@
         "origins": [
             "LUGIA"
         ],
-        "type": "Psychic",
-        "hash": "41d27692596d89a18f"
+        "type": "PSYCHIC",
+        "original": "A4-083"
     },
     {
         "id": "A4-084",
@@ -1105,8 +1105,8 @@
         "origins": [
             "HO_OH"
         ],
-        "type": "Psychic",
-        "hash": "31fca2aec7cc4c9324"
+        "type": "PSYCHIC",
+        "original": "A4-084"
     },
     {
         "id": "A4-085",
@@ -1118,8 +1118,8 @@
         "origins": [
             "LUGIA"
         ],
-        "type": "Psychic",
-        "hash": "31bf8c8274b4ea4f60"
+        "type": "PSYCHIC",
+        "original": "A4-085"
     },
     {
         "id": "A4-086",
@@ -1131,8 +1131,8 @@
         "origins": [
             "LUGIA"
         ],
-        "type": "Psychic",
-        "hash": "118e78d158b56f6322"
+        "type": "PSYCHIC",
+        "original": "A4-086"
     },
     {
         "id": "A4-087",
@@ -1144,8 +1144,8 @@
         "origins": [
             "HO_OH"
         ],
-        "type": "Psychic",
-        "hash": "11c892b2cc5617b59d"
+        "type": "PSYCHIC",
+        "original": "A4-087"
     },
     {
         "id": "A4-088",
@@ -1158,8 +1158,8 @@
             "LUGIA",
             "HO_OH"
         ],
-        "type": "Psychic",
-        "hash": "118faf09a1a59da594"
+        "type": "PSYCHIC",
+        "original": "A4-088"
     },
     {
         "id": "A4-089",
@@ -1172,8 +1172,8 @@
             "LUGIA",
             "HO_OH"
         ],
-        "type": "Psychic",
-        "hash": "21f48a59872e54ecf0"
+        "type": "PSYCHIC",
+        "original": "A4-089"
     },
     {
         "id": "A4-090",
@@ -1186,8 +1186,8 @@
             "LUGIA",
             "HO_OH"
         ],
-        "type": "Psychic",
-        "hash": "11cce07c9071ee2177"
+        "type": "PSYCHIC",
+        "original": "A4-090"
     },
     {
         "id": "A4-091",
@@ -1200,8 +1200,8 @@
             "LUGIA",
             "HO_OH"
         ],
-        "type": "Psychic",
-        "hash": "219e81302ff3bec438"
+        "type": "PSYCHIC",
+        "original": "A4-091"
     },
     {
         "id": "A4-092",
@@ -1214,7 +1214,7 @@
             "HO_OH"
         ],
         "type": "FIGHTING",
-        "hash": "1194a453cc4fb34d36"
+        "original": "A4-092"
     },
     {
         "id": "A4-093",
@@ -1228,7 +1228,7 @@
             "HO_OH"
         ],
         "type": "FIGHTING",
-        "hash": "1196a9197286a5b579"
+        "original": "A4-093"
     },
     {
         "id": "A4-094",
@@ -1241,7 +1241,7 @@
             "HO_OH"
         ],
         "type": "FIGHTING",
-        "hash": "11ff1643342953a8ad"
+        "original": "A4-094"
     },
     {
         "id": "A4-095",
@@ -1254,7 +1254,7 @@
             "HO_OH"
         ],
         "type": "FIGHTING",
-        "hash": "21c0ccde87bcd3891a"
+        "original": "A4-095"
     },
     {
         "id": "A4-096",
@@ -1267,7 +1267,7 @@
             "HO_OH"
         ],
         "type": "FIGHTING",
-        "hash": "1199ec7763c63e1142"
+        "original": "A4-096"
     },
     {
         "id": "A4-097",
@@ -1280,7 +1280,7 @@
             "HO_OH"
         ],
         "type": "FIGHTING",
-        "hash": "219adde5d682d2c2d0"
+        "original": "A4-097"
     },
     {
         "id": "A4-098",
@@ -1293,7 +1293,7 @@
             "HO_OH"
         ],
         "type": "FIGHTING",
-        "hash": "31e8d64f0c4265dcf1"
+        "original": "A4-098"
     },
     {
         "id": "A4-099",
@@ -1306,7 +1306,7 @@
             "HO_OH"
         ],
         "type": "FIGHTING",
-        "hash": "11c1973cc8276cf817"
+        "original": "A4-099"
     },
     {
         "id": "A4-100",
@@ -1319,7 +1319,7 @@
             "HO_OH"
         ],
         "type": "FIGHTING",
-        "hash": "41b6d041dd89f4e4c6"
+        "original": "A4-100"
     },
     {
         "id": "A4-101",
@@ -1332,8 +1332,8 @@
             "HO_OH"
         ],
         "type": "FIGHTING",
-        "extra": "true",
-        "hash": "31e09b183f08d9575e"
+        "extra": true,
+        "original": "A4-101"
     },
     {
         "id": "A4-102",
@@ -1347,7 +1347,7 @@
             "HO_OH"
         ],
         "type": "FIGHTING",
-        "hash": "11eb1ad2d9ce469948"
+        "original": "A4-102"
     },
     {
         "id": "A4-103",
@@ -1360,7 +1360,7 @@
             "HO_OH"
         ],
         "type": "FIGHTING",
-        "hash": "11994964369a1f8e8f"
+        "original": "A4-103"
     },
     {
         "id": "A4-104",
@@ -1373,7 +1373,7 @@
             "HO_OH"
         ],
         "type": "FIGHTING",
-        "hash": "21cd8e923549e8a73a"
+        "original": "A4-104"
     },
     {
         "id": "A4-105",
@@ -1386,7 +1386,7 @@
             "LUGIA"
         ],
         "type": "FIGHTING",
-        "hash": "11f7eaca9d38c01a23"
+        "original": "A4-105"
     },
     {
         "id": "A4-106",
@@ -1399,7 +1399,7 @@
             "LUGIA"
         ],
         "type": "FIGHTING",
-        "hash": "2192bee8949dc9a4e2"
+        "original": "A4-106"
     },
     {
         "id": "A4-107",
@@ -1412,7 +1412,7 @@
             "HO_OH"
         ],
         "type": "DARKNESS",
-        "hash": "1194f0b193eb638e1c"
+        "original": "A4-107"
     },
     {
         "id": "A4-108",
@@ -1425,7 +1425,7 @@
             "HO_OH"
         ],
         "type": "DARKNESS",
-        "hash": "21e12dce78966e98c1"
+        "original": "A4-108"
     },
     {
         "id": "A4-109",
@@ -1438,7 +1438,7 @@
             "HO_OH"
         ],
         "type": "DARKNESS",
-        "hash": "41ecd17b8cd4c811f4"
+        "original": "A4-109"
     },
     {
         "id": "A4-110",
@@ -1451,7 +1451,7 @@
             "HO_OH"
         ],
         "type": "DARKNESS",
-        "hash": "11bccc42328f63d8d6"
+        "original": "A4-110"
     },
     {
         "id": "A4-111",
@@ -1464,7 +1464,7 @@
             "HO_OH"
         ],
         "type": "DARKNESS",
-        "hash": "21c05ff4ec436f83a0"
+        "original": "A4-111"
     },
     {
         "id": "A4-112",
@@ -1477,7 +1477,7 @@
             "HO_OH"
         ],
         "type": "DARKNESS",
-        "hash": "41bf858b9f413195c4"
+        "original": "A4-112"
     },
     {
         "id": "A4-113",
@@ -1490,7 +1490,7 @@
             "LUGIA"
         ],
         "type": "DARKNESS",
-        "hash": "11a6e5d95a90dac899"
+        "original": "A4-113"
     },
     {
         "id": "A4-114",
@@ -1503,7 +1503,7 @@
             "LUGIA"
         ],
         "type": "DARKNESS",
-        "hash": "21d9746799ec866189"
+        "original": "A4-114"
     },
     {
         "id": "A4-115",
@@ -1516,7 +1516,7 @@
             "LUGIA"
         ],
         "type": "DARKNESS",
-        "hash": "11c2e2c9399bda8794"
+        "original": "A4-115"
     },
     {
         "id": "A4-116",
@@ -1529,7 +1529,7 @@
             "LUGIA"
         ],
         "type": "DARKNESS",
-        "hash": "2191d49fcf74984c64"
+        "original": "A4-116"
     },
     {
         "id": "A4-117",
@@ -1543,7 +1543,7 @@
             "HO_OH"
         ],
         "type": "DARKNESS",
-        "hash": "11abb8d4dec605b84a"
+        "original": "A4-117"
     },
     {
         "id": "A4-118",
@@ -1557,7 +1557,7 @@
             "HO_OH"
         ],
         "type": "DARKNESS",
-        "hash": "21beda4946ec30c669"
+        "original": "A4-118"
     },
     {
         "id": "A4-119",
@@ -1570,7 +1570,7 @@
             "HO_OH"
         ],
         "type": "DARKNESS",
-        "hash": "31e5c698cb842f2b6a"
+        "original": "A4-119"
     },
     {
         "id": "A4-120",
@@ -1584,7 +1584,7 @@
             "HO_OH"
         ],
         "type": "DARKNESS",
-        "hash": "21df91214e3332396e"
+        "original": "A4-120"
     },
     {
         "id": "A4-121",
@@ -1598,7 +1598,7 @@
             "HO_OH"
         ],
         "type": "METAL",
-        "hash": "21cac047dfb8366c54"
+        "original": "A4-121"
     },
     {
         "id": "A4-122",
@@ -1611,7 +1611,7 @@
             "HO_OH"
         ],
         "type": "METAL",
-        "hash": "31f3db00c897ee0cc9"
+        "original": "A4-122"
     },
     {
         "id": "A4-123",
@@ -1624,7 +1624,7 @@
             "LUGIA"
         ],
         "type": "METAL",
-        "hash": "31a691965ce3a7584b"
+        "original": "A4-123"
     },
     {
         "id": "A4-124",
@@ -1637,7 +1637,7 @@
             "HO_OH"
         ],
         "type": "METAL",
-        "hash": "41b39a3925861b6dc3"
+        "original": "A4-124"
     },
     {
         "id": "A4-125",
@@ -1651,7 +1651,7 @@
             "HO_OH"
         ],
         "type": "METAL",
-        "hash": "1193a198187ecc8fc7"
+        "original": "A4-125"
     },
     {
         "id": "A4-126",
@@ -1664,7 +1664,7 @@
             "HO_OH"
         ],
         "type": "METAL",
-        "hash": "1191c1a4cc6179ed6b"
+        "original": "A4-126"
     },
     {
         "id": "A4-127",
@@ -1677,7 +1677,7 @@
             "HO_OH"
         ],
         "type": "METAL",
-        "hash": "21a4a853c3369eb83b"
+        "original": "A4-127"
     },
     {
         "id": "A4-128",
@@ -1690,7 +1690,7 @@
             "HO_OH"
         ],
         "type": "METAL",
-        "hash": "31d4a8ca772cc44f78"
+        "original": "A4-128"
     },
     {
         "id": "A4-129",
@@ -1703,7 +1703,7 @@
             "HO_OH"
         ],
         "type": "COLORLESS",
-        "hash": "11fcce86d05991ba43"
+        "original": "A4-129"
     },
     {
         "id": "A4-130",
@@ -1716,7 +1716,7 @@
             "HO_OH"
         ],
         "type": "COLORLESS",
-        "hash": "11b98a1afec996b4c0"
+        "original": "A4-130"
     },
     {
         "id": "A4-131",
@@ -1729,7 +1729,7 @@
             "HO_OH"
         ],
         "type": "COLORLESS",
-        "hash": "1181ae69d257e50e99"
+        "original": "A4-131"
     },
     {
         "id": "A4-132",
@@ -1742,7 +1742,7 @@
             "HO_OH"
         ],
         "type": "COLORLESS",
-        "hash": "31d2c4799e269856dc"
+        "original": "A4-132"
     },
     {
         "id": "A4-133",
@@ -1755,7 +1755,7 @@
             "HO_OH"
         ],
         "type": "COLORLESS",
-        "hash": "31e4a41a1be1b05aef"
+        "original": "A4-133"
     },
     {
         "id": "A4-134",
@@ -1769,7 +1769,7 @@
             "HO_OH"
         ],
         "type": "COLORLESS",
-        "hash": "119586099d9be2e317"
+        "original": "A4-134"
     },
     {
         "id": "A4-135",
@@ -1782,7 +1782,7 @@
             "LUGIA"
         ],
         "type": "COLORLESS",
-        "hash": "11bcd3c28e4d6e8159"
+        "original": "A4-135"
     },
     {
         "id": "A4-136",
@@ -1795,7 +1795,7 @@
             "LUGIA"
         ],
         "type": "COLORLESS",
-        "hash": "21d47f630ee4d8cc81"
+        "original": "A4-136"
     },
     {
         "id": "A4-137",
@@ -1808,7 +1808,7 @@
             "LUGIA"
         ],
         "type": "COLORLESS",
-        "hash": "3195f64be2641c59cc"
+        "original": "A4-137"
     },
     {
         "id": "A4-138",
@@ -1821,7 +1821,7 @@
             "HO_OH"
         ],
         "type": "COLORLESS",
-        "hash": "11bbc2e41ec2358f32"
+        "original": "A4-138"
     },
     {
         "id": "A4-139",
@@ -1834,7 +1834,7 @@
             "HO_OH"
         ],
         "type": "COLORLESS",
-        "hash": "11e0195e6d8ced688e"
+        "original": "A4-139"
     },
     {
         "id": "A4-140",
@@ -1847,7 +1847,7 @@
             "HO_OH"
         ],
         "type": "COLORLESS",
-        "hash": "11dc5606842e3e5ced"
+        "original": "A4-140"
     },
     {
         "id": "A4-141",
@@ -1860,7 +1860,7 @@
             "HO_OH"
         ],
         "type": "COLORLESS",
-        "hash": "11d7b2121dcd47e81c"
+        "original": "A4-141"
     },
     {
         "id": "A4-142",
@@ -1874,7 +1874,7 @@
             "HO_OH"
         ],
         "type": "COLORLESS",
-        "hash": "11f4f8aa874c8c472d"
+        "original": "A4-142"
     },
     {
         "id": "A4-143",
@@ -1888,7 +1888,7 @@
             "HO_OH"
         ],
         "type": "COLORLESS",
-        "hash": "11ce4e6cf0481e529f"
+        "original": "A4-143"
     },
     {
         "id": "A4-144",
@@ -1902,7 +1902,7 @@
             "HO_OH"
         ],
         "type": "COLORLESS",
-        "hash": "119dcb613c9c86d343"
+        "original": "A4-144"
     },
     {
         "id": "A4-145",
@@ -1915,7 +1915,7 @@
             "HO_OH"
         ],
         "type": "COLORLESS",
-        "hash": "11d8f43611e58f498e"
+        "original": "A4-145"
     },
     {
         "id": "A4-146",
@@ -1928,7 +1928,7 @@
             "HO_OH"
         ],
         "type": "COLORLESS",
-        "hash": "21e8e0fa5416d687e8"
+        "original": "A4-146"
     },
     {
         "id": "A4-147",
@@ -1941,7 +1941,7 @@
             "HO_OH"
         ],
         "type": "COLORLESS",
-        "hash": "21b97640699e3da643"
+        "original": "A4-147"
     },
     {
         "id": "A4-148",
@@ -1954,7 +1954,7 @@
             "LUGIA"
         ],
         "type": "COLORLESS",
-        "hash": "21f6d4f4068e293993"
+        "original": "A4-148"
     },
     {
         "id": "A4-149",
@@ -1967,7 +1967,7 @@
             "LUGIA"
         ],
         "type": "COLORLESS",
-        "hash": "41fcc53cd9c41a4396"
+        "original": "A4-149"
     },
     {
         "id": "A4-150",
@@ -1981,7 +1981,7 @@
             "HO_OH"
         ],
         "type": "COLORLESS",
-        "hash": "21b832c2e737c701ec"
+        "original": "A4-150"
     },
     {
         "id": "A4-151",
@@ -1994,7 +1994,7 @@
             "LUGIA"
         ],
         "type": "TRAINER",
-        "hash": "218a937cb0e3cce1c3"
+        "original": "A4-151"
     },
     {
         "id": "A4-152",
@@ -2007,7 +2007,7 @@
             "LUGIA"
         ],
         "type": "TRAINER",
-        "hash": "21e19a9429dab89e93"
+        "original": "A4-152"
     },
     {
         "id": "A4-153",
@@ -2020,7 +2020,7 @@
             "HO_OH"
         ],
         "type": "TRAINER",
-        "hash": "21d1d3128cabb3b493"
+        "original": "A4-153"
     },
     {
         "id": "A4-154",
@@ -2033,7 +2033,7 @@
             "HO_OH"
         ],
         "type": "TRAINER",
-        "hash": "21d2a8bca6b18cacb3"
+        "original": "A4-154"
     },
     {
         "id": "A4-155",
@@ -2047,7 +2047,7 @@
             "HO_OH"
         ],
         "type": "TRAINER",
-        "hash": "21ba9186cdc9f2941e"
+        "original": "A4-155"
     },
     {
         "id": "A4-156",
@@ -2060,7 +2060,7 @@
             "LUGIA"
         ],
         "type": "TRAINER",
-        "hash": "21c69ea1f9ac83b382"
+        "original": "A4-156"
     },
     {
         "id": "A4-157",
@@ -2073,7 +2073,7 @@
             "LUGIA"
         ],
         "type": "TRAINER",
-        "hash": "21f1cafb0089778639"
+        "original": "A4-157"
     },
     {
         "id": "A4-158",
@@ -2086,7 +2086,7 @@
             "HO_OH"
         ],
         "type": "TRAINER",
-        "hash": "21a2d9eea5998ca20f"
+        "original": "A4-158"
     },
     {
         "id": "A4-159",
@@ -2099,7 +2099,7 @@
             "LUGIA"
         ],
         "type": "TRAINER",
-        "hash": "218d93e6d2c2c996d4"
+        "original": "A4-159"
     },
     {
         "id": "A4-160",
@@ -2112,7 +2112,7 @@
             "HO_OH"
         ],
         "type": "TRAINER",
-        "hash": "21eaed958092da8bb8"
+        "original": "A4-160"
     },
     {
         "id": "A4-161",
@@ -2125,7 +2125,7 @@
             "HO_OH"
         ],
         "type": "TRAINER",
-        "hash": "21b187c0d966b1d96a"
+        "original": "A4-161"
     },
     {
         "id": "A4-162",
@@ -2138,7 +2138,7 @@
             "LUGIA"
         ],
         "type": "GRASS",
-        "hash": "139b90875e3e3e0e86"
+        "original": "A4-162"
     },
     {
         "id": "A4-163",
@@ -2151,7 +2151,7 @@
             "LUGIA"
         ],
         "type": "GRASS",
-        "hash": "13e9c621b6618f386e"
+        "original": "A4-163"
     },
     {
         "id": "A4-164",
@@ -2164,7 +2164,7 @@
             "HO_OH"
         ],
         "type": "GRASS",
-        "hash": "13e1f4bc5ea5e209e0"
+        "original": "A4-164"
     },
     {
         "id": "A4-165",
@@ -2177,7 +2177,7 @@
             "LUGIA"
         ],
         "type": "FIRE",
-        "hash": "13e7adb855449b9544"
+        "original": "A4-165"
     },
     {
         "id": "A4-166",
@@ -2190,8 +2190,8 @@
             "HO_OH"
         ],
         "type": "FIRE",
-        "extra": "true",
-        "hash": "13b9c43b78857e6099"
+        "extra": true,
+        "original": "A4-166"
     },
     {
         "id": "A4-167",
@@ -2204,7 +2204,7 @@
             "HO_OH"
         ],
         "type": "WATER",
-        "hash": "139ef3a6ce4c104ac7"
+        "original": "A4-167"
     },
     {
         "id": "A4-168",
@@ -2217,7 +2217,7 @@
             "LUGIA"
         ],
         "type": "WATER",
-        "hash": "13fa3ac8c0c765b730"
+        "original": "A4-168"
     },
     {
         "id": "A4-169",
@@ -2230,7 +2230,7 @@
             "LUGIA"
         ],
         "type": "WATER",
-        "hash": "13b999d0c6ec14f5c2"
+        "original": "A4-169"
     },
     {
         "id": "A4-170",
@@ -2243,7 +2243,7 @@
             "HO_OH"
         ],
         "type": "WATER",
-        "hash": "13cb2e2799d26d8689"
+        "original": "A4-170"
     },
     {
         "id": "A4-171",
@@ -2256,8 +2256,8 @@
             "LUGIA"
         ],
         "type": "LIGHTNING",
-        "extra": "true",
-        "hash": "13c7edac55ac62c18c"
+        "extra": true,
+        "original": "A4-171"
     },
     {
         "id": "A4-172",
@@ -2270,7 +2270,7 @@
             "LUGIA"
         ],
         "type": "LIGHTNING",
-        "hash": "138cf3fccc73c0ccc0"
+        "original": "A4-172"
     },
     {
         "id": "A4-173",
@@ -2282,8 +2282,8 @@
         "origins": [
             "HO_OH"
         ],
-        "type": "Psychic",
-        "hash": "13ea9067f65c386853"
+        "type": "PSYCHIC",
+        "original": "A4-173"
     },
     {
         "id": "A4-174",
@@ -2295,8 +2295,8 @@
         "origins": [
             "LUGIA"
         ],
-        "type": "Psychic",
-        "hash": "13c9bc96da6982e8cc"
+        "type": "PSYCHIC",
+        "original": "A4-174"
     },
     {
         "id": "A4-175",
@@ -2308,8 +2308,8 @@
         "origins": [
             "LUGIA"
         ],
-        "type": "Psychic",
-        "hash": "13a3a9a3a79594f606"
+        "type": "PSYCHIC",
+        "original": "A4-175"
     },
     {
         "id": "A4-176",
@@ -2322,7 +2322,7 @@
             "HO_OH"
         ],
         "type": "FIGHTING",
-        "hash": "13df1764f82ce23138"
+        "original": "A4-176"
     },
     {
         "id": "A4-177",
@@ -2335,7 +2335,7 @@
             "HO_OH"
         ],
         "type": "DARKNESS",
-        "hash": "13892282df69f75991"
+        "original": "A4-177"
     },
     {
         "id": "A4-178",
@@ -2348,7 +2348,7 @@
             "LUGIA"
         ],
         "type": "DARKNESS",
-        "hash": "13d2d4fc11e21d3a2e"
+        "original": "A4-178"
     },
     {
         "id": "A4-179",
@@ -2361,7 +2361,7 @@
             "HO_OH"
         ],
         "type": "DARKNESS",
-        "hash": "13acd2f6c08fc84cb3"
+        "original": "A4-179"
     },
     {
         "id": "A4-180",
@@ -2374,7 +2374,7 @@
             "LUGIA"
         ],
         "type": "METAL",
-        "hash": "13d2ed0d18f55a89e4"
+        "original": "A4-180"
     },
     {
         "id": "A4-181",
@@ -2387,7 +2387,7 @@
             "HO_OH"
         ],
         "type": "COLORLESS",
-        "hash": "13e9960c4b878973cd"
+        "original": "A4-181"
     },
     {
         "id": "A4-182",
@@ -2400,7 +2400,7 @@
             "HO_OH"
         ],
         "type": "COLORLESS",
-        "hash": "13e57846839fc69c38"
+        "original": "A4-182"
     },
     {
         "id": "A4-183",
@@ -2413,7 +2413,7 @@
             "HO_OH"
         ],
         "type": "COLORLESS",
-        "hash": "138351bfe789c079c2"
+        "original": "A4-183"
     },
     {
         "id": "A4-184",
@@ -2426,7 +2426,7 @@
             "LUGIA"
         ],
         "type": "COLORLESS",
-        "hash": "139321e3f29e18e8c7"
+        "original": "A4-184"
     },
     {
         "id": "A4-185",
@@ -2439,7 +2439,7 @@
             "HO_OH"
         ],
         "type": "COLORLESS",
-        "hash": "13f9a85b29253cad1a"
+        "original": "A4-185"
     },
     {
         "id": "A4-186",
@@ -2452,7 +2452,7 @@
             "LUGIA"
         ],
         "type": "GRASS",
-        "hash": "23ce68403727b9de51"
+        "original": "A4-186"
     },
     {
         "id": "A4-187",
@@ -2465,7 +2465,7 @@
             "HO_OH"
         ],
         "type": "FIRE",
-        "hash": "23fe87e23d4a588c54"
+        "original": "A4-187"
     },
     {
         "id": "A4-188",
@@ -2478,7 +2478,7 @@
             "LUGIA"
         ],
         "type": "WATER",
-        "hash": "2390fa62cb7d4eca14"
+        "original": "A4-188"
     },
     {
         "id": "A4-189",
@@ -2491,7 +2491,7 @@
             "LUGIA"
         ],
         "type": "LIGHTNING",
-        "hash": "23c3e18d0e5a69d63c"
+        "original": "A4-189"
     },
     {
         "id": "A4-190",
@@ -2503,8 +2503,8 @@
         "origins": [
             "LUGIA"
         ],
-        "type": "Psychic",
-        "hash": "23c87eb34bc81d54e1"
+        "type": "PSYCHIC",
+        "original": "A4-190"
     },
     {
         "id": "A4-191",
@@ -2517,7 +2517,7 @@
             "HO_OH"
         ],
         "type": "FIGHTING",
-        "hash": "23cc84b9d9f5764960"
+        "original": "A4-191"
     },
     {
         "id": "A4-192",
@@ -2530,7 +2530,7 @@
             "HO_OH"
         ],
         "type": "DARKNESS",
-        "hash": "23c870d7a35c4bced0"
+        "original": "A4-192"
     },
     {
         "id": "A4-193",
@@ -2543,7 +2543,7 @@
             "HO_OH"
         ],
         "type": "DARKNESS",
-        "hash": "23cbd12c8f782e4743"
+        "original": "A4-193"
     },
     {
         "id": "A4-194",
@@ -2556,7 +2556,7 @@
             "HO_OH"
         ],
         "type": "METAL",
-        "hash": "23d6b23c0af047dae8"
+        "original": "A4-194"
     },
     {
         "id": "A4-195",
@@ -2569,7 +2569,7 @@
             "LUGIA"
         ],
         "type": "COLORLESS",
-        "hash": "23be11d10760cbf4ec"
+        "original": "A4-195"
     },
     {
         "id": "A4-196",
@@ -2582,7 +2582,7 @@
             "LUGIA"
         ],
         "type": "TRAINER",
-        "hash": "23e8b7c29bc6c5a984"
+        "original": "A4-196"
     },
     {
         "id": "A4-197",
@@ -2595,7 +2595,7 @@
             "LUGIA"
         ],
         "type": "TRAINER",
-        "hash": "23a9f39660f6e59890"
+        "original": "A4-197"
     },
     {
         "id": "A4-198",
@@ -2608,7 +2608,7 @@
             "HO_OH"
         ],
         "type": "TRAINER",
-        "hash": "2388a0a59ff2e0e3e3"
+        "original": "A4-198"
     },
     {
         "id": "A4-199",
@@ -2621,7 +2621,7 @@
             "LUGIA"
         ],
         "type": "TRAINER",
-        "hash": "2382ccad93f1a796c1"
+        "original": "A4-199"
     },
     {
         "id": "A4-200",
@@ -2634,7 +2634,7 @@
             "HO_OH"
         ],
         "type": "TRAINER",
-        "hash": "23fbcc06c73720478d"
+        "original": "A4-200"
     },
     {
         "id": "A4-201",
@@ -2647,7 +2647,7 @@
             "HO_OH"
         ],
         "type": "TRAINER",
-        "hash": "23cee1e1d2b285ecc1"
+        "original": "A4-201"
     },
     {
         "id": "A4-202",
@@ -2660,7 +2660,7 @@
             "LUGIA"
         ],
         "type": "GRASS",
-        "hash": "23a9eb438e5e1e0e1a"
+        "original": "A4-202"
     },
     {
         "id": "A4-203",
@@ -2673,7 +2673,7 @@
             "LUGIA"
         ],
         "type": "WATER",
-        "hash": "239bde0c9863d2ecc2"
+        "original": "A4-203"
     },
     {
         "id": "A4-204",
@@ -2686,7 +2686,7 @@
             "LUGIA"
         ],
         "type": "LIGHTNING",
-        "hash": "23deab31c8c66cd486"
+        "original": "A4-204"
     },
     {
         "id": "A4-205",
@@ -2698,8 +2698,8 @@
         "origins": [
             "LUGIA"
         ],
-        "type": "Psychic",
-        "hash": "23a61885674e4977ad"
+        "type": "PSYCHIC",
+        "original": "A4-205"
     },
     {
         "id": "A4-206",
@@ -2712,7 +2712,7 @@
             "HO_OH"
         ],
         "type": "FIGHTING",
-        "hash": "23ede6a49037d8c70c"
+        "original": "A4-206"
     },
     {
         "id": "A4-207",
@@ -2725,7 +2725,7 @@
             "HO_OH"
         ],
         "type": "DARKNESS",
-        "hash": "23b0ebcd48ca9e45cc"
+        "original": "A4-207"
     },
     {
         "id": "A4-208",
@@ -2738,7 +2738,7 @@
             "HO_OH"
         ],
         "type": "DARKNESS",
-        "hash": "23b4fcc8c8cea0d2c7"
+        "original": "A4-208"
     },
     {
         "id": "A4-209",
@@ -2751,7 +2751,7 @@
             "HO_OH"
         ],
         "type": "METAL",
-        "hash": "2387b8e63758a4719c"
+        "original": "A4-209"
     },
     {
         "id": "A4-210",
@@ -2764,7 +2764,7 @@
             "HO_OH"
         ],
         "type": "FIRE",
-        "hash": "338f5af06f09d28f60"
+        "original": "A4-210"
     },
     {
         "id": "A4-211",
@@ -2777,7 +2777,7 @@
             "LUGIA"
         ],
         "type": "COLORLESS",
-        "hash": "33c2db2ddd3b02318e"
+        "original": "A4-211"
     },
     {
         "id": "A4-212",
@@ -2790,7 +2790,7 @@
             "HO_OH"
         ],
         "type": "GRASS",
-        "hash": "14b09b8d6c96cd23a6"
+        "original": "A4-212"
     },
     {
         "id": "A4-213",
@@ -2803,7 +2803,7 @@
             "HO_OH"
         ],
         "type": "FIRE",
-        "hash": "14e90d9495276b16ae"
+        "original": "A4-213"
     },
     {
         "id": "A4-214",
@@ -2816,7 +2816,7 @@
             "LUGIA"
         ],
         "type": "WATER",
-        "hash": "14a40d877599f9368c"
+        "original": "A4-214"
     },
     {
         "id": "A4-215",
@@ -2829,7 +2829,7 @@
             "LUGIA"
         ],
         "type": "WATER",
-        "hash": "14b947c60c9f91936c"
+        "original": "A4-215"
     },
     {
         "id": "A4-216",
@@ -2842,7 +2842,7 @@
             "LUGIA"
         ],
         "type": "WATER",
-        "hash": "14e14f94851c999fcc"
+        "original": "A4-216"
     },
     {
         "id": "A4-217",
@@ -2855,7 +2855,7 @@
             "LUGIA"
         ],
         "type": "LIGHTNING",
-        "hash": "14bac3a53ccfd8060e"
+        "original": "A4-217"
     },
     {
         "id": "A4-218",
@@ -2868,7 +2868,7 @@
             "LUGIA"
         ],
         "type": "LIGHTNING",
-        "hash": "14e90984f38e3c9dcc"
+        "original": "A4-218"
     },
     {
         "id": "A4-219",
@@ -2881,7 +2881,7 @@
             "LUGIA"
         ],
         "type": "LIGHTNING",
-        "hash": "14e11391459ecc5ebc"
+        "original": "A4-219"
     },
     {
         "id": "A4-220",
@@ -2893,8 +2893,8 @@
         "origins": [
             "HO_OH"
         ],
-        "type": "Psychic",
-        "hash": "14e10996859ecd9f98"
+        "type": "PSYCHIC",
+        "original": "A4-220"
     },
     {
         "id": "A4-221",
@@ -2907,7 +2907,7 @@
             "HO_OH"
         ],
         "type": "FIGHTING",
-        "hash": "14e901b435cfbc918e"
+        "original": "A4-221"
     },
     {
         "id": "A4-222",
@@ -2920,7 +2920,7 @@
             "HO_OH"
         ],
         "type": "FIGHTING",
-        "hash": "14e98ea5a51e3d8c98"
+        "original": "A4-222"
     },
     {
         "id": "A4-223",
@@ -2933,7 +2933,7 @@
             "LUGIA"
         ],
         "type": "DARKNESS",
-        "hash": "14e11b96cd867d1926"
+        "original": "A4-223"
     },
     {
         "id": "A4-224",
@@ -2946,7 +2946,7 @@
             "LUGIA"
         ],
         "type": "DARKNESS",
-        "hash": "14e10796999dec9926"
+        "original": "A4-224"
     },
     {
         "id": "A4-225",
@@ -2959,7 +2959,7 @@
             "LUGIA"
         ],
         "type": "DARKNESS",
-        "hash": "14a19395c99c9c8f66"
+        "original": "A4-225"
     },
     {
         "id": "A4-226",
@@ -2972,7 +2972,7 @@
             "HO_OH"
         ],
         "type": "DARKNESS",
-        "hash": "14e54d949393ac0f63"
+        "original": "A4-226"
     },
     {
         "id": "A4-227",
@@ -2985,7 +2985,7 @@
             "HO_OH"
         ],
         "type": "DARKNESS",
-        "hash": "14e10f911d93346cee"
+        "original": "A4-227"
     },
     {
         "id": "A4-228",
@@ -2998,7 +2998,7 @@
             "HO_OH"
         ],
         "type": "DARKNESS",
-        "hash": "14e80794cd8ef38b32"
+        "original": "A4-228"
     },
     {
         "id": "A4-229",
@@ -3011,7 +3011,7 @@
             "LUGIA"
         ],
         "type": "DARKNESS",
-        "hash": "14e50d93c592c78f98"
+        "original": "A4-229"
     },
     {
         "id": "A4-230",
@@ -3024,7 +3024,7 @@
             "HO_OH"
         ],
         "type": "COLORLESS",
-        "hash": "14e90795dd172516b8"
+        "original": "A4-230"
     },
     {
         "id": "A4-231",
@@ -3037,7 +3037,7 @@
             "HO_OH"
         ],
         "type": "COLORLESS",
-        "hash": "14b809b1d196b48d6f"
+        "original": "A4-231"
     },
     {
         "id": "A4-232",
@@ -3050,7 +3050,7 @@
             "HO_OH"
         ],
         "type": "GRASS",
-        "hash": "24ed9446409bf6aaa5"
+        "original": "A4-232"
     },
     {
         "id": "A4-233",
@@ -3063,7 +3063,7 @@
             "HO_OH"
         ],
         "type": "GRASS",
-        "hash": "248f54e1921ee9bc13"
+        "original": "A4-233"
     },
     {
         "id": "A4-234",
@@ -3076,7 +3076,7 @@
             "LUGIA"
         ],
         "type": "WATER",
-        "hash": "24b6e4dcd2c33e6181"
+        "original": "A4-234"
     },
     {
         "id": "A4-235",
@@ -3089,7 +3089,7 @@
             "LUGIA"
         ],
         "type": "WATER",
-        "hash": "24b58988567887bb35"
+        "original": "A4-235"
     },
     {
         "id": "A4-236",
@@ -3102,7 +3102,7 @@
             "LUGIA"
         ],
         "type": "LIGHTNING",
-        "hash": "24b66d4b0e33eaa630"
+        "original": "A4-236"
     },
     {
         "id": "A4-237",
@@ -3114,8 +3114,8 @@
         "origins": [
             "HO_OH"
         ],
-        "type": "Psychic",
-        "hash": "24ad94c11e03e4beb9"
+        "type": "PSYCHIC",
+        "original": "A4-237"
     },
     {
         "id": "A4-238",
@@ -3128,7 +3128,7 @@
             "LUGIA"
         ],
         "type": "DARKNESS",
-        "hash": "24eb95964862ad1e95"
+        "original": "A4-238"
     },
     {
         "id": "A4-239",
@@ -3141,7 +3141,7 @@
             "HO_OH"
         ],
         "type": "COLORLESS",
-        "hash": "24a635ca721c988fcd"
+        "original": "A4-239"
     },
     {
         "id": "A4-240",
@@ -3155,7 +3155,7 @@
             "HO_OH"
         ],
         "type": "FIRE",
-        "hash": "15df87629de85b8054"
+        "original": "A4-240"
     },
     {
         "id": "A4-241",
@@ -3169,6 +3169,6 @@
             "HO_OH"
         ],
         "type": "COLORLESS",
-        "hash": "15bc397163e3c3648c"
+        "original": "A4-241"
     }
 ]

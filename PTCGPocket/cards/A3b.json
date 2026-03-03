@@ -10,7 +10,7 @@
             "EEVEE"
         ],
         "type": "GRASS",
-        "hash": "21f43716a183d03e97"
+        "original": "A3b-001"
     },
     {
         "id": "A3b-002",
@@ -23,7 +23,7 @@
             "EEVEE"
         ],
         "type": "GRASS",
-        "hash": "31d1ac1486494bf79e"
+        "original": "A3b-002"
     },
     {
         "id": "A3b-003",
@@ -36,7 +36,7 @@
             "EEVEE"
         ],
         "type": "GRASS",
-        "hash": "11cd4463259f9cbc31"
+        "original": "A3b-003"
     },
     {
         "id": "A3b-004",
@@ -49,7 +49,7 @@
             "EEVEE"
         ],
         "type": "GRASS",
-        "hash": "11c6f411c7b93acc94"
+        "original": "A3b-004"
     },
     {
         "id": "A3b-005",
@@ -62,7 +62,7 @@
             "EEVEE"
         ],
         "type": "GRASS",
-        "hash": "21f5a6c23c98c96bc2"
+        "original": "A3b-005"
     },
     {
         "id": "A3b-006",
@@ -75,7 +75,7 @@
             "EEVEE"
         ],
         "type": "GRASS",
-        "hash": "118298e5b53db1346d"
+        "original": "A3b-006"
     },
     {
         "id": "A3b-007",
@@ -88,7 +88,7 @@
             "EEVEE"
         ],
         "type": "GRASS",
-        "hash": "21d1da6e8d26669961"
+        "original": "A3b-007"
     },
     {
         "id": "A3b-008",
@@ -101,7 +101,7 @@
             "EEVEE"
         ],
         "type": "FIRE",
-        "hash": "31bce89e9c42658d63"
+        "original": "A3b-008"
     },
     {
         "id": "A3b-009",
@@ -114,7 +114,7 @@
             "EEVEE"
         ],
         "type": "FIRE",
-        "hash": "41db1374a5a8ea4a1e"
+        "original": "A3b-009"
     },
     {
         "id": "A3b-010",
@@ -127,7 +127,7 @@
             "EEVEE"
         ],
         "type": "FIRE",
-        "hash": "11d8869c6c47ed3e18"
+        "original": "A3b-010"
     },
     {
         "id": "A3b-011",
@@ -140,7 +140,7 @@
             "EEVEE"
         ],
         "type": "FIRE",
-        "hash": "11b4bfd2ed88a0bc48"
+        "original": "A3b-011"
     },
     {
         "id": "A3b-012",
@@ -153,7 +153,7 @@
             "EEVEE"
         ],
         "type": "FIRE",
-        "hash": "11f8c80a63751dad8b"
+        "original": "A3b-012"
     },
     {
         "id": "A3b-013",
@@ -166,7 +166,7 @@
             "EEVEE"
         ],
         "type": "FIRE",
-        "hash": "21f8f1440b4ddc1b6a"
+        "original": "A3b-013"
     },
     {
         "id": "A3b-014",
@@ -179,7 +179,7 @@
             "EEVEE"
         ],
         "type": "FIRE",
-        "hash": "11b19e41af5aa58f50"
+        "original": "A3b-014"
     },
     {
         "id": "A3b-015",
@@ -192,7 +192,7 @@
             "EEVEE"
         ],
         "type": "FIRE",
-        "hash": "21a9c9c7349d1682b7"
+        "original": "A3b-015"
     },
     {
         "id": "A3b-016",
@@ -205,7 +205,7 @@
             "EEVEE"
         ],
         "type": "WATER",
-        "hash": "31ae9944331ec67966"
+        "original": "A3b-016"
     },
     {
         "id": "A3b-017",
@@ -218,7 +218,7 @@
             "EEVEE"
         ],
         "type": "WATER",
-        "hash": "31991ec678da263595"
+        "original": "A3b-017"
     },
     {
         "id": "A3b-018",
@@ -231,7 +231,7 @@
             "EEVEE"
         ],
         "type": "WATER",
-        "hash": "1184085e7b7177595c"
+        "original": "A3b-018"
     },
     {
         "id": "A3b-019",
@@ -244,7 +244,7 @@
             "EEVEE"
         ],
         "type": "WATER",
-        "hash": "118515666819fe4ead"
+        "original": "A3b-019"
     },
     {
         "id": "A3b-020",
@@ -257,7 +257,7 @@
             "EEVEE"
         ],
         "type": "WATER",
-        "hash": "21ff8ec130869c28ed"
+        "original": "A3b-020"
     },
     {
         "id": "A3b-021",
@@ -270,7 +270,7 @@
             "EEVEE"
         ],
         "type": "WATER",
-        "hash": "11cce364d3b2318d39"
+        "original": "A3b-021"
     },
     {
         "id": "A3b-022",
@@ -283,7 +283,7 @@
             "EEVEE"
         ],
         "type": "WATER",
-        "hash": "11a6ce9ba50ec876c1"
+        "original": "A3b-022"
     },
     {
         "id": "A3b-023",
@@ -296,7 +296,7 @@
             "EEVEE"
         ],
         "type": "WATER",
-        "hash": "11f4c4c3143a4b765e"
+        "original": "A3b-023"
     },
     {
         "id": "A3b-024",
@@ -309,7 +309,7 @@
             "EEVEE"
         ],
         "type": "WATER",
-        "hash": "41f7530bb2759e6050"
+        "original": "A3b-024"
     },
     {
         "id": "A3b-025",
@@ -322,7 +322,7 @@
             "EEVEE"
         ],
         "type": "LIGHTNING",
-        "hash": "31d99836c4ce4ccb17"
+        "original": "A3b-025"
     },
     {
         "id": "A3b-026",
@@ -335,7 +335,7 @@
             "EEVEE"
         ],
         "type": "LIGHTNING",
-        "hash": "11bd8b64354a768972"
+        "original": "A3b-026"
     },
     {
         "id": "A3b-027",
@@ -348,7 +348,7 @@
             "EEVEE"
         ],
         "type": "LIGHTNING",
-        "hash": "21855e9b717c8853d1"
+        "original": "A3b-027"
     },
     {
         "id": "A3b-028",
@@ -361,7 +361,7 @@
             "EEVEE"
         ],
         "type": "PSYCHIC",
-        "hash": "318cab6e6c6283d6c5"
+        "original": "A3b-028"
     },
     {
         "id": "A3b-029",
@@ -374,7 +374,7 @@
             "EEVEE"
         ],
         "type": "PSYCHIC",
-        "hash": "1195926c4f4b624bd9"
+        "original": "A3b-029"
     },
     {
         "id": "A3b-030",
@@ -387,7 +387,7 @@
             "EEVEE"
         ],
         "type": "PSYCHIC",
-        "hash": "219ab2b88f616bca64"
+        "original": "A3b-030"
     },
     {
         "id": "A3b-031",
@@ -400,7 +400,7 @@
             "EEVEE"
         ],
         "type": "PSYCHIC",
-        "hash": "11a1574f6834b52acd"
+        "original": "A3b-031"
     },
     {
         "id": "A3b-032",
@@ -413,7 +413,7 @@
             "EEVEE"
         ],
         "type": "PSYCHIC",
-        "hash": "2187a642b778ccf314"
+        "original": "A3b-032"
     },
     {
         "id": "A3b-033",
@@ -426,7 +426,7 @@
             "EEVEE"
         ],
         "type": "PSYCHIC",
-        "hash": "31c1a24ecc30c563ff"
+        "original": "A3b-033"
     },
     {
         "id": "A3b-034",
@@ -439,7 +439,7 @@
             "EEVEE"
         ],
         "type": "PSYCHIC",
-        "hash": "419f23e95952c344f1"
+        "original": "A3b-034"
     },
     {
         "id": "A3b-035",
@@ -452,7 +452,7 @@
             "EEVEE"
         ],
         "type": "PSYCHIC",
-        "hash": "21db24e50bae8b685a"
+        "original": "A3b-035"
     },
     {
         "id": "A3b-036",
@@ -465,7 +465,7 @@
             "EEVEE"
         ],
         "type": "PSYCHIC",
-        "hash": "11878a74ab5f630974"
+        "original": "A3b-036"
     },
     {
         "id": "A3b-037",
@@ -478,7 +478,7 @@
             "EEVEE"
         ],
         "type": "PSYCHIC",
-        "hash": "21d4ae2c53e72c78a4"
+        "original": "A3b-037"
     },
     {
         "id": "A3b-038",
@@ -491,7 +491,7 @@
             "EEVEE"
         ],
         "type": "FIGHTING",
-        "hash": "11c4ff7ac049c2c49e"
+        "original": "A3b-038"
     },
     {
         "id": "A3b-039",
@@ -504,7 +504,7 @@
             "EEVEE"
         ],
         "type": "FIGHTING",
-        "hash": "21b34cdf706c0b8ccc"
+        "original": "A3b-039"
     },
     {
         "id": "A3b-040",
@@ -517,7 +517,7 @@
             "EEVEE"
         ],
         "type": "FIGHTING",
-        "hash": "1194e4a9829f0c3b7b"
+        "original": "A3b-040"
     },
     {
         "id": "A3b-041",
@@ -530,7 +530,7 @@
             "EEVEE"
         ],
         "type": "FIGHTING",
-        "hash": "21d1836d6dd227482f"
+        "original": "A3b-041"
     },
     {
         "id": "A3b-042",
@@ -543,7 +543,7 @@
             "EEVEE"
         ],
         "type": "FIGHTING",
-        "hash": "118a29e427f31cc679"
+        "original": "A3b-042"
     },
     {
         "id": "A3b-043",
@@ -556,7 +556,7 @@
             "EEVEE"
         ],
         "type": "DARKNESS",
-        "hash": "31d138e66d90c75cc9"
+        "original": "A3b-043"
     },
     {
         "id": "A3b-044",
@@ -569,7 +569,7 @@
             "EEVEE"
         ],
         "type": "DARKNESS",
-        "hash": "11c1103c3226ebebdd"
+        "original": "A3b-044"
     },
     {
         "id": "A3b-045",
@@ -582,7 +582,7 @@
             "EEVEE"
         ],
         "type": "DARKNESS",
-        "hash": "11f5ec7031a9e166c4"
+        "original": "A3b-045"
     },
     {
         "id": "A3b-046",
@@ -595,7 +595,7 @@
             "EEVEE"
         ],
         "type": "DARKNESS",
-        "hash": "21934e2e58e5c991da"
+        "original": "A3b-046"
     },
     {
         "id": "A3b-047",
@@ -608,7 +608,7 @@
             "EEVEE"
         ],
         "type": "METAL",
-        "hash": "11ea7b2d85758d1944"
+        "original": "A3b-047"
     },
     {
         "id": "A3b-048",
@@ -621,7 +621,7 @@
             "EEVEE"
         ],
         "type": "METAL",
-        "hash": "11cd5a346c644657ad"
+        "original": "A3b-048"
     },
     {
         "id": "A3b-049",
@@ -634,7 +634,7 @@
             "EEVEE"
         ],
         "type": "METAL",
-        "hash": "119e8461996c38ba7d"
+        "original": "A3b-049"
     },
     {
         "id": "A3b-050",
@@ -647,7 +647,7 @@
             "EEVEE"
         ],
         "type": "METAL",
-        "hash": "21f9c9a148f04e63ce"
+        "original": "A3b-050"
     },
     {
         "id": "A3b-051",
@@ -660,7 +660,7 @@
             "EEVEE"
         ],
         "type": "DRAGON",
-        "hash": "1188972bd8361dea47"
+        "original": "A3b-051"
     },
     {
         "id": "A3b-052",
@@ -673,7 +673,7 @@
             "EEVEE"
         ],
         "type": "DRAGON",
-        "hash": "11c15c6f6e56f068c1"
+        "original": "A3b-052"
     },
     {
         "id": "A3b-053",
@@ -686,7 +686,7 @@
             "EEVEE"
         ],
         "type": "DRAGON",
-        "hash": "41de350cd045e9b366"
+        "original": "A3b-053"
     },
     {
         "id": "A3b-054",
@@ -699,7 +699,7 @@
             "EEVEE"
         ],
         "type": "DRAGON",
-        "hash": "21d656f1494d9196b8"
+        "original": "A3b-054"
     },
     {
         "id": "A3b-055",
@@ -712,7 +712,7 @@
             "EEVEE"
         ],
         "type": "COLORLESS",
-        "hash": "11b5ba06cd89e4c81f"
+        "original": "A3b-055"
     },
     {
         "id": "A3b-056",
@@ -725,7 +725,7 @@
             "EEVEE"
         ],
         "type": "COLORLESS",
-        "hash": "41ec2d90c5e1e371d8"
+        "original": "A3b-056"
     },
     {
         "id": "A3b-057",
@@ -738,7 +738,7 @@
             "EEVEE"
         ],
         "type": "COLORLESS",
-        "hash": "419a612d34cb9f7458"
+        "original": "A3b-057"
     },
     {
         "id": "A3b-058",
@@ -751,7 +751,7 @@
             "EEVEE"
         ],
         "type": "COLORLESS",
-        "hash": "11852d1bfc6fba2029"
+        "original": "A3b-058"
     },
     {
         "id": "A3b-059",
@@ -764,7 +764,7 @@
             "EEVEE"
         ],
         "type": "COLORLESS",
-        "hash": "21bcf0f24bcb4e6830"
+        "original": "A3b-059"
     },
     {
         "id": "A3b-060",
@@ -777,7 +777,7 @@
             "EEVEE"
         ],
         "type": "COLORLESS",
-        "hash": "11a34e0cac1d9bb339"
+        "original": "A3b-060"
     },
     {
         "id": "A3b-061",
@@ -790,7 +790,7 @@
             "EEVEE"
         ],
         "type": "COLORLESS",
-        "hash": "11869b730c3e733466"
+        "original": "A3b-061"
     },
     {
         "id": "A3b-062",
@@ -803,7 +803,7 @@
             "EEVEE"
         ],
         "type": "COLORLESS",
-        "hash": "1185c1f9077dc28b66"
+        "original": "A3b-062"
     },
     {
         "id": "A3b-063",
@@ -816,7 +816,7 @@
             "EEVEE"
         ],
         "type": "COLORLESS",
-        "hash": "218afd4a8e34862bb6"
+        "original": "A3b-063"
     },
     {
         "id": "A3b-064",
@@ -829,7 +829,7 @@
             "EEVEE"
         ],
         "type": "COLORLESS",
-        "hash": "11cfce37945881254f"
+        "original": "A3b-064"
     },
     {
         "id": "A3b-065",
@@ -842,7 +842,7 @@
             "EEVEE"
         ],
         "type": "COLORLESS",
-        "hash": "21b8a0d3df64094f96"
+        "original": "A3b-065"
     },
     {
         "id": "A3b-066",
@@ -855,7 +855,7 @@
             "EEVEE"
         ],
         "type": "TRAINER",
-        "hash": "21a49a66c9983f96c6"
+        "original": "A3b-066"
     },
     {
         "id": "A3b-067",
@@ -868,7 +868,7 @@
             "EEVEE"
         ],
         "type": "TRAINER",
-        "hash": "21c6b89acc64b39b8c"
+        "original": "A3b-067"
     },
     {
         "id": "A3b-068",
@@ -881,7 +881,7 @@
             "EEVEE"
         ],
         "type": "TRAINER",
-        "hash": "21a0c0de82df8f95b4"
+        "original": "A3b-068"
     },
     {
         "id": "A3b-069",
@@ -894,7 +894,7 @@
             "EEVEE"
         ],
         "type": "TRAINER",
-        "hash": "21d88493a6cbccb693"
+        "original": "A3b-069"
     },
     {
         "id": "A3b-070",
@@ -907,7 +907,7 @@
             "EEVEE"
         ],
         "type": "GRASS",
-        "hash": "1393bc6c59dc679424"
+        "original": "A3b-070"
     },
     {
         "id": "A3b-071",
@@ -920,7 +920,7 @@
             "EEVEE"
         ],
         "type": "FIRE",
-        "hash": "13d09cc7795a460767"
+        "original": "A3b-071"
     },
     {
         "id": "A3b-072",
@@ -933,7 +933,7 @@
             "EEVEE"
         ],
         "type": "WATER",
-        "hash": "139fc4364b11fb412b"
+        "original": "A3b-072"
     },
     {
         "id": "A3b-073",
@@ -946,7 +946,7 @@
             "EEVEE"
         ],
         "type": "WATER",
-        "hash": "139cc780173c8bcd6d"
+        "original": "A3b-073"
     },
     {
         "id": "A3b-074",
@@ -959,7 +959,7 @@
             "EEVEE"
         ],
         "type": "LIGHTNING",
-        "hash": "13d1726cc8d91983cf"
+        "original": "A3b-074"
     },
     {
         "id": "A3b-075",
@@ -972,7 +972,7 @@
             "EEVEE"
         ],
         "type": "PSYCHIC",
-        "hash": "1384bc87d36759d816"
+        "original": "A3b-075"
     },
     {
         "id": "A3b-076",
@@ -985,7 +985,7 @@
             "EEVEE"
         ],
         "type": "PSYCHIC",
-        "hash": "13a3411f044733dcdf"
+        "original": "A3b-076"
     },
     {
         "id": "A3b-077",
@@ -998,7 +998,7 @@
             "EEVEE"
         ],
         "type": "DARKNESS",
-        "hash": "139dd2f2d6dd564090"
+        "original": "A3b-077"
     },
     {
         "id": "A3b-078",
@@ -1011,7 +1011,7 @@
             "EEVEE"
         ],
         "type": "COLORLESS",
-        "hash": "138fc791d9da36608c"
+        "original": "A3b-078"
     },
     {
         "id": "A3b-079",
@@ -1024,7 +1024,7 @@
             "EEVEE"
         ],
         "type": "FIRE",
-        "hash": "23f85a46b1384f174d"
+        "original": "A3b-079"
     },
     {
         "id": "A3b-080",
@@ -1037,7 +1037,7 @@
             "EEVEE"
         ],
         "type": "WATER",
-        "hash": "23d11fb33b8fe0c444"
+        "original": "A3b-080"
     },
     {
         "id": "A3b-081",
@@ -1050,7 +1050,7 @@
             "EEVEE"
         ],
         "type": "PSYCHIC",
-        "hash": "23b92cce8516f955c1"
+        "original": "A3b-081"
     },
     {
         "id": "A3b-082",
@@ -1063,7 +1063,7 @@
             "EEVEE"
         ],
         "type": "DRAGON",
-        "hash": "239268c80b3b9effc0"
+        "original": "A3b-082"
     },
     {
         "id": "A3b-083",
@@ -1076,7 +1076,7 @@
             "EEVEE"
         ],
         "type": "COLORLESS",
-        "hash": "23cbc8f2e43f88e115"
+        "original": "A3b-083"
     },
     {
         "id": "A3b-084",
@@ -1089,7 +1089,7 @@
             "EEVEE"
         ],
         "type": "COLORLESS",
-        "hash": "23d43ce2c36f3cf880"
+        "original": "A3b-084"
     },
     {
         "id": "A3b-085",
@@ -1102,7 +1102,7 @@
             "EEVEE"
         ],
         "type": "TRAINER",
-        "hash": "23e4a5c3928e92ecd6"
+        "original": "A3b-085"
     },
     {
         "id": "A3b-086",
@@ -1115,7 +1115,7 @@
             "EEVEE"
         ],
         "type": "TRAINER",
-        "hash": "23eec3698c93a6d494"
+        "original": "A3b-086"
     },
     {
         "id": "A3b-087",
@@ -1128,7 +1128,7 @@
             "EEVEE"
         ],
         "type": "FIRE",
-        "hash": "23e61a1cf970c566e4"
+        "original": "A3b-087"
     },
     {
         "id": "A3b-088",
@@ -1141,7 +1141,7 @@
             "EEVEE"
         ],
         "type": "WATER",
-        "hash": "23b59b90cb473c7426"
+        "original": "A3b-088"
     },
     {
         "id": "A3b-089",
@@ -1154,7 +1154,7 @@
             "EEVEE"
         ],
         "type": "PSYCHIC",
-        "hash": "23e92d9dd06063c766"
+        "original": "A3b-089"
     },
     {
         "id": "A3b-090",
@@ -1167,7 +1167,7 @@
             "EEVEE"
         ],
         "type": "DRAGON",
-        "hash": "23c9a2125a6ef44d3d"
+        "original": "A3b-090"
     },
     {
         "id": "A3b-091",
@@ -1180,7 +1180,7 @@
             "EEVEE"
         ],
         "type": "COLORLESS",
-        "hash": "239ef96a6685c6d098"
+        "original": "A3b-091"
     },
     {
         "id": "A3b-092",
@@ -1193,7 +1193,7 @@
             "EEVEE"
         ],
         "type": "COLORLESS",
-        "hash": "33d917d6f02c3881de"
+        "original": "A3b-092"
     },
     {
         "id": "A3b-093",
@@ -1206,7 +1206,7 @@
             "EEVEE"
         ],
         "type": "GRASS",
-        "hash": "14e48d94608dbd3ac7"
+        "original": "A3b-093"
     },
     {
         "id": "A3b-094",
@@ -1219,7 +1219,7 @@
             "EEVEE"
         ],
         "type": "WATER",
-        "hash": "14b91994c4c7dd13e1"
+        "original": "A3b-094"
     },
     {
         "id": "A3b-095",
@@ -1232,7 +1232,7 @@
             "EEVEE"
         ],
         "type": "LIGHTNING",
-        "hash": "14e52792cd19dd07a8"
+        "original": "A3b-095"
     },
     {
         "id": "A3b-096",
@@ -1245,7 +1245,7 @@
             "EEVEE"
         ],
         "type": "LIGHTNING",
-        "hash": "14ed8bb22c23279e98"
+        "original": "A3b-096"
     },
     {
         "id": "A3b-097",
@@ -1258,7 +1258,7 @@
             "EEVEE"
         ],
         "type": "PSYCHIC",
-        "hash": "14b12194cd9d8d2fc3"
+        "original": "A3b-097"
     },
     {
         "id": "A3b-098",
@@ -1271,7 +1271,7 @@
             "EEVEE"
         ],
         "type": "PSYCHIC",
-        "hash": "14b40d96c59fe70d48"
+        "original": "A3b-098"
     },
     {
         "id": "A3b-099",
@@ -1284,7 +1284,7 @@
             "EEVEE"
         ],
         "type": "PSYCHIC",
-        "hash": "14b113c5cc33dd06ba"
+        "original": "A3b-099"
     },
     {
         "id": "A3b-100",
@@ -1297,7 +1297,7 @@
             "EEVEE"
         ],
         "type": "DARKNESS",
-        "hash": "14b989844597ef1d8a"
+        "original": "A3b-100"
     },
     {
         "id": "A3b-101",
@@ -1310,7 +1310,7 @@
             "EEVEE"
         ],
         "type": "DARKNESS",
-        "hash": "14e549929426dd1f6c"
+        "original": "A3b-101"
     },
     {
         "id": "A3b-102",
@@ -1323,7 +1323,7 @@
             "EEVEE"
         ],
         "type": "COLORLESS",
-        "hash": "14e68d9559cfa71188"
+        "original": "A3b-102"
     },
     {
         "id": "A3b-103",
@@ -1336,7 +1336,7 @@
             "EEVEE"
         ],
         "type": "FIRE",
-        "hash": "2480df914832bded27"
+        "original": "A3b-103"
     },
     {
         "id": "A3b-104",
@@ -1349,7 +1349,7 @@
             "EEVEE"
         ],
         "type": "WATER",
-        "hash": "24c5b9ce5832f5a09c"
+        "original": "A3b-104"
     },
     {
         "id": "A3b-105",
@@ -1362,7 +1362,7 @@
             "EEVEE"
         ],
         "type": "LIGHTNING",
-        "hash": "24ade5c80b8abaf415"
+        "original": "A3b-105"
     },
     {
         "id": "A3b-106",
@@ -1375,7 +1375,7 @@
             "EEVEE"
         ],
         "type": "FIGHTING",
-        "hash": "24cde98a162693ec9c"
+        "original": "A3b-106"
     },
     {
         "id": "A3b-107",
@@ -1388,6 +1388,6 @@
             "EEVEE"
         ],
         "type": "TRAINER",
-        "hash": "15ed5293b42b6b50c9"
+        "original": "A3b-107"
     }
 ]

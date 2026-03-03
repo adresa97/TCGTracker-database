@@ -10,7 +10,7 @@
             "SUICUNE"
         ],
         "type": "GRASS",
-        "hash": "11d4054ccb737bf448"
+        "original": "A4a-001"
     },
     {
         "id": "A4a-002",
@@ -23,7 +23,7 @@
             "SUICUNE"
         ],
         "type": "GRASS",
-        "hash": "21e77a82701e74590f"
+        "original": "A4a-002"
     },
     {
         "id": "A4a-003",
@@ -36,7 +36,7 @@
             "SUICUNE"
         ],
         "type": "GRASS",
-        "hash": "41b6cd69dbc6632604"
+        "original": "A4a-003"
     },
     {
         "id": "A4a-004",
@@ -49,7 +49,7 @@
             "SUICUNE"
         ],
         "type": "GRASS",
-        "hash": "11c11ece81ee1de961"
+        "original": "A4a-004"
     },
     {
         "id": "A4a-005",
@@ -62,7 +62,7 @@
             "SUICUNE"
         ],
         "type": "GRASS",
-        "hash": "21d0d66ebd0594fa48"
+        "original": "A4a-005"
     },
     {
         "id": "A4a-006",
@@ -75,7 +75,7 @@
             "SUICUNE"
         ],
         "type": "GRASS",
-        "hash": "318d357c3e2e5075c1"
+        "original": "A4a-006"
     },
     {
         "id": "A4a-007",
@@ -88,7 +88,7 @@
             "SUICUNE"
         ],
         "type": "GRASS",
-        "hash": "11cc9394bcc60f760e"
+        "original": "A4a-007"
     },
     {
         "id": "A4a-008",
@@ -101,7 +101,7 @@
             "SUICUNE"
         ],
         "type": "FIRE",
-        "hash": "11a687d962072e56f1"
+        "original": "A4a-008"
     },
     {
         "id": "A4a-009",
@@ -114,7 +114,7 @@
             "SUICUNE"
         ],
         "type": "FIRE",
-        "hash": "21b09e83b3de244db2"
+        "original": "A4a-009"
     },
     {
         "id": "A4a-010",
@@ -127,7 +127,7 @@
             "SUICUNE"
         ],
         "type": "FIRE",
-        "hash": "41f3899834102f9be7"
+        "original": "A4a-010"
     },
     {
         "id": "A4a-011",
@@ -140,7 +140,7 @@
             "SUICUNE"
         ],
         "type": "FIRE",
-        "hash": "1187e7d9b8d8cc4c24"
+        "original": "A4a-011"
     },
     {
         "id": "A4a-012",
@@ -153,7 +153,7 @@
             "SUICUNE"
         ],
         "type": "FIRE",
-        "hash": "21b87f0c4857956c8d"
+        "original": "A4a-012"
     },
     {
         "id": "A4a-013",
@@ -166,7 +166,7 @@
             "SUICUNE"
         ],
         "type": "WATER",
-        "hash": "11b4d5332c6437742d"
+        "original": "A4a-013"
     },
     {
         "id": "A4a-014",
@@ -179,7 +179,7 @@
             "SUICUNE"
         ],
         "type": "WATER",
-        "hash": "21c5f50aca7e98a4cc"
+        "original": "A4a-014"
     },
     {
         "id": "A4a-015",
@@ -192,7 +192,7 @@
             "SUICUNE"
         ],
         "type": "WATER",
-        "hash": "11c5560c639b3de0cd"
+        "original": "A4a-015"
     },
     {
         "id": "A4a-016",
@@ -205,7 +205,7 @@
             "SUICUNE"
         ],
         "type": "WATER",
-        "hash": "21f1e0cc8c8e1f1d3c"
+        "original": "A4a-016"
     },
     {
         "id": "A4a-017",
@@ -218,7 +218,7 @@
             "SUICUNE"
         ],
         "type": "WATER",
-        "hash": "11d8eb459628e81bc7"
+        "original": "A4a-017"
     },
     {
         "id": "A4a-018",
@@ -231,7 +231,7 @@
             "SUICUNE"
         ],
         "type": "WATER",
-        "hash": "21a9cb5a5193349795"
+        "original": "A4a-018"
     },
     {
         "id": "A4a-019",
@@ -244,7 +244,7 @@
             "SUICUNE"
         ],
         "type": "WATER",
-        "hash": "11a9c27c1f92722f64"
+        "original": "A4a-019"
     },
     {
         "id": "A4a-020",
@@ -257,7 +257,7 @@
             "SUICUNE"
         ],
         "type": "WATER",
-        "hash": "41ee2b81b751a8d0e5"
+        "original": "A4a-020"
     },
     {
         "id": "A4a-021",
@@ -270,7 +270,7 @@
             "SUICUNE"
         ],
         "type": "WATER",
-        "hash": "1193c6ad9cd2976c24"
+        "original": "A4a-021"
     },
     {
         "id": "A4a-022",
@@ -283,7 +283,7 @@
             "SUICUNE"
         ],
         "type": "WATER",
-        "hash": "319796c6c7319cc0f4"
+        "original": "A4a-022"
     },
     {
         "id": "A4a-023",
@@ -296,8 +296,8 @@
             "SUICUNE"
         ],
         "type": "WATER",
-        "extra": "true",
-        "hash": "3192f51e8961e7a19a"
+        "extra": true,
+        "original": "A4a-023"
     },
     {
         "id": "A4a-024",
@@ -310,7 +310,7 @@
             "SUICUNE"
         ],
         "type": "WATER",
-        "hash": "11e5ad91f3090b2d6a"
+        "original": "A4a-024"
     },
     {
         "id": "A4a-025",
@@ -323,7 +323,7 @@
             "SUICUNE"
         ],
         "type": "LIGHTNING",
-        "hash": "41d213a876349457af"
+        "original": "A4a-025"
     },
     {
         "id": "A4a-026",
@@ -336,7 +336,7 @@
             "SUICUNE"
         ],
         "type": "LIGHTNING",
-        "hash": "1187d61fa3a062e9aa"
+        "original": "A4a-026"
     },
     {
         "id": "A4a-027",
@@ -349,7 +349,7 @@
             "SUICUNE"
         ],
         "type": "LIGHTNING",
-        "hash": "11c676d92d9659a3c0"
+        "original": "A4a-027"
     },
     {
         "id": "A4a-028",
@@ -362,7 +362,7 @@
             "SUICUNE"
         ],
         "type": "LIGHTNING",
-        "hash": "21f873834d4ce6e648"
+        "original": "A4a-028"
     },
     {
         "id": "A4a-029",
@@ -375,7 +375,7 @@
             "SUICUNE"
         ],
         "type": "LIGHTNING",
-        "hash": "1191ae9ed264cd1ae4"
+        "original": "A4a-029"
     },
     {
         "id": "A4a-030",
@@ -388,7 +388,7 @@
             "SUICUNE"
         ],
         "type": "LIGHTNING",
-        "hash": "119b4b2e7c74349b11"
+        "original": "A4a-030"
     },
     {
         "id": "A4a-031",
@@ -401,7 +401,7 @@
             "SUICUNE"
         ],
         "type": "LIGHTNING",
-        "hash": "31d356ed694cc94cc4"
+        "original": "A4a-031"
     },
     {
         "id": "A4a-032",
@@ -414,7 +414,7 @@
             "SUICUNE"
         ],
         "type": "PSYCHIC",
-        "hash": "11c7e3b0638cc4c8f3"
+        "original": "A4a-032"
     },
     {
         "id": "A4a-033",
@@ -427,7 +427,7 @@
             "SUICUNE"
         ],
         "type": "PSYCHIC",
-        "hash": "21b6b9cdc618b824ce"
+        "original": "A4a-033"
     },
     {
         "id": "A4a-034",
@@ -440,7 +440,7 @@
             "SUICUNE"
         ],
         "type": "PSYCHIC",
-        "hash": "1192e627bbc8f9182c"
+        "original": "A4a-034"
     },
     {
         "id": "A4a-035",
@@ -453,7 +453,7 @@
             "SUICUNE"
         ],
         "type": "PSYCHIC",
-        "hash": "3199f8726a1cc7d055"
+        "original": "A4a-035"
     },
     {
         "id": "A4a-036",
@@ -466,7 +466,7 @@
             "SUICUNE"
         ],
         "type": "PSYCHIC",
-        "hash": "31e6061a1b66cd8db6"
+        "original": "A4a-036"
     },
     {
         "id": "A4a-037",
@@ -479,7 +479,7 @@
             "SUICUNE"
         ],
         "type": "PSYCHIC",
-        "hash": "31cbeab5b0939d094c"
+        "original": "A4a-037"
     },
     {
         "id": "A4a-038",
@@ -492,7 +492,7 @@
             "SUICUNE"
         ],
         "type": "PSYCHIC",
-        "hash": "11e299162dcf264cb9"
+        "original": "A4a-038"
     },
     {
         "id": "A4a-039",
@@ -505,7 +505,7 @@
             "SUICUNE"
         ],
         "type": "PSYCHIC",
-        "hash": "21c4cb6bec1a962539"
+        "original": "A4a-039"
     },
     {
         "id": "A4a-040",
@@ -518,7 +518,7 @@
             "SUICUNE"
         ],
         "type": "FIGHTING",
-        "hash": "119ce087be807fc439"
+        "original": "A4a-040"
     },
     {
         "id": "A4a-041",
@@ -531,7 +531,7 @@
             "SUICUNE"
         ],
         "type": "FIGHTING",
-        "hash": "21cbb8a0acb7da1d24"
+        "original": "A4a-041"
     },
     {
         "id": "A4a-042",
@@ -544,7 +544,7 @@
             "SUICUNE"
         ],
         "type": "FIGHTING",
-        "hash": "41f9962e71a9ca15c8"
+        "original": "A4a-042"
     },
     {
         "id": "A4a-043",
@@ -557,7 +557,7 @@
             "SUICUNE"
         ],
         "type": "FIGHTING",
-        "hash": "118dd26585e3bb4a23"
+        "original": "A4a-043"
     },
     {
         "id": "A4a-044",
@@ -570,7 +570,7 @@
             "SUICUNE"
         ],
         "type": "FIGHTING",
-        "hash": "21bfad6c90ca83d0f0"
+        "original": "A4a-044"
     },
     {
         "id": "A4a-045",
@@ -583,7 +583,7 @@
             "SUICUNE"
         ],
         "type": "FIGHTING",
-        "hash": "11f4ec6a721ce4703c"
+        "original": "A4a-045"
     },
     {
         "id": "A4a-046",
@@ -596,7 +596,7 @@
             "SUICUNE"
         ],
         "type": "FIGHTING",
-        "hash": "11bf5784bdc3404c6c"
+        "original": "A4a-046"
     },
     {
         "id": "A4a-047",
@@ -609,7 +609,7 @@
             "SUICUNE"
         ],
         "type": "FIGHTING",
-        "hash": "21e5c7c04ed8d3b0ac"
+        "original": "A4a-047"
     },
     {
         "id": "A4a-048",
@@ -622,7 +622,7 @@
             "SUICUNE"
         ],
         "type": "DARKNESS",
-        "hash": "11bbabc09ca466d293"
+        "original": "A4a-048"
     },
     {
         "id": "A4a-049",
@@ -635,7 +635,7 @@
             "SUICUNE"
         ],
         "type": "DARKNESS",
-        "hash": "11ed0b92645a6cda33"
+        "original": "A4a-049"
     },
     {
         "id": "A4a-050",
@@ -648,7 +648,7 @@
             "SUICUNE"
         ],
         "type": "DARKNESS",
-        "hash": "31aab2d0a19d25e39d"
+        "original": "A4a-050"
     },
     {
         "id": "A4a-051",
@@ -661,7 +661,7 @@
             "SUICUNE"
         ],
         "type": "DARKNESS",
-        "hash": "11c5b46e1e515e42b6"
+        "original": "A4a-051"
     },
     {
         "id": "A4a-052",
@@ -674,7 +674,7 @@
             "SUICUNE"
         ],
         "type": "DARKNESS",
-        "hash": "21e921489996d7a6ce"
+        "original": "A4a-052"
     },
     {
         "id": "A4a-053",
@@ -687,7 +687,7 @@
             "SUICUNE"
         ],
         "type": "DARKNESS",
-        "hash": "1181798bc67c87922f"
+        "original": "A4a-053"
     },
     {
         "id": "A4a-054",
@@ -700,7 +700,7 @@
             "SUICUNE"
         ],
         "type": "DARKNESS",
-        "hash": "11acb9b7e9c861e284"
+        "original": "A4a-054"
     },
     {
         "id": "A4a-055",
@@ -713,7 +713,7 @@
             "SUICUNE"
         ],
         "type": "TRAINER",
-        "hash": "31c1a758925cad4e79"
+        "original": "A4a-055"
     },
     {
         "id": "A4a-056",
@@ -726,7 +726,7 @@
             "SUICUNE"
         ],
         "type": "COLORLESS",
-        "hash": "11e6e818661d5265be"
+        "original": "A4a-056"
     },
     {
         "id": "A4a-057",
@@ -739,7 +739,7 @@
             "SUICUNE"
         ],
         "type": "COLORLESS",
-        "hash": "119fded360e088b3a4"
+        "original": "A4a-057"
     },
     {
         "id": "A4a-058",
@@ -752,7 +752,7 @@
             "SUICUNE"
         ],
         "type": "COLORLESS",
-        "hash": "21b3cf4498141b32fd"
+        "original": "A4a-058"
     },
     {
         "id": "A4a-059",
@@ -765,8 +765,8 @@
             "SUICUNE"
         ],
         "type": "COLORLESS",
-        "extra": "true",
-        "hash": "31de4c60b487739e32"
+        "extra": true,
+        "original": "A4a-059"
     },
     {
         "id": "A4a-060",
@@ -779,7 +779,7 @@
             "SUICUNE"
         ],
         "type": "COLORLESS",
-        "hash": "11eda9c69e32f00655"
+        "original": "A4a-060"
     },
     {
         "id": "A4a-061",
@@ -792,7 +792,7 @@
             "SUICUNE"
         ],
         "type": "COLORLESS",
-        "hash": "21fecac5c572104cab"
+        "original": "A4a-061"
     },
     {
         "id": "A4a-062",
@@ -805,7 +805,7 @@
             "SUICUNE"
         ],
         "type": "COLORLESS",
-        "hash": "2195a498f362c7994d"
+        "original": "A4a-062"
     },
     {
         "id": "A4a-063",
@@ -818,8 +818,8 @@
             "SUICUNE"
         ],
         "type": "COLORLESS",
-        "extra": "true",
-        "hash": "31f8ffcac0483c3f02"
+        "extra": true,
+        "original": "A4a-063"
     },
     {
         "id": "A4a-064",
@@ -832,7 +832,7 @@
             "SUICUNE"
         ],
         "type": "COLORLESS",
-        "hash": "1183a70f4b8638799e"
+        "original": "A4a-064"
     },
     {
         "id": "A4a-065",
@@ -845,7 +845,7 @@
             "SUICUNE"
         ],
         "type": "COLORLESS",
-        "hash": "21c5a5321458f73f1a"
+        "original": "A4a-065"
     },
     {
         "id": "A4a-066",
@@ -858,7 +858,7 @@
             "SUICUNE"
         ],
         "type": "COLORLESS",
-        "hash": "11f39098a60fda0dd9"
+        "original": "A4a-066"
     },
     {
         "id": "A4a-067",
@@ -871,7 +871,7 @@
             "SUICUNE"
         ],
         "type": "TRAINER",
-        "hash": "21f78cb88731ad8698"
+        "original": "A4a-067"
     },
     {
         "id": "A4a-068",
@@ -884,7 +884,7 @@
             "SUICUNE"
         ],
         "type": "TRAINER",
-        "hash": "219729e8be92b89931"
+        "original": "A4a-068"
     },
     {
         "id": "A4a-069",
@@ -897,7 +897,7 @@
             "SUICUNE"
         ],
         "type": "TRAINER",
-        "hash": "2188a6fbd28587de03"
+        "original": "A4a-069"
     },
     {
         "id": "A4a-070",
@@ -910,7 +910,7 @@
             "SUICUNE"
         ],
         "type": "TRAINER",
-        "hash": "21b0968ee8b0b6e8a7"
+        "original": "A4a-070"
     },
     {
         "id": "A4a-071",
@@ -923,7 +923,7 @@
             "SUICUNE"
         ],
         "type": "TRAINER",
-        "hash": "21c1f8cab3a6a59691"
+        "original": "A4a-071"
     },
     {
         "id": "A4a-072",
@@ -936,7 +936,7 @@
             "SUICUNE"
         ],
         "type": "WATER",
-        "hash": "13c934c73ab08fd0cd"
+        "original": "A4a-072"
     },
     {
         "id": "A4a-073",
@@ -949,7 +949,7 @@
             "SUICUNE"
         ],
         "type": "LIGHTNING",
-        "hash": "13883f7971e6e3214c"
+        "original": "A4a-073"
     },
     {
         "id": "A4a-074",
@@ -962,7 +962,7 @@
             "SUICUNE"
         ],
         "type": "LIGHTNING",
-        "hash": "13c82043cf76e65ee8"
+        "original": "A4a-074"
     },
     {
         "id": "A4a-075",
@@ -975,7 +975,7 @@
             "SUICUNE"
         ],
         "type": "PSYCHIC",
-        "hash": "13d06e8fb30ccc2e4b"
+        "original": "A4a-075"
     },
     {
         "id": "A4a-076",
@@ -988,7 +988,7 @@
             "SUICUNE"
         ],
         "type": "FIGHTING",
-        "hash": "13bf5dc2bae40b31c0"
+        "original": "A4a-076"
     },
     {
         "id": "A4a-077",
@@ -1001,8 +1001,8 @@
             "SUICUNE"
         ],
         "type": "COLORLESS",
-        "extra": "true",
-        "hash": "13ecc3958e3b552748"
+        "extra": true,
+        "original": "A4a-077"
     },
     {
         "id": "A4a-078",
@@ -1015,7 +1015,7 @@
             "SUICUNE"
         ],
         "type": "GRASS",
-        "hash": "239c9ae1625be74255"
+        "original": "A4a-078"
     },
     {
         "id": "A4a-079",
@@ -1028,7 +1028,7 @@
             "SUICUNE"
         ],
         "type": "FIRE",
-        "hash": "23e540321a3bbb5f49"
+        "original": "A4a-079"
     },
     {
         "id": "A4a-080",
@@ -1041,7 +1041,7 @@
             "SUICUNE"
         ],
         "type": "WATER",
-        "hash": "23f98dc94358bd8714"
+        "original": "A4a-080"
     },
     {
         "id": "A4a-081",
@@ -1054,7 +1054,7 @@
             "SUICUNE"
         ],
         "type": "LIGHTNING",
-        "hash": "238ef1b1009af5f0d6"
+        "original": "A4a-081"
     },
     {
         "id": "A4a-082",
@@ -1067,7 +1067,7 @@
             "SUICUNE"
         ],
         "type": "FIGHTING",
-        "hash": "23feb150c8dacbc950"
+        "original": "A4a-082"
     },
     {
         "id": "A4a-083",
@@ -1080,7 +1080,7 @@
             "SUICUNE"
         ],
         "type": "TRAINER",
-        "hash": "23e1068e9896b9e3e5"
+        "original": "A4a-083"
     },
     {
         "id": "A4a-084",
@@ -1093,7 +1093,7 @@
             "SUICUNE"
         ],
         "type": "TRAINER",
-        "hash": "238ea5fc12636b113d"
+        "original": "A4a-084"
     },
     {
         "id": "A4a-085",
@@ -1106,7 +1106,7 @@
             "SUICUNE"
         ],
         "type": "TRAINER",
-        "hash": "23cce5c29231cfda86"
+        "original": "A4a-085"
     },
     {
         "id": "A4a-086",
@@ -1119,7 +1119,7 @@
             "SUICUNE"
         ],
         "type": "GRASS",
-        "hash": "23a5ba6a964cc96a8d"
+        "original": "A4a-086"
     },
     {
         "id": "A4a-087",
@@ -1132,7 +1132,7 @@
             "SUICUNE"
         ],
         "type": "FIRE",
-        "hash": "23bae85cd2c3474732"
+        "original": "A4a-087"
     },
     {
         "id": "A4a-088",
@@ -1145,7 +1145,7 @@
             "SUICUNE"
         ],
         "type": "LIGHTNING",
-        "hash": "23ebe91c9853d69268"
+        "original": "A4a-088"
     },
     {
         "id": "A4a-089",
@@ -1158,7 +1158,7 @@
             "SUICUNE"
         ],
         "type": "FIGHTING",
-        "hash": "23cb2f9e28d2466cca"
+        "original": "A4a-089"
     },
     {
         "id": "A4a-090",
@@ -1171,7 +1171,7 @@
             "SUICUNE"
         ],
         "type": "WATER",
-        "hash": "33cc633e39c1868be5"
+        "original": "A4a-090"
     },
     {
         "id": "A4a-091",
@@ -1184,7 +1184,7 @@
             "SUICUNE"
         ],
         "type": "FIRE",
-        "hash": "14a60d92459dfe1da8"
+        "original": "A4a-091"
     },
     {
         "id": "A4a-092",
@@ -1197,7 +1197,7 @@
             "SUICUNE"
         ],
         "type": "FIRE",
-        "hash": "14a50d91c79e351d5c"
+        "original": "A4a-092"
     },
     {
         "id": "A4a-093",
@@ -1210,7 +1210,7 @@
             "SUICUNE"
         ],
         "type": "WATER",
-        "hash": "14b10994e19ecc9fcc"
+        "original": "A4a-093"
     },
     {
         "id": "A4a-094",
@@ -1223,7 +1223,7 @@
             "SUICUNE"
         ],
         "type": "WATER",
-        "hash": "14b087c9149d6dceb8"
+        "original": "A4a-094"
     },
     {
         "id": "A4a-095",
@@ -1236,7 +1236,7 @@
             "SUICUNE"
         ],
         "type": "WATER",
-        "hash": "14ed0593cd96670d52"
+        "original": "A4a-095"
     },
     {
         "id": "A4a-096",
@@ -1249,7 +1249,7 @@
             "SUICUNE"
         ],
         "type": "WATER",
-        "hash": "14ec2d90c5353d1d6a"
+        "original": "A4a-096"
     },
     {
         "id": "A4a-097",
@@ -1262,7 +1262,7 @@
             "SUICUNE"
         ],
         "type": "WATER",
-        "hash": "14b887c1390ff11dc6"
+        "original": "A4a-097"
     },
     {
         "id": "A4a-098",
@@ -1275,7 +1275,7 @@
             "SUICUNE"
         ],
         "type": "FIGHTING",
-        "hash": "14a407c7cd1de59383"
+        "original": "A4a-098"
     },
     {
         "id": "A4a-099",
@@ -1288,7 +1288,7 @@
             "SUICUNE"
         ],
         "type": "FIGHTING",
-        "hash": "14b10c93c59eb71e38"
+        "original": "A4a-099"
     },
     {
         "id": "A4a-100",
@@ -1301,7 +1301,7 @@
             "SUICUNE"
         ],
         "type": "DARKNESS",
-        "hash": "14e31994459ffc198a"
+        "original": "A4a-100"
     },
     {
         "id": "A4a-101",
@@ -1314,7 +1314,7 @@
             "SUICUNE"
         ],
         "type": "FIRE",
-        "hash": "24e8ed316ac69c6c8c"
+        "original": "A4a-101"
     },
     {
         "id": "A4a-102",
@@ -1327,7 +1327,7 @@
             "SUICUNE"
         ],
         "type": "PSYCHIC",
-        "hash": "24bb9c4873368d3e30"
+        "original": "A4a-102"
     },
     {
         "id": "A4a-103",
@@ -1340,7 +1340,7 @@
             "SUICUNE"
         ],
         "type": "FIGHTING",
-        "hash": "24accef18156e0db34"
+        "original": "A4a-103"
     },
     {
         "id": "A4a-104",
@@ -1353,7 +1353,7 @@
             "SUICUNE"
         ],
         "type": "DARKNESS",
-        "hash": "24acc895427aadd63c"
+        "original": "A4a-104"
     },
     {
         "id": "A4a-105",
@@ -1366,6 +1366,6 @@
             "SUICUNE"
         ],
         "type": "WATER",
-        "hash": "1593b1f86789845acd"
+        "original": "A4a-105"
     }
 ]

@@ -10,7 +10,7 @@
             "PREMIUM"
         ],
         "type": "LIGHTNING",
-        "hash": "00c0d4757e0051fb67"
+        "original": "P-B-001"
     },
     {
         "id": "P-B-002",
@@ -23,7 +23,7 @@
             "DROP_EVENT"
         ],
         "type": "GRASS",
-        "hash": "00c6267c99889afe26"
+        "original": "P-B-002"
     },
     {
         "id": "P-B-003",
@@ -36,7 +36,7 @@
             "DROP_EVENT"
         ],
         "type": "WATER",
-        "hash": "00f171e30fb12c1ee0"
+        "original": "P-B-003"
     },
     {
         "id": "P-B-004",
@@ -49,7 +49,7 @@
             "DROP_EVENT"
         ],
         "type": "LIGHTNING",
-        "hash": "00e96a8f989891af86"
+        "original": "P-B-004"
     },
     {
         "id": "P-B-005",
@@ -62,7 +62,7 @@
             "DROP_EVENT"
         ],
         "type": "COLORLESS",
-        "hash": "0092f08b8df8edd206"
+        "original": "P-B-005"
     },
     {
         "id": "P-B-006",
@@ -75,7 +75,7 @@
             "DROP_EVENT"
         ],
         "type": "COLORLESS",
-        "hash": "008efbc294993ab0e8"
+        "original": "P-B-006"
     },
     {
         "id": "P-B-007",
@@ -88,7 +88,7 @@
             "WONDER_EVENT"
         ],
         "type": "FIRE",
-        "hash": "00e57b1ae4a9e47920"
+        "original": "P-B-007"
     },
     {
         "id": "P-B-008",
@@ -101,7 +101,7 @@
             "WONDER_EVENT"
         ],
         "type": "WATER",
-        "hash": "009c1ce6e65868ce36"
+        "original": "P-B-008"
     },
     {
         "id": "P-B-009",
@@ -114,7 +114,7 @@
             "PREMIUM"
         ],
         "type": "DARKNESS",
-        "hash": "00f696eb2c61783c82"
+        "original": "P-B-009"
     },
     {
         "id": "P-B-010",
@@ -127,7 +127,7 @@
             "WONDER_EVENT"
         ],
         "type": "PSYCHIC",
-        "hash": "00ed199c9e12e8f2a1"
+        "original": "P-B-010"
     },
     {
         "id": "P-B-011",
@@ -140,7 +140,7 @@
             "WONDER_EVENT"
         ],
         "type": "COLORLESS",
-        "hash": "00ae9d02d4756e466a"
+        "original": "P-B-011"
     },
     {
         "id": "P-B-012",
@@ -153,7 +153,7 @@
             "PREMIUM"
         ],
         "type": "COLORLESS",
-        "hash": "009d8bda144dd15bc1"
+        "original": "P-B-012"
     },
     {
         "id": "P-B-013",
@@ -166,7 +166,7 @@
             "DROP_EVENT"
         ],
         "type": "FIRE",
-        "hash": "0096d8564b8ac56cc7"
+        "original": "P-B-013"
     },
     {
         "id": "P-B-014",
@@ -179,7 +179,7 @@
             "DROP_EVENT"
         ],
         "type": "WATER",
-        "hash": "00f0cc19712e87caba"
+        "original": "P-B-014"
     },
     {
         "id": "P-B-015",
@@ -192,7 +192,7 @@
             "DROP_EVENT"
         ],
         "type": "LIGHTNING",
-        "hash": "00cb22d8d26e6b9989"
+        "original": "P-B-015"
     },
     {
         "id": "P-B-016",
@@ -205,7 +205,7 @@
             "DROP_EVENT"
         ],
         "type": "FIGHTING",
-        "hash": "00ed32174ac0533c9f"
+        "original": "P-B-016"
     },
     {
         "id": "P-B-017",
@@ -218,7 +218,7 @@
             "DROP_EVENT"
         ],
         "type": "COLORLESS",
-        "hash": "00c1e53a5ae6e4a961"
+        "original": "P-B-017"
     },
     {
         "id": "P-B-018",
@@ -231,7 +231,7 @@
             "WONDER_EVENT"
         ],
         "type": "LIGHTNING",
-        "hash": "00ba9e18a6e01a57ae"
+        "original": "P-B-018"
     },
     {
         "id": "P-B-019",
@@ -244,7 +244,7 @@
             "WONDER_EVENT"
         ],
         "type": "COLORLESS",
-        "hash": "008aa49fcc589a13b7"
+        "original": "P-B-019"
     },
     {
         "id": "P-B-020",
@@ -257,7 +257,7 @@
             "DROP_EVENT"
         ],
         "type": "FIRE",
-        "hash": "0086ce1bd2f759484c"
+        "original": "P-B-020"
     },
     {
         "id": "P-B-021",
@@ -270,7 +270,7 @@
             "DROP_EVENT"
         ],
         "type": "FIGHTING",
-        "hash": "00e2ceec14520b8f7c"
+        "original": "P-B-021"
     },
     {
         "id": "P-B-022",
@@ -283,7 +283,7 @@
             "DROP_EVENT"
         ],
         "type": "FIGHTING",
-        "hash": "0098f416cbb887768a"
+        "original": "P-B-022"
     },
     {
         "id": "P-B-023",
@@ -296,7 +296,7 @@
             "DROP_EVENT"
         ],
         "type": "METAL",
-        "hash": "00e5909e991963782f"
+        "original": "P-B-023"
     },
     {
         "id": "P-B-024",
@@ -309,7 +309,7 @@
             "DROP_EVENT"
         ],
         "type": "DRAGON",
-        "hash": "009eb03106640fbfa7"
+        "original": "P-B-024"
     },
     {
         "id": "P-B-025",
@@ -322,7 +322,7 @@
             "PREMIUM"
         ],
         "type": "PSYCHIC",
-        "hash": "00c96166a40b39b9db"
+        "original": "P-B-025"
     },
     {
         "id": "P-B-026",
@@ -335,7 +335,7 @@
             "DROP_EVENT"
         ],
         "type": "WATER",
-        "hash": "00c9ef9a90ce663524"
+        "original": "P-B-026"
     },
     {
         "id": "P-B-027",
@@ -348,7 +348,7 @@
             "DROP_EVENT"
         ],
         "type": "LIGHTNING",
-        "hash": "00ccd636164fc07e31"
+        "original": "P-B-027"
     },
     {
         "id": "P-B-028",
@@ -361,7 +361,7 @@
             "DROP_EVENT"
         ],
         "type": "PSYCHIC",
-        "hash": "00c0606f6ba78c9bb2"
+        "original": "P-B-028"
     },
     {
         "id": "P-B-029",
@@ -374,7 +374,7 @@
             "DROP_EVENT"
         ],
         "type": "FIGHTING",
-        "hash": "00d8d90624a963ecde"
+        "original": "P-B-029"
     },
     {
         "id": "P-B-030",
@@ -387,7 +387,7 @@
             "DROP_EVENT"
         ],
         "type": "COLORLESS",
-        "hash": "00e4c89e0dda15996e"
+        "original": "P-B-030"
     },
     {
         "id": "P-B-031",
@@ -400,7 +400,7 @@
             "WONDER_EVENT"
         ],
         "type": "FIRE",
-        "hash": "00a399cc9634bdb1a4"
+        "original": "P-B-031"
     },
     {
         "id": "P-B-032",
@@ -413,7 +413,7 @@
             "WONDER_EVENT"
         ],
         "type": "WATER",
-        "hash": "009a56e3683c367525"
+        "original": "P-B-032"
     },
     {
         "id": "P-B-033",
@@ -426,7 +426,7 @@
             "PREMIUM"
         ],
         "type": "WATER",
-        "hash": "00d0381ec75d836dcc"
+        "original": "P-B-033"
     },
     {
         "id": "P-B-034",
@@ -439,7 +439,7 @@
             "DROP_EVENT"
         ],
         "type": "GRASS",
-        "hash": "00c4e3da580e2cf43b"
+        "original": "P-B-034"
     },
     {
         "id": "P-B-035",
@@ -452,7 +452,7 @@
             "DROP_EVENT"
         ],
         "type": "FIRE",
-        "hash": "00f4b283caf881878f"
+        "original": "P-B-035"
     },
     {
         "id": "P-B-036",
@@ -465,7 +465,7 @@
             "DROP_EVENT"
         ],
         "type": "WATER",
-        "hash": "008883abcbf1933c72"
+        "original": "P-B-036"
     },
     {
         "id": "P-B-037",
@@ -478,7 +478,7 @@
             "DROP_EVENT"
         ],
         "type": "WATER",
-        "hash": "00a4ab1fd3b23a520e"
+        "original": "P-B-037"
     },
     {
         "id": "P-B-038",
@@ -491,7 +491,7 @@
             "DROP_EVENT"
         ],
         "type": "METAL",
-        "hash": "00c8fb82a23acd1db8"
+        "original": "P-B-038"
     },
     {
         "id": "P-B-039",
@@ -504,7 +504,7 @@
             "WONDER_EVENT"
         ],
         "type": "LIGHTNING",
-        "hash": "008296aec7492b54e7"
+        "original": "P-B-039"
     },
     {
         "id": "P-B-040",
@@ -517,6 +517,6 @@
             "WONDER_EVENT"
         ],
         "type": "DARKNESS",
-        "hash": "00e0d49f9e10227f2d"
+        "original": "P-B-040"
     }
 ]

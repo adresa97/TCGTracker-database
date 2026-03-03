@@ -10,7 +10,7 @@
             "ARCEUS"
         ],
         "type": "GRASS",
-        "hash": "21f4dc9e4942833ace"
+        "original": "A2a-001"
     },
     {
         "id": "A2a-002",
@@ -23,7 +23,7 @@
             "ARCEUS"
         ],
         "type": "GRASS",
-        "hash": "119c694a25692535bf"
+        "original": "A2a-002"
     },
     {
         "id": "A2a-003",
@@ -36,7 +36,7 @@
             "ARCEUS"
         ],
         "type": "GRASS",
-        "hash": "21b4b59d2f49c0c9c9"
+        "original": "A2a-003"
     },
     {
         "id": "A2a-004",
@@ -49,7 +49,7 @@
             "ARCEUS"
         ],
         "type": "GRASS",
-        "hash": "11a4b91ad39e27c670"
+        "original": "A2a-004"
     },
     {
         "id": "A2a-005",
@@ -62,7 +62,7 @@
             "ARCEUS"
         ],
         "type": "GRASS",
-        "hash": "21c6c375cc582d0bcb"
+        "original": "A2a-005"
     },
     {
         "id": "A2a-006",
@@ -75,7 +75,7 @@
             "ARCEUS"
         ],
         "type": "GRASS",
-        "hash": "11b151f0f28c2cd973"
+        "original": "A2a-006"
     },
     {
         "id": "A2a-007",
@@ -88,7 +88,7 @@
             "ARCEUS"
         ],
         "type": "GRASS",
-        "hash": "21c8cc1c3bc3c3c35b"
+        "original": "A2a-007"
     },
     {
         "id": "A2a-008",
@@ -101,7 +101,7 @@
             "ARCEUS"
         ],
         "type": "GRASS",
-        "hash": "21d0ca61fc53ca2f85"
+        "original": "A2a-008"
     },
     {
         "id": "A2a-009",
@@ -114,7 +114,7 @@
             "ARCEUS"
         ],
         "type": "GRASS",
-        "hash": "3184b143a6634b3ebe"
+        "original": "A2a-009"
     },
     {
         "id": "A2a-010",
@@ -127,7 +127,7 @@
             "ARCEUS"
         ],
         "type": "GRASS",
-        "hash": "419453689dc4e651be"
+        "original": "A2a-010"
     },
     {
         "id": "A2a-011",
@@ -140,7 +140,7 @@
             "ARCEUS"
         ],
         "type": "FIRE",
-        "hash": "11a6f1b1864e6730dc"
+        "original": "A2a-011"
     },
     {
         "id": "A2a-012",
@@ -153,7 +153,7 @@
             "ARCEUS"
         ],
         "type": "FIRE",
-        "hash": "21b68c5891b866aa77"
+        "original": "A2a-012"
     },
     {
         "id": "A2a-013",
@@ -166,7 +166,7 @@
             "ARCEUS"
         ],
         "type": "FIRE",
-        "hash": "31946617cd48de1af2"
+        "original": "A2a-013"
     },
     {
         "id": "A2a-014",
@@ -179,7 +179,7 @@
             "ARCEUS"
         ],
         "type": "WATER",
-        "hash": "11c49cd3a32df3087c"
+        "original": "A2a-014"
     },
     {
         "id": "A2a-015",
@@ -192,7 +192,7 @@
             "ARCEUS"
         ],
         "type": "WATER",
-        "hash": "11c7e9988c991f7312"
+        "original": "A2a-015"
     },
     {
         "id": "A2a-016",
@@ -205,7 +205,7 @@
             "ARCEUS"
         ],
         "type": "WATER",
-        "hash": "11adcc97668468db1c"
+        "original": "A2a-016"
     },
     {
         "id": "A2a-017",
@@ -218,7 +218,7 @@
             "ARCEUS"
         ],
         "type": "WATER",
-        "hash": "21e08fcc99ff660898"
+        "original": "A2a-017"
     },
     {
         "id": "A2a-018",
@@ -231,7 +231,7 @@
             "ARCEUS"
         ],
         "type": "WATER",
-        "hash": "11d51a79bd786022e6"
+        "original": "A2a-018"
     },
     {
         "id": "A2a-019",
@@ -244,7 +244,7 @@
             "ARCEUS"
         ],
         "type": "WATER",
-        "hash": "21c5a00d8c1f727377"
+        "original": "A2a-019"
     },
     {
         "id": "A2a-020",
@@ -257,7 +257,7 @@
             "ARCEUS"
         ],
         "type": "WATER",
-        "hash": "11db15e168f7535824"
+        "original": "A2a-020"
     },
     {
         "id": "A2a-021",
@@ -270,7 +270,7 @@
             "ARCEUS"
         ],
         "type": "WATER",
-        "hash": "31ccf2266c78c5d6a4"
+        "original": "A2a-021"
     },
     {
         "id": "A2a-022",
@@ -283,7 +283,7 @@
             "ARCEUS"
         ],
         "type": "WATER",
-        "hash": "41f0334f946cc9d147"
+        "original": "A2a-022"
     },
     {
         "id": "A2a-023",
@@ -296,7 +296,7 @@
             "ARCEUS"
         ],
         "type": "WATER",
-        "hash": "31d1b84b2f58d11aae"
+        "original": "A2a-023"
     },
     {
         "id": "A2a-024",
@@ -309,7 +309,7 @@
             "ARCEUS"
         ],
         "type": "WATER",
-        "hash": "21f950067e5e2d5874"
+        "original": "A2a-024"
     },
     {
         "id": "A2a-025",
@@ -322,7 +322,7 @@
             "ARCEUS"
         ],
         "type": "LIGHTNING",
-        "hash": "11a1f8d8d1daee4a0c"
+        "original": "A2a-025"
     },
     {
         "id": "A2a-026",
@@ -335,7 +335,7 @@
             "ARCEUS"
         ],
         "type": "LIGHTNING",
-        "hash": "31fcb211ca7a8f8c45"
+        "original": "A2a-026"
     },
     {
         "id": "A2a-027",
@@ -348,7 +348,7 @@
             "ARCEUS"
         ],
         "type": "LIGHTNING",
-        "hash": "11dc5a694dd20d61ba"
+        "original": "A2a-027"
     },
     {
         "id": "A2a-028",
@@ -361,7 +361,7 @@
             "ARCEUS"
         ],
         "type": "LIGHTNING",
-        "hash": "21ecc8cb92b2dd8685"
+        "original": "A2a-028"
     },
     {
         "id": "A2a-029",
@@ -374,7 +374,7 @@
             "ARCEUS"
         ],
         "type": "PSYCHIC",
-        "hash": "118e2c0767c160fc5f"
+        "original": "A2a-029"
     },
     {
         "id": "A2a-030",
@@ -387,7 +387,7 @@
             "ARCEUS"
         ],
         "type": "PSYCHIC",
-        "hash": "2193cb35e696e5c244"
+        "original": "A2a-030"
     },
     {
         "id": "A2a-031",
@@ -400,7 +400,7 @@
             "ARCEUS"
         ],
         "type": "PSYCHIC",
-        "hash": "11e5971a933962259d"
+        "original": "A2a-031"
     },
     {
         "id": "A2a-032",
@@ -413,7 +413,7 @@
             "ARCEUS"
         ],
         "type": "PSYCHIC",
-        "hash": "11e8e9cfe1dcc8c418"
+        "original": "A2a-032"
     },
     {
         "id": "A2a-033",
@@ -426,7 +426,7 @@
             "ARCEUS"
         ],
         "type": "PSYCHIC",
-        "hash": "21c3c1ce4f4c7ed290"
+        "original": "A2a-033"
     },
     {
         "id": "A2a-034",
@@ -439,7 +439,7 @@
             "ARCEUS"
         ],
         "type": "PSYCHIC",
-        "hash": "219c70770fc90763e8"
+        "original": "A2a-034"
     },
     {
         "id": "A2a-035",
@@ -452,7 +452,7 @@
             "ARCEUS"
         ],
         "type": "PSYCHIC",
-        "hash": "318ca838fa167b692d"
+        "original": "A2a-035"
     },
     {
         "id": "A2a-036",
@@ -465,7 +465,7 @@
             "ARCEUS"
         ],
         "type": "FIGHTING",
-        "hash": "2192c65cd453e24fb4"
+        "original": "A2a-036"
     },
     {
         "id": "A2a-037",
@@ -478,7 +478,7 @@
             "ARCEUS"
         ],
         "type": "FIGHTING",
-        "hash": "11e415b766cb49583a"
+        "original": "A2a-037"
     },
     {
         "id": "A2a-038",
@@ -491,7 +491,7 @@
             "ARCEUS"
         ],
         "type": "FIGHTING",
-        "hash": "21a8c9158f7e885ee2"
+        "original": "A2a-038"
     },
     {
         "id": "A2a-039",
@@ -504,7 +504,7 @@
             "ARCEUS"
         ],
         "type": "FIGHTING",
-        "hash": "11a42793d8ccf36466"
+        "original": "A2a-039"
     },
     {
         "id": "A2a-040",
@@ -517,7 +517,7 @@
             "ARCEUS"
         ],
         "type": "FIGHTING",
-        "hash": "21c1d0be4ebc49c993"
+        "original": "A2a-040"
     },
     {
         "id": "A2a-041",
@@ -530,7 +530,7 @@
             "ARCEUS"
         ],
         "type": "FIGHTING",
-        "hash": "31c5f235cec5cc4cd0"
+        "original": "A2a-041"
     },
     {
         "id": "A2a-042",
@@ -543,7 +543,7 @@
             "ARCEUS"
         ],
         "type": "FIGHTING",
-        "hash": "11bb9a90ecec25a3a2"
+        "original": "A2a-042"
     },
     {
         "id": "A2a-043",
@@ -556,7 +556,7 @@
             "ARCEUS"
         ],
         "type": "FIGHTING",
-        "hash": "11c28d988c70cf4efc"
+        "original": "A2a-043"
     },
     {
         "id": "A2a-044",
@@ -569,7 +569,7 @@
             "ARCEUS"
         ],
         "type": "FIGHTING",
-        "hash": "21e35ca46e98a49b8d"
+        "original": "A2a-044"
     },
     {
         "id": "A2a-045",
@@ -582,7 +582,7 @@
             "ARCEUS"
         ],
         "type": "FIGHTING",
-        "hash": "11e1a5ccdc38cc8e71"
+        "original": "A2a-045"
     },
     {
         "id": "A2a-046",
@@ -595,7 +595,7 @@
             "ARCEUS"
         ],
         "type": "FIGHTING",
-        "hash": "11c3879edcedcc88c0"
+        "original": "A2a-046"
     },
     {
         "id": "A2a-047",
@@ -608,7 +608,7 @@
             "ARCEUS"
         ],
         "type": "FIGHTING",
-        "hash": "41ef5ce25c85404bc7"
+        "original": "A2a-047"
     },
     {
         "id": "A2a-048",
@@ -621,7 +621,7 @@
             "ARCEUS"
         ],
         "type": "DARKNESS",
-        "hash": "11f09d2f720b343555"
+        "original": "A2a-048"
     },
     {
         "id": "A2a-049",
@@ -634,7 +634,7 @@
             "ARCEUS"
         ],
         "type": "DARKNESS",
-        "hash": "11d1d949db87cce406"
+        "original": "A2a-049"
     },
     {
         "id": "A2a-050",
@@ -647,7 +647,7 @@
             "ARCEUS"
         ],
         "type": "DARKNESS",
-        "hash": "31d56c9cd9c826c996"
+        "original": "A2a-050"
     },
     {
         "id": "A2a-051",
@@ -660,7 +660,7 @@
             "ARCEUS"
         ],
         "type": "DARKNESS",
-        "hash": "11c2eb2988e4e9e13e"
+        "original": "A2a-051"
     },
     {
         "id": "A2a-052",
@@ -673,7 +673,7 @@
             "ARCEUS"
         ],
         "type": "DARKNESS",
-        "hash": "21d3d08c8fdb640e69"
+        "original": "A2a-052"
     },
     {
         "id": "A2a-053",
@@ -686,7 +686,7 @@
             "ARCEUS"
         ],
         "type": "METAL",
-        "hash": "11a18e273cc59f9aa1"
+        "original": "A2a-053"
     },
     {
         "id": "A2a-054",
@@ -699,7 +699,7 @@
             "ARCEUS"
         ],
         "type": "METAL",
-        "hash": "119e42a946d71bccd4"
+        "original": "A2a-054"
     },
     {
         "id": "A2a-055",
@@ -712,7 +712,7 @@
             "ARCEUS"
         ],
         "type": "METAL",
-        "hash": "31924bb8666e8748dd"
+        "original": "A2a-055"
     },
     {
         "id": "A2a-056",
@@ -725,7 +725,7 @@
             "ARCEUS"
         ],
         "type": "METAL",
-        "hash": "11f52d2dd24b0d0d72"
+        "original": "A2a-056"
     },
     {
         "id": "A2a-057",
@@ -738,7 +738,7 @@
             "ARCEUS"
         ],
         "type": "METAL",
-        "hash": "419bde49a1c4c9c2c7"
+        "original": "A2a-057"
     },
     {
         "id": "A2a-058",
@@ -751,7 +751,7 @@
             "ARCEUS"
         ],
         "type": "METAL",
-        "hash": "11909e0f7658b27d23"
+        "original": "A2a-058"
     },
     {
         "id": "A2a-059",
@@ -764,7 +764,7 @@
             "ARCEUS"
         ],
         "type": "METAL",
-        "hash": "21d6ced4e468a6c668"
+        "original": "A2a-059"
     },
     {
         "id": "A2a-060",
@@ -777,7 +777,7 @@
             "ARCEUS"
         ],
         "type": "METAL",
-        "hash": "31a8c956c2c5bd3696"
+        "original": "A2a-060"
     },
     {
         "id": "A2a-061",
@@ -790,7 +790,7 @@
             "ARCEUS"
         ],
         "type": "DRAGON",
-        "hash": "31f13b11bd5ddc0624"
+        "original": "A2a-061"
     },
     {
         "id": "A2a-062",
@@ -803,7 +803,7 @@
             "ARCEUS"
         ],
         "type": "COLORLESS",
-        "hash": "11c831708ea65d0b7f"
+        "original": "A2a-062"
     },
     {
         "id": "A2a-063",
@@ -816,7 +816,7 @@
             "ARCEUS"
         ],
         "type": "COLORLESS",
-        "hash": "21cccb23f0b1788f89"
+        "original": "A2a-063"
     },
     {
         "id": "A2a-064",
@@ -829,7 +829,7 @@
             "ARCEUS"
         ],
         "type": "COLORLESS",
-        "hash": "11e1e46c9d9bc04e17"
+        "original": "A2a-064"
     },
     {
         "id": "A2a-065",
@@ -842,7 +842,7 @@
             "ARCEUS"
         ],
         "type": "COLORLESS",
-        "hash": "21cded1b7056c4d1d0"
+        "original": "A2a-065"
     },
     {
         "id": "A2a-066",
@@ -855,7 +855,7 @@
             "ARCEUS"
         ],
         "type": "COLORLESS",
-        "hash": "11e2b6060b34c3d9f3"
+        "original": "A2a-066"
     },
     {
         "id": "A2a-067",
@@ -868,7 +868,7 @@
             "ARCEUS"
         ],
         "type": "COLORLESS",
-        "hash": "118adad6bd3cca3085"
+        "original": "A2a-067"
     },
     {
         "id": "A2a-068",
@@ -881,7 +881,7 @@
             "ARCEUS"
         ],
         "type": "COLORLESS",
-        "hash": "21cc41f1b4eec688ce"
+        "original": "A2a-068"
     },
     {
         "id": "A2a-069",
@@ -894,7 +894,7 @@
             "ARCEUS"
         ],
         "type": "COLORLESS",
-        "hash": "31eda5949d32b2494d"
+        "original": "A2a-069"
     },
     {
         "id": "A2a-070",
@@ -907,7 +907,7 @@
             "ARCEUS"
         ],
         "type": "COLORLESS",
-        "hash": "31966605b85ca65f3c"
+        "original": "A2a-070"
     },
     {
         "id": "A2a-071",
@@ -920,7 +920,7 @@
             "ARCEUS"
         ],
         "type": "COLORLESS",
-        "hash": "418e29b556938b31d3"
+        "original": "A2a-071"
     },
     {
         "id": "A2a-072",
@@ -933,7 +933,7 @@
             "ARCEUS"
         ],
         "type": "TRAINER",
-        "hash": "21d2a1f10ef1ce81da"
+        "original": "A2a-072"
     },
     {
         "id": "A2a-073",
@@ -946,7 +946,7 @@
             "ARCEUS"
         ],
         "type": "TRAINER",
-        "hash": "21a4d823bff491f803"
+        "original": "A2a-073"
     },
     {
         "id": "A2a-074",
@@ -959,7 +959,7 @@
             "ARCEUS"
         ],
         "type": "TRAINER",
-        "hash": "21e399c6c6b2b18e26"
+        "original": "A2a-074"
     },
     {
         "id": "A2a-075",
@@ -972,7 +972,7 @@
             "ARCEUS"
         ],
         "type": "TRAINER",
-        "hash": "21b1b6eadc0ac1a699"
+        "original": "A2a-075"
     },
     {
         "id": "A2a-076",
@@ -985,7 +985,7 @@
             "ARCEUS"
         ],
         "type": "FIRE",
-        "hash": "13c758f7ccc9c0ccc8"
+        "original": "A2a-076"
     },
     {
         "id": "A2a-077",
@@ -998,7 +998,7 @@
             "ARCEUS"
         ],
         "type": "WATER",
-        "hash": "138107b4d74b7b35b0"
+        "original": "A2a-077"
     },
     {
         "id": "A2a-078",
@@ -1011,7 +1011,7 @@
             "ARCEUS"
         ],
         "type": "PSYCHIC",
-        "hash": "13d28f7c4093a572dc"
+        "original": "A2a-078"
     },
     {
         "id": "A2a-079",
@@ -1024,7 +1024,7 @@
             "ARCEUS"
         ],
         "type": "FIGHTING",
-        "hash": "13aaa54365e087bc3d"
+        "original": "A2a-079"
     },
     {
         "id": "A2a-080",
@@ -1037,7 +1037,7 @@
             "ARCEUS"
         ],
         "type": "METAL",
-        "hash": "138fc8366c97330de4"
+        "original": "A2a-080"
     },
     {
         "id": "A2a-081",
@@ -1050,7 +1050,7 @@
             "ARCEUS"
         ],
         "type": "COLORLESS",
-        "hash": "13c63b59d6ed914a44"
+        "original": "A2a-081"
     },
     {
         "id": "A2a-082",
@@ -1063,7 +1063,7 @@
             "ARCEUS"
         ],
         "type": "GRASS",
-        "hash": "23d72cc19070ccde97"
+        "original": "A2a-082"
     },
     {
         "id": "A2a-083",
@@ -1076,7 +1076,7 @@
             "ARCEUS"
         ],
         "type": "WATER",
-        "hash": "23f235a9255bc6d01d"
+        "original": "A2a-083"
     },
     {
         "id": "A2a-084",
@@ -1089,7 +1089,7 @@
             "ARCEUS"
         ],
         "type": "FIGHTING",
-        "hash": "23aeeef0c152335b14"
+        "original": "A2a-084"
     },
     {
         "id": "A2a-085",
@@ -1102,7 +1102,7 @@
             "ARCEUS"
         ],
         "type": "METAL",
-        "hash": "23e553c4cb6bfcd040"
+        "original": "A2a-085"
     },
     {
         "id": "A2a-086",
@@ -1115,7 +1115,7 @@
             "ARCEUS"
         ],
         "type": "COLORLESS",
-        "hash": "23d73ce1c08b0f74d1"
+        "original": "A2a-086"
     },
     {
         "id": "A2a-087",
@@ -1128,7 +1128,7 @@
             "ARCEUS"
         ],
         "type": "TRAINER",
-        "hash": "23abe2e485129bd393"
+        "original": "A2a-087"
     },
     {
         "id": "A2a-088",
@@ -1141,7 +1141,7 @@
             "ARCEUS"
         ],
         "type": "TRAINER",
-        "hash": "239974a386e686f1f0"
+        "original": "A2a-088"
     },
     {
         "id": "A2a-089",
@@ -1154,7 +1154,7 @@
             "ARCEUS"
         ],
         "type": "TRAINER",
-        "hash": "23f1d6b08bd9b025b4"
+        "original": "A2a-089"
     },
     {
         "id": "A2a-090",
@@ -1167,7 +1167,7 @@
             "ARCEUS"
         ],
         "type": "TRAINER",
-        "hash": "23b6b55883a9c3f390"
+        "original": "A2a-090"
     },
     {
         "id": "A2a-091",
@@ -1180,7 +1180,7 @@
             "ARCEUS"
         ],
         "type": "GRASS",
-        "hash": "23878836e6986519df"
+        "original": "A2a-091"
     },
     {
         "id": "A2a-092",
@@ -1193,7 +1193,7 @@
             "ARCEUS"
         ],
         "type": "WATER",
-        "hash": "23cbea2c1846681bdf"
+        "original": "A2a-092"
     },
     {
         "id": "A2a-093",
@@ -1206,7 +1206,7 @@
             "ARCEUS"
         ],
         "type": "FIGHTING",
-        "hash": "23bfeeed483131c380"
+        "original": "A2a-093"
     },
     {
         "id": "A2a-094",
@@ -1219,7 +1219,7 @@
             "ARCEUS"
         ],
         "type": "METAL",
-        "hash": "238df29ce956699264"
+        "original": "A2a-094"
     },
     {
         "id": "A2a-095",
@@ -1232,7 +1232,7 @@
             "ARCEUS"
         ],
         "type": "COLORLESS",
-        "hash": "33a35fe0910d7a6cc6"
+        "original": "A2a-095"
     },
     {
         "id": "A2a-096",
@@ -1245,6 +1245,6 @@
             "ARCEUS"
         ],
         "type": "COLORLESS",
-        "hash": "15973bf1c78e0e1491"
+        "original": "A2a-096"
     }
 ]

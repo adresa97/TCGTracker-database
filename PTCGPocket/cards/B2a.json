@@ -10,7 +10,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "GRASS",
-        "hash": "1182de564b430d77cc"
+        "original": "B2a-001"
     },
     {
         "id": "B2a-002",
@@ -23,7 +23,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "GRASS",
-        "hash": "11d29e1afc09c2c973"
+        "original": "B2a-002"
     },
     {
         "id": "B2a-003",
@@ -36,7 +36,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "GRASS",
-        "hash": "41ed99a3709f4ec08c"
+        "original": "B2a-003"
     },
     {
         "id": "B2a-004",
@@ -49,7 +49,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "GRASS",
-        "hash": "11c98d223ec77b8f08"
+        "original": "B2a-004"
     },
     {
         "id": "B2a-005",
@@ -62,7 +62,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "GRASS",
-        "hash": "21968579e12cf1c9ca"
+        "original": "B2a-005"
     },
     {
         "id": "B2a-006",
@@ -75,7 +75,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "GRASS",
-        "hash": "11be8455939c69631e"
+        "original": "B2a-006"
     },
     {
         "id": "B2a-007",
@@ -88,7 +88,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "GRASS",
-        "hash": "1197fd2943d0352366"
+        "original": "B2a-007"
     },
     {
         "id": "B2a-008",
@@ -101,7 +101,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "GRASS",
-        "hash": "1182cd59d638916eae"
+        "original": "B2a-008"
     },
     {
         "id": "B2a-009",
@@ -114,7 +114,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "GRASS",
-        "hash": "31a3d315f8349d4e34"
+        "original": "B2a-009"
     },
     {
         "id": "B2a-010",
@@ -127,7 +127,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "GRASS",
-        "hash": "11b39c87661e33491b"
+        "original": "B2a-010"
     },
     {
         "id": "B2a-011",
@@ -140,7 +140,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "GRASS",
-        "hash": "21855f2d7cecec50c0"
+        "original": "B2a-011"
     },
     {
         "id": "B2a-012",
@@ -153,7 +153,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "GRASS",
-        "hash": "1187ecd8d2d649b056"
+        "original": "B2a-012"
     },
     {
         "id": "B2a-013",
@@ -166,7 +166,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "GRASS",
-        "hash": "21b5c3f417d8069ab8"
+        "original": "B2a-013"
     },
     {
         "id": "B2a-014",
@@ -179,7 +179,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "GRASS",
-        "hash": "11ad0e85b1cce83d33"
+        "original": "B2a-014"
     },
     {
         "id": "B2a-015",
@@ -192,7 +192,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "GRASS",
-        "hash": "3191d71e0c5d1a1e1f"
+        "original": "B2a-015"
     },
     {
         "id": "B2a-016",
@@ -205,7 +205,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "FIRE",
-        "hash": "11e1c64f27435d1f50"
+        "original": "B2a-016"
     },
     {
         "id": "B2a-017",
@@ -218,7 +218,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "FIRE",
-        "hash": "11c0de7a1385c5eec8"
+        "original": "B2a-017"
     },
     {
         "id": "B2a-018",
@@ -231,7 +231,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "FIRE",
-        "hash": "31c1b549cc6666cc3e"
+        "original": "B2a-018"
     },
     {
         "id": "B2a-019",
@@ -244,7 +244,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "FIRE",
-        "hash": "11e606791efcc1a931"
+        "original": "B2a-019"
     },
     {
         "id": "B2a-020",
@@ -257,7 +257,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "FIRE",
-        "hash": "41e8533299894ed6ce"
+        "original": "B2a-020"
     },
     {
         "id": "B2a-021",
@@ -270,7 +270,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "FIRE",
-        "hash": "31db1f4391e90b3266"
+        "original": "B2a-021"
     },
     {
         "id": "B2a-022",
@@ -283,7 +283,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "WATER",
-        "hash": "11a4f1309370ccef72"
+        "original": "B2a-022"
     },
     {
         "id": "B2a-023",
@@ -296,7 +296,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "WATER",
-        "hash": "11c6e8709c7b9b2b60"
+        "original": "B2a-023"
     },
     {
         "id": "B2a-024",
@@ -309,7 +309,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "WATER",
-        "hash": "31949cc3a6dac6f688"
+        "original": "B2a-024"
     },
     {
         "id": "B2a-025",
@@ -322,7 +322,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "WATER",
-        "hash": "11d60d69346433773a"
+        "original": "B2a-025"
     },
     {
         "id": "B2a-026",
@@ -335,7 +335,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "WATER",
-        "hash": "21f7cea805f45849c9"
+        "original": "B2a-026"
     },
     {
         "id": "B2a-027",
@@ -348,7 +348,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "WATER",
-        "hash": "1185e23fc670963768"
+        "original": "B2a-027"
     },
     {
         "id": "B2a-028",
@@ -361,7 +361,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "WATER",
-        "hash": "31ed96d8f10e0f6066"
+        "original": "B2a-028"
     },
     {
         "id": "B2a-029",
@@ -374,7 +374,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "WATER",
-        "hash": "1193572c0f72703f1c"
+        "original": "B2a-029"
     },
     {
         "id": "B2a-030",
@@ -387,7 +387,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "WATER",
-        "hash": "21be3ea47122c6c1da"
+        "original": "B2a-030"
     },
     {
         "id": "B2a-031",
@@ -400,7 +400,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "WATER",
-        "hash": "2183d7f77534641170"
+        "original": "B2a-031"
     },
     {
         "id": "B2a-032",
@@ -413,7 +413,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "WATER",
-        "hash": "21eae09727ebb28c11"
+        "original": "B2a-032"
     },
     {
         "id": "B2a-033",
@@ -426,7 +426,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "WATER",
-        "hash": "21e9e2055dd6a53952"
+        "original": "B2a-033"
     },
     {
         "id": "B2a-034",
@@ -439,7 +439,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "WATER",
-        "hash": "11a0cf3e394131793e"
+        "original": "B2a-034"
     },
     {
         "id": "B2a-035",
@@ -452,7 +452,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "WATER",
-        "hash": "11d0ce4e7f69604d98"
+        "original": "B2a-035"
     },
     {
         "id": "B2a-036",
@@ -465,7 +465,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "WATER",
-        "hash": "31b2d349d09e2d9ce1"
+        "original": "B2a-036"
     },
     {
         "id": "B2a-037",
@@ -478,7 +478,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "WATER",
-        "hash": "41c8363770614ecf4d"
+        "original": "B2a-037"
     },
     {
         "id": "B2a-038",
@@ -491,7 +491,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "LIGHTNING",
-        "hash": "11a4e31f13f38d6350"
+        "original": "B2a-038"
     },
     {
         "id": "B2a-039",
@@ -504,7 +504,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "LIGHTNING",
-        "hash": "11854a7a4bace6d465"
+        "original": "B2a-039"
     },
     {
         "id": "B2a-040",
@@ -517,7 +517,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "LIGHTNING",
-        "hash": "21e7c6681b13ce1e51"
+        "original": "B2a-040"
     },
     {
         "id": "B2a-041",
@@ -530,7 +530,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "LIGHTNING",
-        "hash": "119c9e51b44e955a63"
+        "original": "B2a-041"
     },
     {
         "id": "B2a-042",
@@ -543,7 +543,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "LIGHTNING",
-        "hash": "41e8199ab5f4a852d5"
+        "original": "B2a-042"
     },
     {
         "id": "B2a-043",
@@ -556,7 +556,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "LIGHTNING",
-        "hash": "11f4a4cc9d33d16496"
+        "original": "B2a-043"
     },
     {
         "id": "B2a-044",
@@ -569,7 +569,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "LIGHTNING",
-        "hash": "21c35d3ce789e41c89"
+        "original": "B2a-044"
     },
     {
         "id": "B2a-045",
@@ -582,7 +582,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "LIGHTNING",
-        "hash": "3187a9d0bb6fc29416"
+        "original": "B2a-045"
     },
     {
         "id": "B2a-046",
@@ -595,7 +595,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "PSYCHIC",
-        "hash": "11c08c449e7bc9e5cd"
+        "original": "B2a-046"
     },
     {
         "id": "B2a-047",
@@ -608,7 +608,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "PSYCHIC",
-        "hash": "21b7aa9dc982b13aa8"
+        "original": "B2a-047"
     },
     {
         "id": "B2a-048",
@@ -621,7 +621,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "PSYCHIC",
-        "hash": "31b14a4df6097d58cc"
+        "original": "B2a-048"
     },
     {
         "id": "B2a-049",
@@ -634,7 +634,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "PSYCHIC",
-        "hash": "21f266869ccde11a8d"
+        "original": "B2a-049"
     },
     {
         "id": "B2a-050",
@@ -647,7 +647,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "PSYCHIC",
-        "hash": "1190a807793c3cfa1f"
+        "original": "B2a-050"
     },
     {
         "id": "B2a-051",
@@ -660,7 +660,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "PSYCHIC",
-        "hash": "2195af92c07dc1db24"
+        "original": "B2a-051"
     },
     {
         "id": "B2a-052",
@@ -673,7 +673,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "PSYCHIC",
-        "hash": "11cc4c6c062fcfd62a"
+        "original": "B2a-052"
     },
     {
         "id": "B2a-053",
@@ -686,7 +686,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "PSYCHIC",
-        "hash": "21defc688630e5c472"
+        "original": "B2a-053"
     },
     {
         "id": "B2a-054",
@@ -699,7 +699,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "PSYCHIC",
-        "hash": "11ed4817957986c497"
+        "original": "B2a-054"
     },
     {
         "id": "B2a-055",
@@ -712,7 +712,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "FIGHTING",
-        "hash": "11d02c4c7b274b2737"
+        "original": "B2a-055"
     },
     {
         "id": "B2a-056",
@@ -725,7 +725,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "FIGHTING",
-        "hash": "1188cfb5745e28695a"
+        "original": "B2a-056"
     },
     {
         "id": "B2a-057",
@@ -738,7 +738,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "FIGHTING",
-        "hash": "21d6de188b47dc61a4"
+        "original": "B2a-057"
     },
     {
         "id": "B2a-058",
@@ -751,7 +751,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "FIGHTING",
-        "hash": "21ffa1c00d4b3a1f1c"
+        "original": "B2a-058"
     },
     {
         "id": "B2a-059",
@@ -764,7 +764,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "FIGHTING",
-        "hash": "11911d0fae3fbe7800"
+        "original": "B2a-059"
     },
     {
         "id": "B2a-060",
@@ -777,7 +777,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "FIGHTING",
-        "hash": "219d7f3ad4a892928a"
+        "original": "B2a-060"
     },
     {
         "id": "B2a-061",
@@ -790,7 +790,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "FIGHTING",
-        "hash": "118d93928d32dc7197"
+        "original": "B2a-061"
     },
     {
         "id": "B2a-062",
@@ -803,7 +803,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "FIGHTING",
-        "hash": "31ae9e9a6bcc3443b0"
+        "original": "B2a-062"
     },
     {
         "id": "B2a-063",
@@ -816,7 +816,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "FIGHTING",
-        "hash": "31c5bf1e8d349b4382"
+        "original": "B2a-063"
     },
     {
         "id": "B2a-064",
@@ -829,7 +829,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "DARKNESS",
-        "hash": "11f2c44cb606727a9e"
+        "original": "B2a-064"
     },
     {
         "id": "B2a-065",
@@ -842,7 +842,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "DARKNESS",
-        "hash": "21aaa8d5fcb4e0c28e"
+        "original": "B2a-065"
     },
     {
         "id": "B2a-066",
@@ -855,7 +855,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "DARKNESS",
-        "hash": "21bb9fc5d0e0c8d0e4"
+        "original": "B2a-066"
     },
     {
         "id": "B2a-067",
@@ -868,7 +868,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "DARKNESS",
-        "hash": "11f1cd0b07783c38f8"
+        "original": "B2a-067"
     },
     {
         "id": "B2a-068",
@@ -881,7 +881,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "DARKNESS",
-        "hash": "21f60cd8f38c48eccc"
+        "original": "B2a-068"
     },
     {
         "id": "B2a-069",
@@ -894,7 +894,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "DARKNESS",
-        "hash": "11e9c6165d027e899b"
+        "original": "B2a-069"
     },
     {
         "id": "B2a-070",
@@ -907,7 +907,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "DARKNESS",
-        "hash": "21ebc9a666d698cc42"
+        "original": "B2a-070"
     },
     {
         "id": "B2a-071",
@@ -920,7 +920,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "DARKNESS",
-        "hash": "1186c0f1cdcb2276b9"
+        "original": "B2a-071"
     },
     {
         "id": "B2a-072",
@@ -933,7 +933,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "METAL",
-        "hash": "1193ab90357b1a7195"
+        "original": "B2a-072"
     },
     {
         "id": "B2a-073",
@@ -946,7 +946,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "METAL",
-        "hash": "11ec8c02717daea751"
+        "original": "B2a-073"
     },
     {
         "id": "B2a-074",
@@ -959,7 +959,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "METAL",
-        "hash": "31d9b1460e725fc05e"
+        "original": "B2a-074"
     },
     {
         "id": "B2a-075",
@@ -972,7 +972,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "METAL",
-        "hash": "11c4ec8e218b9abe99"
+        "original": "B2a-075"
     },
     {
         "id": "B2a-076",
@@ -985,7 +985,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "METAL",
-        "hash": "21ec1a576dc9e08dc4"
+        "original": "B2a-076"
     },
     {
         "id": "B2a-077",
@@ -998,7 +998,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "METAL",
-        "hash": "219c80837fd0bf4a78"
+        "original": "B2a-077"
     },
     {
         "id": "B2a-078",
@@ -1011,7 +1011,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "METAL",
-        "hash": "41f69d01ac70dd4396"
+        "original": "B2a-078"
     },
     {
         "id": "B2a-079",
@@ -1024,7 +1024,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "COLORLESS",
-        "hash": "11b4ab7b4b44e87036"
+        "original": "B2a-079"
     },
     {
         "id": "B2a-080",
@@ -1037,7 +1037,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "COLORLESS",
-        "hash": "11b198cf474785a85b"
+        "original": "B2a-080"
     },
     {
         "id": "B2a-081",
@@ -1050,7 +1050,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "COLORLESS",
-        "hash": "11c2762fb3d2cc4d48"
+        "original": "B2a-081"
     },
     {
         "id": "B2a-082",
@@ -1063,7 +1063,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "COLORLESS",
-        "hash": "2185ae6bf639a0583c"
+        "original": "B2a-082"
     },
     {
         "id": "B2a-083",
@@ -1076,7 +1076,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "COLORLESS",
-        "hash": "11f533725c891b9c85"
+        "original": "B2a-083"
     },
     {
         "id": "B2a-084",
@@ -1089,7 +1089,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "COLORLESS",
-        "hash": "2199beb6c8874d4ce0"
+        "original": "B2a-084"
     },
     {
         "id": "B2a-085",
@@ -1102,7 +1102,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "COLORLESS",
-        "hash": "11833bc61c5b936a8d"
+        "original": "B2a-085"
     },
     {
         "id": "B2a-086",
@@ -1115,7 +1115,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "TRAINER",
-        "hash": "21d39c62be9a8fd120"
+        "original": "B2a-086"
     },
     {
         "id": "B2a-087",
@@ -1128,7 +1128,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "TRAINER",
-        "hash": "21fea1308e838e3739"
+        "original": "B2a-087"
     },
     {
         "id": "B2a-088",
@@ -1141,7 +1141,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "TRAINER",
-        "hash": "21a5bbb2c0ce84beb0"
+        "original": "B2a-088"
     },
     {
         "id": "B2a-089",
@@ -1154,7 +1154,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "TRAINER",
-        "hash": "21d7e88980f38cb1a7"
+        "original": "B2a-089"
     },
     {
         "id": "B2a-090",
@@ -1167,7 +1167,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "TRAINER",
-        "hash": "21b0c71e8c9198e39f"
+        "original": "B2a-090"
     },
     {
         "id": "B2a-091",
@@ -1180,7 +1180,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "TRAINER",
-        "hash": "21a0d6cda24bb8d393"
+        "original": "B2a-091"
     },
     {
         "id": "B2a-092",
@@ -1193,7 +1193,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "TRAINER",
-        "hash": "21a610e5f1e38cd0f3"
+        "original": "B2a-092"
     },
     {
         "id": "B2a-093",
@@ -1206,7 +1206,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "TRAINER",
-        "hash": "21ea3eb7d80f8301b1"
+        "original": "B2a-093"
     },
     {
         "id": "B2a-094",
@@ -1219,7 +1219,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "FIRE",
-        "hash": "138b384d4ef0a4bb6c"
+        "original": "B2a-094"
     },
     {
         "id": "B2a-095",
@@ -1232,7 +1232,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "PSYCHIC",
-        "hash": "1394596a92d6a4e979"
+        "original": "B2a-095"
     },
     {
         "id": "B2a-096",
@@ -1245,7 +1245,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "PSYCHIC",
-        "hash": "13f8e24b45c49687e5"
+        "original": "B2a-096"
     },
     {
         "id": "B2a-097",
@@ -1258,7 +1258,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "DARKNESS",
-        "hash": "13e64d49268c3f26b6"
+        "original": "B2a-097"
     },
     {
         "id": "B2a-098",
@@ -1271,7 +1271,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "METAL",
-        "hash": "13f82d15d2ca3d5938"
+        "original": "B2a-098"
     },
     {
         "id": "B2a-099",
@@ -1284,7 +1284,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "COLORLESS",
-        "hash": "1385ee3e34e3e0d08b"
+        "original": "B2a-099"
     },
     {
         "id": "B2a-100",
@@ -1297,7 +1297,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "GRASS",
-        "hash": "23f23248349cecdad5"
+        "original": "B2a-100"
     },
     {
         "id": "B2a-101",
@@ -1310,7 +1310,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "FIRE",
-        "hash": "23e6b619876b9c4c91"
+        "original": "B2a-101"
     },
     {
         "id": "B2a-102",
@@ -1323,7 +1323,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "WATER",
-        "hash": "239bf00efd2ae11316"
+        "original": "B2a-102"
     },
     {
         "id": "B2a-103",
@@ -1336,7 +1336,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "LIGHTNING",
-        "hash": "23a8d01fa9433b74da"
+        "original": "B2a-103"
     },
     {
         "id": "B2a-104",
@@ -1349,7 +1349,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "METAL",
-        "hash": "23a6680b82785d7f8e"
+        "original": "B2a-104"
     },
     {
         "id": "B2a-105",
@@ -1362,7 +1362,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "TRAINER",
-        "hash": "23d3b460b22ab793c9"
+        "original": "B2a-105"
     },
     {
         "id": "B2a-106",
@@ -1375,7 +1375,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "TRAINER",
-        "hash": "23838170f9eec1ecc6"
+        "original": "B2a-106"
     },
     {
         "id": "B2a-107",
@@ -1388,7 +1388,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "TRAINER",
-        "hash": "23bee0c38f9c8d9886"
+        "original": "B2a-107"
     },
     {
         "id": "B2a-108",
@@ -1401,7 +1401,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "TRAINER",
-        "hash": "23d059a485e3e396d6"
+        "original": "B2a-108"
     },
     {
         "id": "B2a-109",
@@ -1414,7 +1414,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "TRAINER",
-        "hash": "23ff98a4c386939385"
+        "original": "B2a-109"
     },
     {
         "id": "B2a-110",
@@ -1427,7 +1427,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "GRASS",
-        "hash": "23e0ecb9f00f964dc1"
+        "original": "B2a-110"
     },
     {
         "id": "B2a-111",
@@ -1440,7 +1440,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "FIRE",
-        "hash": "23c59866697e009c7f"
+        "original": "B2a-111"
     },
     {
         "id": "B2a-112",
@@ -1453,7 +1453,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "WATER",
-        "hash": "23a9e6de0839f34895"
+        "original": "B2a-112"
     },
     {
         "id": "B2a-113",
@@ -1466,7 +1466,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "LIGHTNING",
-        "hash": "23d967ba546c9ce580"
+        "original": "B2a-113"
     },
     {
         "id": "B2a-114",
@@ -1479,7 +1479,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "METAL",
-        "hash": "238534fcdcec614b19"
+        "original": "B2a-114"
     },
     {
         "id": "B2a-115",
@@ -1492,7 +1492,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "TRAINER",
-        "hash": "33ca8f125b283a579b"
+        "original": "B2a-115"
     },
     {
         "id": "B2a-116",
@@ -1505,7 +1505,8 @@
             "PALDEA_STARTERS"
         ],
         "type": "GRASS",
-        "hash": "14a10d94c59dbd2f45"
+        "extra": true,
+        "original": "B2a-116"
     },
     {
         "id": "B2a-117",
@@ -1518,7 +1519,8 @@
             "PALDEA_STARTERS"
         ],
         "type": "GRASS",
-        "hash": "14a40d91c5c7fd1e32"
+        "extra": true,
+        "original": "B2a-117"
     },
     {
         "id": "B2a-118",
@@ -1531,7 +1533,8 @@
             "PALDEA_STARTERS"
         ],
         "type": "GRASS",
-        "hash": "14e306c19d94969dda"
+        "extra": true,
+        "original": "B2a-118"
     },
     {
         "id": "B2a-119",
@@ -1544,7 +1547,8 @@
             "PALDEA_STARTERS"
         ],
         "type": "LIGHTNING",
-        "hash": "14b40f95c59f251ba2"
+        "extra": true,
+        "original": "B2a-119"
     },
     {
         "id": "B2a-120",
@@ -1557,7 +1561,8 @@
             "PALDEA_STARTERS"
         ],
         "type": "LIGHTNING",
-        "hash": "14a50d94919f3d0f53"
+        "extra": true,
+        "original": "B2a-120"
     },
     {
         "id": "B2a-121",
@@ -1570,7 +1575,8 @@
             "PALDEA_STARTERS"
         ],
         "type": "LIGHTNING",
-        "hash": "14e50d84659a9c9f66"
+        "extra": true,
+        "original": "B2a-121"
     },
     {
         "id": "B2a-122",
@@ -1583,7 +1589,8 @@
             "PALDEA_STARTERS"
         ],
         "type": "PSYCHIC",
-        "hash": "14a74691999b939999"
+        "extra": true,
+        "original": "B2a-122"
     },
     {
         "id": "B2a-123",
@@ -1596,7 +1603,8 @@
             "PALDEA_STARTERS"
         ],
         "type": "METAL",
-        "hash": "14b41986c79bcd0f92"
+        "extra": true,
+        "original": "B2a-123"
     },
     {
         "id": "B2a-124",
@@ -1609,7 +1617,8 @@
             "PALDEA_STARTERS"
         ],
         "type": "METAL",
-        "hash": "14f94d962487be1538"
+        "extra": true,
+        "original": "B2a-124"
     },
     {
         "id": "B2a-125",
@@ -1622,7 +1631,8 @@
             "PALDEA_STARTERS"
         ],
         "type": "METAL",
-        "hash": "14a19995c48dec0f73"
+        "extra": true,
+        "original": "B2a-125"
     },
     {
         "id": "B2a-126",
@@ -1635,7 +1645,8 @@
             "PALDEA_STARTERS"
         ],
         "type": "FIRE",
-        "hash": "24ecc9918a3ba4ee0b"
+        "extra": true,
+        "original": "B2a-126"
     },
     {
         "id": "B2a-127",
@@ -1648,7 +1659,8 @@
             "PALDEA_STARTERS"
         ],
         "type": "WATER",
-        "hash": "24b39cd843aef68328"
+        "extra": true,
+        "original": "B2a-127"
     },
     {
         "id": "B2a-128",
@@ -1661,7 +1673,8 @@
             "PALDEA_STARTERS"
         ],
         "type": "LIGHTNING",
-        "hash": "248ef0e1069ef5a0d3"
+        "extra": true,
+        "original": "B2a-128"
     },
     {
         "id": "B2a-129",
@@ -1674,7 +1687,8 @@
             "PALDEA_STARTERS"
         ],
         "type": "METAL",
-        "hash": "24ea62956925c94cb7"
+        "extra": true,
+        "original": "B2a-129"
     },
     {
         "id": "B2a-130",
@@ -1687,7 +1701,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "WATER",
-        "hash": "15bc89d2ae361e0fd0"
+        "original": "B2a-130"
     },
     {
         "id": "B2a-131",
@@ -1700,6 +1714,6 @@
             "PALDEA_STARTERS"
         ],
         "type": "TRAINER",
-        "hash": "159b210e3d727d7017"
+        "original": "B2a-131"
     }
 ]

@@ -10,7 +10,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "GRASS",
-        "hash": "11cc2b768c9e178c78"
+        "original": "B2-001"
     },
     {
         "id": "B2-002",
@@ -23,7 +23,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "GRASS",
-        "hash": "11b92eed614c128fcc"
+        "original": "B2-002"
     },
     {
         "id": "B2-003",
@@ -36,7 +36,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "GRASS",
-        "hash": "11c52d4e637a5c20cf"
+        "original": "B2-003"
     },
     {
         "id": "B2-004",
@@ -49,7 +49,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "GRASS",
-        "hash": "11ea3cb46a44c3d93c"
+        "original": "B2-004"
     },
     {
         "id": "B2-005",
@@ -62,7 +62,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "GRASS",
-        "hash": "318ddeb4ea24115a97"
+        "original": "B2-005"
     },
     {
         "id": "B2-006",
@@ -75,7 +75,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "GRASS",
-        "hash": "11f9c0a7a2a64ad9ac"
+        "original": "B2-006"
     },
     {
         "id": "B2-007",
@@ -88,7 +88,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "GRASS",
-        "hash": "21e6a4129d99d9194f"
+        "original": "B2-007"
     },
     {
         "id": "B2-008",
@@ -101,7 +101,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "GRASS",
-        "hash": "119986e3f96334991c"
+        "original": "B2-008"
     },
     {
         "id": "B2-009",
@@ -114,7 +114,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "GRASS",
-        "hash": "21e9dc8603d03a1fec"
+        "original": "B2-009"
     },
     {
         "id": "B2-010",
@@ -127,7 +127,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "GRASS",
-        "hash": "31b6cac5da496c02f5"
+        "original": "B2-010"
     },
     {
         "id": "B2-011",
@@ -140,7 +140,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "GRASS",
-        "hash": "11a1968bada4d472d9"
+        "original": "B2-011"
     },
     {
         "id": "B2-012",
@@ -153,7 +153,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "GRASS",
-        "hash": "118c30f98efa25b2d8"
+        "original": "B2-012"
     },
     {
         "id": "B2-013",
@@ -166,7 +166,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "GRASS",
-        "hash": "218aaf14b0378c764f"
+        "original": "B2-013"
     },
     {
         "id": "B2-014",
@@ -179,7 +179,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "GRASS",
-        "hash": "31c48d31be847c1fe2"
+        "original": "B2-014"
     },
     {
         "id": "B2-015",
@@ -192,7 +192,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "GRASS",
-        "hash": "11a48f9334f3631cc3"
+        "original": "B2-015"
     },
     {
         "id": "B2-016",
@@ -205,7 +205,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "GRASS",
-        "hash": "21d69eeb70bc0b0a25"
+        "original": "B2-016"
     },
     {
         "id": "B2-017",
@@ -218,7 +218,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "GRASS",
-        "hash": "41e1109ac3e54ecdce"
+        "original": "B2-017"
     },
     {
         "id": "B2-018",
@@ -231,7 +231,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "FIRE",
-        "hash": "21cadcb12ecee48346"
+        "original": "B2-018"
     },
     {
         "id": "B2-019",
@@ -244,7 +244,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "FIRE",
-        "hash": "31aaba10bb7a250fd2"
+        "original": "B2-019"
     },
     {
         "id": "B2-020",
@@ -257,7 +257,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "FIRE",
-        "hash": "11f1ba1361cc986a5e"
+        "original": "B2-020"
     },
     {
         "id": "B2-021",
@@ -270,7 +270,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "FIRE",
-        "hash": "2184ec0d8f7d9cb251"
+        "original": "B2-021"
     },
     {
         "id": "B2-022",
@@ -283,7 +283,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "FIRE",
-        "hash": "218fae8c4919d2e635"
+        "original": "B2-022"
     },
     {
         "id": "B2-023",
@@ -296,7 +296,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "FIRE",
-        "hash": "41cd5474790a827d9b"
+        "original": "B2-023"
     },
     {
         "id": "B2-024",
@@ -309,7 +309,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "FIRE",
-        "hash": "119812342d67e36ecd"
+        "original": "B2-024"
     },
     {
         "id": "B2-025",
@@ -322,7 +322,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "FIRE",
-        "hash": "21b3914c92351ca7cf"
+        "original": "B2-025"
     },
     {
         "id": "B2-026",
@@ -335,7 +335,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "FIRE",
-        "hash": "31d698742401e73e5f"
+        "original": "B2-026"
     },
     {
         "id": "B2-027",
@@ -348,7 +348,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "FIRE",
-        "hash": "31e8ea97f0caa70d18"
+        "original": "B2-027"
     },
     {
         "id": "B2-028",
@@ -361,7 +361,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "WATER",
-        "hash": "11a942210d371e773f"
+        "original": "B2-028"
     },
     {
         "id": "B2-029",
@@ -374,7 +374,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "WATER",
-        "hash": "41f2f58116de9465a8"
+        "original": "B2-029"
     },
     {
         "id": "B2-030",
@@ -387,7 +387,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "WATER",
-        "hash": "11a3b552f20e8f334c"
+        "original": "B2-030"
     },
     {
         "id": "B2-031",
@@ -400,7 +400,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "WATER",
-        "hash": "21f5411e1af5ed4984"
+        "original": "B2-031"
     },
     {
         "id": "B2-032",
@@ -413,7 +413,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "WATER",
-        "hash": "21eb52527c8c79319a"
+        "original": "B2-032"
     },
     {
         "id": "B2-033",
@@ -426,7 +426,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "WATER",
-        "hash": "11d1871f522cf8a267"
+        "original": "B2-033"
     },
     {
         "id": "B2-034",
@@ -439,7 +439,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "WATER",
-        "hash": "21b8834b584b2a6ecf"
+        "original": "B2-034"
     },
     {
         "id": "B2-035",
@@ -452,7 +452,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "WATER",
-        "hash": "31d8f89186c9c3867b"
+        "original": "B2-035"
     },
     {
         "id": "B2-036",
@@ -465,7 +465,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "WATER",
-        "hash": "41fbe7a192848f82c6"
+        "original": "B2-036"
     },
     {
         "id": "B2-037",
@@ -478,7 +478,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "WATER",
-        "hash": "11dccd384b1312d3f2"
+        "original": "B2-037"
     },
     {
         "id": "B2-038",
@@ -491,7 +491,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "WATER",
-        "hash": "11928f0a3fe4772b48"
+        "original": "B2-038"
     },
     {
         "id": "B2-039",
@@ -504,7 +504,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "WATER",
-        "hash": "2194fd61661ef02ec4"
+        "original": "B2-039"
     },
     {
         "id": "B2-040",
@@ -517,7 +517,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "WATER",
-        "hash": "11c4794a632dcba5e8"
+        "original": "B2-040"
     },
     {
         "id": "B2-041",
@@ -530,7 +530,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "WATER",
-        "hash": "2190524b2e1fa17a3f"
+        "original": "B2-041"
     },
     {
         "id": "B2-042",
@@ -543,7 +543,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "WATER",
-        "hash": "3193ba4e4d816cce9c"
+        "original": "B2-042"
     },
     {
         "id": "B2-043",
@@ -556,7 +556,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "WATER",
-        "hash": "11c3d96ce40d4ca47b"
+        "original": "B2-043"
     },
     {
         "id": "B2-044",
@@ -569,7 +569,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "WATER",
-        "hash": "219eb4d4d341a6e2ac"
+        "original": "B2-044"
     },
     {
         "id": "B2-045",
@@ -582,7 +582,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "WATER",
-        "hash": "11e6bac94dd2c39521"
+        "original": "B2-045"
     },
     {
         "id": "B2-046",
@@ -595,7 +595,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "WATER",
-        "hash": "11c1f6b9c4b61bc419"
+        "original": "B2-046"
     },
     {
         "id": "B2-047",
@@ -608,7 +608,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "WATER",
-        "hash": "11baf087cc37209e99"
+        "original": "B2-047"
     },
     {
         "id": "B2-048",
@@ -621,7 +621,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "WATER",
-        "hash": "31c63ab98176cb15f0"
+        "original": "B2-048"
     },
     {
         "id": "B2-049",
@@ -634,7 +634,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "LIGHTNING",
-        "hash": "11c7ab3c481fc12a5b"
+        "original": "B2-049"
     },
     {
         "id": "B2-050",
@@ -647,7 +647,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "LIGHTNING",
-        "hash": "31826b5e1dd82a6b5c"
+        "original": "B2-050"
     },
     {
         "id": "B2-051",
@@ -660,7 +660,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "LIGHTNING",
-        "hash": "31c7da732898c56d1c"
+        "original": "B2-051"
     },
     {
         "id": "B2-052",
@@ -673,7 +673,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "LIGHTNING",
-        "hash": "11db1b3187d24d2a36"
+        "original": "B2-052"
     },
     {
         "id": "B2-053",
@@ -686,7 +686,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "LIGHTNING",
-        "hash": "11e6686a669a24bba9"
+        "original": "B2-053"
     },
     {
         "id": "B2-054",
@@ -699,7 +699,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "LIGHTNING",
-        "hash": "118686e18369d97ed8"
+        "original": "B2-054"
     },
     {
         "id": "B2-055",
@@ -712,7 +712,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "LIGHTNING",
-        "hash": "41befce16022c915ad"
+        "original": "B2-055"
     },
     {
         "id": "B2-056",
@@ -725,7 +725,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "LIGHTNING",
-        "hash": "11c0d50d4d7a6e39a3"
+        "original": "B2-056"
     },
     {
         "id": "B2-057",
@@ -738,7 +738,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "LIGHTNING",
-        "hash": "21f44e8b31adc65583"
+        "original": "B2-057"
     },
     {
         "id": "B2-058",
@@ -751,7 +751,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "PSYCHIC",
-        "hash": "11d5f6e0c89b689469"
+        "original": "B2-058"
     },
     {
         "id": "B2-059",
@@ -764,7 +764,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "PSYCHIC",
-        "hash": "218ca06f1616bcd99e"
+        "original": "B2-059"
     },
     {
         "id": "B2-060",
@@ -777,7 +777,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "PSYCHIC",
-        "hash": "11a7cf5810562d347e"
+        "original": "B2-060"
     },
     {
         "id": "B2-061",
@@ -790,7 +790,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "PSYCHIC",
-        "hash": "119c82b1bd8e5ad199"
+        "original": "B2-061"
     },
     {
         "id": "B2-062",
@@ -803,7 +803,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "PSYCHIC",
-        "hash": "21964acd2efa7164c4"
+        "original": "B2-062"
     },
     {
         "id": "B2-063",
@@ -816,7 +816,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "PSYCHIC",
-        "hash": "11c0696dda3bb12378"
+        "original": "B2-063"
     },
     {
         "id": "B2-064",
@@ -829,7 +829,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "PSYCHIC",
-        "hash": "2194f142de59923dc9"
+        "original": "B2-064"
     },
     {
         "id": "B2-065",
@@ -842,7 +842,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "PSYCHIC",
-        "hash": "3182354fe82298f677"
+        "original": "B2-065"
     },
     {
         "id": "B2-066",
@@ -855,7 +855,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "PSYCHIC",
-        "hash": "41ec679a959c3a7284"
+        "original": "B2-066"
     },
     {
         "id": "B2-067",
@@ -868,7 +868,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "PSYCHIC",
-        "hash": "11a96832c61ed071bf"
+        "original": "B2-067"
     },
     {
         "id": "B2-068",
@@ -881,7 +881,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "PSYCHIC",
-        "hash": "21f7a1d28f9870c994"
+        "original": "B2-068"
     },
     {
         "id": "B2-069",
@@ -894,7 +894,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "PSYCHIC",
-        "hash": "319a95a5c8586f8f86"
+        "original": "B2-069"
     },
     {
         "id": "B2-070",
@@ -907,7 +907,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "PSYCHIC",
-        "hash": "21d44bcf6599486ca5"
+        "original": "B2-070"
     },
     {
         "id": "B2-071",
@@ -920,7 +920,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "PSYCHIC",
-        "hash": "11c1279b4f46996e16"
+        "original": "B2-071"
     },
     {
         "id": "B2-072",
@@ -933,7 +933,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "PSYCHIC",
-        "hash": "3181bb5a8c52de5de0"
+        "original": "B2-072"
     },
     {
         "id": "B2-073",
@@ -946,7 +946,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "PSYCHIC",
-        "hash": "41c7634b1e96b428bc"
+        "original": "B2-073"
     },
     {
         "id": "B2-074",
@@ -959,7 +959,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "PSYCHIC",
-        "hash": "11b468423bc13e4dbb"
+        "original": "B2-074"
     },
     {
         "id": "B2-075",
@@ -972,7 +972,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "PSYCHIC",
-        "hash": "21c5a9f6049b76c616"
+        "original": "B2-075"
     },
     {
         "id": "B2-076",
@@ -985,7 +985,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "PSYCHIC",
-        "hash": "11e517c5cd9e0d32e0"
+        "original": "B2-076"
     },
     {
         "id": "B2-077",
@@ -998,7 +998,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "FIGHTING",
-        "hash": "11d38ffc30cae8c9c0"
+        "original": "B2-077"
     },
     {
         "id": "B2-078",
@@ -1011,7 +1011,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "FIGHTING",
-        "hash": "11d23977dce9e08286"
+        "original": "B2-078"
     },
     {
         "id": "B2-079",
@@ -1024,7 +1024,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "FIGHTING",
-        "hash": "11b69dd54b20b4996c"
+        "original": "B2-079"
     },
     {
         "id": "B2-080",
@@ -1037,7 +1037,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "FIGHTING",
-        "hash": "11c0b8dcd30f3e6c26"
+        "original": "B2-080"
     },
     {
         "id": "B2-081",
@@ -1050,7 +1050,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "FIGHTING",
-        "hash": "21ff99c6bc340598e0"
+        "original": "B2-081"
     },
     {
         "id": "B2-082",
@@ -1063,7 +1063,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "FIGHTING",
-        "hash": "11efc2d895861a7266"
+        "original": "B2-082"
     },
     {
         "id": "B2-083",
@@ -1076,7 +1076,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "FIGHTING",
-        "hash": "1183c6594627694e7e"
+        "original": "B2-083"
     },
     {
         "id": "B2-084",
@@ -1089,7 +1089,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "FIGHTING",
-        "hash": "21f291b8470e5ca5ea"
+        "original": "B2-084"
     },
     {
         "id": "B2-085",
@@ -1102,7 +1102,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "FIGHTING",
-        "hash": "11e3ba12d1ed013cec"
+        "original": "B2-085"
     },
     {
         "id": "B2-086",
@@ -1115,7 +1115,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "FIGHTING",
-        "hash": "21e8c1c0fa5b991e17"
+        "original": "B2-086"
     },
     {
         "id": "B2-087",
@@ -1128,7 +1128,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "FIGHTING",
-        "hash": "41eec5891b5dce8454"
+        "original": "B2-087"
     },
     {
         "id": "B2-088",
@@ -1141,7 +1141,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "FIGHTING",
-        "hash": "11c5c3da94ae47a50b"
+        "original": "B2-088"
     },
     {
         "id": "B2-089",
@@ -1154,7 +1154,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "FIGHTING",
-        "hash": "2198c3bbac4c25d749"
+        "original": "B2-089"
     },
     {
         "id": "B2-090",
@@ -1167,7 +1167,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "FIGHTING",
-        "hash": "31d4cc17f340361d4f"
+        "original": "B2-090"
     },
     {
         "id": "B2-091",
@@ -1180,7 +1180,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "FIGHTING",
-        "hash": "11e05f5879065acee4"
+        "original": "B2-091"
     },
     {
         "id": "B2-092",
@@ -1193,7 +1193,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "FIGHTING",
-        "hash": "21dfd4d861cc28e03e"
+        "original": "B2-092"
     },
     {
         "id": "B2-093",
@@ -1206,7 +1206,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "FIGHTING",
-        "hash": "31d4f85a8b6889c9cd"
+        "original": "B2-093"
     },
     {
         "id": "B2-094",
@@ -1219,7 +1219,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "DARKNESS",
-        "hash": "11c8e7b27a57811b07"
+        "original": "B2-094"
     },
     {
         "id": "B2-095",
@@ -1232,7 +1232,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "DARKNESS",
-        "hash": "21d11d6d66d6e6c098"
+        "original": "B2-095"
     },
     {
         "id": "B2-096",
@@ -1245,7 +1245,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "DARKNESS",
-        "hash": "11e9a0d735d837c909"
+        "original": "B2-096"
     },
     {
         "id": "B2-097",
@@ -1258,7 +1258,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "DARKNESS",
-        "hash": "31fd44caf8c87c8235"
+        "original": "B2-097"
     },
     {
         "id": "B2-098",
@@ -1271,7 +1271,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "DARKNESS",
-        "hash": "11a39fee70d240b44b"
+        "original": "B2-098"
     },
     {
         "id": "B2-099",
@@ -1284,7 +1284,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "DARKNESS",
-        "hash": "21a5f4927b0e8dc4cc"
+        "original": "B2-099"
     },
     {
         "id": "B2-100",
@@ -1297,7 +1297,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "DARKNESS",
-        "hash": "31d0afce82739c1993"
+        "original": "B2-100"
     },
     {
         "id": "B2-101",
@@ -1310,7 +1310,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "DARKNESS",
-        "hash": "11b496e3e14ecaa49c"
+        "original": "B2-101"
     },
     {
         "id": "B2-102",
@@ -1323,7 +1323,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "DARKNESS",
-        "hash": "2194cacb5c6cceb4b0"
+        "original": "B2-102"
     },
     {
         "id": "B2-103",
@@ -1336,7 +1336,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "DARKNESS",
-        "hash": "31859d1c457aed6962"
+        "original": "B2-103"
     },
     {
         "id": "B2-104",
@@ -1349,7 +1349,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "DARKNESS",
-        "hash": "11c3b81c47c48e3f5c"
+        "original": "B2-104"
     },
     {
         "id": "B2-105",
@@ -1362,7 +1362,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "DARKNESS",
-        "hash": "21c585f8fc31a16ec4"
+        "original": "B2-105"
     },
     {
         "id": "B2-106",
@@ -1375,7 +1375,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "DARKNESS",
-        "hash": "1185f55656b6596813"
+        "original": "B2-106"
     },
     {
         "id": "B2-107",
@@ -1388,7 +1388,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "DARKNESS",
-        "hash": "21912b5a76d669ccd0"
+        "original": "B2-107"
     },
     {
         "id": "B2-108",
@@ -1401,7 +1401,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "DARKNESS",
-        "hash": "31d99d312670cc8d76"
+        "original": "B2-108"
     },
     {
         "id": "B2-109",
@@ -1414,7 +1414,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "DARKNESS",
-        "hash": "31a08312e85f357ef2"
+        "original": "B2-109"
     },
     {
         "id": "B2-110",
@@ -1427,7 +1427,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "METAL",
-        "hash": "11d06f21655c8fe45a"
+        "original": "B2-110"
     },
     {
         "id": "B2-111",
@@ -1440,7 +1440,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "METAL",
-        "hash": "31dad4e3f888cb14b8"
+        "original": "B2-111"
     },
     {
         "id": "B2-112",
@@ -1453,7 +1453,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "METAL",
-        "hash": "11952a971a4ea3d0ed"
+        "original": "B2-112"
     },
     {
         "id": "B2-113",
@@ -1466,7 +1466,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "METAL",
-        "hash": "41b8e3e294931c96ab"
+        "original": "B2-113"
     },
     {
         "id": "B2-114",
@@ -1479,7 +1479,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "METAL",
-        "hash": "21e28dfcce4d613183"
+        "original": "B2-114"
     },
     {
         "id": "B2-115",
@@ -1492,7 +1492,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "METAL",
-        "hash": "11a48daf69b62606da"
+        "original": "B2-115"
     },
     {
         "id": "B2-116",
@@ -1505,7 +1505,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "METAL",
-        "hash": "11cf8e71f00a43dcd4"
+        "original": "B2-116"
     },
     {
         "id": "B2-117",
@@ -1518,7 +1518,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "METAL",
-        "hash": "21a88ca4c9d9597b99"
+        "original": "B2-117"
     },
     {
         "id": "B2-118",
@@ -1531,7 +1531,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "METAL",
-        "hash": "11c1bab4855e9bcb48"
+        "original": "B2-118"
     },
     {
         "id": "B2-119",
@@ -1544,7 +1544,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "METAL",
-        "hash": "21dec3ea90aa8ecc1c"
+        "original": "B2-119"
     },
     {
         "id": "B2-120",
@@ -1557,7 +1557,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "METAL",
-        "hash": "31f3c1165b8a2ae53c"
+        "original": "B2-120"
     },
     {
         "id": "B2-121",
@@ -1570,7 +1570,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "DRAGON",
-        "hash": "11c6d491a258b36dcd"
+        "original": "B2-121"
     },
     {
         "id": "B2-122",
@@ -1583,7 +1583,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "DRAGON",
-        "hash": "21a580571bd0fe239e"
+        "original": "B2-122"
     },
     {
         "id": "B2-123",
@@ -1596,7 +1596,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "DRAGON",
-        "hash": "31cedee16310b48e8d"
+        "original": "B2-123"
     },
     {
         "id": "B2-124",
@@ -1609,7 +1609,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "COLORLESS",
-        "hash": "1187347897aec8b166"
+        "original": "B2-124"
     },
     {
         "id": "B2-125",
@@ -1622,7 +1622,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "COLORLESS",
-        "hash": "1183477ea8969cd295"
+        "original": "B2-125"
     },
     {
         "id": "B2-126",
@@ -1635,7 +1635,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "COLORLESS",
-        "hash": "21c184774bb82dc67c"
+        "original": "B2-126"
     },
     {
         "id": "B2-127",
@@ -1648,7 +1648,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "COLORLESS",
-        "hash": "41a792f0bc4e6e284b"
+        "original": "B2-127"
     },
     {
         "id": "B2-128",
@@ -1661,7 +1661,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "COLORLESS",
-        "hash": "11df1370cb62ce309a"
+        "original": "B2-128"
     },
     {
         "id": "B2-129",
@@ -1674,7 +1674,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "COLORLESS",
-        "hash": "118cdb98b960e6cbc4"
+        "original": "B2-129"
     },
     {
         "id": "B2-130",
@@ -1687,7 +1687,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "COLORLESS",
-        "hash": "21dc82c89f6d6f2892"
+        "original": "B2-130"
     },
     {
         "id": "B2-131",
@@ -1700,7 +1700,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "COLORLESS",
-        "hash": "3197ae431048dbcb79"
+        "original": "B2-131"
     },
     {
         "id": "B2-132",
@@ -1713,7 +1713,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "COLORLESS",
-        "hash": "11f4c591d394d968b8"
+        "original": "B2-132"
     },
     {
         "id": "B2-133",
@@ -1726,7 +1726,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "COLORLESS",
-        "hash": "31eaccc2b194b6994e"
+        "original": "B2-133"
     },
     {
         "id": "B2-134",
@@ -1739,7 +1739,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "COLORLESS",
-        "hash": "11f856c22b7f252913"
+        "original": "B2-134"
     },
     {
         "id": "B2-135",
@@ -1752,7 +1752,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "COLORLESS",
-        "hash": "21e61c79e59582c22f"
+        "original": "B2-135"
     },
     {
         "id": "B2-136",
@@ -1765,7 +1765,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "COLORLESS",
-        "hash": "31d070ec5f3d4ed844"
+        "original": "B2-136"
     },
     {
         "id": "B2-137",
@@ -1778,7 +1778,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "COLORLESS",
-        "hash": "11976f30de3801e3cc"
+        "original": "B2-137"
     },
     {
         "id": "B2-138",
@@ -1791,7 +1791,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "COLORLESS",
-        "hash": "31ffcfc013a02bcd18"
+        "original": "B2-138"
     },
     {
         "id": "B2-139",
@@ -1804,7 +1804,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "COLORLESS",
-        "hash": "11c5a3e3367e12b28c"
+        "original": "B2-139"
     },
     {
         "id": "B2-140",
@@ -1817,7 +1817,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "COLORLESS",
-        "hash": "21dd7ec2486c31c996"
+        "original": "B2-140"
     },
     {
         "id": "B2-141",
@@ -1830,7 +1830,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "COLORLESS",
-        "hash": "21b1e7243cc276e623"
+        "original": "B2-141"
     },
     {
         "id": "B2-142",
@@ -1843,7 +1843,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "COLORLESS",
-        "hash": "1190e96d389ee74d30"
+        "original": "B2-142"
     },
     {
         "id": "B2-143",
@@ -1856,7 +1856,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "COLORLESS",
-        "hash": "21d22b2ff1e8ccdc40"
+        "original": "B2-143"
     },
     {
         "id": "B2-144",
@@ -1869,7 +1869,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "TRAINER",
-        "hash": "1194c79cbcb1f0a4d1"
+        "original": "B2-144"
     },
     {
         "id": "B2-145",
@@ -1882,7 +1882,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "TRAINER",
-        "hash": "21a4199bb2e9ca93b8"
+        "original": "B2-145"
     },
     {
         "id": "B2-146",
@@ -1895,7 +1895,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "TRAINER",
-        "hash": "11988b76d4c2b581db"
+        "original": "B2-146"
     },
     {
         "id": "B2-147",
@@ -1908,7 +1908,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "TRAINER",
-        "hash": "21f1da822d86b9b427"
+        "original": "B2-147"
     },
     {
         "id": "B2-148",
@@ -1921,7 +1921,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "TRAINER",
-        "hash": "218be5b0b2d68c8697"
+        "original": "B2-148"
     },
     {
         "id": "B2-149",
@@ -1934,7 +1934,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "TRAINER",
-        "hash": "21d52e2bcaca9e9a82"
+        "original": "B2-149"
     },
     {
         "id": "B2-150",
@@ -1947,7 +1947,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "TRAINER",
-        "hash": "21f51a8bc69fe88093"
+        "original": "B2-150"
     },
     {
         "id": "B2-151",
@@ -1960,7 +1960,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "TRAINER",
-        "hash": "21e2bc41c2b69936a7"
+        "original": "B2-151"
     },
     {
         "id": "B2-152",
@@ -1973,7 +1973,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "TRAINER",
-        "hash": "2188cce3b3d5c48ee4"
+        "original": "B2-152"
     },
     {
         "id": "B2-153",
@@ -1986,7 +1986,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "TRAINER",
-        "hash": "2193f3f1d88c0c9798"
+        "original": "B2-153"
     },
     {
         "id": "B2-154",
@@ -1999,7 +1999,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "TRAINER",
-        "hash": "21d3f033b9a0ba1157"
+        "original": "B2-154"
     },
     {
         "id": "B2-155",
@@ -2012,7 +2012,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "TRAINER",
-        "hash": "2180bf31abfa90abd0"
+        "original": "B2-155"
     },
     {
         "id": "B2-156",
@@ -2025,7 +2025,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "GRASS",
-        "hash": "13994676c91976813f"
+        "original": "B2-156"
     },
     {
         "id": "B2-157",
@@ -2038,7 +2038,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "GRASS",
-        "hash": "1398b9be27532d5990"
+        "original": "B2-157"
     },
     {
         "id": "B2-158",
@@ -2051,7 +2051,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "GRASS",
-        "hash": "138bd8e9a514369f62"
+        "original": "B2-158"
     },
     {
         "id": "B2-159",
@@ -2064,7 +2064,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "GRASS",
-        "hash": "13aa0dd47be2ec18e4"
+        "original": "B2-159"
     },
     {
         "id": "B2-160",
@@ -2077,7 +2077,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "FIRE",
-        "hash": "1386e633785dc3e01b"
+        "original": "B2-160"
     },
     {
         "id": "B2-161",
@@ -2090,7 +2090,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "FIRE",
-        "hash": "13f41252a5527e3e3a"
+        "original": "B2-161"
     },
     {
         "id": "B2-162",
@@ -2103,7 +2103,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "FIRE",
-        "hash": "139f1a652cfa616d82"
+        "original": "B2-162"
     },
     {
         "id": "B2-163",
@@ -2116,7 +2116,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "WATER",
-        "hash": "13969d545c3de521a5"
+        "original": "B2-163"
     },
     {
         "id": "B2-164",
@@ -2129,7 +2129,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "WATER",
-        "hash": "13c2d2b7a58dccea03"
+        "original": "B2-164"
     },
     {
         "id": "B2-165",
@@ -2142,7 +2142,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "LIGHTNING",
-        "hash": "13d4e6e618ddc33d40"
+        "original": "B2-165"
     },
     {
         "id": "B2-166",
@@ -2155,7 +2155,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "LIGHTNING",
-        "hash": "13a19e1e4af9a77602"
+        "original": "B2-166"
     },
     {
         "id": "B2-167",
@@ -2168,7 +2168,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "PSYCHIC",
-        "hash": "13c17e2c703b518ec7"
+        "original": "B2-167"
     },
     {
         "id": "B2-168",
@@ -2181,7 +2181,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "PSYCHIC",
-        "hash": "13a536aaab273c1c1d"
+        "original": "B2-168"
     },
     {
         "id": "B2-169",
@@ -2194,7 +2194,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "PSYCHIC",
-        "hash": "13b7a4911adabea03a"
+        "original": "B2-169"
     },
     {
         "id": "B2-170",
@@ -2207,7 +2207,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "FIGHTING",
-        "hash": "13f4c975ec522325a5"
+        "original": "B2-170"
     },
     {
         "id": "B2-171",
@@ -2220,7 +2220,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "FIGHTING",
-        "hash": "13b00bcec5e2cc7ac5"
+        "original": "B2-171"
     },
     {
         "id": "B2-172",
@@ -2233,7 +2233,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "FIGHTING",
-        "hash": "13c2d799645f722354"
+        "original": "B2-172"
     },
     {
         "id": "B2-173",
@@ -2246,7 +2246,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "DARKNESS",
-        "hash": "13c167cbbe8e6948c8"
+        "original": "B2-173"
     },
     {
         "id": "B2-174",
@@ -2259,7 +2259,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "DARKNESS",
-        "hash": "13fd630f8cd318a730"
+        "original": "B2-174"
     },
     {
         "id": "B2-175",
@@ -2272,7 +2272,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "DARKNESS",
-        "hash": "13f5d73a79c4b20c12"
+        "original": "B2-175"
     },
     {
         "id": "B2-176",
@@ -2285,7 +2285,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "DARKNESS",
-        "hash": "13f9bed898418c64ce"
+        "original": "B2-176"
     },
     {
         "id": "B2-177",
@@ -2298,7 +2298,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "METAL",
-        "hash": "13b529e495d552ca96"
+        "original": "B2-177"
     },
     {
         "id": "B2-178",
@@ -2311,7 +2311,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "DRAGON",
-        "hash": "13e05a95f14e99c71c"
+        "original": "B2-178"
     },
     {
         "id": "B2-179",
@@ -2324,7 +2324,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "COLORLESS",
-        "hash": "13903c78e3498e1f9b"
+        "original": "B2-179"
     },
     {
         "id": "B2-180",
@@ -2337,7 +2337,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "GRASS",
-        "hash": "23ebc6b9916570d251"
+        "original": "B2-180"
     },
     {
         "id": "B2-181",
@@ -2350,7 +2350,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "FIRE",
-        "hash": "239d096835757235d3"
+        "original": "B2-181"
     },
     {
         "id": "B2-182",
@@ -2363,7 +2363,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "WATER",
-        "hash": "23c0466f29addf5c14"
+        "original": "B2-182"
     },
     {
         "id": "B2-183",
@@ -2376,7 +2376,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "WATER",
-        "hash": "23813ee82fb28ce6c5"
+        "original": "B2-183"
     },
     {
         "id": "B2-184",
@@ -2389,7 +2389,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "LIGHTNING",
-        "hash": "23c1e9481ffaf15710"
+        "original": "B2-184"
     },
     {
         "id": "B2-185",
@@ -2402,7 +2402,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "PSYCHIC",
-        "hash": "23873ac56e04aef895"
+        "original": "B2-185"
     },
     {
         "id": "B2-186",
@@ -2415,7 +2415,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "PSYCHIC",
-        "hash": "23c03c1763674ef0da"
+        "original": "B2-186"
     },
     {
         "id": "B2-187",
@@ -2428,7 +2428,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "FIGHTING",
-        "hash": "23adc751d052faf888"
+        "original": "B2-187"
     },
     {
         "id": "B2-188",
@@ -2441,7 +2441,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "METAL",
-        "hash": "23c68f803d97b2ea8c"
+        "original": "B2-188"
     },
     {
         "id": "B2-189",
@@ -2454,7 +2454,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "COLORLESS",
-        "hash": "23ca90afe483b552d9"
+        "original": "B2-189"
     },
     {
         "id": "B2-190",
@@ -2467,7 +2467,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "TRAINER",
-        "hash": "23e56f968688d68999"
+        "original": "B2-190"
     },
     {
         "id": "B2-191",
@@ -2480,7 +2480,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "TRAINER",
-        "hash": "23bc07e7cc82d49b16"
+        "original": "B2-191"
     },
     {
         "id": "B2-192",
@@ -2493,7 +2493,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "TRAINER",
-        "hash": "23a4ca89232fdbd09e"
+        "original": "B2-192"
     },
     {
         "id": "B2-193",
@@ -2506,7 +2506,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "TRAINER",
-        "hash": "2398eab093c7cad8c9"
+        "original": "B2-193"
     },
     {
         "id": "B2-194",
@@ -2519,7 +2519,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "GRASS",
-        "hash": "23bfe6aad8122a7483"
+        "original": "B2-194"
     },
     {
         "id": "B2-195",
@@ -2532,7 +2532,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "FIRE",
-        "hash": "23cbed988c769a7412"
+        "original": "B2-195"
     },
     {
         "id": "B2-196",
@@ -2545,7 +2545,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "WATER",
-        "hash": "23cf98fe84cbc6a10a"
+        "original": "B2-196"
     },
     {
         "id": "B2-197",
@@ -2558,7 +2558,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "WATER",
-        "hash": "23e1c79eca1c7d3029"
+        "original": "B2-197"
     },
     {
         "id": "B2-198",
@@ -2571,7 +2571,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "LIGHTNING",
-        "hash": "239583cb7dc4374a4c"
+        "original": "B2-198"
     },
     {
         "id": "B2-199",
@@ -2584,7 +2584,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "PSYCHIC",
-        "hash": "23bb6c6c8266996c93"
+        "original": "B2-199"
     },
     {
         "id": "B2-200",
@@ -2597,7 +2597,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "FIGHTING",
-        "hash": "23e2d7e80c4f18d8d3"
+        "original": "B2-200"
     },
     {
         "id": "B2-201",
@@ -2610,7 +2610,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "METAL",
-        "hash": "23b3e0dacc640ff982"
+        "original": "B2-201"
     },
     {
         "id": "B2-202",
@@ -2623,7 +2623,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "COLORLESS",
-        "hash": "23adb79ea097129970"
+        "original": "B2-202"
     },
     {
         "id": "B2-203",
@@ -2636,7 +2636,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "PSYCHIC",
-        "hash": "33e3a2dc4c1272727b"
+        "original": "B2-203"
     },
     {
         "id": "B2-204",
@@ -2649,7 +2649,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "COLORLESS",
-        "hash": "33987564835fd12b99"
+        "original": "B2-204"
     },
     {
         "id": "B2-205",
@@ -2662,7 +2662,8 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "GRASS",
-        "hash": "14b00d83359e978dd3"
+        "extra": true,
+        "original": "B2-205"
     },
     {
         "id": "B2-206",
@@ -2675,7 +2676,8 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "FIRE",
-        "hash": "14a50f94cd97658d89"
+        "extra": true,
+        "original": "B2-206"
     },
     {
         "id": "B2-207",
@@ -2688,7 +2690,8 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "FIRE",
-        "hash": "14e44384959e34cf6e"
+        "extra": true,
+        "original": "B2-207"
     },
     {
         "id": "B2-208",
@@ -2701,7 +2704,8 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "WATER",
-        "hash": "14b409c7c71c1c9fc3"
+        "extra": true,
+        "original": "B2-208"
     },
     {
         "id": "B2-209",
@@ -2714,7 +2718,8 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "WATER",
-        "hash": "14b10d93c5cdbc25ac"
+        "extra": true,
+        "original": "B2-209"
     },
     {
         "id": "B2-210",
@@ -2727,7 +2732,8 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "WATER",
-        "hash": "14b111c7cd964d1dc6"
+        "extra": true,
+        "original": "B2-210"
     },
     {
         "id": "B2-211",
@@ -2740,7 +2746,8 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "WATER",
-        "hash": "14ec8d92358e643f4c"
+        "extra": true,
+        "original": "B2-211"
     },
     {
         "id": "B2-212",
@@ -2753,7 +2760,8 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "WATER",
-        "hash": "14acc5951187f91ea6"
+        "extra": true,
+        "original": "B2-212"
     },
     {
         "id": "B2-213",
@@ -2766,7 +2774,8 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "LIGHTNING",
-        "hash": "14b10990f4cfcd2ec6"
+        "extra": true,
+        "original": "B2-213"
     },
     {
         "id": "B2-214",
@@ -2779,7 +2788,8 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "PSYCHIC",
-        "hash": "14b903a39d8eec9d22"
+        "extra": true,
+        "original": "B2-214"
     },
     {
         "id": "B2-215",
@@ -2792,7 +2802,8 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "PSYCHIC",
-        "hash": "14e91934859f340ecf"
+        "extra": true,
+        "original": "B2-215"
     },
     {
         "id": "B2-216",
@@ -2805,7 +2816,8 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "PSYCHIC",
-        "hash": "14ed0f93c58c35238d"
+        "extra": true,
+        "original": "B2-216"
     },
     {
         "id": "B2-217",
@@ -2818,7 +2830,8 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "PSYCHIC",
-        "hash": "14b987e461160d9bf2"
+        "extra": true,
+        "original": "B2-217"
     },
     {
         "id": "B2-218",
@@ -2831,7 +2844,8 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "FIGHTING",
-        "hash": "14b907d31597494f92"
+        "extra": true,
+        "original": "B2-218"
     },
     {
         "id": "B2-219",
@@ -2844,7 +2858,8 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "FIGHTING",
-        "hash": "14a50dc6c634352fd9"
+        "extra": true,
+        "original": "B2-219"
     },
     {
         "id": "B2-220",
@@ -2857,7 +2872,8 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "FIGHTING",
-        "hash": "14b68d99340d311eee"
+        "extra": true,
+        "original": "B2-220"
     },
     {
         "id": "B2-221",
@@ -2870,7 +2886,8 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "FIGHTING",
-        "hash": "14ac8691151ecd9bdc"
+        "extra": true,
+        "original": "B2-221"
     },
     {
         "id": "B2-222",
@@ -2883,7 +2900,8 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "FIGHTING",
-        "hash": "14ec079299976c9f44"
+        "extra": true,
+        "original": "B2-222"
     },
     {
         "id": "B2-223",
@@ -2896,7 +2914,8 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "FIGHTING",
-        "hash": "14b10f9c31972c3acd"
+        "extra": true,
+        "original": "B2-223"
     },
     {
         "id": "B2-224",
@@ -2909,7 +2928,8 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "COLORLESS",
-        "hash": "14b94d94959fc71948"
+        "extra": true,
+        "original": "B2-224"
     },
     {
         "id": "B2-225",
@@ -2922,7 +2942,8 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "FIRE",
-        "hash": "24f81ac6913c8fa761"
+        "extra": true,
+        "original": "B2-225"
     },
     {
         "id": "B2-226",
@@ -2935,7 +2956,8 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "FIRE",
-        "hash": "24dc8e220de6dad455"
+        "extra": true,
+        "original": "B2-226"
     },
     {
         "id": "B2-227",
@@ -2948,7 +2970,8 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "WATER",
-        "hash": "24b1904ec1fdae0b9c"
+        "extra": true,
+        "original": "B2-227"
     },
     {
         "id": "B2-228",
@@ -2961,7 +2984,8 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "PSYCHIC",
-        "hash": "24bd8e93c648b0b2e5"
+        "extra": true,
+        "original": "B2-228"
     },
     {
         "id": "B2-229",
@@ -2974,7 +2998,8 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "PSYCHIC",
-        "hash": "24b958de0016f95667"
+        "extra": true,
+        "original": "B2-229"
     },
     {
         "id": "B2-230",
@@ -2987,7 +3012,8 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "FIGHTING",
-        "hash": "24ec86b1dbb5364924"
+        "extra": true,
+        "original": "B2-230"
     },
     {
         "id": "B2-231",
@@ -3000,7 +3026,8 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "DARKNESS",
-        "hash": "24af91b40e78aeb28c"
+        "extra": true,
+        "original": "B2-231"
     },
     {
         "id": "B2-232",
@@ -3013,7 +3040,8 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "COLORLESS",
-        "hash": "24bc397146c3c3a69c"
+        "extra": true,
+        "original": "B2-232"
     },
     {
         "id": "B2-233",
@@ -3026,7 +3054,7 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "PSYCHIC",
-        "hash": "1599b33ecc8ac1b833"
+        "original": "B2-233"
     },
     {
         "id": "B2-234",
@@ -3039,6 +3067,6 @@
             "MEGA_GARDEVOIR"
         ],
         "type": "TRAINER",
-        "hash": "15faa510d27a26b16e"
+        "original": "B2-234"
     }
 ]

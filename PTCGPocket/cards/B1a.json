@@ -10,7 +10,7 @@
             "MEGA_CHARIZARD_Y"
         ],
         "type": "GRASS",
-        "hash": "118b71a3ab83438df8"
+        "original": "B1a-001"
     },
     {
         "id": "B1a-002",
@@ -23,7 +23,7 @@
             "MEGA_CHARIZARD_Y"
         ],
         "type": "GRASS",
-        "hash": "21ddc76d9812c992e4"
+        "original": "B1a-002"
     },
     {
         "id": "B1a-003",
@@ -36,7 +36,7 @@
             "MEGA_CHARIZARD_Y"
         ],
         "type": "GRASS",
-        "hash": "31a4e1c31f99ccce98"
+        "original": "B1a-003"
     },
     {
         "id": "B1a-004",
@@ -49,7 +49,7 @@
             "MEGA_CHARIZARD_Y"
         ],
         "type": "GRASS",
-        "hash": "41d39d26c898aa9da3"
+        "original": "B1a-004"
     },
     {
         "id": "B1a-005",
@@ -62,7 +62,7 @@
             "MEGA_CHARIZARD_Y"
         ],
         "type": "GRASS",
-        "hash": "11b4a4c2e4c3d6da2b"
+        "original": "B1a-005"
     },
     {
         "id": "B1a-006",
@@ -75,7 +75,7 @@
             "MEGA_CHARIZARD_Y"
         ],
         "type": "GRASS",
-        "hash": "21b1ef5ecc2a54ca82"
+        "original": "B1a-006"
     },
     {
         "id": "B1a-007",
@@ -88,7 +88,7 @@
             "MEGA_CHARIZARD_Y"
         ],
         "type": "GRASS",
-        "hash": "11c1f23643d8962db6"
+        "original": "B1a-007"
     },
     {
         "id": "B1a-008",
@@ -101,7 +101,7 @@
             "MEGA_CHARIZARD_Y"
         ],
         "type": "GRASS",
-        "hash": "21d09d97486e729fc0"
+        "original": "B1a-008"
     },
     {
         "id": "B1a-009",
@@ -114,7 +114,7 @@
             "MEGA_CHARIZARD_Y"
         ],
         "type": "GRASS",
-        "hash": "11e77a04a86c29f4d5"
+        "original": "B1a-009"
     },
     {
         "id": "B1a-010",
@@ -127,7 +127,7 @@
             "MEGA_CHARIZARD_Y"
         ],
         "type": "GRASS",
-        "hash": "1180be98bc36ed23c9"
+        "original": "B1a-010"
     },
     {
         "id": "B1a-011",
@@ -140,7 +140,7 @@
             "MEGA_CHARIZARD_Y"
         ],
         "type": "FIRE",
-        "hash": "11e4d65b9c92771603"
+        "original": "B1a-011"
     },
     {
         "id": "B1a-012",
@@ -153,7 +153,7 @@
             "MEGA_CHARIZARD_Y"
         ],
         "type": "FIRE",
-        "hash": "21fac5becab31c1481"
+        "original": "B1a-012"
     },
     {
         "id": "B1a-013",
@@ -166,7 +166,7 @@
             "MEGA_CHARIZARD_Y"
         ],
         "type": "FIRE",
-        "hash": "31f98c8a3e1461dc7c"
+        "original": "B1a-013"
     },
     {
         "id": "B1a-014",
@@ -179,7 +179,7 @@
             "MEGA_CHARIZARD_Y"
         ],
         "type": "FIRE",
-        "hash": "41da37a64b61a49cc9"
+        "original": "B1a-014"
     },
     {
         "id": "B1a-015",
@@ -192,7 +192,7 @@
             "MEGA_CHARIZARD_Y"
         ],
         "type": "FIRE",
-        "hash": "11ec172e68d11b2f38"
+        "original": "B1a-015"
     },
     {
         "id": "B1a-016",
@@ -205,7 +205,7 @@
             "MEGA_CHARIZARD_Y"
         ],
         "type": "FIRE",
-        "hash": "11f45c42f07f4bc8c8"
+        "original": "B1a-016"
     },
     {
         "id": "B1a-017",
@@ -218,7 +218,7 @@
             "MEGA_CHARIZARD_Y"
         ],
         "type": "WATER",
-        "hash": "11ec93d44d836498e7"
+        "original": "B1a-017"
     },
     {
         "id": "B1a-018",
@@ -231,7 +231,7 @@
             "MEGA_CHARIZARD_Y"
         ],
         "type": "WATER",
-        "hash": "21d1f85ec2f84b03d4"
+        "original": "B1a-018"
     },
     {
         "id": "B1a-019",
@@ -244,7 +244,7 @@
             "MEGA_CHARIZARD_Y"
         ],
         "type": "WATER",
-        "hash": "31eb8c9c8f285a7370"
+        "original": "B1a-019"
     },
     {
         "id": "B1a-020",
@@ -257,7 +257,7 @@
             "MEGA_CHARIZARD_Y"
         ],
         "type": "WATER",
-        "hash": "41ee98bcc783614c0f"
+        "original": "B1a-020"
     },
     {
         "id": "B1a-021",
@@ -270,7 +270,7 @@
             "MEGA_CHARIZARD_Y"
         ],
         "type": "WATER",
-        "hash": "11a8e7d47aa881c7b8"
+        "original": "B1a-021"
     },
     {
         "id": "B1a-022",
@@ -283,7 +283,7 @@
             "MEGA_CHARIZARD_Y"
         ],
         "type": "WATER",
-        "hash": "11b89d8f43c529915e"
+        "original": "B1a-022"
     },
     {
         "id": "B1a-023",
@@ -296,7 +296,7 @@
             "MEGA_CHARIZARD_Y"
         ],
         "type": "WATER",
-        "hash": "218587dfcbe1383c22"
+        "original": "B1a-023"
     },
     {
         "id": "B1a-024",
@@ -309,7 +309,7 @@
             "MEGA_CHARIZARD_Y"
         ],
         "type": "LIGHTNING",
-        "hash": "11dd183762c8bf1bc0"
+        "original": "B1a-024"
     },
     {
         "id": "B1a-025",
@@ -322,7 +322,7 @@
             "MEGA_CHARIZARD_Y"
         ],
         "type": "LIGHTNING",
-        "hash": "218597be78d90eb4c0"
+        "original": "B1a-025"
     },
     {
         "id": "B1a-026",
@@ -335,7 +335,7 @@
             "MEGA_CHARIZARD_Y"
         ],
         "type": "LIGHTNING",
-        "hash": "31e931833e38cb66ac"
+        "original": "B1a-026"
     },
     {
         "id": "B1a-027",
@@ -348,7 +348,7 @@
             "MEGA_CHARIZARD_Y"
         ],
         "type": "LIGHTNING",
-        "hash": "11a564ce94f81d492f"
+        "original": "B1a-027"
     },
     {
         "id": "B1a-028",
@@ -361,7 +361,7 @@
             "MEGA_CHARIZARD_Y"
         ],
         "type": "LIGHTNING",
-        "hash": "119b1f661349509d6b"
+        "original": "B1a-028"
     },
     {
         "id": "B1a-029",
@@ -374,7 +374,7 @@
             "MEGA_CHARIZARD_Y"
         ],
         "type": "LIGHTNING",
-        "hash": "21eea8b7a524bc4cc1"
+        "original": "B1a-029"
     },
     {
         "id": "B1a-030",
@@ -387,7 +387,7 @@
             "MEGA_CHARIZARD_Y"
         ],
         "type": "PSYCHIC",
-        "hash": "11a2fc5c0f0b486de5"
+        "original": "B1a-030"
     },
     {
         "id": "B1a-031",
@@ -400,7 +400,7 @@
             "MEGA_CHARIZARD_Y"
         ],
         "type": "PSYCHIC",
-        "hash": "21e7409d4eb976ce04"
+        "original": "B1a-031"
     },
     {
         "id": "B1a-032",
@@ -413,7 +413,7 @@
             "MEGA_CHARIZARD_Y"
         ],
         "type": "PSYCHIC",
-        "hash": "11e88bb482b45ba35e"
+        "original": "B1a-032"
     },
     {
         "id": "B1a-033",
@@ -426,7 +426,7 @@
             "MEGA_CHARIZARD_Y"
         ],
         "type": "PSYCHIC",
-        "hash": "11baaa4c67c6c5194d"
+        "original": "B1a-033"
     },
     {
         "id": "B1a-034",
@@ -439,7 +439,7 @@
             "MEGA_CHARIZARD_Y"
         ],
         "type": "PSYCHIC",
-        "hash": "31c63e323e5accd846"
+        "original": "B1a-034"
     },
     {
         "id": "B1a-035",
@@ -452,7 +452,7 @@
             "MEGA_CHARIZARD_Y"
         ],
         "type": "PSYCHIC",
-        "hash": "11e65e81ab628566dc"
+        "original": "B1a-035"
     },
     {
         "id": "B1a-036",
@@ -465,7 +465,7 @@
             "MEGA_CHARIZARD_Y"
         ],
         "type": "PSYCHIC",
-        "hash": "11f0d98a589896d766"
+        "original": "B1a-036"
     },
     {
         "id": "B1a-037",
@@ -478,7 +478,7 @@
             "MEGA_CHARIZARD_Y"
         ],
         "type": "PSYCHIC",
-        "hash": "31f6ea097643316749"
+        "original": "B1a-037"
     },
     {
         "id": "B1a-038",
@@ -491,7 +491,7 @@
             "MEGA_CHARIZARD_Y"
         ],
         "type": "FIGHTING",
-        "hash": "119b9c24b9e0ce9873"
+        "original": "B1a-038"
     },
     {
         "id": "B1a-039",
@@ -504,7 +504,7 @@
             "MEGA_CHARIZARD_Y"
         ],
         "type": "FIGHTING",
-        "hash": "1199897a94a53ec43d"
+        "original": "B1a-039"
     },
     {
         "id": "B1a-040",
@@ -517,7 +517,7 @@
             "MEGA_CHARIZARD_Y"
         ],
         "type": "FIGHTING",
-        "hash": "219d216dce06f906ec"
+        "original": "B1a-040"
     },
     {
         "id": "B1a-041",
@@ -530,7 +530,7 @@
             "MEGA_CHARIZARD_Y"
         ],
         "type": "FIGHTING",
-        "hash": "118e4c3915f9663327"
+        "original": "B1a-041"
     },
     {
         "id": "B1a-042",
@@ -543,7 +543,7 @@
             "MEGA_CHARIZARD_Y"
         ],
         "type": "FIGHTING",
-        "hash": "41a1c749b23cbf918c"
+        "original": "B1a-042"
     },
     {
         "id": "B1a-043",
@@ -556,7 +556,7 @@
             "MEGA_CHARIZARD_Y"
         ],
         "type": "FIGHTING",
-        "hash": "11d1bc8ec02d6bb689"
+        "original": "B1a-043"
     },
     {
         "id": "B1a-044",
@@ -569,7 +569,7 @@
             "MEGA_CHARIZARD_Y"
         ],
         "type": "FIGHTING",
-        "hash": "11cc7c73e6e61920cc"
+        "original": "B1a-044"
     },
     {
         "id": "B1a-045",
@@ -582,7 +582,7 @@
             "MEGA_CHARIZARD_Y"
         ],
         "type": "DARKNESS",
-        "hash": "11d00e7c3d2796ccd4"
+        "original": "B1a-045"
     },
     {
         "id": "B1a-046",
@@ -595,7 +595,7 @@
             "MEGA_CHARIZARD_Y"
         ],
         "type": "DARKNESS",
-        "hash": "11856da9cef4dcd014"
+        "original": "B1a-046"
     },
     {
         "id": "B1a-047",
@@ -608,7 +608,7 @@
             "MEGA_CHARIZARD_Y"
         ],
         "type": "DARKNESS",
-        "hash": "11ca78a12f390ec39b"
+        "original": "B1a-047"
     },
     {
         "id": "B1a-048",
@@ -621,7 +621,7 @@
             "MEGA_CHARIZARD_Y"
         ],
         "type": "DARKNESS",
-        "hash": "21864e7d78b072cbc1"
+        "original": "B1a-048"
     },
     {
         "id": "B1a-049",
@@ -634,7 +634,7 @@
             "MEGA_CHARIZARD_Y"
         ],
         "type": "DARKNESS",
-        "hash": "11b587055264c977ae"
+        "original": "B1a-049"
     },
     {
         "id": "B1a-050",
@@ -647,7 +647,7 @@
             "MEGA_CHARIZARD_Y"
         ],
         "type": "DARKNESS",
-        "hash": "21d943ffdcec48c048"
+        "original": "B1a-050"
     },
     {
         "id": "B1a-051",
@@ -660,7 +660,7 @@
             "MEGA_CHARIZARD_Y"
         ],
         "type": "METAL",
-        "hash": "21e9ea91cd1e223b54"
+        "original": "B1a-051"
     },
     {
         "id": "B1a-052",
@@ -673,7 +673,7 @@
             "MEGA_CHARIZARD_Y"
         ],
         "type": "METAL",
-        "hash": "41b8f1cb1eb4e803e1"
+        "original": "B1a-052"
     },
     {
         "id": "B1a-053",
@@ -686,7 +686,7 @@
             "MEGA_CHARIZARD_Y"
         ],
         "type": "METAL",
-        "hash": "2180d9df4ecce1c8ac"
+        "original": "B1a-053"
     },
     {
         "id": "B1a-054",
@@ -699,7 +699,7 @@
             "MEGA_CHARIZARD_Y"
         ],
         "type": "METAL",
-        "hash": "31b49642c3969ae5cd"
+        "original": "B1a-054"
     },
     {
         "id": "B1a-055",
@@ -712,7 +712,7 @@
             "MEGA_CHARIZARD_Y"
         ],
         "type": "COLORLESS",
-        "hash": "218b5e706127c387bc"
+        "original": "B1a-055"
     },
     {
         "id": "B1a-056",
@@ -725,7 +725,7 @@
             "MEGA_CHARIZARD_Y"
         ],
         "type": "COLORLESS",
-        "hash": "11e0ff8a109549fb4a"
+        "original": "B1a-056"
     },
     {
         "id": "B1a-057",
@@ -738,7 +738,7 @@
             "MEGA_CHARIZARD_Y"
         ],
         "type": "COLORLESS",
-        "hash": "21eccd520d8ded03f0"
+        "original": "B1a-057"
     },
     {
         "id": "B1a-058",
@@ -751,7 +751,7 @@
             "MEGA_CHARIZARD_Y"
         ],
         "type": "COLORLESS",
-        "hash": "31f700c4ada8745dce"
+        "original": "B1a-058"
     },
     {
         "id": "B1a-059",
@@ -764,7 +764,7 @@
             "MEGA_CHARIZARD_Y"
         ],
         "type": "COLORLESS",
-        "hash": "11d429a335bd4cb8e4"
+        "original": "B1a-059"
     },
     {
         "id": "B1a-060",
@@ -777,7 +777,7 @@
             "MEGA_CHARIZARD_Y"
         ],
         "type": "COLORLESS",
-        "hash": "11a5b2c2c93dc4b1f2"
+        "original": "B1a-060"
     },
     {
         "id": "B1a-061",
@@ -790,7 +790,7 @@
             "MEGA_CHARIZARD_Y"
         ],
         "type": "COLORLESS",
-        "hash": "21aaccd4930714dd2f"
+        "original": "B1a-061"
     },
     {
         "id": "B1a-062",
@@ -803,7 +803,7 @@
             "MEGA_CHARIZARD_Y"
         ],
         "type": "COLORLESS",
-        "hash": "1185a3fa5a6b9094e5"
+        "original": "B1a-062"
     },
     {
         "id": "B1a-063",
@@ -816,7 +816,7 @@
             "MEGA_CHARIZARD_Y"
         ],
         "type": "COLORLESS",
-        "hash": "21f08c5731c2b69d56"
+        "original": "B1a-063"
     },
     {
         "id": "B1a-064",
@@ -829,7 +829,7 @@
             "MEGA_CHARIZARD_Y"
         ],
         "type": "COLORLESS",
-        "hash": "21ea5ab3827037617c"
+        "original": "B1a-064"
     },
     {
         "id": "B1a-065",
@@ -842,7 +842,7 @@
             "MEGA_CHARIZARD_Y"
         ],
         "type": "COLORLESS",
-        "hash": "2193e38183ce3c2c9f"
+        "original": "B1a-065"
     },
     {
         "id": "B1a-066",
@@ -855,7 +855,7 @@
             "MEGA_CHARIZARD_Y"
         ],
         "type": "TRAINER",
-        "hash": "2195e36e98b4a6d2e0"
+        "original": "B1a-066"
     },
     {
         "id": "B1a-067",
@@ -868,7 +868,7 @@
             "MEGA_CHARIZARD_Y"
         ],
         "type": "TRAINER",
-        "hash": "21c6b0a7829cbe6473"
+        "original": "B1a-067"
     },
     {
         "id": "B1a-068",
@@ -881,7 +881,7 @@
             "MEGA_CHARIZARD_Y"
         ],
         "type": "TRAINER",
-        "hash": "21c1de82e58e95a6ca"
+        "original": "B1a-068"
     },
     {
         "id": "B1a-069",
@@ -894,7 +894,7 @@
             "MEGA_CHARIZARD_Y"
         ],
         "type": "TRAINER",
-        "hash": "21b6c6a1b4899b85cb"
+        "original": "B1a-069"
     },
     {
         "id": "B1a-070",
@@ -907,7 +907,7 @@
             "MEGA_CHARIZARD_Y"
         ],
         "type": "GRASS",
-        "hash": "13947bfcdbd68c8401"
+        "original": "B1a-070"
     },
     {
         "id": "B1a-071",
@@ -920,7 +920,7 @@
             "MEGA_CHARIZARD_Y"
         ],
         "type": "GRASS",
-        "hash": "13b6ea8ab64cac501f"
+        "original": "B1a-071"
     },
     {
         "id": "B1a-072",
@@ -933,7 +933,7 @@
             "MEGA_CHARIZARD_Y"
         ],
         "type": "PSYCHIC",
-        "hash": "1399686dc9ffc4c0c4"
+        "original": "B1a-072"
     },
     {
         "id": "B1a-073",
@@ -946,7 +946,7 @@
             "MEGA_CHARIZARD_Y"
         ],
         "type": "PSYCHIC",
-        "hash": "139bc9d12272347cbc"
+        "original": "B1a-073"
     },
     {
         "id": "B1a-074",
@@ -959,7 +959,7 @@
             "MEGA_CHARIZARD_Y"
         ],
         "type": "DARKNESS",
-        "hash": "13af555a92e4e41bd0"
+        "original": "B1a-074"
     },
     {
         "id": "B1a-075",
@@ -972,7 +972,7 @@
             "MEGA_CHARIZARD_Y"
         ],
         "type": "COLORLESS",
-        "hash": "13e48696b553ad4b58"
+        "original": "B1a-075"
     },
     {
         "id": "B1a-076",
@@ -985,7 +985,7 @@
             "MEGA_CHARIZARD_Y"
         ],
         "type": "GRASS",
-        "hash": "239dc5660bea9aa0e3"
+        "original": "B1a-076"
     },
     {
         "id": "B1a-077",
@@ -998,7 +998,7 @@
             "MEGA_CHARIZARD_Y"
         ],
         "type": "FIRE",
-        "hash": "23d90eacb3e0ecc3c4"
+        "original": "B1a-077"
     },
     {
         "id": "B1a-078",
@@ -1011,7 +1011,7 @@
             "MEGA_CHARIZARD_Y"
         ],
         "type": "WATER",
-        "hash": "239f6810a67ea78a99"
+        "original": "B1a-078"
     },
     {
         "id": "B1a-079",
@@ -1024,7 +1024,7 @@
             "MEGA_CHARIZARD_Y"
         ],
         "type": "FIGHTING",
-        "hash": "23d5393886eacde1c8"
+        "original": "B1a-079"
     },
     {
         "id": "B1a-080",
@@ -1037,7 +1037,7 @@
             "MEGA_CHARIZARD_Y"
         ],
         "type": "METAL",
-        "hash": "23d870ad2eb2c3dad0"
+        "original": "B1a-080"
     },
     {
         "id": "B1a-081",
@@ -1050,7 +1050,7 @@
             "MEGA_CHARIZARD_Y"
         ],
         "type": "TRAINER",
-        "hash": "23c6271a91a8f9b5b8"
+        "original": "B1a-081"
     },
     {
         "id": "B1a-082",
@@ -1063,7 +1063,7 @@
             "MEGA_CHARIZARD_Y"
         ],
         "type": "TRAINER",
-        "hash": "23b8c397cacab48b46"
+        "original": "B1a-082"
     },
     {
         "id": "B1a-083",
@@ -1076,7 +1076,7 @@
             "MEGA_CHARIZARD_Y"
         ],
         "type": "GRASS",
-        "hash": "2397be38b4b294a782"
+        "original": "B1a-083"
     },
     {
         "id": "B1a-084",
@@ -1089,7 +1089,7 @@
             "MEGA_CHARIZARD_Y"
         ],
         "type": "WATER",
-        "hash": "23f3ccfc36224c90f8"
+        "original": "B1a-084"
     },
     {
         "id": "B1a-085",
@@ -1102,7 +1102,7 @@
             "MEGA_CHARIZARD_Y"
         ],
         "type": "FIGHTING",
-        "hash": "23bcc8e84747321e3d"
+        "original": "B1a-085"
     },
     {
         "id": "B1a-086",
@@ -1115,7 +1115,7 @@
             "MEGA_CHARIZARD_Y"
         ],
         "type": "METAL",
-        "hash": "23bcaecea1c8d69095"
+        "original": "B1a-086"
     },
     {
         "id": "B1a-087",
@@ -1128,7 +1128,7 @@
             "MEGA_CHARIZARD_Y"
         ],
         "type": "FIRE",
-        "hash": "33ca1a3ca7edd410f4"
+        "original": "B1a-087"
     },
     {
         "id": "B1a-088",
@@ -1141,7 +1141,8 @@
             "MEGA_CHARIZARD_Y"
         ],
         "type": "GRASS",
-        "hash": "14b30d94619ca58fcb"
+        "extra": true,
+        "original": "B1a-088"
     },
     {
         "id": "B1a-089",
@@ -1154,7 +1155,8 @@
             "MEGA_CHARIZARD_Y"
         ],
         "type": "GRASS",
-        "hash": "14e50996959e863dd8"
+        "extra": true,
+        "original": "B1a-089"
     },
     {
         "id": "B1a-090",
@@ -1167,7 +1169,8 @@
             "MEGA_CHARIZARD_Y"
         ],
         "type": "GRASS",
-        "hash": "14a50bc6148dd936ee"
+        "extra": true,
+        "original": "B1a-090"
     },
     {
         "id": "B1a-091",
@@ -1180,7 +1183,8 @@
             "MEGA_CHARIZARD_Y"
         ],
         "type": "FIRE",
-        "hash": "14e9399584d2641eee"
+        "extra": true,
+        "original": "B1a-091"
     },
     {
         "id": "B1a-092",
@@ -1193,7 +1197,8 @@
             "MEGA_CHARIZARD_Y"
         ],
         "type": "WATER",
-        "hash": "14e14c879198dd273b"
+        "extra": true,
+        "original": "B1a-092"
     },
     {
         "id": "B1a-093",
@@ -1206,7 +1211,8 @@
             "MEGA_CHARIZARD_Y"
         ],
         "type": "WATER",
-        "hash": "14a18d96648f2d9b71"
+        "extra": true,
+        "original": "B1a-093"
     },
     {
         "id": "B1a-094",
@@ -1219,7 +1225,8 @@
             "MEGA_CHARIZARD_Y"
         ],
         "type": "FIGHTING",
-        "hash": "14e18d865194fb1b2e"
+        "extra": true,
+        "original": "B1a-094"
     },
     {
         "id": "B1a-095",
@@ -1232,7 +1239,8 @@
             "MEGA_CHARIZARD_Y"
         ],
         "type": "FIGHTING",
-        "hash": "14e92792d90e9c8d78"
+        "extra": true,
+        "original": "B1a-095"
     },
     {
         "id": "B1a-096",
@@ -1245,7 +1253,8 @@
             "MEGA_CHARIZARD_Y"
         ],
         "type": "COLORLESS",
-        "hash": "14a484c36c95f30f9e"
+        "extra": true,
+        "original": "B1a-096"
     },
     {
         "id": "B1a-097",
@@ -1258,7 +1267,8 @@
             "MEGA_CHARIZARD_Y"
         ],
         "type": "COLORLESS",
-        "hash": "14e991862d97623dd2"
+        "extra": true,
+        "original": "B1a-097"
     },
     {
         "id": "B1a-098",
@@ -1271,7 +1281,8 @@
             "MEGA_CHARIZARD_Y"
         ],
         "type": "GRASS",
-        "hash": "24bc8ed65809e4b29b"
+        "extra": true,
+        "original": "B1a-098"
     },
     {
         "id": "B1a-099",
@@ -1284,7 +1295,8 @@
             "MEGA_CHARIZARD_Y"
         ],
         "type": "PSYCHIC",
-        "hash": "24d1955c427cb6bb30"
+        "extra": true,
+        "original": "B1a-099"
     },
     {
         "id": "B1a-100",
@@ -1297,7 +1309,8 @@
             "MEGA_CHARIZARD_Y"
         ],
         "type": "DARKNESS",
-        "hash": "2485c178da7f24a4ae"
+        "extra": true,
+        "original": "B1a-100"
     },
     {
         "id": "B1a-101",
@@ -1310,7 +1323,8 @@
             "MEGA_CHARIZARD_Y"
         ],
         "type": "METAL",
-        "hash": "24f2c5a805aebc9665"
+        "extra": true,
+        "original": "B1a-101"
     },
     {
         "id": "B1a-102",
@@ -1323,7 +1337,7 @@
             "MEGA_CHARIZARD_Y"
         ],
         "type": "METAL",
-        "hash": "15d6a9067fa097708b"
+        "original": "B1a-102"
     },
     {
         "id": "B1a-103",
@@ -1336,6 +1350,6 @@
             "MEGA_CHARIZARD_Y"
         ],
         "type": "TRAINER",
-        "hash": "15d1af543922357378"
+        "original": "B1a-103"
     }
 ]
