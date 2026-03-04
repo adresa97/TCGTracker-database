@@ -11,7 +11,7 @@
             "PALKIA"
         ],
         "type": "GRASS",
-        "original": "A2-001"
+        "firstPrint": "A2-001"
     },
     {
         "id": "A2-002",
@@ -25,7 +25,7 @@
             "PALKIA"
         ],
         "type": "GRASS",
-        "original": "A2-002"
+        "firstPrint": "A2-002"
     },
     {
         "id": "A2-003",
@@ -39,7 +39,7 @@
             "PALKIA"
         ],
         "type": "GRASS",
-        "original": "A2-003"
+        "firstPrint": "A2-003"
     },
     {
         "id": "A2-004",
@@ -52,7 +52,7 @@
             "DIALGA"
         ],
         "type": "GRASS",
-        "original": "A2-004"
+        "firstPrint": "A2-004"
     },
     {
         "id": "A2-005",
@@ -65,7 +65,7 @@
             "DIALGA"
         ],
         "type": "GRASS",
-        "original": "A2-005"
+        "firstPrint": "A2-005"
     },
     {
         "id": "A2-006",
@@ -78,7 +78,7 @@
             "DIALGA"
         ],
         "type": "GRASS",
-        "original": "A2-006"
+        "firstPrint": "A2-006"
     },
     {
         "id": "A2-007",
@@ -91,7 +91,7 @@
             "DIALGA"
         ],
         "type": "GRASS",
-        "original": "A2-007"
+        "firstPrint": "A2-007"
     },
     {
         "id": "A2-008",
@@ -105,7 +105,7 @@
             "PALKIA"
         ],
         "type": "GRASS",
-        "original": "A2-008"
+        "firstPrint": "A2-008"
     },
     {
         "id": "A2-009",
@@ -119,7 +119,7 @@
             "PALKIA"
         ],
         "type": "GRASS",
-        "original": "A2-009"
+        "firstPrint": "A2-009"
     },
     {
         "id": "A2-010",
@@ -132,7 +132,7 @@
             "PALKIA"
         ],
         "type": "GRASS",
-        "original": "A2-010"
+        "firstPrint": "A2-010"
     },
     {
         "id": "A2-011",
@@ -145,7 +145,7 @@
             "PALKIA"
         ],
         "type": "GRASS",
-        "original": "A2-011"
+        "firstPrint": "A2-011"
     },
     {
         "id": "A2-012",
@@ -158,7 +158,7 @@
             "PALKIA"
         ],
         "type": "GRASS",
-        "original": "A2-012"
+        "firstPrint": "A2-012"
     },
     {
         "id": "A2-013",
@@ -171,7 +171,7 @@
             "PALKIA"
         ],
         "type": "GRASS",
-        "original": "A2-013"
+        "firstPrint": "A2-013"
     },
     {
         "id": "A2-014",
@@ -184,7 +184,7 @@
             "PALKIA"
         ],
         "type": "GRASS",
-        "original": "A2-014"
+        "firstPrint": "A2-014"
     },
     {
         "id": "A2-015",
@@ -198,7 +198,7 @@
             "PALKIA"
         ],
         "type": "GRASS",
-        "original": "A2-015"
+        "firstPrint": "A2-015"
     },
     {
         "id": "A2-016",
@@ -212,7 +212,7 @@
             "PALKIA"
         ],
         "type": "GRASS",
-        "original": "A2-016"
+        "firstPrint": "A2-016"
     },
     {
         "id": "A2-017",
@@ -225,7 +225,7 @@
             "DIALGA"
         ],
         "type": "GRASS",
-        "original": "A2-017"
+        "firstPrint": "A2-017"
     },
     {
         "id": "A2-018",
@@ -238,7 +238,7 @@
             "DIALGA"
         ],
         "type": "GRASS",
-        "original": "A2-018"
+        "firstPrint": "A2-018"
     },
     {
         "id": "A2-019",
@@ -251,7 +251,7 @@
             "PALKIA"
         ],
         "type": "GRASS",
-        "original": "A2-019"
+        "firstPrint": "A2-019"
     },
     {
         "id": "A2-020",
@@ -264,7 +264,7 @@
             "DIALGA"
         ],
         "type": "GRASS",
-        "original": "A2-020"
+        "firstPrint": "A2-020"
     },
     {
         "id": "A2-021",
@@ -278,7 +278,7 @@
             "PALKIA"
         ],
         "type": "GRASS",
-        "original": "A2-021"
+        "firstPrint": "A2-021"
     },
     {
         "id": "A2-022",
@@ -291,7 +291,7 @@
             "DIALGA"
         ],
         "type": "GRASS",
-        "original": "A2-022"
+        "firstPrint": "A2-022"
     },
     {
         "id": "A2-023",
@@ -304,7 +304,7 @@
             "PALKIA"
         ],
         "type": "FIRE",
-        "original": "A2-023"
+        "firstPrint": "A2-023"
     },
     {
         "id": "A2-024",
@@ -317,7 +317,7 @@
             "PALKIA"
         ],
         "type": "FIRE",
-        "original": "A2-024"
+        "firstPrint": "A2-024"
     },
     {
         "id": "A2-025",
@@ -331,7 +331,7 @@
             "PALKIA"
         ],
         "type": "FIRE",
-        "original": "A2-025"
+        "firstPrint": "A2-025"
     },
     {
         "id": "A2-026",
@@ -345,7 +345,7 @@
             "PALKIA"
         ],
         "type": "FIRE",
-        "original": "A2-026"
+        "firstPrint": "A2-026"
     },
     {
         "id": "A2-027",
@@ -358,7 +358,7 @@
             "PALKIA"
         ],
         "type": "FIRE",
-        "original": "A2-027"
+        "firstPrint": "A2-027"
     },
     {
         "id": "A2-028",
@@ -371,7 +371,7 @@
             "PALKIA"
         ],
         "type": "FIRE",
-        "original": "A2-028"
+        "firstPrint": "A2-028"
     },
     {
         "id": "A2-029",
@@ -384,7 +384,7 @@
             "PALKIA"
         ],
         "type": "FIRE",
-        "original": "A2-029"
+        "firstPrint": "A2-029"
     },
     {
         "id": "A2-030",
@@ -398,7 +398,7 @@
             "PALKIA"
         ],
         "type": "FIRE",
-        "original": "A2-030"
+        "firstPrint": "A2-030"
     },
     {
         "id": "A2-031",
@@ -411,7 +411,7 @@
             "DIALGA"
         ],
         "type": "WATER",
-        "original": "A2-031"
+        "firstPrint": "A2-031"
     },
     {
         "id": "A2-032",
@@ -424,7 +424,7 @@
             "DIALGA"
         ],
         "type": "WATER",
-        "original": "A2-032"
+        "firstPrint": "A2-032"
     },
     {
         "id": "A2-033",
@@ -437,7 +437,7 @@
             "DIALGA"
         ],
         "type": "WATER",
-        "original": "A2-033"
+        "firstPrint": "A2-033"
     },
     {
         "id": "A2-034",
@@ -450,7 +450,7 @@
             "PALKIA"
         ],
         "type": "WATER",
-        "original": "A2-034"
+        "firstPrint": "A2-034"
     },
     {
         "id": "A2-035",
@@ -463,7 +463,7 @@
             "PALKIA"
         ],
         "type": "WATER",
-        "original": "A2-035"
+        "firstPrint": "A2-035"
     },
     {
         "id": "A2-036",
@@ -476,7 +476,7 @@
             "PALKIA"
         ],
         "type": "WATER",
-        "original": "A2-036"
+        "firstPrint": "A2-036"
     },
     {
         "id": "A2-037",
@@ -489,7 +489,7 @@
             "PALKIA"
         ],
         "type": "WATER",
-        "original": "A2-037"
+        "firstPrint": "A2-037"
     },
     {
         "id": "A2-038",
@@ -503,7 +503,7 @@
             "PALKIA"
         ],
         "type": "WATER",
-        "original": "A2-038"
+        "firstPrint": "A2-038"
     },
     {
         "id": "A2-039",
@@ -517,7 +517,7 @@
             "PALKIA"
         ],
         "type": "WATER",
-        "original": "A2-039"
+        "firstPrint": "A2-039"
     },
     {
         "id": "A2-040",
@@ -530,7 +530,7 @@
             "PALKIA"
         ],
         "type": "WATER",
-        "original": "A2-040"
+        "firstPrint": "A2-040"
     },
     {
         "id": "A2-041",
@@ -543,7 +543,7 @@
             "PALKIA"
         ],
         "type": "WATER",
-        "original": "A2-041"
+        "firstPrint": "A2-041"
     },
     {
         "id": "A2-042",
@@ -557,7 +557,7 @@
             "PALKIA"
         ],
         "type": "WATER",
-        "original": "A2-042"
+        "firstPrint": "A2-042"
     },
     {
         "id": "A2-043",
@@ -571,7 +571,7 @@
             "PALKIA"
         ],
         "type": "WATER",
-        "original": "A2-043"
+        "firstPrint": "A2-043"
     },
     {
         "id": "A2-044",
@@ -585,7 +585,7 @@
             "PALKIA"
         ],
         "type": "WATER",
-        "original": "A2-044"
+        "firstPrint": "A2-044"
     },
     {
         "id": "A2-045",
@@ -599,7 +599,7 @@
             "PALKIA"
         ],
         "type": "WATER",
-        "original": "A2-045"
+        "firstPrint": "A2-045"
     },
     {
         "id": "A2-046",
@@ -612,7 +612,7 @@
             "PALKIA"
         ],
         "type": "WATER",
-        "original": "A2-046"
+        "firstPrint": "A2-046"
     },
     {
         "id": "A2-047",
@@ -626,7 +626,7 @@
             "PALKIA"
         ],
         "type": "WATER",
-        "original": "A2-047"
+        "firstPrint": "A2-047"
     },
     {
         "id": "A2-048",
@@ -640,7 +640,7 @@
             "PALKIA"
         ],
         "type": "WATER",
-        "original": "A2-048"
+        "firstPrint": "A2-048"
     },
     {
         "id": "A2-049",
@@ -653,7 +653,7 @@
             "PALKIA"
         ],
         "type": "WATER",
-        "original": "A2-049"
+        "firstPrint": "A2-049"
     },
     {
         "id": "A2-050",
@@ -666,7 +666,7 @@
             "PALKIA"
         ],
         "type": "WATER",
-        "original": "A2-050"
+        "firstPrint": "A2-050"
     },
     {
         "id": "A2-051",
@@ -680,7 +680,7 @@
             "PALKIA"
         ],
         "type": "LIGHTNING",
-        "original": "A2-051"
+        "firstPrint": "A2-051"
     },
     {
         "id": "A2-052",
@@ -694,7 +694,7 @@
             "PALKIA"
         ],
         "type": "LIGHTNING",
-        "original": "A2-052"
+        "firstPrint": "A2-052"
     },
     {
         "id": "A2-053",
@@ -708,7 +708,7 @@
             "PALKIA"
         ],
         "type": "LIGHTNING",
-        "original": "A2-053"
+        "firstPrint": "A2-053"
     },
     {
         "id": "A2-054",
@@ -722,7 +722,7 @@
             "PALKIA"
         ],
         "type": "LIGHTNING",
-        "original": "A2-054"
+        "firstPrint": "A2-054"
     },
     {
         "id": "A2-055",
@@ -736,7 +736,7 @@
             "PALKIA"
         ],
         "type": "LIGHTNING",
-        "original": "A2-055"
+        "firstPrint": "A2-055"
     },
     {
         "id": "A2-056",
@@ -749,7 +749,7 @@
             "DIALGA"
         ],
         "type": "LIGHTNING",
-        "original": "A2-056"
+        "firstPrint": "A2-056"
     },
     {
         "id": "A2-057",
@@ -762,7 +762,7 @@
             "DIALGA"
         ],
         "type": "LIGHTNING",
-        "original": "A2-057"
+        "firstPrint": "A2-057"
     },
     {
         "id": "A2-058",
@@ -775,7 +775,7 @@
             "DIALGA"
         ],
         "type": "LIGHTNING",
-        "original": "A2-058"
+        "firstPrint": "A2-058"
     },
     {
         "id": "A2-059",
@@ -788,7 +788,7 @@
             "DIALGA"
         ],
         "type": "LIGHTNING",
-        "original": "A2-059"
+        "firstPrint": "A2-059"
     },
     {
         "id": "A2-060",
@@ -801,7 +801,7 @@
             "DIALGA"
         ],
         "type": "LIGHTNING",
-        "original": "A2-060"
+        "firstPrint": "A2-060"
     },
     {
         "id": "A2-061",
@@ -814,7 +814,7 @@
             "DIALGA"
         ],
         "type": "LIGHTNING",
-        "original": "A2-061"
+        "firstPrint": "A2-061"
     },
     {
         "id": "A2-062",
@@ -827,7 +827,7 @@
             "PALKIA"
         ],
         "type": "LIGHTNING",
-        "original": "A2-062"
+        "firstPrint": "A2-062"
     },
     {
         "id": "A2-063",
@@ -841,7 +841,7 @@
             "PALKIA"
         ],
         "type": "PSYCHIC",
-        "original": "A2-063"
+        "firstPrint": "A2-063"
     },
     {
         "id": "A2-064",
@@ -855,7 +855,7 @@
             "PALKIA"
         ],
         "type": "PSYCHIC",
-        "original": "A2-064"
+        "firstPrint": "A2-064"
     },
     {
         "id": "A2-065",
@@ -869,7 +869,7 @@
             "PALKIA"
         ],
         "type": "PSYCHIC",
-        "original": "A2-065"
+        "firstPrint": "A2-065"
     },
     {
         "id": "A2-066",
@@ -882,7 +882,7 @@
             "PALKIA"
         ],
         "type": "PSYCHIC",
-        "original": "A2-066"
+        "firstPrint": "A2-066"
     },
     {
         "id": "A2-067",
@@ -895,7 +895,7 @@
             "PALKIA"
         ],
         "type": "PSYCHIC",
-        "original": "A2-067"
+        "firstPrint": "A2-067"
     },
     {
         "id": "A2-068",
@@ -908,7 +908,7 @@
             "DIALGA"
         ],
         "type": "PSYCHIC",
-        "original": "A2-068"
+        "firstPrint": "A2-068"
     },
     {
         "id": "A2-069",
@@ -921,7 +921,7 @@
             "DIALGA"
         ],
         "type": "PSYCHIC",
-        "original": "A2-069"
+        "firstPrint": "A2-069"
     },
     {
         "id": "A2-070",
@@ -934,7 +934,7 @@
             "DIALGA"
         ],
         "type": "PSYCHIC",
-        "original": "A2-070"
+        "firstPrint": "A2-070"
     },
     {
         "id": "A2-071",
@@ -947,7 +947,7 @@
             "DIALGA"
         ],
         "type": "PSYCHIC",
-        "original": "A2-071"
+        "firstPrint": "A2-071"
     },
     {
         "id": "A2-072",
@@ -960,7 +960,7 @@
             "DIALGA"
         ],
         "type": "PSYCHIC",
-        "original": "A2-072"
+        "firstPrint": "A2-072"
     },
     {
         "id": "A2-073",
@@ -973,7 +973,7 @@
             "DIALGA"
         ],
         "type": "PSYCHIC",
-        "original": "A2-073"
+        "firstPrint": "A2-073"
     },
     {
         "id": "A2-074",
@@ -986,7 +986,7 @@
             "DIALGA"
         ],
         "type": "PSYCHIC",
-        "original": "A2-074"
+        "firstPrint": "A2-074"
     },
     {
         "id": "A2-075",
@@ -1000,7 +1000,7 @@
             "PALKIA"
         ],
         "type": "PSYCHIC",
-        "original": "A2-075"
+        "firstPrint": "A2-075"
     },
     {
         "id": "A2-076",
@@ -1014,7 +1014,7 @@
             "PALKIA"
         ],
         "type": "PSYCHIC",
-        "original": "A2-076"
+        "firstPrint": "A2-076"
     },
     {
         "id": "A2-077",
@@ -1028,7 +1028,7 @@
             "PALKIA"
         ],
         "type": "PSYCHIC",
-        "original": "A2-077"
+        "firstPrint": "A2-077"
     },
     {
         "id": "A2-078",
@@ -1041,7 +1041,7 @@
             "PALKIA"
         ],
         "type": "PSYCHIC",
-        "original": "A2-078"
+        "firstPrint": "A2-078"
     },
     {
         "id": "A2-079",
@@ -1054,7 +1054,7 @@
             "PALKIA"
         ],
         "type": "PSYCHIC",
-        "original": "A2-079"
+        "firstPrint": "A2-079"
     },
     {
         "id": "A2-080",
@@ -1067,7 +1067,7 @@
             "PALKIA"
         ],
         "type": "FIGHTING",
-        "original": "A2-080"
+        "firstPrint": "A2-080"
     },
     {
         "id": "A2-081",
@@ -1080,7 +1080,7 @@
             "PALKIA"
         ],
         "type": "FIGHTING",
-        "original": "A2-081"
+        "firstPrint": "A2-081"
     },
     {
         "id": "A2-082",
@@ -1093,7 +1093,7 @@
             "PALKIA"
         ],
         "type": "FIGHTING",
-        "original": "A2-082"
+        "firstPrint": "A2-082"
     },
     {
         "id": "A2-083",
@@ -1106,7 +1106,7 @@
             "DIALGA"
         ],
         "type": "FIGHTING",
-        "original": "A2-083"
+        "firstPrint": "A2-083"
     },
     {
         "id": "A2-084",
@@ -1119,7 +1119,7 @@
             "DIALGA"
         ],
         "type": "FIGHTING",
-        "original": "A2-084"
+        "firstPrint": "A2-084"
     },
     {
         "id": "A2-085",
@@ -1132,7 +1132,7 @@
             "DIALGA"
         ],
         "type": "FIGHTING",
-        "original": "A2-085"
+        "firstPrint": "A2-085"
     },
     {
         "id": "A2-086",
@@ -1146,7 +1146,7 @@
             "PALKIA"
         ],
         "type": "FIGHTING",
-        "original": "A2-086"
+        "firstPrint": "A2-086"
     },
     {
         "id": "A2-087",
@@ -1160,7 +1160,7 @@
             "PALKIA"
         ],
         "type": "FIGHTING",
-        "original": "A2-087"
+        "firstPrint": "A2-087"
     },
     {
         "id": "A2-088",
@@ -1173,7 +1173,7 @@
             "DIALGA"
         ],
         "type": "FIGHTING",
-        "original": "A2-088"
+        "firstPrint": "A2-088"
     },
     {
         "id": "A2-089",
@@ -1186,7 +1186,7 @@
             "DIALGA"
         ],
         "type": "FIGHTING",
-        "original": "A2-089"
+        "firstPrint": "A2-089"
     },
     {
         "id": "A2-090",
@@ -1199,7 +1199,7 @@
             "DIALGA"
         ],
         "type": "FIGHTING",
-        "original": "A2-090"
+        "firstPrint": "A2-090"
     },
     {
         "id": "A2-091",
@@ -1212,7 +1212,7 @@
             "DIALGA"
         ],
         "type": "FIGHTING",
-        "original": "A2-091"
+        "firstPrint": "A2-091"
     },
     {
         "id": "A2-092",
@@ -1225,7 +1225,7 @@
             "DIALGA"
         ],
         "type": "FIGHTING",
-        "original": "A2-092"
+        "firstPrint": "A2-092"
     },
     {
         "id": "A2-093",
@@ -1238,7 +1238,7 @@
             "PALKIA"
         ],
         "type": "FIGHTING",
-        "original": "A2-093"
+        "firstPrint": "A2-093"
     },
     {
         "id": "A2-094",
@@ -1251,7 +1251,7 @@
             "PALKIA"
         ],
         "type": "FIGHTING",
-        "original": "A2-094"
+        "firstPrint": "A2-094"
     },
     {
         "id": "A2-095",
@@ -1264,7 +1264,7 @@
             "DIALGA"
         ],
         "type": "FIGHTING",
-        "original": "A2-095"
+        "firstPrint": "A2-095"
     },
     {
         "id": "A2-096",
@@ -1277,7 +1277,7 @@
             "DIALGA"
         ],
         "type": "DARKNESS",
-        "original": "A2-096"
+        "firstPrint": "A2-096"
     },
     {
         "id": "A2-097",
@@ -1290,7 +1290,7 @@
             "DIALGA"
         ],
         "type": "DARKNESS",
-        "original": "A2-097"
+        "firstPrint": "A2-097"
     },
     {
         "id": "A2-098",
@@ -1303,7 +1303,7 @@
             "PALKIA"
         ],
         "type": "DARKNESS",
-        "original": "A2-098"
+        "firstPrint": "A2-098"
     },
     {
         "id": "A2-099",
@@ -1316,7 +1316,7 @@
             "PALKIA"
         ],
         "type": "DARKNESS",
-        "original": "A2-099"
+        "firstPrint": "A2-099"
     },
     {
         "id": "A2-100",
@@ -1330,7 +1330,7 @@
             "PALKIA"
         ],
         "type": "DARKNESS",
-        "original": "A2-100"
+        "firstPrint": "A2-100"
     },
     {
         "id": "A2-101",
@@ -1344,7 +1344,7 @@
             "PALKIA"
         ],
         "type": "DARKNESS",
-        "original": "A2-101"
+        "firstPrint": "A2-101"
     },
     {
         "id": "A2-102",
@@ -1357,7 +1357,7 @@
             "DIALGA"
         ],
         "type": "DARKNESS",
-        "original": "A2-102"
+        "firstPrint": "A2-102"
     },
     {
         "id": "A2-103",
@@ -1370,7 +1370,7 @@
             "DIALGA"
         ],
         "type": "DARKNESS",
-        "original": "A2-103"
+        "firstPrint": "A2-103"
     },
     {
         "id": "A2-104",
@@ -1383,7 +1383,7 @@
             "PALKIA"
         ],
         "type": "DARKNESS",
-        "original": "A2-104"
+        "firstPrint": "A2-104"
     },
     {
         "id": "A2-105",
@@ -1397,7 +1397,7 @@
             "PALKIA"
         ],
         "type": "DARKNESS",
-        "original": "A2-105"
+        "firstPrint": "A2-105"
     },
     {
         "id": "A2-106",
@@ -1411,7 +1411,7 @@
             "PALKIA"
         ],
         "type": "DARKNESS",
-        "original": "A2-106"
+        "firstPrint": "A2-106"
     },
     {
         "id": "A2-107",
@@ -1424,7 +1424,7 @@
             "DIALGA"
         ],
         "type": "DARKNESS",
-        "original": "A2-107"
+        "firstPrint": "A2-107"
     },
     {
         "id": "A2-108",
@@ -1437,7 +1437,7 @@
             "DIALGA"
         ],
         "type": "DARKNESS",
-        "original": "A2-108"
+        "firstPrint": "A2-108"
     },
     {
         "id": "A2-109",
@@ -1450,7 +1450,7 @@
             "DIALGA"
         ],
         "type": "DARKNESS",
-        "original": "A2-109"
+        "firstPrint": "A2-109"
     },
     {
         "id": "A2-110",
@@ -1463,7 +1463,7 @@
             "DIALGA"
         ],
         "type": "DARKNESS",
-        "original": "A2-110"
+        "firstPrint": "A2-110"
     },
     {
         "id": "A2-111",
@@ -1477,7 +1477,7 @@
             "PALKIA"
         ],
         "type": "METAL",
-        "original": "A2-111"
+        "firstPrint": "A2-111"
     },
     {
         "id": "A2-112",
@@ -1490,7 +1490,7 @@
             "DIALGA"
         ],
         "type": "METAL",
-        "original": "A2-112"
+        "firstPrint": "A2-112"
     },
     {
         "id": "A2-113",
@@ -1503,7 +1503,7 @@
             "PALKIA"
         ],
         "type": "METAL",
-        "original": "A2-113"
+        "firstPrint": "A2-113"
     },
     {
         "id": "A2-114",
@@ -1516,7 +1516,7 @@
             "PALKIA"
         ],
         "type": "METAL",
-        "original": "A2-114"
+        "firstPrint": "A2-114"
     },
     {
         "id": "A2-115",
@@ -1529,7 +1529,7 @@
             "PALKIA"
         ],
         "type": "METAL",
-        "original": "A2-115"
+        "firstPrint": "A2-115"
     },
     {
         "id": "A2-116",
@@ -1542,7 +1542,7 @@
             "DIALGA"
         ],
         "type": "METAL",
-        "original": "A2-116"
+        "firstPrint": "A2-116"
     },
     {
         "id": "A2-117",
@@ -1555,7 +1555,7 @@
             "DIALGA"
         ],
         "type": "METAL",
-        "original": "A2-117"
+        "firstPrint": "A2-117"
     },
     {
         "id": "A2-118",
@@ -1569,7 +1569,7 @@
             "PALKIA"
         ],
         "type": "METAL",
-        "original": "A2-118"
+        "firstPrint": "A2-118"
     },
     {
         "id": "A2-119",
@@ -1582,7 +1582,7 @@
             "DIALGA"
         ],
         "type": "METAL",
-        "original": "A2-119"
+        "firstPrint": "A2-119"
     },
     {
         "id": "A2-120",
@@ -1595,7 +1595,7 @@
             "DIALGA"
         ],
         "type": "METAL",
-        "original": "A2-120"
+        "firstPrint": "A2-120"
     },
     {
         "id": "A2-121",
@@ -1608,7 +1608,7 @@
             "PALKIA"
         ],
         "type": "DRAGON",
-        "original": "A2-121"
+        "firstPrint": "A2-121"
     },
     {
         "id": "A2-122",
@@ -1621,7 +1621,7 @@
             "PALKIA"
         ],
         "type": "DRAGON",
-        "original": "A2-122"
+        "firstPrint": "A2-122"
     },
     {
         "id": "A2-123",
@@ -1634,7 +1634,7 @@
             "PALKIA"
         ],
         "type": "DRAGON",
-        "original": "A2-123"
+        "firstPrint": "A2-123"
     },
     {
         "id": "A2-124",
@@ -1647,7 +1647,7 @@
             "PALKIA"
         ],
         "type": "COLORLESS",
-        "original": "A2-124"
+        "firstPrint": "A2-124"
     },
     {
         "id": "A2-125",
@@ -1660,7 +1660,7 @@
             "PALKIA"
         ],
         "type": "COLORLESS",
-        "original": "A2-125"
+        "firstPrint": "A2-125"
     },
     {
         "id": "A2-126",
@@ -1674,7 +1674,7 @@
             "PALKIA"
         ],
         "type": "COLORLESS",
-        "original": "A2-126"
+        "firstPrint": "A2-126"
     },
     {
         "id": "A2-127",
@@ -1687,7 +1687,7 @@
             "PALKIA"
         ],
         "type": "COLORLESS",
-        "original": "A2-127"
+        "firstPrint": "A2-127"
     },
     {
         "id": "A2-128",
@@ -1700,7 +1700,7 @@
             "PALKIA"
         ],
         "type": "COLORLESS",
-        "original": "A2-128"
+        "firstPrint": "A2-128"
     },
     {
         "id": "A2-129",
@@ -1713,7 +1713,7 @@
             "PALKIA"
         ],
         "type": "COLORLESS",
-        "original": "A2-129"
+        "firstPrint": "A2-129"
     },
     {
         "id": "A2-130",
@@ -1727,7 +1727,7 @@
             "PALKIA"
         ],
         "type": "COLORLESS",
-        "original": "A2-130"
+        "firstPrint": "A2-130"
     },
     {
         "id": "A2-131",
@@ -1741,7 +1741,7 @@
             "PALKIA"
         ],
         "type": "COLORLESS",
-        "original": "A2-131"
+        "firstPrint": "A2-131"
     },
     {
         "id": "A2-132",
@@ -1754,7 +1754,7 @@
             "PALKIA"
         ],
         "type": "COLORLESS",
-        "original": "A2-132"
+        "firstPrint": "A2-132"
     },
     {
         "id": "A2-133",
@@ -1767,7 +1767,7 @@
             "PALKIA"
         ],
         "type": "COLORLESS",
-        "original": "A2-133"
+        "firstPrint": "A2-133"
     },
     {
         "id": "A2-134",
@@ -1780,7 +1780,7 @@
             "PALKIA"
         ],
         "type": "COLORLESS",
-        "original": "A2-134"
+        "firstPrint": "A2-134"
     },
     {
         "id": "A2-135",
@@ -1793,7 +1793,7 @@
             "DIALGA"
         ],
         "type": "COLORLESS",
-        "original": "A2-135"
+        "firstPrint": "A2-135"
     },
     {
         "id": "A2-136",
@@ -1806,7 +1806,7 @@
             "DIALGA"
         ],
         "type": "COLORLESS",
-        "original": "A2-136"
+        "firstPrint": "A2-136"
     },
     {
         "id": "A2-137",
@@ -1819,7 +1819,7 @@
             "DIALGA"
         ],
         "type": "COLORLESS",
-        "original": "A2-137"
+        "firstPrint": "A2-137"
     },
     {
         "id": "A2-138",
@@ -1832,7 +1832,7 @@
             "DIALGA"
         ],
         "type": "COLORLESS",
-        "original": "A2-138"
+        "firstPrint": "A2-138"
     },
     {
         "id": "A2-139",
@@ -1845,7 +1845,7 @@
             "PALKIA"
         ],
         "type": "COLORLESS",
-        "original": "A2-139"
+        "firstPrint": "A2-139"
     },
     {
         "id": "A2-140",
@@ -1858,7 +1858,7 @@
             "PALKIA"
         ],
         "type": "COLORLESS",
-        "original": "A2-140"
+        "firstPrint": "A2-140"
     },
     {
         "id": "A2-141",
@@ -1871,7 +1871,7 @@
             "PALKIA"
         ],
         "type": "COLORLESS",
-        "original": "A2-141"
+        "firstPrint": "A2-141"
     },
     {
         "id": "A2-142",
@@ -1885,7 +1885,7 @@
             "PALKIA"
         ],
         "type": "COLORLESS",
-        "original": "A2-142"
+        "firstPrint": "A2-142"
     },
     {
         "id": "A2-143",
@@ -1899,7 +1899,7 @@
             "PALKIA"
         ],
         "type": "COLORLESS",
-        "original": "A2-143"
+        "firstPrint": "A2-143"
     },
     {
         "id": "A2-144",
@@ -1912,7 +1912,7 @@
             "DIALGA"
         ],
         "type": "TRAINER",
-        "original": "A2-144"
+        "firstPrint": "A2-144"
     },
     {
         "id": "A2-145",
@@ -1925,7 +1925,7 @@
             "PALKIA"
         ],
         "type": "TRAINER",
-        "original": "A2-145"
+        "firstPrint": "A2-145"
     },
     {
         "id": "A2-146",
@@ -1938,7 +1938,7 @@
             "DIALGA"
         ],
         "type": "TRAINER",
-        "original": "A2-146"
+        "firstPrint": "A2-146"
     },
     {
         "id": "A2-147",
@@ -1951,7 +1951,7 @@
             "DIALGA"
         ],
         "type": "TRAINER",
-        "original": "A2-147"
+        "firstPrint": "A2-147"
     },
     {
         "id": "A2-148",
@@ -1964,7 +1964,7 @@
             "PALKIA"
         ],
         "type": "TRAINER",
-        "original": "A2-148"
+        "firstPrint": "A2-148"
     },
     {
         "id": "A2-149",
@@ -1977,7 +1977,7 @@
             "PALKIA"
         ],
         "type": "TRAINER",
-        "original": "A2-149"
+        "firstPrint": "A2-149"
     },
     {
         "id": "A2-150",
@@ -1990,7 +1990,7 @@
             "PALKIA"
         ],
         "type": "TRAINER",
-        "original": "A2-150"
+        "firstPrint": "A2-150"
     },
     {
         "id": "A2-151",
@@ -2003,7 +2003,7 @@
             "DIALGA"
         ],
         "type": "TRAINER",
-        "original": "A2-151"
+        "firstPrint": "A2-151"
     },
     {
         "id": "A2-152",
@@ -2016,7 +2016,7 @@
             "PALKIA"
         ],
         "type": "TRAINER",
-        "original": "A2-152"
+        "firstPrint": "A2-152"
     },
     {
         "id": "A2-153",
@@ -2029,7 +2029,7 @@
             "DIALGA"
         ],
         "type": "TRAINER",
-        "original": "A2-153"
+        "firstPrint": "A2-153"
     },
     {
         "id": "A2-154",
@@ -2042,7 +2042,7 @@
             "DIALGA"
         ],
         "type": "TRAINER",
-        "original": "A2-154"
+        "firstPrint": "A2-154"
     },
     {
         "id": "A2-155",
@@ -2055,7 +2055,7 @@
             "PALKIA"
         ],
         "type": "TRAINER",
-        "original": "A2-155"
+        "firstPrint": "A2-155"
     },
     {
         "id": "A2-156",
@@ -2068,7 +2068,7 @@
             "DIALGA"
         ],
         "type": "GRASS",
-        "original": "A2-156"
+        "firstPrint": "A2-156"
     },
     {
         "id": "A2-157",
@@ -2081,7 +2081,7 @@
             "DIALGA"
         ],
         "type": "GRASS",
-        "original": "A2-157"
+        "firstPrint": "A2-157"
     },
     {
         "id": "A2-158",
@@ -2094,7 +2094,7 @@
             "PALKIA"
         ],
         "type": "GRASS",
-        "original": "A2-158"
+        "firstPrint": "A2-158"
     },
     {
         "id": "A2-159",
@@ -2107,7 +2107,7 @@
             "DIALGA"
         ],
         "type": "GRASS",
-        "original": "A2-159"
+        "firstPrint": "A2-159"
     },
     {
         "id": "A2-160",
@@ -2120,7 +2120,7 @@
             "DIALGA"
         ],
         "type": "WATER",
-        "original": "A2-160"
+        "firstPrint": "A2-160"
     },
     {
         "id": "A2-161",
@@ -2133,7 +2133,7 @@
             "PALKIA"
         ],
         "type": "WATER",
-        "original": "A2-161"
+        "firstPrint": "A2-161"
     },
     {
         "id": "A2-162",
@@ -2146,7 +2146,7 @@
             "PALKIA"
         ],
         "type": "WATER",
-        "original": "A2-162"
+        "firstPrint": "A2-162"
     },
     {
         "id": "A2-163",
@@ -2159,7 +2159,7 @@
             "DIALGA"
         ],
         "type": "LIGHTNING",
-        "original": "A2-163"
+        "firstPrint": "A2-163"
     },
     {
         "id": "A2-164",
@@ -2172,7 +2172,7 @@
             "PALKIA"
         ],
         "type": "LIGHTNING",
-        "original": "A2-164"
+        "firstPrint": "A2-164"
     },
     {
         "id": "A2-165",
@@ -2185,7 +2185,7 @@
             "DIALGA"
         ],
         "type": "PSYCHIC",
-        "original": "A2-165"
+        "firstPrint": "A2-165"
     },
     {
         "id": "A2-166",
@@ -2198,7 +2198,7 @@
             "DIALGA"
         ],
         "type": "PSYCHIC",
-        "original": "A2-166"
+        "firstPrint": "A2-166"
     },
     {
         "id": "A2-167",
@@ -2211,7 +2211,7 @@
             "PALKIA"
         ],
         "type": "PSYCHIC",
-        "original": "A2-167"
+        "firstPrint": "A2-167"
     },
     {
         "id": "A2-168",
@@ -2224,7 +2224,7 @@
             "PALKIA"
         ],
         "type": "PSYCHIC",
-        "original": "A2-168"
+        "firstPrint": "A2-168"
     },
     {
         "id": "A2-169",
@@ -2237,7 +2237,7 @@
             "PALKIA"
         ],
         "type": "FIGHTING",
-        "original": "A2-169"
+        "firstPrint": "A2-169"
     },
     {
         "id": "A2-170",
@@ -2250,7 +2250,7 @@
             "DIALGA"
         ],
         "type": "FIGHTING",
-        "original": "A2-170"
+        "firstPrint": "A2-170"
     },
     {
         "id": "A2-171",
@@ -2263,7 +2263,7 @@
             "PALKIA"
         ],
         "type": "FIGHTING",
-        "original": "A2-171"
+        "firstPrint": "A2-171"
     },
     {
         "id": "A2-172",
@@ -2276,7 +2276,7 @@
             "PALKIA"
         ],
         "type": "DARKNESS",
-        "original": "A2-172"
+        "firstPrint": "A2-172"
     },
     {
         "id": "A2-173",
@@ -2289,7 +2289,7 @@
             "DIALGA"
         ],
         "type": "DARKNESS",
-        "original": "A2-173"
+        "firstPrint": "A2-173"
     },
     {
         "id": "A2-174",
@@ -2302,7 +2302,7 @@
             "DIALGA"
         ],
         "type": "METAL",
-        "original": "A2-174"
+        "firstPrint": "A2-174"
     },
     {
         "id": "A2-175",
@@ -2315,7 +2315,7 @@
             "PALKIA"
         ],
         "type": "DRAGON",
-        "original": "A2-175"
+        "firstPrint": "A2-175"
     },
     {
         "id": "A2-176",
@@ -2328,7 +2328,7 @@
             "PALKIA"
         ],
         "type": "COLORLESS",
-        "original": "A2-176"
+        "firstPrint": "A2-176"
     },
     {
         "id": "A2-177",
@@ -2341,7 +2341,7 @@
             "DIALGA"
         ],
         "type": "COLORLESS",
-        "original": "A2-177"
+        "firstPrint": "A2-177"
     },
     {
         "id": "A2-178",
@@ -2354,7 +2354,7 @@
             "PALKIA"
         ],
         "type": "COLORLESS",
-        "original": "A2-178"
+        "firstPrint": "A2-178"
     },
     {
         "id": "A2-179",
@@ -2367,7 +2367,7 @@
             "DIALGA"
         ],
         "type": "COLORLESS",
-        "original": "A2-179"
+        "firstPrint": "A2-179"
     },
     {
         "id": "A2-180",
@@ -2380,7 +2380,7 @@
             "DIALGA"
         ],
         "type": "GRASS",
-        "original": "A2-180"
+        "firstPrint": "A2-180"
     },
     {
         "id": "A2-181",
@@ -2393,7 +2393,7 @@
             "PALKIA"
         ],
         "type": "FIRE",
-        "original": "A2-181"
+        "firstPrint": "A2-181"
     },
     {
         "id": "A2-182",
@@ -2406,7 +2406,7 @@
             "PALKIA"
         ],
         "type": "WATER",
-        "original": "A2-182"
+        "firstPrint": "A2-182"
     },
     {
         "id": "A2-183",
@@ -2419,7 +2419,7 @@
             "DIALGA"
         ],
         "type": "LIGHTNING",
-        "original": "A2-183"
+        "firstPrint": "A2-183"
     },
     {
         "id": "A2-184",
@@ -2432,7 +2432,7 @@
             "PALKIA"
         ],
         "type": "PSYCHIC",
-        "original": "A2-184"
+        "firstPrint": "A2-184"
     },
     {
         "id": "A2-185",
@@ -2445,7 +2445,7 @@
             "DIALGA"
         ],
         "type": "FIGHTING",
-        "original": "A2-185"
+        "firstPrint": "A2-185"
     },
     {
         "id": "A2-186",
@@ -2458,7 +2458,7 @@
             "PALKIA"
         ],
         "type": "DARKNESS",
-        "original": "A2-186"
+        "firstPrint": "A2-186"
     },
     {
         "id": "A2-187",
@@ -2471,7 +2471,7 @@
             "DIALGA"
         ],
         "type": "DARKNESS",
-        "original": "A2-187"
+        "firstPrint": "A2-187"
     },
     {
         "id": "A2-188",
@@ -2484,7 +2484,7 @@
             "DIALGA"
         ],
         "type": "METAL",
-        "original": "A2-188"
+        "firstPrint": "A2-188"
     },
     {
         "id": "A2-189",
@@ -2497,7 +2497,7 @@
             "PALKIA"
         ],
         "type": "COLORLESS",
-        "original": "A2-189"
+        "firstPrint": "A2-189"
     },
     {
         "id": "A2-190",
@@ -2510,7 +2510,7 @@
             "PALKIA"
         ],
         "type": "TRAINER",
-        "original": "A2-190"
+        "firstPrint": "A2-190"
     },
     {
         "id": "A2-191",
@@ -2523,7 +2523,7 @@
             "DIALGA"
         ],
         "type": "TRAINER",
-        "original": "A2-191"
+        "firstPrint": "A2-191"
     },
     {
         "id": "A2-192",
@@ -2536,7 +2536,7 @@
             "PALKIA"
         ],
         "type": "TRAINER",
-        "original": "A2-192"
+        "firstPrint": "A2-192"
     },
     {
         "id": "A2-193",
@@ -2549,7 +2549,7 @@
             "DIALGA"
         ],
         "type": "TRAINER",
-        "original": "A2-193"
+        "firstPrint": "A2-193"
     },
     {
         "id": "A2-194",
@@ -2562,7 +2562,7 @@
             "DIALGA"
         ],
         "type": "TRAINER",
-        "original": "A2-194"
+        "firstPrint": "A2-194"
     },
     {
         "id": "A2-195",
@@ -2575,7 +2575,7 @@
             "PALKIA"
         ],
         "type": "TRAINER",
-        "original": "A2-195"
+        "firstPrint": "A2-195"
     },
     {
         "id": "A2-196",
@@ -2588,7 +2588,7 @@
             "DIALGA"
         ],
         "type": "GRASS",
-        "original": "A2-196"
+        "firstPrint": "A2-196"
     },
     {
         "id": "A2-197",
@@ -2601,7 +2601,7 @@
             "PALKIA"
         ],
         "type": "FIRE",
-        "original": "A2-197"
+        "firstPrint": "A2-197"
     },
     {
         "id": "A2-198",
@@ -2614,7 +2614,7 @@
             "DIALGA"
         ],
         "type": "LIGHTNING",
-        "original": "A2-198"
+        "firstPrint": "A2-198"
     },
     {
         "id": "A2-199",
@@ -2627,7 +2627,7 @@
             "PALKIA"
         ],
         "type": "PSYCHIC",
-        "original": "A2-199"
+        "firstPrint": "A2-199"
     },
     {
         "id": "A2-200",
@@ -2640,7 +2640,7 @@
             "DIALGA"
         ],
         "type": "FIGHTING",
-        "original": "A2-200"
+        "firstPrint": "A2-200"
     },
     {
         "id": "A2-201",
@@ -2653,7 +2653,7 @@
             "PALKIA"
         ],
         "type": "DARKNESS",
-        "original": "A2-201"
+        "firstPrint": "A2-201"
     },
     {
         "id": "A2-202",
@@ -2666,7 +2666,7 @@
             "DIALGA"
         ],
         "type": "DARKNESS",
-        "original": "A2-202"
+        "firstPrint": "A2-202"
     },
     {
         "id": "A2-203",
@@ -2679,7 +2679,7 @@
             "PALKIA"
         ],
         "type": "COLORLESS",
-        "original": "A2-203"
+        "firstPrint": "A2-203"
     },
     {
         "id": "A2-204",
@@ -2692,7 +2692,7 @@
             "PALKIA"
         ],
         "type": "WATER",
-        "original": "A2-204"
+        "firstPrint": "A2-204"
     },
     {
         "id": "A2-205",
@@ -2705,7 +2705,7 @@
             "DIALGA"
         ],
         "type": "METAL",
-        "original": "A2-205"
+        "firstPrint": "A2-205"
     },
     {
         "id": "A2-206",
@@ -2719,7 +2719,7 @@
             "PALKIA"
         ],
         "type": "WATER",
-        "original": "A2-206"
+        "firstPrint": "A2-206"
     },
     {
         "id": "A2-207",
@@ -2733,6 +2733,6 @@
             "PALKIA"
         ],
         "type": "METAL",
-        "original": "A2-207"
+        "firstPrint": "A2-207"
     }
 ]

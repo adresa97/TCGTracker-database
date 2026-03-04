@@ -10,7 +10,7 @@
             "SUICUNE"
         ],
         "type": "GRASS",
-        "original": "A4a-001"
+        "firstPrint": "A4a-001"
     },
     {
         "id": "A4a-002",
@@ -23,7 +23,7 @@
             "SUICUNE"
         ],
         "type": "GRASS",
-        "original": "A4a-002"
+        "firstPrint": "A4a-002"
     },
     {
         "id": "A4a-003",
@@ -36,7 +36,7 @@
             "SUICUNE"
         ],
         "type": "GRASS",
-        "original": "A4a-003"
+        "firstPrint": "A4a-003"
     },
     {
         "id": "A4a-004",
@@ -49,7 +49,7 @@
             "SUICUNE"
         ],
         "type": "GRASS",
-        "original": "A4a-004"
+        "firstPrint": "A4a-004"
     },
     {
         "id": "A4a-005",
@@ -62,7 +62,7 @@
             "SUICUNE"
         ],
         "type": "GRASS",
-        "original": "A4a-005"
+        "firstPrint": "A4a-005"
     },
     {
         "id": "A4a-006",
@@ -75,7 +75,7 @@
             "SUICUNE"
         ],
         "type": "GRASS",
-        "original": "A4a-006"
+        "firstPrint": "A4a-006"
     },
     {
         "id": "A4a-007",
@@ -88,7 +88,7 @@
             "SUICUNE"
         ],
         "type": "GRASS",
-        "original": "A4a-007"
+        "firstPrint": "A4a-007"
     },
     {
         "id": "A4a-008",
@@ -101,7 +101,7 @@
             "SUICUNE"
         ],
         "type": "FIRE",
-        "original": "A4a-008"
+        "firstPrint": "A4a-008"
     },
     {
         "id": "A4a-009",
@@ -114,7 +114,7 @@
             "SUICUNE"
         ],
         "type": "FIRE",
-        "original": "A4a-009"
+        "firstPrint": "A4a-009"
     },
     {
         "id": "A4a-010",
@@ -127,7 +127,7 @@
             "SUICUNE"
         ],
         "type": "FIRE",
-        "original": "A4a-010"
+        "firstPrint": "A4a-010"
     },
     {
         "id": "A4a-011",
@@ -140,7 +140,7 @@
             "SUICUNE"
         ],
         "type": "FIRE",
-        "original": "A4a-011"
+        "firstPrint": "A4a-011"
     },
     {
         "id": "A4a-012",
@@ -153,7 +153,7 @@
             "SUICUNE"
         ],
         "type": "FIRE",
-        "original": "A4a-012"
+        "firstPrint": "A4a-012"
     },
     {
         "id": "A4a-013",
@@ -166,7 +166,7 @@
             "SUICUNE"
         ],
         "type": "WATER",
-        "original": "A4a-013"
+        "firstPrint": "A4a-013"
     },
     {
         "id": "A4a-014",
@@ -179,7 +179,7 @@
             "SUICUNE"
         ],
         "type": "WATER",
-        "original": "A4a-014"
+        "firstPrint": "A4a-014"
     },
     {
         "id": "A4a-015",
@@ -192,7 +192,7 @@
             "SUICUNE"
         ],
         "type": "WATER",
-        "original": "A4a-015"
+        "firstPrint": "A4a-015"
     },
     {
         "id": "A4a-016",
@@ -205,7 +205,7 @@
             "SUICUNE"
         ],
         "type": "WATER",
-        "original": "A4a-016"
+        "firstPrint": "A4a-016"
     },
     {
         "id": "A4a-017",
@@ -218,7 +218,7 @@
             "SUICUNE"
         ],
         "type": "WATER",
-        "original": "A4a-017"
+        "firstPrint": "A4a-017"
     },
     {
         "id": "A4a-018",
@@ -231,7 +231,7 @@
             "SUICUNE"
         ],
         "type": "WATER",
-        "original": "A4a-018"
+        "firstPrint": "A4a-018"
     },
     {
         "id": "A4a-019",
@@ -244,7 +244,7 @@
             "SUICUNE"
         ],
         "type": "WATER",
-        "original": "A4a-019"
+        "firstPrint": "A4a-019"
     },
     {
         "id": "A4a-020",
@@ -257,7 +257,7 @@
             "SUICUNE"
         ],
         "type": "WATER",
-        "original": "A4a-020"
+        "firstPrint": "A4a-020"
     },
     {
         "id": "A4a-021",
@@ -270,7 +270,7 @@
             "SUICUNE"
         ],
         "type": "WATER",
-        "original": "A4a-021"
+        "firstPrint": "A4a-021"
     },
     {
         "id": "A4a-022",
@@ -283,7 +283,7 @@
             "SUICUNE"
         ],
         "type": "WATER",
-        "original": "A4a-022"
+        "firstPrint": "A4a-022"
     },
     {
         "id": "A4a-023",
@@ -297,7 +297,7 @@
         ],
         "type": "WATER",
         "extra": true,
-        "original": "A4a-023"
+        "firstPrint": "A4a-023"
     },
     {
         "id": "A4a-024",
@@ -310,7 +310,7 @@
             "SUICUNE"
         ],
         "type": "WATER",
-        "original": "A4a-024"
+        "firstPrint": "A4a-024"
     },
     {
         "id": "A4a-025",
@@ -323,7 +323,7 @@
             "SUICUNE"
         ],
         "type": "LIGHTNING",
-        "original": "A4a-025"
+        "firstPrint": "A4a-025"
     },
     {
         "id": "A4a-026",
@@ -336,7 +336,7 @@
             "SUICUNE"
         ],
         "type": "LIGHTNING",
-        "original": "A4a-026"
+        "firstPrint": "A4a-026"
     },
     {
         "id": "A4a-027",
@@ -349,7 +349,7 @@
             "SUICUNE"
         ],
         "type": "LIGHTNING",
-        "original": "A4a-027"
+        "firstPrint": "A4a-027"
     },
     {
         "id": "A4a-028",
@@ -362,7 +362,7 @@
             "SUICUNE"
         ],
         "type": "LIGHTNING",
-        "original": "A4a-028"
+        "firstPrint": "A4a-028"
     },
     {
         "id": "A4a-029",
@@ -375,7 +375,7 @@
             "SUICUNE"
         ],
         "type": "LIGHTNING",
-        "original": "A4a-029"
+        "firstPrint": "A4a-029"
     },
     {
         "id": "A4a-030",
@@ -388,7 +388,7 @@
             "SUICUNE"
         ],
         "type": "LIGHTNING",
-        "original": "A4a-030"
+        "firstPrint": "A4a-030"
     },
     {
         "id": "A4a-031",
@@ -401,7 +401,7 @@
             "SUICUNE"
         ],
         "type": "LIGHTNING",
-        "original": "A4a-031"
+        "firstPrint": "A4a-031"
     },
     {
         "id": "A4a-032",
@@ -414,7 +414,7 @@
             "SUICUNE"
         ],
         "type": "PSYCHIC",
-        "original": "A4a-032"
+        "firstPrint": "A4a-032"
     },
     {
         "id": "A4a-033",
@@ -427,7 +427,7 @@
             "SUICUNE"
         ],
         "type": "PSYCHIC",
-        "original": "A4a-033"
+        "firstPrint": "A4a-033"
     },
     {
         "id": "A4a-034",
@@ -440,7 +440,7 @@
             "SUICUNE"
         ],
         "type": "PSYCHIC",
-        "original": "A4a-034"
+        "firstPrint": "A4a-034"
     },
     {
         "id": "A4a-035",
@@ -453,7 +453,7 @@
             "SUICUNE"
         ],
         "type": "PSYCHIC",
-        "original": "A4a-035"
+        "firstPrint": "A4a-035"
     },
     {
         "id": "A4a-036",
@@ -466,7 +466,7 @@
             "SUICUNE"
         ],
         "type": "PSYCHIC",
-        "original": "A4a-036"
+        "firstPrint": "A4a-036"
     },
     {
         "id": "A4a-037",
@@ -479,7 +479,7 @@
             "SUICUNE"
         ],
         "type": "PSYCHIC",
-        "original": "A4a-037"
+        "firstPrint": "A4a-037"
     },
     {
         "id": "A4a-038",
@@ -492,7 +492,7 @@
             "SUICUNE"
         ],
         "type": "PSYCHIC",
-        "original": "A4a-038"
+        "firstPrint": "A4a-038"
     },
     {
         "id": "A4a-039",
@@ -505,7 +505,7 @@
             "SUICUNE"
         ],
         "type": "PSYCHIC",
-        "original": "A4a-039"
+        "firstPrint": "A4a-039"
     },
     {
         "id": "A4a-040",
@@ -518,7 +518,7 @@
             "SUICUNE"
         ],
         "type": "FIGHTING",
-        "original": "A4a-040"
+        "firstPrint": "A4a-040"
     },
     {
         "id": "A4a-041",
@@ -531,7 +531,7 @@
             "SUICUNE"
         ],
         "type": "FIGHTING",
-        "original": "A4a-041"
+        "firstPrint": "A4a-041"
     },
     {
         "id": "A4a-042",
@@ -544,7 +544,7 @@
             "SUICUNE"
         ],
         "type": "FIGHTING",
-        "original": "A4a-042"
+        "firstPrint": "A4a-042"
     },
     {
         "id": "A4a-043",
@@ -557,7 +557,7 @@
             "SUICUNE"
         ],
         "type": "FIGHTING",
-        "original": "A4a-043"
+        "firstPrint": "A4a-043"
     },
     {
         "id": "A4a-044",
@@ -570,7 +570,7 @@
             "SUICUNE"
         ],
         "type": "FIGHTING",
-        "original": "A4a-044"
+        "firstPrint": "A4a-044"
     },
     {
         "id": "A4a-045",
@@ -583,7 +583,7 @@
             "SUICUNE"
         ],
         "type": "FIGHTING",
-        "original": "A4a-045"
+        "firstPrint": "A4a-045"
     },
     {
         "id": "A4a-046",
@@ -596,7 +596,7 @@
             "SUICUNE"
         ],
         "type": "FIGHTING",
-        "original": "A4a-046"
+        "firstPrint": "A4a-046"
     },
     {
         "id": "A4a-047",
@@ -609,7 +609,7 @@
             "SUICUNE"
         ],
         "type": "FIGHTING",
-        "original": "A4a-047"
+        "firstPrint": "A4a-047"
     },
     {
         "id": "A4a-048",
@@ -622,7 +622,7 @@
             "SUICUNE"
         ],
         "type": "DARKNESS",
-        "original": "A4a-048"
+        "firstPrint": "A4a-048"
     },
     {
         "id": "A4a-049",
@@ -635,7 +635,7 @@
             "SUICUNE"
         ],
         "type": "DARKNESS",
-        "original": "A4a-049"
+        "firstPrint": "A4a-049"
     },
     {
         "id": "A4a-050",
@@ -648,7 +648,7 @@
             "SUICUNE"
         ],
         "type": "DARKNESS",
-        "original": "A4a-050"
+        "firstPrint": "A4a-050"
     },
     {
         "id": "A4a-051",
@@ -661,7 +661,7 @@
             "SUICUNE"
         ],
         "type": "DARKNESS",
-        "original": "A4a-051"
+        "firstPrint": "A4a-051"
     },
     {
         "id": "A4a-052",
@@ -674,7 +674,7 @@
             "SUICUNE"
         ],
         "type": "DARKNESS",
-        "original": "A4a-052"
+        "firstPrint": "A4a-052"
     },
     {
         "id": "A4a-053",
@@ -687,7 +687,7 @@
             "SUICUNE"
         ],
         "type": "DARKNESS",
-        "original": "A4a-053"
+        "firstPrint": "A4a-053"
     },
     {
         "id": "A4a-054",
@@ -700,7 +700,7 @@
             "SUICUNE"
         ],
         "type": "DARKNESS",
-        "original": "A4a-054"
+        "firstPrint": "A4a-054"
     },
     {
         "id": "A4a-055",
@@ -713,7 +713,7 @@
             "SUICUNE"
         ],
         "type": "TRAINER",
-        "original": "A4a-055"
+        "firstPrint": "A4a-055"
     },
     {
         "id": "A4a-056",
@@ -726,7 +726,7 @@
             "SUICUNE"
         ],
         "type": "COLORLESS",
-        "original": "A4a-056"
+        "firstPrint": "A4a-056"
     },
     {
         "id": "A4a-057",
@@ -739,7 +739,7 @@
             "SUICUNE"
         ],
         "type": "COLORLESS",
-        "original": "A4a-057"
+        "firstPrint": "A4a-057"
     },
     {
         "id": "A4a-058",
@@ -752,7 +752,7 @@
             "SUICUNE"
         ],
         "type": "COLORLESS",
-        "original": "A4a-058"
+        "firstPrint": "A4a-058"
     },
     {
         "id": "A4a-059",
@@ -766,7 +766,7 @@
         ],
         "type": "COLORLESS",
         "extra": true,
-        "original": "A4a-059"
+        "firstPrint": "A4a-059"
     },
     {
         "id": "A4a-060",
@@ -779,7 +779,7 @@
             "SUICUNE"
         ],
         "type": "COLORLESS",
-        "original": "A4a-060"
+        "firstPrint": "A4a-060"
     },
     {
         "id": "A4a-061",
@@ -792,7 +792,7 @@
             "SUICUNE"
         ],
         "type": "COLORLESS",
-        "original": "A4a-061"
+        "firstPrint": "A4a-061"
     },
     {
         "id": "A4a-062",
@@ -805,7 +805,7 @@
             "SUICUNE"
         ],
         "type": "COLORLESS",
-        "original": "A4a-062"
+        "firstPrint": "A4a-062"
     },
     {
         "id": "A4a-063",
@@ -819,7 +819,7 @@
         ],
         "type": "COLORLESS",
         "extra": true,
-        "original": "A4a-063"
+        "firstPrint": "A4a-063"
     },
     {
         "id": "A4a-064",
@@ -832,7 +832,7 @@
             "SUICUNE"
         ],
         "type": "COLORLESS",
-        "original": "A4a-064"
+        "firstPrint": "A4a-064"
     },
     {
         "id": "A4a-065",
@@ -845,7 +845,7 @@
             "SUICUNE"
         ],
         "type": "COLORLESS",
-        "original": "A4a-065"
+        "firstPrint": "A4a-065"
     },
     {
         "id": "A4a-066",
@@ -858,7 +858,7 @@
             "SUICUNE"
         ],
         "type": "COLORLESS",
-        "original": "A4a-066"
+        "firstPrint": "A4a-066"
     },
     {
         "id": "A4a-067",
@@ -871,7 +871,7 @@
             "SUICUNE"
         ],
         "type": "TRAINER",
-        "original": "A4a-067"
+        "firstPrint": "A4a-067"
     },
     {
         "id": "A4a-068",
@@ -884,7 +884,7 @@
             "SUICUNE"
         ],
         "type": "TRAINER",
-        "original": "A4a-068"
+        "firstPrint": "A4a-068"
     },
     {
         "id": "A4a-069",
@@ -897,7 +897,7 @@
             "SUICUNE"
         ],
         "type": "TRAINER",
-        "original": "A4a-069"
+        "firstPrint": "A4a-069"
     },
     {
         "id": "A4a-070",
@@ -910,7 +910,7 @@
             "SUICUNE"
         ],
         "type": "TRAINER",
-        "original": "A4a-070"
+        "firstPrint": "A4a-070"
     },
     {
         "id": "A4a-071",
@@ -923,7 +923,7 @@
             "SUICUNE"
         ],
         "type": "TRAINER",
-        "original": "A4a-071"
+        "firstPrint": "A4a-071"
     },
     {
         "id": "A4a-072",
@@ -936,7 +936,7 @@
             "SUICUNE"
         ],
         "type": "WATER",
-        "original": "A4a-072"
+        "firstPrint": "A4a-072"
     },
     {
         "id": "A4a-073",
@@ -949,7 +949,7 @@
             "SUICUNE"
         ],
         "type": "LIGHTNING",
-        "original": "A4a-073"
+        "firstPrint": "A4a-073"
     },
     {
         "id": "A4a-074",
@@ -962,7 +962,7 @@
             "SUICUNE"
         ],
         "type": "LIGHTNING",
-        "original": "A4a-074"
+        "firstPrint": "A4a-074"
     },
     {
         "id": "A4a-075",
@@ -975,7 +975,7 @@
             "SUICUNE"
         ],
         "type": "PSYCHIC",
-        "original": "A4a-075"
+        "firstPrint": "A4a-075"
     },
     {
         "id": "A4a-076",
@@ -988,7 +988,7 @@
             "SUICUNE"
         ],
         "type": "FIGHTING",
-        "original": "A4a-076"
+        "firstPrint": "A4a-076"
     },
     {
         "id": "A4a-077",
@@ -1002,7 +1002,7 @@
         ],
         "type": "COLORLESS",
         "extra": true,
-        "original": "A4a-077"
+        "firstPrint": "A4a-077"
     },
     {
         "id": "A4a-078",
@@ -1015,7 +1015,7 @@
             "SUICUNE"
         ],
         "type": "GRASS",
-        "original": "A4a-078"
+        "firstPrint": "A4a-078"
     },
     {
         "id": "A4a-079",
@@ -1028,7 +1028,7 @@
             "SUICUNE"
         ],
         "type": "FIRE",
-        "original": "A4a-079"
+        "firstPrint": "A4a-079"
     },
     {
         "id": "A4a-080",
@@ -1041,7 +1041,7 @@
             "SUICUNE"
         ],
         "type": "WATER",
-        "original": "A4a-080"
+        "firstPrint": "A4a-080"
     },
     {
         "id": "A4a-081",
@@ -1054,7 +1054,7 @@
             "SUICUNE"
         ],
         "type": "LIGHTNING",
-        "original": "A4a-081"
+        "firstPrint": "A4a-081"
     },
     {
         "id": "A4a-082",
@@ -1067,7 +1067,7 @@
             "SUICUNE"
         ],
         "type": "FIGHTING",
-        "original": "A4a-082"
+        "firstPrint": "A4a-082"
     },
     {
         "id": "A4a-083",
@@ -1080,7 +1080,7 @@
             "SUICUNE"
         ],
         "type": "TRAINER",
-        "original": "A4a-083"
+        "firstPrint": "A4a-083"
     },
     {
         "id": "A4a-084",
@@ -1093,7 +1093,7 @@
             "SUICUNE"
         ],
         "type": "TRAINER",
-        "original": "A4a-084"
+        "firstPrint": "A4a-084"
     },
     {
         "id": "A4a-085",
@@ -1106,7 +1106,7 @@
             "SUICUNE"
         ],
         "type": "TRAINER",
-        "original": "A4a-085"
+        "firstPrint": "A4a-085"
     },
     {
         "id": "A4a-086",
@@ -1119,7 +1119,7 @@
             "SUICUNE"
         ],
         "type": "GRASS",
-        "original": "A4a-086"
+        "firstPrint": "A4a-086"
     },
     {
         "id": "A4a-087",
@@ -1132,7 +1132,7 @@
             "SUICUNE"
         ],
         "type": "FIRE",
-        "original": "A4a-087"
+        "firstPrint": "A4a-087"
     },
     {
         "id": "A4a-088",
@@ -1145,7 +1145,7 @@
             "SUICUNE"
         ],
         "type": "LIGHTNING",
-        "original": "A4a-088"
+        "firstPrint": "A4a-088"
     },
     {
         "id": "A4a-089",
@@ -1158,7 +1158,7 @@
             "SUICUNE"
         ],
         "type": "FIGHTING",
-        "original": "A4a-089"
+        "firstPrint": "A4a-089"
     },
     {
         "id": "A4a-090",
@@ -1171,7 +1171,7 @@
             "SUICUNE"
         ],
         "type": "WATER",
-        "original": "A4a-090"
+        "firstPrint": "A4a-090"
     },
     {
         "id": "A4a-091",
@@ -1184,7 +1184,7 @@
             "SUICUNE"
         ],
         "type": "FIRE",
-        "original": "A4a-091"
+        "firstPrint": "A4a-091"
     },
     {
         "id": "A4a-092",
@@ -1197,7 +1197,7 @@
             "SUICUNE"
         ],
         "type": "FIRE",
-        "original": "A4a-092"
+        "firstPrint": "A4a-092"
     },
     {
         "id": "A4a-093",
@@ -1210,7 +1210,7 @@
             "SUICUNE"
         ],
         "type": "WATER",
-        "original": "A4a-093"
+        "firstPrint": "A4a-093"
     },
     {
         "id": "A4a-094",
@@ -1223,7 +1223,7 @@
             "SUICUNE"
         ],
         "type": "WATER",
-        "original": "A4a-094"
+        "firstPrint": "A4a-094"
     },
     {
         "id": "A4a-095",
@@ -1236,7 +1236,7 @@
             "SUICUNE"
         ],
         "type": "WATER",
-        "original": "A4a-095"
+        "firstPrint": "A4a-095"
     },
     {
         "id": "A4a-096",
@@ -1249,7 +1249,7 @@
             "SUICUNE"
         ],
         "type": "WATER",
-        "original": "A4a-096"
+        "firstPrint": "A4a-096"
     },
     {
         "id": "A4a-097",
@@ -1262,7 +1262,7 @@
             "SUICUNE"
         ],
         "type": "WATER",
-        "original": "A4a-097"
+        "firstPrint": "A4a-097"
     },
     {
         "id": "A4a-098",
@@ -1275,7 +1275,7 @@
             "SUICUNE"
         ],
         "type": "FIGHTING",
-        "original": "A4a-098"
+        "firstPrint": "A4a-098"
     },
     {
         "id": "A4a-099",
@@ -1288,7 +1288,7 @@
             "SUICUNE"
         ],
         "type": "FIGHTING",
-        "original": "A4a-099"
+        "firstPrint": "A4a-099"
     },
     {
         "id": "A4a-100",
@@ -1301,7 +1301,7 @@
             "SUICUNE"
         ],
         "type": "DARKNESS",
-        "original": "A4a-100"
+        "firstPrint": "A4a-100"
     },
     {
         "id": "A4a-101",
@@ -1314,7 +1314,7 @@
             "SUICUNE"
         ],
         "type": "FIRE",
-        "original": "A4a-101"
+        "firstPrint": "A4a-101"
     },
     {
         "id": "A4a-102",
@@ -1327,7 +1327,7 @@
             "SUICUNE"
         ],
         "type": "PSYCHIC",
-        "original": "A4a-102"
+        "firstPrint": "A4a-102"
     },
     {
         "id": "A4a-103",
@@ -1340,7 +1340,7 @@
             "SUICUNE"
         ],
         "type": "FIGHTING",
-        "original": "A4a-103"
+        "firstPrint": "A4a-103"
     },
     {
         "id": "A4a-104",
@@ -1353,7 +1353,7 @@
             "SUICUNE"
         ],
         "type": "DARKNESS",
-        "original": "A4a-104"
+        "firstPrint": "A4a-104"
     },
     {
         "id": "A4a-105",
@@ -1366,6 +1366,6 @@
             "SUICUNE"
         ],
         "type": "WATER",
-        "original": "A4a-105"
+        "firstPrint": "A4a-105"
     }
 ]

@@ -10,7 +10,7 @@
             "MEGA_BLAZIKEN"
         ],
         "type": "GRASS",
-        "original": "B1-001"
+        "firstPrint": "B1-001"
     },
     {
         "id": "B1-002",
@@ -23,7 +23,7 @@
             "MEGA_BLAZIKEN"
         ],
         "type": "GRASS",
-        "original": "B1-002"
+        "firstPrint": "B1-002"
     },
     {
         "id": "B1-003",
@@ -36,7 +36,7 @@
             "MEGA_BLAZIKEN"
         ],
         "type": "GRASS",
-        "original": "B1-003"
+        "firstPrint": "B1-003"
     },
     {
         "id": "B1-004",
@@ -49,7 +49,7 @@
             "MEGA_BLAZIKEN"
         ],
         "type": "GRASS",
-        "original": "B1-004"
+        "firstPrint": "B1-004"
     },
     {
         "id": "B1-005",
@@ -62,7 +62,7 @@
             "MEGA_BLAZIKEN"
         ],
         "type": "GRASS",
-        "original": "B1-005"
+        "firstPrint": "B1-005"
     },
     {
         "id": "B1-006",
@@ -75,7 +75,7 @@
             "MEGA_BLAZIKEN"
         ],
         "type": "GRASS",
-        "original": "B1-006"
+        "firstPrint": "B1-006"
     },
     {
         "id": "B1-007",
@@ -88,7 +88,7 @@
             "MEGA_BLAZIKEN"
         ],
         "type": "GRASS",
-        "original": "B1-007"
+        "firstPrint": "B1-007"
     },
     {
         "id": "B1-008",
@@ -101,7 +101,7 @@
             "MEGA_BLAZIKEN"
         ],
         "type": "GRASS",
-        "original": "B1-008"
+        "firstPrint": "B1-008"
     },
     {
         "id": "B1-009",
@@ -114,7 +114,7 @@
             "MEGA_BLAZIKEN"
         ],
         "type": "GRASS",
-        "original": "B1-009"
+        "firstPrint": "B1-009"
     },
     {
         "id": "B1-010",
@@ -127,7 +127,7 @@
             "MEGA_BLAZIKEN"
         ],
         "type": "GRASS",
-        "original": "B1-010"
+        "firstPrint": "B1-010"
     },
     {
         "id": "B1-011",
@@ -142,7 +142,7 @@
             "MEGA_ALTARIA"
         ],
         "type": "GRASS",
-        "original": "B1-011"
+        "firstPrint": "B1-011"
     },
     {
         "id": "B1-012",
@@ -157,7 +157,7 @@
             "MEGA_ALTARIA"
         ],
         "type": "GRASS",
-        "original": "B1-012"
+        "firstPrint": "B1-012"
     },
     {
         "id": "B1-013",
@@ -170,7 +170,7 @@
             "MEGA_GYARADOS"
         ],
         "type": "GRASS",
-        "original": "B1-013"
+        "firstPrint": "B1-013"
     },
     {
         "id": "B1-014",
@@ -183,7 +183,7 @@
             "MEGA_GYARADOS"
         ],
         "type": "GRASS",
-        "original": "B1-014"
+        "firstPrint": "B1-014"
     },
     {
         "id": "B1-015",
@@ -196,7 +196,7 @@
             "MEGA_ALTARIA"
         ],
         "type": "GRASS",
-        "original": "B1-015"
+        "firstPrint": "B1-015"
     },
     {
         "id": "B1-016",
@@ -209,7 +209,7 @@
             "MEGA_ALTARIA"
         ],
         "type": "GRASS",
-        "original": "B1-016"
+        "firstPrint": "B1-016"
     },
     {
         "id": "B1-017",
@@ -222,7 +222,7 @@
             "MEGA_ALTARIA"
         ],
         "type": "GRASS",
-        "original": "B1-017"
+        "firstPrint": "B1-017"
     },
     {
         "id": "B1-018",
@@ -235,7 +235,7 @@
             "MEGA_ALTARIA"
         ],
         "type": "GRASS",
-        "original": "B1-018"
+        "firstPrint": "B1-018"
     },
     {
         "id": "B1-019",
@@ -250,7 +250,7 @@
             "MEGA_ALTARIA"
         ],
         "type": "GRASS",
-        "original": "B1-019"
+        "firstPrint": "B1-019"
     },
     {
         "id": "B1-020",
@@ -263,7 +263,7 @@
             "MEGA_ALTARIA"
         ],
         "type": "GRASS",
-        "original": "B1-020"
+        "firstPrint": "B1-020"
     },
     {
         "id": "B1-021",
@@ -276,7 +276,7 @@
             "MEGA_ALTARIA"
         ],
         "type": "GRASS",
-        "original": "B1-021"
+        "firstPrint": "B1-021"
     },
     {
         "id": "B1-022",
@@ -289,7 +289,7 @@
             "MEGA_ALTARIA"
         ],
         "type": "GRASS",
-        "original": "B1-022"
+        "firstPrint": "B1-022"
     },
     {
         "id": "B1-023",
@@ -304,7 +304,7 @@
             "MEGA_ALTARIA"
         ],
         "type": "GRASS",
-        "original": "B1-023"
+        "firstPrint": "B1-023"
     },
     {
         "id": "B1-024",
@@ -319,7 +319,7 @@
             "MEGA_ALTARIA"
         ],
         "type": "GRASS",
-        "original": "B1-024"
+        "firstPrint": "B1-024"
     },
     {
         "id": "B1-025",
@@ -332,7 +332,7 @@
             "MEGA_ALTARIA"
         ],
         "type": "GRASS",
-        "original": "B1-025"
+        "firstPrint": "B1-025"
     },
     {
         "id": "B1-026",
@@ -345,7 +345,7 @@
             "MEGA_ALTARIA"
         ],
         "type": "GRASS",
-        "original": "B1-026"
+        "firstPrint": "B1-026"
     },
     {
         "id": "B1-027",
@@ -358,7 +358,7 @@
             "MEGA_ALTARIA"
         ],
         "type": "GRASS",
-        "original": "B1-027"
+        "firstPrint": "B1-027"
     },
     {
         "id": "B1-028",
@@ -371,7 +371,7 @@
             "MEGA_BLAZIKEN"
         ],
         "type": "FIRE",
-        "original": "B1-028"
+        "firstPrint": "B1-028"
     },
     {
         "id": "B1-029",
@@ -384,7 +384,7 @@
             "MEGA_BLAZIKEN"
         ],
         "type": "FIRE",
-        "original": "B1-029"
+        "firstPrint": "B1-029"
     },
     {
         "id": "B1-030",
@@ -397,7 +397,7 @@
             "MEGA_BLAZIKEN"
         ],
         "type": "FIRE",
-        "original": "B1-030"
+        "firstPrint": "B1-030"
     },
     {
         "id": "B1-031",
@@ -410,7 +410,7 @@
             "MEGA_BLAZIKEN"
         ],
         "type": "FIRE",
-        "original": "B1-031"
+        "firstPrint": "B1-031"
     },
     {
         "id": "B1-032",
@@ -423,7 +423,7 @@
             "MEGA_BLAZIKEN"
         ],
         "type": "FIRE",
-        "original": "B1-032"
+        "firstPrint": "B1-032"
     },
     {
         "id": "B1-033",
@@ -436,7 +436,7 @@
             "MEGA_BLAZIKEN"
         ],
         "type": "FIRE",
-        "original": "B1-033"
+        "firstPrint": "B1-033"
     },
     {
         "id": "B1-034",
@@ -449,7 +449,7 @@
             "MEGA_BLAZIKEN"
         ],
         "type": "FIRE",
-        "original": "B1-034"
+        "firstPrint": "B1-034"
     },
     {
         "id": "B1-035",
@@ -462,7 +462,7 @@
             "MEGA_BLAZIKEN"
         ],
         "type": "FIRE",
-        "original": "B1-035"
+        "firstPrint": "B1-035"
     },
     {
         "id": "B1-036",
@@ -475,7 +475,7 @@
             "MEGA_BLAZIKEN"
         ],
         "type": "FIRE",
-        "original": "B1-036"
+        "firstPrint": "B1-036"
     },
     {
         "id": "B1-037",
@@ -488,7 +488,7 @@
             "MEGA_BLAZIKEN"
         ],
         "type": "FIRE",
-        "original": "B1-037"
+        "firstPrint": "B1-037"
     },
     {
         "id": "B1-038",
@@ -501,7 +501,7 @@
             "MEGA_BLAZIKEN"
         ],
         "type": "FIRE",
-        "original": "B1-038"
+        "firstPrint": "B1-038"
     },
     {
         "id": "B1-039",
@@ -514,7 +514,7 @@
             "MEGA_GYARADOS"
         ],
         "type": "FIRE",
-        "original": "B1-039"
+        "firstPrint": "B1-039"
     },
     {
         "id": "B1-040",
@@ -527,7 +527,7 @@
             "MEGA_GYARADOS"
         ],
         "type": "FIRE",
-        "original": "B1-040"
+        "firstPrint": "B1-040"
     },
     {
         "id": "B1-041",
@@ -540,7 +540,7 @@
             "MEGA_ALTARIA"
         ],
         "type": "FIRE",
-        "original": "B1-041"
+        "firstPrint": "B1-041"
     },
     {
         "id": "B1-042",
@@ -553,7 +553,7 @@
             "MEGA_ALTARIA"
         ],
         "type": "FIRE",
-        "original": "B1-042"
+        "firstPrint": "B1-042"
     },
     {
         "id": "B1-043",
@@ -566,7 +566,7 @@
             "MEGA_ALTARIA"
         ],
         "type": "FIRE",
-        "original": "B1-043"
+        "firstPrint": "B1-043"
     },
     {
         "id": "B1-044",
@@ -581,7 +581,7 @@
             "MEGA_ALTARIA"
         ],
         "type": "FIRE",
-        "original": "B1-044"
+        "firstPrint": "B1-044"
     },
     {
         "id": "B1-045",
@@ -594,7 +594,7 @@
             "MEGA_BLAZIKEN"
         ],
         "type": "FIRE",
-        "original": "B1-045"
+        "firstPrint": "B1-045"
     },
     {
         "id": "B1-046",
@@ -607,7 +607,7 @@
             "MEGA_BLAZIKEN"
         ],
         "type": "FIRE",
-        "original": "B1-046"
+        "firstPrint": "B1-046"
     },
     {
         "id": "B1-047",
@@ -620,7 +620,7 @@
             "MEGA_GYARADOS"
         ],
         "type": "FIRE",
-        "original": "B1-047"
+        "firstPrint": "B1-047"
     },
     {
         "id": "B1-048",
@@ -633,7 +633,7 @@
             "MEGA_BLAZIKEN"
         ],
         "type": "WATER",
-        "original": "B1-048"
+        "firstPrint": "B1-048"
     },
     {
         "id": "B1-049",
@@ -646,7 +646,7 @@
             "MEGA_BLAZIKEN"
         ],
         "type": "WATER",
-        "original": "B1-049"
+        "firstPrint": "B1-049"
     },
     {
         "id": "B1-050",
@@ -659,7 +659,7 @@
             "MEGA_GYARADOS"
         ],
         "type": "WATER",
-        "original": "B1-050"
+        "firstPrint": "B1-050"
     },
     {
         "id": "B1-051",
@@ -672,7 +672,7 @@
             "MEGA_GYARADOS"
         ],
         "type": "WATER",
-        "original": "B1-051"
+        "firstPrint": "B1-051"
     },
     {
         "id": "B1-052",
@@ -685,7 +685,7 @@
             "MEGA_GYARADOS"
         ],
         "type": "WATER",
-        "original": "B1-052"
+        "firstPrint": "B1-052"
     },
     {
         "id": "B1-053",
@@ -698,7 +698,7 @@
             "MEGA_ALTARIA"
         ],
         "type": "WATER",
-        "original": "B1-053"
+        "firstPrint": "B1-053"
     },
     {
         "id": "B1-054",
@@ -711,7 +711,7 @@
             "MEGA_ALTARIA"
         ],
         "type": "WATER",
-        "original": "B1-054"
+        "firstPrint": "B1-054"
     },
     {
         "id": "B1-055",
@@ -724,7 +724,7 @@
             "MEGA_ALTARIA"
         ],
         "type": "WATER",
-        "original": "B1-055"
+        "firstPrint": "B1-055"
     },
     {
         "id": "B1-056",
@@ -737,7 +737,7 @@
             "MEGA_GYARADOS"
         ],
         "type": "WATER",
-        "original": "B1-056"
+        "firstPrint": "B1-056"
     },
     {
         "id": "B1-057",
@@ -750,7 +750,7 @@
             "MEGA_GYARADOS"
         ],
         "type": "WATER",
-        "original": "B1-057"
+        "firstPrint": "B1-057"
     },
     {
         "id": "B1-058",
@@ -765,7 +765,7 @@
             "MEGA_ALTARIA"
         ],
         "type": "WATER",
-        "original": "B1-058"
+        "firstPrint": "B1-058"
     },
     {
         "id": "B1-059",
@@ -780,7 +780,7 @@
             "MEGA_ALTARIA"
         ],
         "type": "WATER",
-        "original": "B1-059"
+        "firstPrint": "B1-059"
     },
     {
         "id": "B1-060",
@@ -793,7 +793,7 @@
             "MEGA_ALTARIA"
         ],
         "type": "WATER",
-        "original": "B1-060"
+        "firstPrint": "B1-060"
     },
     {
         "id": "B1-061",
@@ -806,7 +806,7 @@
             "MEGA_ALTARIA"
         ],
         "type": "WATER",
-        "original": "B1-061"
+        "firstPrint": "B1-061"
     },
     {
         "id": "B1-062",
@@ -819,7 +819,7 @@
             "MEGA_ALTARIA"
         ],
         "type": "WATER",
-        "original": "B1-062"
+        "firstPrint": "B1-062"
     },
     {
         "id": "B1-063",
@@ -834,7 +834,7 @@
             "MEGA_ALTARIA"
         ],
         "type": "WATER",
-        "original": "B1-063"
+        "firstPrint": "B1-063"
     },
     {
         "id": "B1-064",
@@ -849,7 +849,7 @@
             "MEGA_ALTARIA"
         ],
         "type": "WATER",
-        "original": "B1-064"
+        "firstPrint": "B1-064"
     },
     {
         "id": "B1-065",
@@ -864,7 +864,7 @@
             "MEGA_ALTARIA"
         ],
         "type": "WATER",
-        "original": "B1-065"
+        "firstPrint": "B1-065"
     },
     {
         "id": "B1-066",
@@ -877,7 +877,7 @@
             "MEGA_GYARADOS"
         ],
         "type": "WATER",
-        "original": "B1-066"
+        "firstPrint": "B1-066"
     },
     {
         "id": "B1-067",
@@ -890,7 +890,7 @@
             "MEGA_GYARADOS"
         ],
         "type": "WATER",
-        "original": "B1-067"
+        "firstPrint": "B1-067"
     },
     {
         "id": "B1-068",
@@ -903,7 +903,7 @@
             "MEGA_GYARADOS"
         ],
         "type": "WATER",
-        "original": "B1-068"
+        "firstPrint": "B1-068"
     },
     {
         "id": "B1-069",
@@ -916,7 +916,7 @@
             "MEGA_GYARADOS"
         ],
         "type": "WATER",
-        "original": "B1-069"
+        "firstPrint": "B1-069"
     },
     {
         "id": "B1-070",
@@ -929,7 +929,7 @@
             "MEGA_BLAZIKEN"
         ],
         "type": "WATER",
-        "original": "B1-070"
+        "firstPrint": "B1-070"
     },
     {
         "id": "B1-071",
@@ -942,7 +942,7 @@
             "MEGA_GYARADOS"
         ],
         "type": "WATER",
-        "original": "B1-071"
+        "firstPrint": "B1-071"
     },
     {
         "id": "B1-072",
@@ -955,7 +955,7 @@
             "MEGA_GYARADOS"
         ],
         "type": "WATER",
-        "original": "B1-072"
+        "firstPrint": "B1-072"
     },
     {
         "id": "B1-073",
@@ -968,7 +968,7 @@
             "MEGA_GYARADOS"
         ],
         "type": "WATER",
-        "original": "B1-073"
+        "firstPrint": "B1-073"
     },
     {
         "id": "B1-074",
@@ -981,7 +981,7 @@
             "MEGA_GYARADOS"
         ],
         "type": "WATER",
-        "original": "B1-074"
+        "firstPrint": "B1-074"
     },
     {
         "id": "B1-075",
@@ -994,7 +994,7 @@
             "MEGA_GYARADOS"
         ],
         "type": "WATER",
-        "original": "B1-075"
+        "firstPrint": "B1-075"
     },
     {
         "id": "B1-076",
@@ -1007,7 +1007,7 @@
             "MEGA_GYARADOS"
         ],
         "type": "WATER",
-        "original": "B1-076"
+        "firstPrint": "B1-076"
     },
     {
         "id": "B1-077",
@@ -1020,7 +1020,7 @@
             "MEGA_GYARADOS"
         ],
         "type": "WATER",
-        "original": "B1-077"
+        "firstPrint": "B1-077"
     },
     {
         "id": "B1-078",
@@ -1033,7 +1033,7 @@
             "MEGA_GYARADOS"
         ],
         "type": "WATER",
-        "original": "B1-078"
+        "firstPrint": "B1-078"
     },
     {
         "id": "B1-079",
@@ -1046,7 +1046,7 @@
             "MEGA_GYARADOS"
         ],
         "type": "WATER",
-        "original": "B1-079"
+        "firstPrint": "B1-079"
     },
     {
         "id": "B1-080",
@@ -1059,7 +1059,7 @@
             "MEGA_ALTARIA"
         ],
         "type": "WATER",
-        "original": "B1-080"
+        "firstPrint": "B1-080"
     },
     {
         "id": "B1-081",
@@ -1072,7 +1072,7 @@
             "MEGA_GYARADOS"
         ],
         "type": "LIGHTNING",
-        "original": "B1-081"
+        "firstPrint": "B1-081"
     },
     {
         "id": "B1-082",
@@ -1085,7 +1085,7 @@
             "MEGA_ALTARIA"
         ],
         "type": "LIGHTNING",
-        "original": "B1-082"
+        "firstPrint": "B1-082"
     },
     {
         "id": "B1-083",
@@ -1098,7 +1098,7 @@
             "MEGA_ALTARIA"
         ],
         "type": "LIGHTNING",
-        "original": "B1-083"
+        "firstPrint": "B1-083"
     },
     {
         "id": "B1-084",
@@ -1111,7 +1111,7 @@
             "MEGA_ALTARIA"
         ],
         "type": "LIGHTNING",
-        "original": "B1-084"
+        "firstPrint": "B1-084"
     },
     {
         "id": "B1-085",
@@ -1124,7 +1124,7 @@
             "MEGA_ALTARIA"
         ],
         "type": "LIGHTNING",
-        "original": "B1-085"
+        "firstPrint": "B1-085"
     },
     {
         "id": "B1-086",
@@ -1137,7 +1137,7 @@
             "MEGA_BLAZIKEN"
         ],
         "type": "LIGHTNING",
-        "original": "B1-086"
+        "firstPrint": "B1-086"
     },
     {
         "id": "B1-087",
@@ -1150,7 +1150,7 @@
             "MEGA_BLAZIKEN"
         ],
         "type": "LIGHTNING",
-        "original": "B1-087"
+        "firstPrint": "B1-087"
     },
     {
         "id": "B1-088",
@@ -1163,7 +1163,7 @@
             "MEGA_BLAZIKEN"
         ],
         "type": "LIGHTNING",
-        "original": "B1-088"
+        "firstPrint": "B1-088"
     },
     {
         "id": "B1-089",
@@ -1178,7 +1178,7 @@
             "MEGA_ALTARIA"
         ],
         "type": "LIGHTNING",
-        "original": "B1-089"
+        "firstPrint": "B1-089"
     },
     {
         "id": "B1-090",
@@ -1191,7 +1191,7 @@
             "MEGA_BLAZIKEN"
         ],
         "type": "LIGHTNING",
-        "original": "B1-090"
+        "firstPrint": "B1-090"
     },
     {
         "id": "B1-091",
@@ -1204,7 +1204,7 @@
             "MEGA_BLAZIKEN"
         ],
         "type": "LIGHTNING",
-        "original": "B1-091"
+        "firstPrint": "B1-091"
     },
     {
         "id": "B1-092",
@@ -1219,7 +1219,7 @@
             "MEGA_ALTARIA"
         ],
         "type": "LIGHTNING",
-        "original": "B1-092"
+        "firstPrint": "B1-092"
     },
     {
         "id": "B1-093",
@@ -1234,7 +1234,7 @@
             "MEGA_ALTARIA"
         ],
         "type": "LIGHTNING",
-        "original": "B1-093"
+        "firstPrint": "B1-093"
     },
     {
         "id": "B1-094",
@@ -1247,7 +1247,7 @@
             "MEGA_ALTARIA"
         ],
         "type": "LIGHTNING",
-        "original": "B1-094"
+        "firstPrint": "B1-094"
     },
     {
         "id": "B1-095",
@@ -1260,7 +1260,7 @@
             "MEGA_ALTARIA"
         ],
         "type": "LIGHTNING",
-        "original": "B1-095"
+        "firstPrint": "B1-095"
     },
     {
         "id": "B1-096",
@@ -1273,7 +1273,7 @@
             "MEGA_ALTARIA"
         ],
         "type": "LIGHTNING",
-        "original": "B1-096"
+        "firstPrint": "B1-096"
     },
     {
         "id": "B1-097",
@@ -1288,7 +1288,7 @@
             "MEGA_ALTARIA"
         ],
         "type": "PSYCHIC",
-        "original": "B1-097"
+        "firstPrint": "B1-097"
     },
     {
         "id": "B1-098",
@@ -1303,7 +1303,7 @@
             "MEGA_ALTARIA"
         ],
         "type": "PSYCHIC",
-        "original": "B1-098"
+        "firstPrint": "B1-098"
     },
     {
         "id": "B1-099",
@@ -1318,7 +1318,7 @@
             "MEGA_ALTARIA"
         ],
         "type": "PSYCHIC",
-        "original": "B1-099"
+        "firstPrint": "B1-099"
     },
     {
         "id": "B1-100",
@@ -1333,7 +1333,7 @@
             "MEGA_ALTARIA"
         ],
         "type": "PSYCHIC",
-        "original": "B1-100"
+        "firstPrint": "B1-100"
     },
     {
         "id": "B1-101",
@@ -1346,7 +1346,7 @@
             "MEGA_ALTARIA"
         ],
         "type": "PSYCHIC",
-        "original": "B1-101"
+        "firstPrint": "B1-101"
     },
     {
         "id": "B1-102",
@@ -1359,7 +1359,7 @@
             "MEGA_ALTARIA"
         ],
         "type": "PSYCHIC",
-        "original": "B1-102"
+        "firstPrint": "B1-102"
     },
     {
         "id": "B1-103",
@@ -1372,7 +1372,7 @@
             "MEGA_BLAZIKEN"
         ],
         "type": "PSYCHIC",
-        "original": "B1-103"
+        "firstPrint": "B1-103"
     },
     {
         "id": "B1-104",
@@ -1385,7 +1385,7 @@
             "MEGA_BLAZIKEN"
         ],
         "type": "PSYCHIC",
-        "original": "B1-104"
+        "firstPrint": "B1-104"
     },
     {
         "id": "B1-105",
@@ -1398,7 +1398,7 @@
             "MEGA_BLAZIKEN"
         ],
         "type": "PSYCHIC",
-        "original": "B1-105"
+        "firstPrint": "B1-105"
     },
     {
         "id": "B1-106",
@@ -1411,7 +1411,7 @@
             "MEGA_ALTARIA"
         ],
         "type": "PSYCHIC",
-        "original": "B1-106"
+        "firstPrint": "B1-106"
     },
     {
         "id": "B1-107",
@@ -1424,7 +1424,7 @@
             "MEGA_ALTARIA"
         ],
         "type": "PSYCHIC",
-        "original": "B1-107"
+        "firstPrint": "B1-107"
     },
     {
         "id": "B1-108",
@@ -1437,7 +1437,7 @@
             "MEGA_ALTARIA"
         ],
         "type": "PSYCHIC",
-        "original": "B1-108"
+        "firstPrint": "B1-108"
     },
     {
         "id": "B1-109",
@@ -1452,7 +1452,7 @@
             "MEGA_ALTARIA"
         ],
         "type": "PSYCHIC",
-        "original": "B1-109"
+        "firstPrint": "B1-109"
     },
     {
         "id": "B1-110",
@@ -1465,7 +1465,7 @@
             "MEGA_GYARADOS"
         ],
         "type": "PSYCHIC",
-        "original": "B1-110"
+        "firstPrint": "B1-110"
     },
     {
         "id": "B1-111",
@@ -1478,7 +1478,7 @@
             "MEGA_GYARADOS"
         ],
         "type": "PSYCHIC",
-        "original": "B1-111"
+        "firstPrint": "B1-111"
     },
     {
         "id": "B1-112",
@@ -1491,7 +1491,7 @@
             "MEGA_ALTARIA"
         ],
         "type": "PSYCHIC",
-        "original": "B1-112"
+        "firstPrint": "B1-112"
     },
     {
         "id": "B1-113",
@@ -1504,7 +1504,7 @@
             "MEGA_ALTARIA"
         ],
         "type": "PSYCHIC",
-        "original": "B1-113"
+        "firstPrint": "B1-113"
     },
     {
         "id": "B1-114",
@@ -1517,7 +1517,7 @@
             "MEGA_ALTARIA"
         ],
         "type": "PSYCHIC",
-        "original": "B1-114"
+        "firstPrint": "B1-114"
     },
     {
         "id": "B1-115",
@@ -1532,7 +1532,7 @@
             "MEGA_ALTARIA"
         ],
         "type": "PSYCHIC",
-        "original": "B1-115"
+        "firstPrint": "B1-115"
     },
     {
         "id": "B1-116",
@@ -1547,7 +1547,7 @@
             "MEGA_ALTARIA"
         ],
         "type": "PSYCHIC",
-        "original": "B1-116"
+        "firstPrint": "B1-116"
     },
     {
         "id": "B1-117",
@@ -1560,7 +1560,7 @@
             "MEGA_ALTARIA"
         ],
         "type": "PSYCHIC",
-        "original": "B1-117"
+        "firstPrint": "B1-117"
     },
     {
         "id": "B1-118",
@@ -1573,7 +1573,7 @@
             "MEGA_ALTARIA"
         ],
         "type": "PSYCHIC",
-        "original": "B1-118"
+        "firstPrint": "B1-118"
     },
     {
         "id": "B1-119",
@@ -1586,7 +1586,7 @@
             "MEGA_ALTARIA"
         ],
         "type": "PSYCHIC",
-        "original": "B1-119"
+        "firstPrint": "B1-119"
     },
     {
         "id": "B1-120",
@@ -1599,7 +1599,7 @@
             "MEGA_GYARADOS"
         ],
         "type": "PSYCHIC",
-        "original": "B1-120"
+        "firstPrint": "B1-120"
     },
     {
         "id": "B1-121",
@@ -1612,7 +1612,7 @@
             "MEGA_ALTARIA"
         ],
         "type": "PSYCHIC",
-        "original": "B1-121"
+        "firstPrint": "B1-121"
     },
     {
         "id": "B1-122",
@@ -1627,7 +1627,7 @@
             "MEGA_ALTARIA"
         ],
         "type": "FIGHTING",
-        "original": "B1-122"
+        "firstPrint": "B1-122"
     },
     {
         "id": "B1-123",
@@ -1642,7 +1642,7 @@
             "MEGA_ALTARIA"
         ],
         "type": "FIGHTING",
-        "original": "B1-123"
+        "firstPrint": "B1-123"
     },
     {
         "id": "B1-124",
@@ -1655,7 +1655,7 @@
             "MEGA_BLAZIKEN"
         ],
         "type": "FIGHTING",
-        "original": "B1-124"
+        "firstPrint": "B1-124"
     },
     {
         "id": "B1-125",
@@ -1670,7 +1670,7 @@
             "MEGA_ALTARIA"
         ],
         "type": "FIGHTING",
-        "original": "B1-125"
+        "firstPrint": "B1-125"
     },
     {
         "id": "B1-126",
@@ -1683,7 +1683,7 @@
             "MEGA_BLAZIKEN"
         ],
         "type": "FIGHTING",
-        "original": "B1-126"
+        "firstPrint": "B1-126"
     },
     {
         "id": "B1-127",
@@ -1696,7 +1696,7 @@
             "MEGA_BLAZIKEN"
         ],
         "type": "FIGHTING",
-        "original": "B1-127"
+        "firstPrint": "B1-127"
     },
     {
         "id": "B1-128",
@@ -1709,7 +1709,7 @@
             "MEGA_GYARADOS"
         ],
         "type": "FIGHTING",
-        "original": "B1-128"
+        "firstPrint": "B1-128"
     },
     {
         "id": "B1-129",
@@ -1722,7 +1722,7 @@
             "MEGA_GYARADOS"
         ],
         "type": "FIGHTING",
-        "original": "B1-129"
+        "firstPrint": "B1-129"
     },
     {
         "id": "B1-130",
@@ -1735,7 +1735,7 @@
             "MEGA_GYARADOS"
         ],
         "type": "FIGHTING",
-        "original": "B1-130"
+        "firstPrint": "B1-130"
     },
     {
         "id": "B1-131",
@@ -1748,7 +1748,7 @@
             "MEGA_GYARADOS"
         ],
         "type": "FIGHTING",
-        "original": "B1-131"
+        "firstPrint": "B1-131"
     },
     {
         "id": "B1-132",
@@ -1761,7 +1761,7 @@
             "MEGA_GYARADOS"
         ],
         "type": "FIGHTING",
-        "original": "B1-132"
+        "firstPrint": "B1-132"
     },
     {
         "id": "B1-133",
@@ -1774,7 +1774,7 @@
             "MEGA_BLAZIKEN"
         ],
         "type": "FIGHTING",
-        "original": "B1-133"
+        "firstPrint": "B1-133"
     },
     {
         "id": "B1-134",
@@ -1787,7 +1787,7 @@
             "MEGA_BLAZIKEN"
         ],
         "type": "FIGHTING",
-        "original": "B1-134"
+        "firstPrint": "B1-134"
     },
     {
         "id": "B1-135",
@@ -1800,7 +1800,7 @@
             "MEGA_BLAZIKEN"
         ],
         "type": "FIGHTING",
-        "original": "B1-135"
+        "firstPrint": "B1-135"
     },
     {
         "id": "B1-136",
@@ -1813,7 +1813,7 @@
             "MEGA_BLAZIKEN"
         ],
         "type": "FIGHTING",
-        "original": "B1-136"
+        "firstPrint": "B1-136"
     },
     {
         "id": "B1-137",
@@ -1826,7 +1826,7 @@
             "MEGA_GYARADOS"
         ],
         "type": "FIGHTING",
-        "original": "B1-137"
+        "firstPrint": "B1-137"
     },
     {
         "id": "B1-138",
@@ -1839,7 +1839,7 @@
             "MEGA_GYARADOS"
         ],
         "type": "FIGHTING",
-        "original": "B1-138"
+        "firstPrint": "B1-138"
     },
     {
         "id": "B1-139",
@@ -1852,7 +1852,7 @@
             "MEGA_BLAZIKEN"
         ],
         "type": "FIGHTING",
-        "original": "B1-139"
+        "firstPrint": "B1-139"
     },
     {
         "id": "B1-140",
@@ -1865,7 +1865,7 @@
             "MEGA_BLAZIKEN"
         ],
         "type": "FIGHTING",
-        "original": "B1-140"
+        "firstPrint": "B1-140"
     },
     {
         "id": "B1-141",
@@ -1878,7 +1878,7 @@
             "MEGA_BLAZIKEN"
         ],
         "type": "FIGHTING",
-        "original": "B1-141"
+        "firstPrint": "B1-141"
     },
     {
         "id": "B1-142",
@@ -1891,7 +1891,7 @@
             "MEGA_BLAZIKEN"
         ],
         "type": "FIGHTING",
-        "original": "B1-142"
+        "firstPrint": "B1-142"
     },
     {
         "id": "B1-143",
@@ -1906,7 +1906,7 @@
             "MEGA_ALTARIA"
         ],
         "type": "FIGHTING",
-        "original": "B1-143"
+        "firstPrint": "B1-143"
     },
     {
         "id": "B1-144",
@@ -1921,7 +1921,7 @@
             "MEGA_ALTARIA"
         ],
         "type": "FIGHTING",
-        "original": "B1-144"
+        "firstPrint": "B1-144"
     },
     {
         "id": "B1-145",
@@ -1934,7 +1934,7 @@
             "MEGA_GYARADOS"
         ],
         "type": "FIGHTING",
-        "original": "B1-145"
+        "firstPrint": "B1-145"
     },
     {
         "id": "B1-146",
@@ -1947,7 +1947,7 @@
             "MEGA_GYARADOS"
         ],
         "type": "FIGHTING",
-        "original": "B1-146"
+        "firstPrint": "B1-146"
     },
     {
         "id": "B1-147",
@@ -1960,7 +1960,7 @@
             "MEGA_GYARADOS"
         ],
         "type": "FIGHTING",
-        "original": "B1-147"
+        "firstPrint": "B1-147"
     },
     {
         "id": "B1-148",
@@ -1973,7 +1973,7 @@
             "MEGA_GYARADOS"
         ],
         "type": "DARKNESS",
-        "original": "B1-148"
+        "firstPrint": "B1-148"
     },
     {
         "id": "B1-149",
@@ -1986,7 +1986,7 @@
             "MEGA_GYARADOS"
         ],
         "type": "DARKNESS",
-        "original": "B1-149"
+        "firstPrint": "B1-149"
     },
     {
         "id": "B1-150",
@@ -1999,7 +1999,7 @@
             "MEGA_GYARADOS"
         ],
         "type": "DARKNESS",
-        "original": "B1-150"
+        "firstPrint": "B1-150"
     },
     {
         "id": "B1-151",
@@ -2012,7 +2012,7 @@
             "MEGA_GYARADOS"
         ],
         "type": "DARKNESS",
-        "original": "B1-151"
+        "firstPrint": "B1-151"
     },
     {
         "id": "B1-152",
@@ -2025,7 +2025,7 @@
             "MEGA_GYARADOS"
         ],
         "type": "DARKNESS",
-        "original": "B1-152"
+        "firstPrint": "B1-152"
     },
     {
         "id": "B1-153",
@@ -2038,7 +2038,7 @@
             "MEGA_GYARADOS"
         ],
         "type": "DARKNESS",
-        "original": "B1-153"
+        "firstPrint": "B1-153"
     },
     {
         "id": "B1-154",
@@ -2051,7 +2051,7 @@
             "MEGA_ALTARIA"
         ],
         "type": "DARKNESS",
-        "original": "B1-154"
+        "firstPrint": "B1-154"
     },
     {
         "id": "B1-155",
@@ -2064,7 +2064,7 @@
             "MEGA_GYARADOS"
         ],
         "type": "DARKNESS",
-        "original": "B1-155"
+        "firstPrint": "B1-155"
     },
     {
         "id": "B1-156",
@@ -2077,7 +2077,7 @@
             "MEGA_GYARADOS"
         ],
         "type": "DARKNESS",
-        "original": "B1-156"
+        "firstPrint": "B1-156"
     },
     {
         "id": "B1-157",
@@ -2090,7 +2090,7 @@
             "MEGA_GYARADOS"
         ],
         "type": "DARKNESS",
-        "original": "B1-157"
+        "firstPrint": "B1-157"
     },
     {
         "id": "B1-158",
@@ -2103,7 +2103,7 @@
             "MEGA_GYARADOS"
         ],
         "type": "DARKNESS",
-        "original": "B1-158"
+        "firstPrint": "B1-158"
     },
     {
         "id": "B1-159",
@@ -2116,7 +2116,7 @@
             "MEGA_BLAZIKEN"
         ],
         "type": "DARKNESS",
-        "original": "B1-159"
+        "firstPrint": "B1-159"
     },
     {
         "id": "B1-160",
@@ -2129,7 +2129,7 @@
             "MEGA_BLAZIKEN"
         ],
         "type": "DARKNESS",
-        "original": "B1-160"
+        "firstPrint": "B1-160"
     },
     {
         "id": "B1-161",
@@ -2144,7 +2144,7 @@
             "MEGA_ALTARIA"
         ],
         "type": "DARKNESS",
-        "original": "B1-161"
+        "firstPrint": "B1-161"
     },
     {
         "id": "B1-162",
@@ -2159,7 +2159,7 @@
             "MEGA_ALTARIA"
         ],
         "type": "DARKNESS",
-        "original": "B1-162"
+        "firstPrint": "B1-162"
     },
     {
         "id": "B1-163",
@@ -2172,7 +2172,7 @@
             "MEGA_ALTARIA"
         ],
         "type": "DARKNESS",
-        "original": "B1-163"
+        "firstPrint": "B1-163"
     },
     {
         "id": "B1-164",
@@ -2185,7 +2185,7 @@
             "MEGA_ALTARIA"
         ],
         "type": "DARKNESS",
-        "original": "B1-164"
+        "firstPrint": "B1-164"
     },
     {
         "id": "B1-165",
@@ -2198,7 +2198,7 @@
             "MEGA_ALTARIA"
         ],
         "type": "DARKNESS",
-        "original": "B1-165"
+        "firstPrint": "B1-165"
     },
     {
         "id": "B1-166",
@@ -2213,7 +2213,7 @@
             "MEGA_ALTARIA"
         ],
         "type": "METAL",
-        "original": "B1-166"
+        "firstPrint": "B1-166"
     },
     {
         "id": "B1-167",
@@ -2228,7 +2228,7 @@
             "MEGA_ALTARIA"
         ],
         "type": "METAL",
-        "original": "B1-167"
+        "firstPrint": "B1-167"
     },
     {
         "id": "B1-168",
@@ -2243,7 +2243,7 @@
             "MEGA_ALTARIA"
         ],
         "type": "METAL",
-        "original": "B1-168"
+        "firstPrint": "B1-168"
     },
     {
         "id": "B1-169",
@@ -2256,7 +2256,7 @@
             "MEGA_BLAZIKEN"
         ],
         "type": "METAL",
-        "original": "B1-169"
+        "firstPrint": "B1-169"
     },
     {
         "id": "B1-170",
@@ -2269,7 +2269,7 @@
             "MEGA_BLAZIKEN"
         ],
         "type": "METAL",
-        "original": "B1-170"
+        "firstPrint": "B1-170"
     },
     {
         "id": "B1-171",
@@ -2282,7 +2282,7 @@
             "MEGA_BLAZIKEN"
         ],
         "type": "METAL",
-        "original": "B1-171"
+        "firstPrint": "B1-171"
     },
     {
         "id": "B1-172",
@@ -2295,7 +2295,7 @@
             "MEGA_BLAZIKEN"
         ],
         "type": "METAL",
-        "original": "B1-172"
+        "firstPrint": "B1-172"
     },
     {
         "id": "B1-173",
@@ -2308,7 +2308,7 @@
             "MEGA_GYARADOS"
         ],
         "type": "METAL",
-        "original": "B1-173"
+        "firstPrint": "B1-173"
     },
     {
         "id": "B1-174",
@@ -2321,7 +2321,7 @@
             "MEGA_GYARADOS"
         ],
         "type": "METAL",
-        "original": "B1-174"
+        "firstPrint": "B1-174"
     },
     {
         "id": "B1-175",
@@ -2334,7 +2334,7 @@
             "MEGA_BLAZIKEN"
         ],
         "type": "METAL",
-        "original": "B1-175"
+        "firstPrint": "B1-175"
     },
     {
         "id": "B1-176",
@@ -2347,7 +2347,7 @@
             "MEGA_GYARADOS"
         ],
         "type": "DRAGON",
-        "original": "B1-176"
+        "firstPrint": "B1-176"
     },
     {
         "id": "B1-177",
@@ -2360,7 +2360,7 @@
             "MEGA_ALTARIA"
         ],
         "type": "DRAGON",
-        "original": "B1-177"
+        "firstPrint": "B1-177"
     },
     {
         "id": "B1-178",
@@ -2373,7 +2373,7 @@
             "MEGA_ALTARIA"
         ],
         "type": "DRAGON",
-        "original": "B1-178"
+        "firstPrint": "B1-178"
     },
     {
         "id": "B1-179",
@@ -2386,7 +2386,7 @@
             "MEGA_ALTARIA"
         ],
         "type": "DRAGON",
-        "original": "B1-179"
+        "firstPrint": "B1-179"
     },
     {
         "id": "B1-180",
@@ -2401,7 +2401,7 @@
             "MEGA_ALTARIA"
         ],
         "type": "COLORLESS",
-        "original": "B1-180"
+        "firstPrint": "B1-180"
     },
     {
         "id": "B1-181",
@@ -2416,7 +2416,7 @@
             "MEGA_ALTARIA"
         ],
         "type": "COLORLESS",
-        "original": "B1-181"
+        "firstPrint": "B1-181"
     },
     {
         "id": "B1-182",
@@ -2431,7 +2431,7 @@
             "MEGA_ALTARIA"
         ],
         "type": "COLORLESS",
-        "original": "B1-182"
+        "firstPrint": "B1-182"
     },
     {
         "id": "B1-183",
@@ -2444,7 +2444,7 @@
             "MEGA_ALTARIA"
         ],
         "type": "COLORLESS",
-        "original": "B1-183"
+        "firstPrint": "B1-183"
     },
     {
         "id": "B1-184",
@@ -2457,7 +2457,7 @@
             "MEGA_GYARADOS"
         ],
         "type": "COLORLESS",
-        "original": "B1-184"
+        "firstPrint": "B1-184"
     },
     {
         "id": "B1-185",
@@ -2470,7 +2470,7 @@
             "MEGA_ALTARIA"
         ],
         "type": "COLORLESS",
-        "original": "B1-185"
+        "firstPrint": "B1-185"
     },
     {
         "id": "B1-186",
@@ -2483,7 +2483,7 @@
             "MEGA_ALTARIA"
         ],
         "type": "COLORLESS",
-        "original": "B1-186"
+        "firstPrint": "B1-186"
     },
     {
         "id": "B1-187",
@@ -2498,7 +2498,7 @@
             "MEGA_ALTARIA"
         ],
         "type": "COLORLESS",
-        "original": "B1-187"
+        "firstPrint": "B1-187"
     },
     {
         "id": "B1-188",
@@ -2513,7 +2513,7 @@
             "MEGA_ALTARIA"
         ],
         "type": "COLORLESS",
-        "original": "B1-188"
+        "firstPrint": "B1-188"
     },
     {
         "id": "B1-189",
@@ -2528,7 +2528,7 @@
             "MEGA_ALTARIA"
         ],
         "type": "COLORLESS",
-        "original": "B1-189"
+        "firstPrint": "B1-189"
     },
     {
         "id": "B1-190",
@@ -2541,7 +2541,7 @@
             "MEGA_GYARADOS"
         ],
         "type": "COLORLESS",
-        "original": "B1-190"
+        "firstPrint": "B1-190"
     },
     {
         "id": "B1-191",
@@ -2554,7 +2554,7 @@
             "MEGA_GYARADOS"
         ],
         "type": "COLORLESS",
-        "original": "B1-191"
+        "firstPrint": "B1-191"
     },
     {
         "id": "B1-192",
@@ -2567,7 +2567,7 @@
             "MEGA_GYARADOS"
         ],
         "type": "COLORLESS",
-        "original": "B1-192"
+        "firstPrint": "B1-192"
     },
     {
         "id": "B1-193",
@@ -2580,7 +2580,7 @@
             "MEGA_GYARADOS"
         ],
         "type": "COLORLESS",
-        "original": "B1-193"
+        "firstPrint": "B1-193"
     },
     {
         "id": "B1-194",
@@ -2593,7 +2593,7 @@
             "MEGA_GYARADOS"
         ],
         "type": "COLORLESS",
-        "original": "B1-194"
+        "firstPrint": "B1-194"
     },
     {
         "id": "B1-195",
@@ -2606,7 +2606,7 @@
             "MEGA_ALTARIA"
         ],
         "type": "COLORLESS",
-        "original": "B1-195"
+        "firstPrint": "B1-195"
     },
     {
         "id": "B1-196",
@@ -2619,7 +2619,7 @@
             "MEGA_ALTARIA"
         ],
         "type": "COLORLESS",
-        "original": "B1-196"
+        "firstPrint": "B1-196"
     },
     {
         "id": "B1-197",
@@ -2632,7 +2632,7 @@
             "MEGA_ALTARIA"
         ],
         "type": "COLORLESS",
-        "original": "B1-197"
+        "firstPrint": "B1-197"
     },
     {
         "id": "B1-198",
@@ -2647,7 +2647,7 @@
             "MEGA_ALTARIA"
         ],
         "type": "COLORLESS",
-        "original": "B1-198"
+        "firstPrint": "B1-198"
     },
     {
         "id": "B1-199",
@@ -2662,7 +2662,7 @@
             "MEGA_ALTARIA"
         ],
         "type": "COLORLESS",
-        "original": "B1-199"
+        "firstPrint": "B1-199"
     },
     {
         "id": "B1-200",
@@ -2677,7 +2677,7 @@
             "MEGA_ALTARIA"
         ],
         "type": "COLORLESS",
-        "original": "B1-200"
+        "firstPrint": "B1-200"
     },
     {
         "id": "B1-201",
@@ -2690,7 +2690,7 @@
             "MEGA_ALTARIA"
         ],
         "type": "COLORLESS",
-        "original": "B1-201"
+        "firstPrint": "B1-201"
     },
     {
         "id": "B1-202",
@@ -2703,7 +2703,7 @@
             "MEGA_ALTARIA"
         ],
         "type": "COLORLESS",
-        "original": "B1-202"
+        "firstPrint": "B1-202"
     },
     {
         "id": "B1-203",
@@ -2716,7 +2716,7 @@
             "MEGA_ALTARIA"
         ],
         "type": "COLORLESS",
-        "original": "B1-203"
+        "firstPrint": "B1-203"
     },
     {
         "id": "B1-204",
@@ -2729,7 +2729,7 @@
             "MEGA_BLAZIKEN"
         ],
         "type": "COLORLESS",
-        "original": "B1-204"
+        "firstPrint": "B1-204"
     },
     {
         "id": "B1-205",
@@ -2742,7 +2742,7 @@
             "MEGA_BLAZIKEN"
         ],
         "type": "COLORLESS",
-        "original": "B1-205"
+        "firstPrint": "B1-205"
     },
     {
         "id": "B1-206",
@@ -2755,7 +2755,7 @@
             "MEGA_BLAZIKEN"
         ],
         "type": "COLORLESS",
-        "original": "B1-206"
+        "firstPrint": "B1-206"
     },
     {
         "id": "B1-207",
@@ -2768,7 +2768,7 @@
             "MEGA_ALTARIA"
         ],
         "type": "COLORLESS",
-        "original": "B1-207"
+        "firstPrint": "B1-207"
     },
     {
         "id": "B1-208",
@@ -2781,7 +2781,7 @@
             "MEGA_GYARADOS"
         ],
         "type": "COLORLESS",
-        "original": "B1-208"
+        "firstPrint": "B1-208"
     },
     {
         "id": "B1-209",
@@ -2794,7 +2794,7 @@
             "MEGA_BLAZIKEN"
         ],
         "type": "COLORLESS",
-        "original": "B1-209"
+        "firstPrint": "B1-209"
     },
     {
         "id": "B1-210",
@@ -2807,7 +2807,7 @@
             "MEGA_BLAZIKEN"
         ],
         "type": "COLORLESS",
-        "original": "B1-210"
+        "firstPrint": "B1-210"
     },
     {
         "id": "B1-211",
@@ -2820,7 +2820,7 @@
             "MEGA_ALTARIA"
         ],
         "type": "COLORLESS",
-        "original": "B1-211"
+        "firstPrint": "B1-211"
     },
     {
         "id": "B1-212",
@@ -2833,7 +2833,7 @@
             "MEGA_ALTARIA"
         ],
         "type": "COLORLESS",
-        "original": "B1-212"
+        "firstPrint": "B1-212"
     },
     {
         "id": "B1-213",
@@ -2846,7 +2846,7 @@
             "MEGA_BLAZIKEN"
         ],
         "type": "TRAINER",
-        "original": "B1-213"
+        "firstPrint": "B1-213"
     },
     {
         "id": "B1-214",
@@ -2859,7 +2859,7 @@
             "MEGA_BLAZIKEN"
         ],
         "type": "TRAINER",
-        "original": "B1-214"
+        "firstPrint": "B1-214"
     },
     {
         "id": "B1-215",
@@ -2872,7 +2872,7 @@
             "MEGA_GYARADOS"
         ],
         "type": "TRAINER",
-        "original": "B1-215"
+        "firstPrint": "B1-215"
     },
     {
         "id": "B1-216",
@@ -2885,7 +2885,7 @@
             "MEGA_GYARADOS"
         ],
         "type": "TRAINER",
-        "original": "B1-216"
+        "firstPrint": "B1-216"
     },
     {
         "id": "B1-217",
@@ -2898,7 +2898,7 @@
             "MEGA_BLAZIKEN"
         ],
         "type": "TRAINER",
-        "original": "B1-217"
+        "firstPrint": "B1-217"
     },
     {
         "id": "B1-218",
@@ -2911,7 +2911,7 @@
             "MEGA_ALTARIA"
         ],
         "type": "TRAINER",
-        "original": "B1-218"
+        "firstPrint": "B1-218"
     },
     {
         "id": "B1-219",
@@ -2924,7 +2924,7 @@
             "MEGA_GYARADOS"
         ],
         "type": "TRAINER",
-        "original": "B1-219"
+        "firstPrint": "B1-219"
     },
     {
         "id": "B1-220",
@@ -2937,7 +2937,7 @@
             "MEGA_ALTARIA"
         ],
         "type": "TRAINER",
-        "original": "B1-220"
+        "firstPrint": "B1-220"
     },
     {
         "id": "B1-221",
@@ -2950,7 +2950,7 @@
             "MEGA_GYARADOS"
         ],
         "type": "TRAINER",
-        "original": "B1-221"
+        "firstPrint": "B1-221"
     },
     {
         "id": "B1-222",
@@ -2963,7 +2963,7 @@
             "MEGA_BLAZIKEN"
         ],
         "type": "TRAINER",
-        "original": "B1-222"
+        "firstPrint": "B1-222"
     },
     {
         "id": "B1-223",
@@ -2976,7 +2976,7 @@
             "MEGA_BLAZIKEN"
         ],
         "type": "TRAINER",
-        "original": "B1-223"
+        "firstPrint": "B1-223"
     },
     {
         "id": "B1-224",
@@ -2989,7 +2989,7 @@
             "MEGA_ALTARIA"
         ],
         "type": "TRAINER",
-        "original": "B1-224"
+        "firstPrint": "B1-224"
     },
     {
         "id": "B1-225",
@@ -3002,7 +3002,7 @@
             "MEGA_GYARADOS"
         ],
         "type": "TRAINER",
-        "original": "B1-225"
+        "firstPrint": "B1-225"
     },
     {
         "id": "B1-226",
@@ -3015,7 +3015,7 @@
             "MEGA_ALTARIA"
         ],
         "type": "TRAINER",
-        "original": "B1-226"
+        "firstPrint": "B1-226"
     },
     {
         "id": "B1-227",
@@ -3028,7 +3028,7 @@
             "MEGA_BLAZIKEN"
         ],
         "type": "GRASS",
-        "original": "B1-227"
+        "firstPrint": "B1-227"
     },
     {
         "id": "B1-228",
@@ -3041,7 +3041,7 @@
             "MEGA_ALTARIA"
         ],
         "type": "GRASS",
-        "original": "B1-228"
+        "firstPrint": "B1-228"
     },
     {
         "id": "B1-229",
@@ -3054,7 +3054,7 @@
             "MEGA_ALTARIA"
         ],
         "type": "GRASS",
-        "original": "B1-229"
+        "firstPrint": "B1-229"
     },
     {
         "id": "B1-230",
@@ -3067,7 +3067,7 @@
             "MEGA_BLAZIKEN"
         ],
         "type": "FIRE",
-        "original": "B1-230"
+        "firstPrint": "B1-230"
     },
     {
         "id": "B1-231",
@@ -3080,7 +3080,7 @@
             "MEGA_ALTARIA"
         ],
         "type": "FIRE",
-        "original": "B1-231"
+        "firstPrint": "B1-231"
     },
     {
         "id": "B1-232",
@@ -3093,7 +3093,7 @@
             "MEGA_GYARADOS"
         ],
         "type": "WATER",
-        "original": "B1-232"
+        "firstPrint": "B1-232"
     },
     {
         "id": "B1-233",
@@ -3106,7 +3106,7 @@
             "MEGA_ALTARIA"
         ],
         "type": "WATER",
-        "original": "B1-233"
+        "firstPrint": "B1-233"
     },
     {
         "id": "B1-234",
@@ -3119,7 +3119,7 @@
             "MEGA_GYARADOS"
         ],
         "type": "WATER",
-        "original": "B1-234"
+        "firstPrint": "B1-234"
     },
     {
         "id": "B1-235",
@@ -3132,7 +3132,7 @@
             "MEGA_BLAZIKEN"
         ],
         "type": "WATER",
-        "original": "B1-235"
+        "firstPrint": "B1-235"
     },
     {
         "id": "B1-236",
@@ -3145,7 +3145,7 @@
             "MEGA_ALTARIA"
         ],
         "type": "WATER",
-        "original": "B1-236"
+        "firstPrint": "B1-236"
     },
     {
         "id": "B1-237",
@@ -3158,7 +3158,7 @@
             "MEGA_BLAZIKEN"
         ],
         "type": "LIGHTNING",
-        "original": "B1-237"
+        "firstPrint": "B1-237"
     },
     {
         "id": "B1-238",
@@ -3171,7 +3171,7 @@
             "MEGA_GYARADOS"
         ],
         "type": "PSYCHIC",
-        "original": "B1-238"
+        "firstPrint": "B1-238"
     },
     {
         "id": "B1-239",
@@ -3184,7 +3184,7 @@
             "MEGA_ALTARIA"
         ],
         "type": "PSYCHIC",
-        "original": "B1-239"
+        "firstPrint": "B1-239"
     },
     {
         "id": "B1-240",
@@ -3197,7 +3197,7 @@
             "MEGA_BLAZIKEN"
         ],
         "type": "FIGHTING",
-        "original": "B1-240"
+        "firstPrint": "B1-240"
     },
     {
         "id": "B1-241",
@@ -3210,7 +3210,7 @@
             "MEGA_GYARADOS"
         ],
         "type": "FIGHTING",
-        "original": "B1-241"
+        "firstPrint": "B1-241"
     },
     {
         "id": "B1-242",
@@ -3223,7 +3223,7 @@
             "MEGA_BLAZIKEN"
         ],
         "type": "FIGHTING",
-        "original": "B1-242"
+        "firstPrint": "B1-242"
     },
     {
         "id": "B1-243",
@@ -3236,7 +3236,7 @@
             "MEGA_GYARADOS"
         ],
         "type": "FIGHTING",
-        "original": "B1-243"
+        "firstPrint": "B1-243"
     },
     {
         "id": "B1-244",
@@ -3249,7 +3249,7 @@
             "MEGA_GYARADOS"
         ],
         "type": "DARKNESS",
-        "original": "B1-244"
+        "firstPrint": "B1-244"
     },
     {
         "id": "B1-245",
@@ -3262,7 +3262,7 @@
             "MEGA_GYARADOS"
         ],
         "type": "DARKNESS",
-        "original": "B1-245"
+        "firstPrint": "B1-245"
     },
     {
         "id": "B1-246",
@@ -3275,7 +3275,7 @@
             "MEGA_BLAZIKEN"
         ],
         "type": "METAL",
-        "original": "B1-246"
+        "firstPrint": "B1-246"
     },
     {
         "id": "B1-247",
@@ -3288,7 +3288,7 @@
             "MEGA_ALTARIA"
         ],
         "type": "DRAGON",
-        "original": "B1-247"
+        "firstPrint": "B1-247"
     },
     {
         "id": "B1-248",
@@ -3301,7 +3301,7 @@
             "MEGA_GYARADOS"
         ],
         "type": "COLORLESS",
-        "original": "B1-248"
+        "firstPrint": "B1-248"
     },
     {
         "id": "B1-249",
@@ -3314,7 +3314,7 @@
             "MEGA_ALTARIA"
         ],
         "type": "COLORLESS",
-        "original": "B1-249"
+        "firstPrint": "B1-249"
     },
     {
         "id": "B1-250",
@@ -3327,7 +3327,7 @@
             "MEGA_BLAZIKEN"
         ],
         "type": "COLORLESS",
-        "original": "B1-250"
+        "firstPrint": "B1-250"
     },
     {
         "id": "B1-251",
@@ -3340,7 +3340,7 @@
             "MEGA_BLAZIKEN"
         ],
         "type": "GRASS",
-        "original": "B1-251"
+        "firstPrint": "B1-251"
     },
     {
         "id": "B1-252",
@@ -3353,7 +3353,7 @@
             "MEGA_ALTARIA"
         ],
         "type": "GRASS",
-        "original": "B1-252"
+        "firstPrint": "B1-252"
     },
     {
         "id": "B1-253",
@@ -3366,7 +3366,7 @@
             "MEGA_BLAZIKEN"
         ],
         "type": "FIRE",
-        "original": "B1-253"
+        "firstPrint": "B1-253"
     },
     {
         "id": "B1-254",
@@ -3379,7 +3379,7 @@
             "MEGA_BLAZIKEN"
         ],
         "type": "FIRE",
-        "original": "B1-254"
+        "firstPrint": "B1-254"
     },
     {
         "id": "B1-255",
@@ -3392,7 +3392,7 @@
             "MEGA_GYARADOS"
         ],
         "type": "WATER",
-        "original": "B1-255"
+        "firstPrint": "B1-255"
     },
     {
         "id": "B1-256",
@@ -3405,7 +3405,7 @@
             "MEGA_GYARADOS"
         ],
         "type": "WATER",
-        "original": "B1-256"
+        "firstPrint": "B1-256"
     },
     {
         "id": "B1-257",
@@ -3418,7 +3418,7 @@
             "MEGA_GYARADOS"
         ],
         "type": "LIGHTNING",
-        "original": "B1-257"
+        "firstPrint": "B1-257"
     },
     {
         "id": "B1-258",
@@ -3431,7 +3431,7 @@
             "MEGA_ALTARIA"
         ],
         "type": "LIGHTNING",
-        "original": "B1-258"
+        "firstPrint": "B1-258"
     },
     {
         "id": "B1-259",
@@ -3444,7 +3444,7 @@
             "MEGA_ALTARIA"
         ],
         "type": "PSYCHIC",
-        "original": "B1-259"
+        "firstPrint": "B1-259"
     },
     {
         "id": "B1-260",
@@ -3457,7 +3457,7 @@
             "MEGA_ALTARIA"
         ],
         "type": "PSYCHIC",
-        "original": "B1-260"
+        "firstPrint": "B1-260"
     },
     {
         "id": "B1-261",
@@ -3470,7 +3470,7 @@
             "MEGA_BLAZIKEN"
         ],
         "type": "FIGHTING",
-        "original": "B1-261"
+        "firstPrint": "B1-261"
     },
     {
         "id": "B1-262",
@@ -3483,7 +3483,7 @@
             "MEGA_GYARADOS"
         ],
         "type": "DARKNESS",
-        "original": "B1-262"
+        "firstPrint": "B1-262"
     },
     {
         "id": "B1-263",
@@ -3496,7 +3496,7 @@
             "MEGA_BLAZIKEN"
         ],
         "type": "DARKNESS",
-        "original": "B1-263"
+        "firstPrint": "B1-263"
     },
     {
         "id": "B1-264",
@@ -3509,7 +3509,7 @@
             "MEGA_GYARADOS"
         ],
         "type": "METAL",
-        "original": "B1-264"
+        "firstPrint": "B1-264"
     },
     {
         "id": "B1-265",
@@ -3522,7 +3522,7 @@
             "MEGA_ALTARIA"
         ],
         "type": "COLORLESS",
-        "original": "B1-265"
+        "firstPrint": "B1-265"
     },
     {
         "id": "B1-266",
@@ -3535,7 +3535,7 @@
             "MEGA_GYARADOS"
         ],
         "type": "TRAINER",
-        "original": "B1-266"
+        "firstPrint": "B1-266"
     },
     {
         "id": "B1-267",
@@ -3548,7 +3548,7 @@
             "MEGA_BLAZIKEN"
         ],
         "type": "TRAINER",
-        "original": "B1-267"
+        "firstPrint": "B1-267"
     },
     {
         "id": "B1-268",
@@ -3561,7 +3561,7 @@
             "MEGA_BLAZIKEN"
         ],
         "type": "TRAINER",
-        "original": "B1-268"
+        "firstPrint": "B1-268"
     },
     {
         "id": "B1-269",
@@ -3574,7 +3574,7 @@
             "MEGA_ALTARIA"
         ],
         "type": "TRAINER",
-        "original": "B1-269"
+        "firstPrint": "B1-269"
     },
     {
         "id": "B1-270",
@@ -3587,7 +3587,7 @@
             "MEGA_GYARADOS"
         ],
         "type": "TRAINER",
-        "original": "B1-270"
+        "firstPrint": "B1-270"
     },
     {
         "id": "B1-271",
@@ -3600,7 +3600,7 @@
             "MEGA_ALTARIA"
         ],
         "type": "TRAINER",
-        "original": "B1-271"
+        "firstPrint": "B1-271"
     },
     {
         "id": "B1-272",
@@ -3613,7 +3613,7 @@
             "MEGA_BLAZIKEN"
         ],
         "type": "GRASS",
-        "original": "B1-272"
+        "firstPrint": "B1-272"
     },
     {
         "id": "B1-273",
@@ -3626,7 +3626,7 @@
             "MEGA_ALTARIA"
         ],
         "type": "GRASS",
-        "original": "B1-273"
+        "firstPrint": "B1-273"
     },
     {
         "id": "B1-274",
@@ -3639,7 +3639,7 @@
             "MEGA_BLAZIKEN"
         ],
         "type": "FIRE",
-        "original": "B1-274"
+        "firstPrint": "B1-274"
     },
     {
         "id": "B1-275",
@@ -3652,7 +3652,7 @@
             "MEGA_GYARADOS"
         ],
         "type": "WATER",
-        "original": "B1-275"
+        "firstPrint": "B1-275"
     },
     {
         "id": "B1-276",
@@ -3665,7 +3665,7 @@
             "MEGA_GYARADOS"
         ],
         "type": "LIGHTNING",
-        "original": "B1-276"
+        "firstPrint": "B1-276"
     },
     {
         "id": "B1-277",
@@ -3678,7 +3678,7 @@
             "MEGA_ALTARIA"
         ],
         "type": "LIGHTNING",
-        "original": "B1-277"
+        "firstPrint": "B1-277"
     },
     {
         "id": "B1-278",
@@ -3691,7 +3691,7 @@
             "MEGA_ALTARIA"
         ],
         "type": "PSYCHIC",
-        "original": "B1-278"
+        "firstPrint": "B1-278"
     },
     {
         "id": "B1-279",
@@ -3704,7 +3704,7 @@
             "MEGA_BLAZIKEN"
         ],
         "type": "FIGHTING",
-        "original": "B1-279"
+        "firstPrint": "B1-279"
     },
     {
         "id": "B1-280",
@@ -3717,7 +3717,7 @@
             "MEGA_GYARADOS"
         ],
         "type": "DARKNESS",
-        "original": "B1-280"
+        "firstPrint": "B1-280"
     },
     {
         "id": "B1-281",
@@ -3730,7 +3730,7 @@
             "MEGA_BLAZIKEN"
         ],
         "type": "DARKNESS",
-        "original": "B1-281"
+        "firstPrint": "B1-281"
     },
     {
         "id": "B1-282",
@@ -3743,7 +3743,7 @@
             "MEGA_GYARADOS"
         ],
         "type": "METAL",
-        "original": "B1-282"
+        "firstPrint": "B1-282"
     },
     {
         "id": "B1-283",
@@ -3756,7 +3756,7 @@
             "MEGA_ALTARIA"
         ],
         "type": "COLORLESS",
-        "original": "B1-283"
+        "firstPrint": "B1-283"
     },
     {
         "id": "B1-284",
@@ -3769,7 +3769,7 @@
             "MEGA_BLAZIKEN"
         ],
         "type": "FIRE",
-        "original": "B1-284"
+        "firstPrint": "B1-284"
     },
     {
         "id": "B1-285",
@@ -3782,7 +3782,7 @@
             "MEGA_GYARADOS"
         ],
         "type": "WATER",
-        "original": "B1-285"
+        "firstPrint": "B1-285"
     },
     {
         "id": "B1-286",
@@ -3795,7 +3795,7 @@
             "MEGA_ALTARIA"
         ],
         "type": "PSYCHIC",
-        "original": "B1-286"
+        "firstPrint": "B1-286"
     },
     {
         "id": "B1-287",
@@ -3809,7 +3809,7 @@
         ],
         "type": "GRASS",
         "extra": true,
-        "original": "B1-287"
+        "firstPrint": "B1-287"
     },
     {
         "id": "B1-288",
@@ -3823,7 +3823,7 @@
         ],
         "type": "GRASS",
         "extra": true,
-        "original": "B1-288"
+        "firstPrint": "B1-288"
     },
     {
         "id": "B1-289",
@@ -3837,7 +3837,7 @@
         ],
         "type": "GRASS",
         "extra": true,
-        "original": "B1-289"
+        "firstPrint": "B1-289"
     },
     {
         "id": "B1-290",
@@ -3851,7 +3851,7 @@
         ],
         "type": "GRASS",
         "extra": true,
-        "original": "B1-290"
+        "firstPrint": "B1-290"
     },
     {
         "id": "B1-291",
@@ -3865,7 +3865,7 @@
         ],
         "type": "GRASS",
         "extra": true,
-        "original": "B1-291"
+        "firstPrint": "B1-291"
     },
     {
         "id": "B1-292",
@@ -3879,7 +3879,7 @@
         ],
         "type": "FIRE",
         "extra": true,
-        "original": "B1-292"
+        "firstPrint": "B1-292"
     },
     {
         "id": "B1-293",
@@ -3893,7 +3893,7 @@
         ],
         "type": "FIRE",
         "extra": true,
-        "original": "B1-293"
+        "firstPrint": "B1-293"
     },
     {
         "id": "B1-294",
@@ -3907,7 +3907,7 @@
         ],
         "type": "FIRE",
         "extra": true,
-        "original": "B1-294"
+        "firstPrint": "B1-294"
     },
     {
         "id": "B1-295",
@@ -3921,7 +3921,7 @@
         ],
         "type": "WATER",
         "extra": true,
-        "original": "B1-295"
+        "firstPrint": "B1-295"
     },
     {
         "id": "B1-296",
@@ -3935,7 +3935,7 @@
         ],
         "type": "WATER",
         "extra": true,
-        "original": "B1-296"
+        "firstPrint": "B1-296"
     },
     {
         "id": "B1-297",
@@ -3949,7 +3949,7 @@
         ],
         "type": "WATER",
         "extra": true,
-        "original": "B1-297"
+        "firstPrint": "B1-297"
     },
     {
         "id": "B1-298",
@@ -3963,7 +3963,7 @@
         ],
         "type": "WATER",
         "extra": true,
-        "original": "B1-298"
+        "firstPrint": "B1-298"
     },
     {
         "id": "B1-299",
@@ -3977,7 +3977,7 @@
         ],
         "type": "WATER",
         "extra": true,
-        "original": "B1-299"
+        "firstPrint": "B1-299"
     },
     {
         "id": "B1-300",
@@ -3991,7 +3991,7 @@
         ],
         "type": "WATER",
         "extra": true,
-        "original": "B1-300"
+        "firstPrint": "B1-300"
     },
     {
         "id": "B1-301",
@@ -4005,7 +4005,7 @@
         ],
         "type": "WATER",
         "extra": true,
-        "original": "B1-301"
+        "firstPrint": "B1-301"
     },
     {
         "id": "B1-302",
@@ -4019,7 +4019,7 @@
         ],
         "type": "LIGHTNING",
         "extra": true,
-        "original": "B1-302"
+        "firstPrint": "B1-302"
     },
     {
         "id": "B1-303",
@@ -4033,7 +4033,7 @@
         ],
         "type": "LIGHTNING",
         "extra": true,
-        "original": "B1-303"
+        "firstPrint": "B1-303"
     },
     {
         "id": "B1-304",
@@ -4047,7 +4047,7 @@
         ],
         "type": "LIGHTNING",
         "extra": true,
-        "original": "B1-304"
+        "firstPrint": "B1-304"
     },
     {
         "id": "B1-305",
@@ -4061,7 +4061,7 @@
         ],
         "type": "PSYCHIC",
         "extra": true,
-        "original": "B1-305"
+        "firstPrint": "B1-305"
     },
     {
         "id": "B1-306",
@@ -4075,7 +4075,7 @@
         ],
         "type": "PSYCHIC",
         "extra": true,
-        "original": "B1-306"
+        "firstPrint": "B1-306"
     },
     {
         "id": "B1-307",
@@ -4089,7 +4089,7 @@
         ],
         "type": "FIGHTING",
         "extra": true,
-        "original": "B1-307"
+        "firstPrint": "B1-307"
     },
     {
         "id": "B1-308",
@@ -4103,7 +4103,7 @@
         ],
         "type": "FIGHTING",
         "extra": true,
-        "original": "B1-308"
+        "firstPrint": "B1-308"
     },
     {
         "id": "B1-309",
@@ -4117,7 +4117,7 @@
         ],
         "type": "FIGHTING",
         "extra": true,
-        "original": "B1-309"
+        "firstPrint": "B1-309"
     },
     {
         "id": "B1-310",
@@ -4131,7 +4131,7 @@
         ],
         "type": "FIGHTING",
         "extra": true,
-        "original": "B1-310"
+        "firstPrint": "B1-310"
     },
     {
         "id": "B1-311",
@@ -4145,7 +4145,7 @@
         ],
         "type": "METAL",
         "extra": true,
-        "original": "B1-311"
+        "firstPrint": "B1-311"
     },
     {
         "id": "B1-312",
@@ -4159,7 +4159,7 @@
         ],
         "type": "COLORLESS",
         "extra": true,
-        "original": "B1-312"
+        "firstPrint": "B1-312"
     },
     {
         "id": "B1-313",
@@ -4173,7 +4173,7 @@
         ],
         "type": "COLORLESS",
         "extra": true,
-        "original": "B1-313"
+        "firstPrint": "B1-313"
     },
     {
         "id": "B1-314",
@@ -4187,7 +4187,7 @@
         ],
         "type": "COLORLESS",
         "extra": true,
-        "original": "B1-314"
+        "firstPrint": "B1-314"
     },
     {
         "id": "B1-315",
@@ -4201,7 +4201,7 @@
         ],
         "type": "COLORLESS",
         "extra": true,
-        "original": "B1-315"
+        "firstPrint": "B1-315"
     },
     {
         "id": "B1-316",
@@ -4215,7 +4215,7 @@
         ],
         "type": "COLORLESS",
         "extra": true,
-        "original": "B1-316"
+        "firstPrint": "B1-316"
     },
     {
         "id": "B1-317",
@@ -4229,7 +4229,7 @@
         ],
         "type": "GRASS",
         "extra": true,
-        "original": "B1-317"
+        "firstPrint": "B1-317"
     },
     {
         "id": "B1-318",
@@ -4243,7 +4243,7 @@
         ],
         "type": "FIRE",
         "extra": true,
-        "original": "B1-318"
+        "firstPrint": "B1-318"
     },
     {
         "id": "B1-319",
@@ -4257,7 +4257,7 @@
         ],
         "type": "WATER",
         "extra": true,
-        "original": "B1-319"
+        "firstPrint": "B1-319"
     },
     {
         "id": "B1-320",
@@ -4271,7 +4271,7 @@
         ],
         "type": "WATER",
         "extra": true,
-        "original": "B1-320"
+        "firstPrint": "B1-320"
     },
     {
         "id": "B1-321",
@@ -4285,7 +4285,7 @@
         ],
         "type": "LIGHTNING",
         "extra": true,
-        "original": "B1-321"
+        "firstPrint": "B1-321"
     },
     {
         "id": "B1-322",
@@ -4299,7 +4299,7 @@
         ],
         "type": "LIGHTNING",
         "extra": true,
-        "original": "B1-322"
+        "firstPrint": "B1-322"
     },
     {
         "id": "B1-323",
@@ -4313,7 +4313,7 @@
         ],
         "type": "FIGHTING",
         "extra": true,
-        "original": "B1-323"
+        "firstPrint": "B1-323"
     },
     {
         "id": "B1-324",
@@ -4327,7 +4327,7 @@
         ],
         "type": "FIGHTING",
         "extra": true,
-        "original": "B1-324"
+        "firstPrint": "B1-324"
     },
     {
         "id": "B1-325",
@@ -4341,7 +4341,7 @@
         ],
         "type": "METAL",
         "extra": true,
-        "original": "B1-325"
+        "firstPrint": "B1-325"
     },
     {
         "id": "B1-326",
@@ -4355,7 +4355,7 @@
         ],
         "type": "METAL",
         "extra": true,
-        "original": "B1-326"
+        "firstPrint": "B1-326"
     },
     {
         "id": "B1-327",
@@ -4369,7 +4369,7 @@
         ],
         "type": "COLORLESS",
         "extra": true,
-        "original": "B1-327"
+        "firstPrint": "B1-327"
     },
     {
         "id": "B1-328",
@@ -4383,7 +4383,7 @@
         ],
         "type": "COLORLESS",
         "extra": true,
-        "original": "B1-328"
+        "firstPrint": "B1-328"
     },
     {
         "id": "B1-329",
@@ -4398,7 +4398,7 @@
             "MEGA_ALTARIA"
         ],
         "type": "GRASS",
-        "original": "B1-329"
+        "firstPrint": "B1-329"
     },
     {
         "id": "B1-330",
@@ -4413,7 +4413,7 @@
             "MEGA_ALTARIA"
         ],
         "type": "PSYCHIC",
-        "original": "B1-330"
+        "firstPrint": "B1-330"
     },
     {
         "id": "B1-331",
@@ -4428,6 +4428,6 @@
             "MEGA_ALTARIA"
         ],
         "type": "TRAINER",
-        "original": "B1-331"
+        "firstPrint": "B1-331"
     }
 ]

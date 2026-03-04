@@ -10,7 +10,7 @@
             "PREMIUM"
         ],
         "type": "LIGHTNING",
-        "original": "P-B-001"
+        "firstPrint": "P-B-001"
     },
     {
         "id": "P-B-002",
@@ -23,7 +23,7 @@
             "DROP_EVENT"
         ],
         "type": "GRASS",
-        "original": "P-B-002"
+        "firstPrint": "P-B-002"
     },
     {
         "id": "P-B-003",
@@ -36,7 +36,7 @@
             "DROP_EVENT"
         ],
         "type": "WATER",
-        "original": "P-B-003"
+        "firstPrint": "P-B-003"
     },
     {
         "id": "P-B-004",
@@ -49,7 +49,7 @@
             "DROP_EVENT"
         ],
         "type": "LIGHTNING",
-        "original": "P-B-004"
+        "firstPrint": "P-B-004"
     },
     {
         "id": "P-B-005",
@@ -62,7 +62,7 @@
             "DROP_EVENT"
         ],
         "type": "COLORLESS",
-        "original": "P-B-005"
+        "firstPrint": "P-B-005"
     },
     {
         "id": "P-B-006",
@@ -75,7 +75,7 @@
             "DROP_EVENT"
         ],
         "type": "COLORLESS",
-        "original": "P-B-006"
+        "firstPrint": "P-B-006"
     },
     {
         "id": "P-B-007",
@@ -88,7 +88,7 @@
             "WONDER_EVENT"
         ],
         "type": "FIRE",
-        "original": "P-B-007"
+        "firstPrint": "P-B-007"
     },
     {
         "id": "P-B-008",
@@ -101,7 +101,7 @@
             "WONDER_EVENT"
         ],
         "type": "WATER",
-        "original": "P-B-008"
+        "firstPrint": "P-B-008"
     },
     {
         "id": "P-B-009",
@@ -114,7 +114,7 @@
             "PREMIUM"
         ],
         "type": "DARKNESS",
-        "original": "P-B-009"
+        "firstPrint": "P-B-009"
     },
     {
         "id": "P-B-010",
@@ -127,7 +127,7 @@
             "WONDER_EVENT"
         ],
         "type": "PSYCHIC",
-        "original": "P-B-010"
+        "firstPrint": "P-B-010"
     },
     {
         "id": "P-B-011",
@@ -140,7 +140,7 @@
             "WONDER_EVENT"
         ],
         "type": "COLORLESS",
-        "original": "P-B-011"
+        "firstPrint": "P-B-011"
     },
     {
         "id": "P-B-012",
@@ -153,7 +153,7 @@
             "PREMIUM"
         ],
         "type": "COLORLESS",
-        "original": "P-B-012"
+        "firstPrint": "P-B-012"
     },
     {
         "id": "P-B-013",
@@ -166,7 +166,7 @@
             "DROP_EVENT"
         ],
         "type": "FIRE",
-        "original": "P-B-013"
+        "firstPrint": "P-B-013"
     },
     {
         "id": "P-B-014",
@@ -179,7 +179,7 @@
             "DROP_EVENT"
         ],
         "type": "WATER",
-        "original": "P-B-014"
+        "firstPrint": "P-B-014"
     },
     {
         "id": "P-B-015",
@@ -192,7 +192,7 @@
             "DROP_EVENT"
         ],
         "type": "LIGHTNING",
-        "original": "P-B-015"
+        "firstPrint": "P-B-015"
     },
     {
         "id": "P-B-016",
@@ -205,7 +205,7 @@
             "DROP_EVENT"
         ],
         "type": "FIGHTING",
-        "original": "P-B-016"
+        "firstPrint": "P-B-016"
     },
     {
         "id": "P-B-017",
@@ -218,7 +218,7 @@
             "DROP_EVENT"
         ],
         "type": "COLORLESS",
-        "original": "P-B-017"
+        "firstPrint": "P-B-017"
     },
     {
         "id": "P-B-018",
@@ -231,7 +231,7 @@
             "WONDER_EVENT"
         ],
         "type": "LIGHTNING",
-        "original": "P-B-018"
+        "firstPrint": "P-B-018"
     },
     {
         "id": "P-B-019",
@@ -244,7 +244,7 @@
             "WONDER_EVENT"
         ],
         "type": "COLORLESS",
-        "original": "P-B-019"
+        "firstPrint": "P-B-019"
     },
     {
         "id": "P-B-020",
@@ -257,7 +257,7 @@
             "DROP_EVENT"
         ],
         "type": "FIRE",
-        "original": "P-B-020"
+        "firstPrint": "P-B-020"
     },
     {
         "id": "P-B-021",
@@ -270,7 +270,7 @@
             "DROP_EVENT"
         ],
         "type": "FIGHTING",
-        "original": "P-B-021"
+        "firstPrint": "P-B-021"
     },
     {
         "id": "P-B-022",
@@ -283,7 +283,7 @@
             "DROP_EVENT"
         ],
         "type": "FIGHTING",
-        "original": "P-B-022"
+        "firstPrint": "P-B-022"
     },
     {
         "id": "P-B-023",
@@ -296,7 +296,7 @@
             "DROP_EVENT"
         ],
         "type": "METAL",
-        "original": "P-B-023"
+        "firstPrint": "P-B-023"
     },
     {
         "id": "P-B-024",
@@ -309,7 +309,7 @@
             "DROP_EVENT"
         ],
         "type": "DRAGON",
-        "original": "P-B-024"
+        "firstPrint": "P-B-024"
     },
     {
         "id": "P-B-025",
@@ -322,7 +322,7 @@
             "PREMIUM"
         ],
         "type": "PSYCHIC",
-        "original": "P-B-025"
+        "firstPrint": "P-B-025"
     },
     {
         "id": "P-B-026",
@@ -335,7 +335,7 @@
             "DROP_EVENT"
         ],
         "type": "WATER",
-        "original": "P-B-026"
+        "firstPrint": "P-B-026"
     },
     {
         "id": "P-B-027",
@@ -348,7 +348,7 @@
             "DROP_EVENT"
         ],
         "type": "LIGHTNING",
-        "original": "P-B-027"
+        "firstPrint": "P-B-027"
     },
     {
         "id": "P-B-028",
@@ -361,7 +361,7 @@
             "DROP_EVENT"
         ],
         "type": "PSYCHIC",
-        "original": "P-B-028"
+        "firstPrint": "P-B-028"
     },
     {
         "id": "P-B-029",
@@ -374,7 +374,7 @@
             "DROP_EVENT"
         ],
         "type": "FIGHTING",
-        "original": "P-B-029"
+        "firstPrint": "P-B-029"
     },
     {
         "id": "P-B-030",
@@ -387,7 +387,7 @@
             "DROP_EVENT"
         ],
         "type": "COLORLESS",
-        "original": "P-B-030"
+        "firstPrint": "P-B-030"
     },
     {
         "id": "P-B-031",
@@ -400,7 +400,7 @@
             "WONDER_EVENT"
         ],
         "type": "FIRE",
-        "original": "P-B-031"
+        "firstPrint": "P-B-031"
     },
     {
         "id": "P-B-032",
@@ -413,7 +413,7 @@
             "WONDER_EVENT"
         ],
         "type": "WATER",
-        "original": "P-B-032"
+        "firstPrint": "P-B-032"
     },
     {
         "id": "P-B-033",
@@ -426,7 +426,7 @@
             "PREMIUM"
         ],
         "type": "WATER",
-        "original": "P-B-033"
+        "firstPrint": "P-B-033"
     },
     {
         "id": "P-B-034",
@@ -439,7 +439,7 @@
             "DROP_EVENT"
         ],
         "type": "GRASS",
-        "original": "P-B-034"
+        "firstPrint": "P-B-034"
     },
     {
         "id": "P-B-035",
@@ -452,7 +452,7 @@
             "DROP_EVENT"
         ],
         "type": "FIRE",
-        "original": "P-B-035"
+        "firstPrint": "P-B-035"
     },
     {
         "id": "P-B-036",
@@ -465,7 +465,7 @@
             "DROP_EVENT"
         ],
         "type": "WATER",
-        "original": "P-B-036"
+        "firstPrint": "P-B-036"
     },
     {
         "id": "P-B-037",
@@ -478,7 +478,7 @@
             "DROP_EVENT"
         ],
         "type": "WATER",
-        "original": "P-B-037"
+        "firstPrint": "P-B-037"
     },
     {
         "id": "P-B-038",
@@ -491,7 +491,7 @@
             "DROP_EVENT"
         ],
         "type": "METAL",
-        "original": "P-B-038"
+        "firstPrint": "P-B-038"
     },
     {
         "id": "P-B-039",
@@ -504,7 +504,7 @@
             "WONDER_EVENT"
         ],
         "type": "LIGHTNING",
-        "original": "P-B-039"
+        "firstPrint": "P-B-039"
     },
     {
         "id": "P-B-040",
@@ -517,6 +517,6 @@
             "WONDER_EVENT"
         ],
         "type": "DARKNESS",
-        "original": "P-B-040"
+        "firstPrint": "P-B-040"
     }
 ]

@@ -10,7 +10,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "GRASS",
-        "original": "B2a-001"
+        "firstPrint": "B2a-001"
     },
     {
         "id": "B2a-002",
@@ -23,7 +23,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "GRASS",
-        "original": "B2a-002"
+        "firstPrint": "B2a-002"
     },
     {
         "id": "B2a-003",
@@ -36,7 +36,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "GRASS",
-        "original": "B2a-003"
+        "firstPrint": "B2a-003"
     },
     {
         "id": "B2a-004",
@@ -49,7 +49,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "GRASS",
-        "original": "B2a-004"
+        "firstPrint": "B2a-004"
     },
     {
         "id": "B2a-005",
@@ -62,7 +62,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "GRASS",
-        "original": "B2a-005"
+        "firstPrint": "B2a-005"
     },
     {
         "id": "B2a-006",
@@ -75,7 +75,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "GRASS",
-        "original": "B2a-006"
+        "firstPrint": "B2a-006"
     },
     {
         "id": "B2a-007",
@@ -88,7 +88,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "GRASS",
-        "original": "B2a-007"
+        "firstPrint": "B2a-007"
     },
     {
         "id": "B2a-008",
@@ -101,7 +101,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "GRASS",
-        "original": "B2a-008"
+        "firstPrint": "B2a-008"
     },
     {
         "id": "B2a-009",
@@ -114,7 +114,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "GRASS",
-        "original": "B2a-009"
+        "firstPrint": "B2a-009"
     },
     {
         "id": "B2a-010",
@@ -127,7 +127,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "GRASS",
-        "original": "B2a-010"
+        "firstPrint": "B2a-010"
     },
     {
         "id": "B2a-011",
@@ -140,7 +140,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "GRASS",
-        "original": "B2a-011"
+        "firstPrint": "B2a-011"
     },
     {
         "id": "B2a-012",
@@ -153,7 +153,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "GRASS",
-        "original": "B2a-012"
+        "firstPrint": "B2a-012"
     },
     {
         "id": "B2a-013",
@@ -166,7 +166,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "GRASS",
-        "original": "B2a-013"
+        "firstPrint": "B2a-013"
     },
     {
         "id": "B2a-014",
@@ -179,7 +179,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "GRASS",
-        "original": "B2a-014"
+        "firstPrint": "B2a-014"
     },
     {
         "id": "B2a-015",
@@ -192,7 +192,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "GRASS",
-        "original": "B2a-015"
+        "firstPrint": "B2a-015"
     },
     {
         "id": "B2a-016",
@@ -205,7 +205,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "FIRE",
-        "original": "B2a-016"
+        "firstPrint": "B2a-016"
     },
     {
         "id": "B2a-017",
@@ -218,7 +218,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "FIRE",
-        "original": "B2a-017"
+        "firstPrint": "B2a-017"
     },
     {
         "id": "B2a-018",
@@ -231,7 +231,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "FIRE",
-        "original": "B2a-018"
+        "firstPrint": "B2a-018"
     },
     {
         "id": "B2a-019",
@@ -244,7 +244,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "FIRE",
-        "original": "B2a-019"
+        "firstPrint": "B2a-019"
     },
     {
         "id": "B2a-020",
@@ -257,7 +257,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "FIRE",
-        "original": "B2a-020"
+        "firstPrint": "B2a-020"
     },
     {
         "id": "B2a-021",
@@ -270,7 +270,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "FIRE",
-        "original": "B2a-021"
+        "firstPrint": "B2a-021"
     },
     {
         "id": "B2a-022",
@@ -283,7 +283,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "WATER",
-        "original": "B2a-022"
+        "firstPrint": "B2a-022"
     },
     {
         "id": "B2a-023",
@@ -296,7 +296,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "WATER",
-        "original": "B2a-023"
+        "firstPrint": "B2a-023"
     },
     {
         "id": "B2a-024",
@@ -309,7 +309,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "WATER",
-        "original": "B2a-024"
+        "firstPrint": "B2a-024"
     },
     {
         "id": "B2a-025",
@@ -322,7 +322,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "WATER",
-        "original": "B2a-025"
+        "firstPrint": "B2a-025"
     },
     {
         "id": "B2a-026",
@@ -335,7 +335,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "WATER",
-        "original": "B2a-026"
+        "firstPrint": "B2a-026"
     },
     {
         "id": "B2a-027",
@@ -348,7 +348,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "WATER",
-        "original": "B2a-027"
+        "firstPrint": "B2a-027"
     },
     {
         "id": "B2a-028",
@@ -361,7 +361,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "WATER",
-        "original": "B2a-028"
+        "firstPrint": "B2a-028"
     },
     {
         "id": "B2a-029",
@@ -374,7 +374,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "WATER",
-        "original": "B2a-029"
+        "firstPrint": "B2a-029"
     },
     {
         "id": "B2a-030",
@@ -387,7 +387,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "WATER",
-        "original": "B2a-030"
+        "firstPrint": "B2a-030"
     },
     {
         "id": "B2a-031",
@@ -400,7 +400,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "WATER",
-        "original": "B2a-031"
+        "firstPrint": "B2a-031"
     },
     {
         "id": "B2a-032",
@@ -413,7 +413,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "WATER",
-        "original": "B2a-032"
+        "firstPrint": "B2a-032"
     },
     {
         "id": "B2a-033",
@@ -426,7 +426,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "WATER",
-        "original": "B2a-033"
+        "firstPrint": "B2a-033"
     },
     {
         "id": "B2a-034",
@@ -439,7 +439,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "WATER",
-        "original": "B2a-034"
+        "firstPrint": "B2a-034"
     },
     {
         "id": "B2a-035",
@@ -452,7 +452,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "WATER",
-        "original": "B2a-035"
+        "firstPrint": "B2a-035"
     },
     {
         "id": "B2a-036",
@@ -465,7 +465,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "WATER",
-        "original": "B2a-036"
+        "firstPrint": "B2a-036"
     },
     {
         "id": "B2a-037",
@@ -478,7 +478,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "WATER",
-        "original": "B2a-037"
+        "firstPrint": "B2a-037"
     },
     {
         "id": "B2a-038",
@@ -491,7 +491,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "LIGHTNING",
-        "original": "B2a-038"
+        "firstPrint": "B2a-038"
     },
     {
         "id": "B2a-039",
@@ -504,7 +504,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "LIGHTNING",
-        "original": "B2a-039"
+        "firstPrint": "B2a-039"
     },
     {
         "id": "B2a-040",
@@ -517,7 +517,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "LIGHTNING",
-        "original": "B2a-040"
+        "firstPrint": "B2a-040"
     },
     {
         "id": "B2a-041",
@@ -530,7 +530,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "LIGHTNING",
-        "original": "B2a-041"
+        "firstPrint": "B2a-041"
     },
     {
         "id": "B2a-042",
@@ -543,7 +543,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "LIGHTNING",
-        "original": "B2a-042"
+        "firstPrint": "B2a-042"
     },
     {
         "id": "B2a-043",
@@ -556,7 +556,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "LIGHTNING",
-        "original": "B2a-043"
+        "firstPrint": "B2a-043"
     },
     {
         "id": "B2a-044",
@@ -569,7 +569,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "LIGHTNING",
-        "original": "B2a-044"
+        "firstPrint": "B2a-044"
     },
     {
         "id": "B2a-045",
@@ -582,7 +582,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "LIGHTNING",
-        "original": "B2a-045"
+        "firstPrint": "B2a-045"
     },
     {
         "id": "B2a-046",
@@ -595,7 +595,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "PSYCHIC",
-        "original": "B2a-046"
+        "firstPrint": "B2a-046"
     },
     {
         "id": "B2a-047",
@@ -608,7 +608,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "PSYCHIC",
-        "original": "B2a-047"
+        "firstPrint": "B2a-047"
     },
     {
         "id": "B2a-048",
@@ -621,7 +621,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "PSYCHIC",
-        "original": "B2a-048"
+        "firstPrint": "B2a-048"
     },
     {
         "id": "B2a-049",
@@ -634,7 +634,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "PSYCHIC",
-        "original": "B2a-049"
+        "firstPrint": "B2a-049"
     },
     {
         "id": "B2a-050",
@@ -647,7 +647,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "PSYCHIC",
-        "original": "B2a-050"
+        "firstPrint": "B2a-050"
     },
     {
         "id": "B2a-051",
@@ -660,7 +660,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "PSYCHIC",
-        "original": "B2a-051"
+        "firstPrint": "B2a-051"
     },
     {
         "id": "B2a-052",
@@ -673,7 +673,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "PSYCHIC",
-        "original": "B2a-052"
+        "firstPrint": "B2a-052"
     },
     {
         "id": "B2a-053",
@@ -686,7 +686,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "PSYCHIC",
-        "original": "B2a-053"
+        "firstPrint": "B2a-053"
     },
     {
         "id": "B2a-054",
@@ -699,7 +699,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "PSYCHIC",
-        "original": "B2a-054"
+        "firstPrint": "B2a-054"
     },
     {
         "id": "B2a-055",
@@ -712,7 +712,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "FIGHTING",
-        "original": "B2a-055"
+        "firstPrint": "B2a-055"
     },
     {
         "id": "B2a-056",
@@ -725,7 +725,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "FIGHTING",
-        "original": "B2a-056"
+        "firstPrint": "B2a-056"
     },
     {
         "id": "B2a-057",
@@ -738,7 +738,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "FIGHTING",
-        "original": "B2a-057"
+        "firstPrint": "B2a-057"
     },
     {
         "id": "B2a-058",
@@ -751,7 +751,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "FIGHTING",
-        "original": "B2a-058"
+        "firstPrint": "B2a-058"
     },
     {
         "id": "B2a-059",
@@ -764,7 +764,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "FIGHTING",
-        "original": "B2a-059"
+        "firstPrint": "B2a-059"
     },
     {
         "id": "B2a-060",
@@ -777,7 +777,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "FIGHTING",
-        "original": "B2a-060"
+        "firstPrint": "B2a-060"
     },
     {
         "id": "B2a-061",
@@ -790,7 +790,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "FIGHTING",
-        "original": "B2a-061"
+        "firstPrint": "B2a-061"
     },
     {
         "id": "B2a-062",
@@ -803,7 +803,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "FIGHTING",
-        "original": "B2a-062"
+        "firstPrint": "B2a-062"
     },
     {
         "id": "B2a-063",
@@ -816,7 +816,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "FIGHTING",
-        "original": "B2a-063"
+        "firstPrint": "B2a-063"
     },
     {
         "id": "B2a-064",
@@ -829,7 +829,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "DARKNESS",
-        "original": "B2a-064"
+        "firstPrint": "B2a-064"
     },
     {
         "id": "B2a-065",
@@ -842,7 +842,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "DARKNESS",
-        "original": "B2a-065"
+        "firstPrint": "B2a-065"
     },
     {
         "id": "B2a-066",
@@ -855,7 +855,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "DARKNESS",
-        "original": "B2a-066"
+        "firstPrint": "B2a-066"
     },
     {
         "id": "B2a-067",
@@ -868,7 +868,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "DARKNESS",
-        "original": "B2a-067"
+        "firstPrint": "B2a-067"
     },
     {
         "id": "B2a-068",
@@ -881,7 +881,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "DARKNESS",
-        "original": "B2a-068"
+        "firstPrint": "B2a-068"
     },
     {
         "id": "B2a-069",
@@ -894,7 +894,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "DARKNESS",
-        "original": "B2a-069"
+        "firstPrint": "B2a-069"
     },
     {
         "id": "B2a-070",
@@ -907,7 +907,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "DARKNESS",
-        "original": "B2a-070"
+        "firstPrint": "B2a-070"
     },
     {
         "id": "B2a-071",
@@ -920,7 +920,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "DARKNESS",
-        "original": "B2a-071"
+        "firstPrint": "B2a-071"
     },
     {
         "id": "B2a-072",
@@ -933,7 +933,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "METAL",
-        "original": "B2a-072"
+        "firstPrint": "B2a-072"
     },
     {
         "id": "B2a-073",
@@ -946,7 +946,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "METAL",
-        "original": "B2a-073"
+        "firstPrint": "B2a-073"
     },
     {
         "id": "B2a-074",
@@ -959,7 +959,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "METAL",
-        "original": "B2a-074"
+        "firstPrint": "B2a-074"
     },
     {
         "id": "B2a-075",
@@ -972,7 +972,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "METAL",
-        "original": "B2a-075"
+        "firstPrint": "B2a-075"
     },
     {
         "id": "B2a-076",
@@ -985,7 +985,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "METAL",
-        "original": "B2a-076"
+        "firstPrint": "B2a-076"
     },
     {
         "id": "B2a-077",
@@ -998,7 +998,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "METAL",
-        "original": "B2a-077"
+        "firstPrint": "B2a-077"
     },
     {
         "id": "B2a-078",
@@ -1011,7 +1011,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "METAL",
-        "original": "B2a-078"
+        "firstPrint": "B2a-078"
     },
     {
         "id": "B2a-079",
@@ -1024,7 +1024,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "COLORLESS",
-        "original": "B2a-079"
+        "firstPrint": "B2a-079"
     },
     {
         "id": "B2a-080",
@@ -1037,7 +1037,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "COLORLESS",
-        "original": "B2a-080"
+        "firstPrint": "B2a-080"
     },
     {
         "id": "B2a-081",
@@ -1050,7 +1050,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "COLORLESS",
-        "original": "B2a-081"
+        "firstPrint": "B2a-081"
     },
     {
         "id": "B2a-082",
@@ -1063,7 +1063,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "COLORLESS",
-        "original": "B2a-082"
+        "firstPrint": "B2a-082"
     },
     {
         "id": "B2a-083",
@@ -1076,7 +1076,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "COLORLESS",
-        "original": "B2a-083"
+        "firstPrint": "B2a-083"
     },
     {
         "id": "B2a-084",
@@ -1089,7 +1089,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "COLORLESS",
-        "original": "B2a-084"
+        "firstPrint": "B2a-084"
     },
     {
         "id": "B2a-085",
@@ -1102,7 +1102,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "COLORLESS",
-        "original": "B2a-085"
+        "firstPrint": "B2a-085"
     },
     {
         "id": "B2a-086",
@@ -1115,7 +1115,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "TRAINER",
-        "original": "B2a-086"
+        "firstPrint": "B2a-086"
     },
     {
         "id": "B2a-087",
@@ -1128,7 +1128,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "TRAINER",
-        "original": "B2a-087"
+        "firstPrint": "B2a-087"
     },
     {
         "id": "B2a-088",
@@ -1141,7 +1141,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "TRAINER",
-        "original": "B2a-088"
+        "firstPrint": "B2a-088"
     },
     {
         "id": "B2a-089",
@@ -1154,7 +1154,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "TRAINER",
-        "original": "B2a-089"
+        "firstPrint": "B2a-089"
     },
     {
         "id": "B2a-090",
@@ -1167,7 +1167,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "TRAINER",
-        "original": "B2a-090"
+        "firstPrint": "B2a-090"
     },
     {
         "id": "B2a-091",
@@ -1180,7 +1180,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "TRAINER",
-        "original": "B2a-091"
+        "firstPrint": "B2a-091"
     },
     {
         "id": "B2a-092",
@@ -1193,7 +1193,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "TRAINER",
-        "original": "B2a-092"
+        "firstPrint": "B2a-092"
     },
     {
         "id": "B2a-093",
@@ -1206,7 +1206,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "TRAINER",
-        "original": "B2a-093"
+        "firstPrint": "B2a-093"
     },
     {
         "id": "B2a-094",
@@ -1219,7 +1219,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "FIRE",
-        "original": "B2a-094"
+        "firstPrint": "B2a-094"
     },
     {
         "id": "B2a-095",
@@ -1232,7 +1232,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "PSYCHIC",
-        "original": "B2a-095"
+        "firstPrint": "B2a-095"
     },
     {
         "id": "B2a-096",
@@ -1245,7 +1245,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "PSYCHIC",
-        "original": "B2a-096"
+        "firstPrint": "B2a-096"
     },
     {
         "id": "B2a-097",
@@ -1258,7 +1258,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "DARKNESS",
-        "original": "B2a-097"
+        "firstPrint": "B2a-097"
     },
     {
         "id": "B2a-098",
@@ -1271,7 +1271,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "METAL",
-        "original": "B2a-098"
+        "firstPrint": "B2a-098"
     },
     {
         "id": "B2a-099",
@@ -1284,7 +1284,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "COLORLESS",
-        "original": "B2a-099"
+        "firstPrint": "B2a-099"
     },
     {
         "id": "B2a-100",
@@ -1297,7 +1297,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "GRASS",
-        "original": "B2a-100"
+        "firstPrint": "B2a-100"
     },
     {
         "id": "B2a-101",
@@ -1310,7 +1310,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "FIRE",
-        "original": "B2a-101"
+        "firstPrint": "B2a-101"
     },
     {
         "id": "B2a-102",
@@ -1323,7 +1323,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "WATER",
-        "original": "B2a-102"
+        "firstPrint": "B2a-102"
     },
     {
         "id": "B2a-103",
@@ -1336,7 +1336,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "LIGHTNING",
-        "original": "B2a-103"
+        "firstPrint": "B2a-103"
     },
     {
         "id": "B2a-104",
@@ -1349,7 +1349,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "METAL",
-        "original": "B2a-104"
+        "firstPrint": "B2a-104"
     },
     {
         "id": "B2a-105",
@@ -1362,7 +1362,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "TRAINER",
-        "original": "B2a-105"
+        "firstPrint": "B2a-105"
     },
     {
         "id": "B2a-106",
@@ -1375,7 +1375,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "TRAINER",
-        "original": "B2a-106"
+        "firstPrint": "B2a-106"
     },
     {
         "id": "B2a-107",
@@ -1388,7 +1388,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "TRAINER",
-        "original": "B2a-107"
+        "firstPrint": "B2a-107"
     },
     {
         "id": "B2a-108",
@@ -1401,7 +1401,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "TRAINER",
-        "original": "B2a-108"
+        "firstPrint": "B2a-108"
     },
     {
         "id": "B2a-109",
@@ -1414,7 +1414,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "TRAINER",
-        "original": "B2a-109"
+        "firstPrint": "B2a-109"
     },
     {
         "id": "B2a-110",
@@ -1427,7 +1427,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "GRASS",
-        "original": "B2a-110"
+        "firstPrint": "B2a-110"
     },
     {
         "id": "B2a-111",
@@ -1440,7 +1440,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "FIRE",
-        "original": "B2a-111"
+        "firstPrint": "B2a-111"
     },
     {
         "id": "B2a-112",
@@ -1453,7 +1453,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "WATER",
-        "original": "B2a-112"
+        "firstPrint": "B2a-112"
     },
     {
         "id": "B2a-113",
@@ -1466,7 +1466,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "LIGHTNING",
-        "original": "B2a-113"
+        "firstPrint": "B2a-113"
     },
     {
         "id": "B2a-114",
@@ -1479,7 +1479,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "METAL",
-        "original": "B2a-114"
+        "firstPrint": "B2a-114"
     },
     {
         "id": "B2a-115",
@@ -1492,7 +1492,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "TRAINER",
-        "original": "B2a-115"
+        "firstPrint": "B2a-115"
     },
     {
         "id": "B2a-116",
@@ -1506,7 +1506,7 @@
         ],
         "type": "GRASS",
         "extra": true,
-        "original": "B2a-116"
+        "firstPrint": "B2a-116"
     },
     {
         "id": "B2a-117",
@@ -1520,7 +1520,7 @@
         ],
         "type": "GRASS",
         "extra": true,
-        "original": "B2a-117"
+        "firstPrint": "B2a-117"
     },
     {
         "id": "B2a-118",
@@ -1534,7 +1534,7 @@
         ],
         "type": "GRASS",
         "extra": true,
-        "original": "B2a-118"
+        "firstPrint": "B2a-118"
     },
     {
         "id": "B2a-119",
@@ -1548,7 +1548,7 @@
         ],
         "type": "LIGHTNING",
         "extra": true,
-        "original": "B2a-119"
+        "firstPrint": "B2a-119"
     },
     {
         "id": "B2a-120",
@@ -1562,7 +1562,7 @@
         ],
         "type": "LIGHTNING",
         "extra": true,
-        "original": "B2a-120"
+        "firstPrint": "B2a-120"
     },
     {
         "id": "B2a-121",
@@ -1576,7 +1576,7 @@
         ],
         "type": "LIGHTNING",
         "extra": true,
-        "original": "B2a-121"
+        "firstPrint": "B2a-121"
     },
     {
         "id": "B2a-122",
@@ -1590,7 +1590,7 @@
         ],
         "type": "PSYCHIC",
         "extra": true,
-        "original": "B2a-122"
+        "firstPrint": "B2a-122"
     },
     {
         "id": "B2a-123",
@@ -1604,7 +1604,7 @@
         ],
         "type": "METAL",
         "extra": true,
-        "original": "B2a-123"
+        "firstPrint": "B2a-123"
     },
     {
         "id": "B2a-124",
@@ -1618,7 +1618,7 @@
         ],
         "type": "METAL",
         "extra": true,
-        "original": "B2a-124"
+        "firstPrint": "B2a-124"
     },
     {
         "id": "B2a-125",
@@ -1632,7 +1632,7 @@
         ],
         "type": "METAL",
         "extra": true,
-        "original": "B2a-125"
+        "firstPrint": "B2a-125"
     },
     {
         "id": "B2a-126",
@@ -1646,7 +1646,7 @@
         ],
         "type": "FIRE",
         "extra": true,
-        "original": "B2a-126"
+        "firstPrint": "B2a-126"
     },
     {
         "id": "B2a-127",
@@ -1660,7 +1660,7 @@
         ],
         "type": "WATER",
         "extra": true,
-        "original": "B2a-127"
+        "firstPrint": "B2a-127"
     },
     {
         "id": "B2a-128",
@@ -1674,7 +1674,7 @@
         ],
         "type": "LIGHTNING",
         "extra": true,
-        "original": "B2a-128"
+        "firstPrint": "B2a-128"
     },
     {
         "id": "B2a-129",
@@ -1688,7 +1688,7 @@
         ],
         "type": "METAL",
         "extra": true,
-        "original": "B2a-129"
+        "firstPrint": "B2a-129"
     },
     {
         "id": "B2a-130",
@@ -1701,7 +1701,7 @@
             "PALDEA_STARTERS"
         ],
         "type": "WATER",
-        "original": "B2a-130"
+        "firstPrint": "B2a-130"
     },
     {
         "id": "B2a-131",
@@ -1714,6 +1714,6 @@
             "PALDEA_STARTERS"
         ],
         "type": "TRAINER",
-        "original": "B2a-131"
+        "firstPrint": "B2a-131"
     }
 ]

@@ -10,7 +10,7 @@
             "DELUXE_2025"
         ],
         "type": "GRASS",
-        "original": "A1-001"
+        "firstPrint": "A1-001"
     },
     {
         "id": "A4b-002",
@@ -23,7 +23,7 @@
             "DELUXE_2025"
         ],
         "type": "GRASS",
-        "original": "A4b-002"
+        "firstPrint": "A4b-002"
     },
     {
         "id": "A4b-003",
@@ -36,7 +36,7 @@
             "DELUXE_2025"
         ],
         "type": "GRASS",
-        "original": "A1-002"
+        "firstPrint": "A1-002"
     },
     {
         "id": "A4b-004",
@@ -49,7 +49,7 @@
             "DELUXE_2025"
         ],
         "type": "GRASS",
-        "original": "A4b-004"
+        "firstPrint": "A4b-004"
     },
     {
         "id": "A4b-005",
@@ -62,7 +62,7 @@
             "DELUXE_2025"
         ],
         "type": "GRASS",
-        "original": "A1-004"
+        "firstPrint": "A1-004"
     },
     {
         "id": "A4b-006",
@@ -75,7 +75,7 @@
             "DELUXE_2025"
         ],
         "type": "GRASS",
-        "original": "A2b-001"
+        "firstPrint": "A2b-001"
     },
     {
         "id": "A4b-007",
@@ -88,7 +88,7 @@
             "DELUXE_2025"
         ],
         "type": "GRASS",
-        "original": "A4b-007"
+        "firstPrint": "A4b-007"
     },
     {
         "id": "A4b-008",
@@ -101,7 +101,7 @@
             "DELUXE_2025"
         ],
         "type": "GRASS",
-        "original": "A2b-002"
+        "firstPrint": "A2b-002"
     },
     {
         "id": "A4b-009",
@@ -114,7 +114,7 @@
             "DELUXE_2025"
         ],
         "type": "GRASS",
-        "original": "A4b-009"
+        "firstPrint": "A4b-009"
     },
     {
         "id": "A4b-010",
@@ -127,7 +127,7 @@
             "DELUXE_2025"
         ],
         "type": "GRASS",
-        "original": "A2b-003"
+        "firstPrint": "A2b-003"
     },
     {
         "id": "A4b-011",
@@ -140,7 +140,7 @@
             "DELUXE_2025"
         ],
         "type": "GRASS",
-        "original": "A1-021"
+        "firstPrint": "A1-021"
     },
     {
         "id": "A4b-012",
@@ -153,7 +153,7 @@
             "DELUXE_2025"
         ],
         "type": "GRASS",
-        "original": "A4b-012"
+        "firstPrint": "A4b-012"
     },
     {
         "id": "A4b-013",
@@ -166,7 +166,7 @@
             "DELUXE_2025"
         ],
         "type": "GRASS",
-        "original": "A1-023"
+        "firstPrint": "A1-023"
     },
     {
         "id": "A4b-014",
@@ -179,7 +179,7 @@
             "DELUXE_2025"
         ],
         "type": "GRASS",
-        "original": "A4-013"
+        "firstPrint": "A4-013"
     },
     {
         "id": "A4b-015",
@@ -192,7 +192,7 @@
             "DELUXE_2025"
         ],
         "type": "GRASS",
-        "original": "A4b-015"
+        "firstPrint": "A4b-015"
     },
     {
         "id": "A4b-016",
@@ -205,7 +205,7 @@
             "DELUXE_2025"
         ],
         "type": "GRASS",
-        "original": "A4-014"
+        "firstPrint": "A4-014"
     },
     {
         "id": "A4b-017",
@@ -218,7 +218,7 @@
             "DELUXE_2025"
         ],
         "type": "GRASS",
-        "original": "A4b-017"
+        "firstPrint": "A4b-017"
     },
     {
         "id": "A4b-018",
@@ -231,7 +231,7 @@
             "DELUXE_2025"
         ],
         "type": "GRASS",
-        "original": "A4-015"
+        "firstPrint": "A4-015"
     },
     {
         "id": "A4b-019",
@@ -244,7 +244,7 @@
             "DELUXE_2025"
         ],
         "type": "GRASS",
-        "original": "A4b-019"
+        "firstPrint": "A4b-019"
     },
     {
         "id": "A4b-020",
@@ -257,7 +257,7 @@
             "DELUXE_2025"
         ],
         "type": "GRASS",
-        "original": "A2-006"
+        "firstPrint": "A2-006"
     },
     {
         "id": "A4b-021",
@@ -270,7 +270,7 @@
             "DELUXE_2025"
         ],
         "type": "GRASS",
-        "original": "A4b-021"
+        "firstPrint": "A4b-021"
     },
     {
         "id": "A4b-022",
@@ -283,7 +283,7 @@
             "DELUXE_2025"
         ],
         "type": "GRASS",
-        "original": "A2-007"
+        "firstPrint": "A2-007"
     },
     {
         "id": "A4b-023",
@@ -296,7 +296,7 @@
             "DELUXE_2025"
         ],
         "type": "GRASS",
-        "original": "A4-021"
+        "firstPrint": "A4-021"
     },
     {
         "id": "A4b-024",
@@ -309,7 +309,7 @@
             "DELUXE_2025"
         ],
         "type": "GRASS",
-        "original": "A1a-003"
+        "firstPrint": "A1a-003"
     },
     {
         "id": "A4b-025",
@@ -322,7 +322,7 @@
             "DELUXE_2025"
         ],
         "type": "GRASS",
-        "original": "A4-023"
+        "firstPrint": "A4-023"
     },
     {
         "id": "A4b-026",
@@ -335,7 +335,7 @@
             "DELUXE_2025"
         ],
         "type": "GRASS",
-        "original": "A4b-026"
+        "firstPrint": "A4b-026"
     },
     {
         "id": "A4b-027",
@@ -348,7 +348,7 @@
             "DELUXE_2025"
         ],
         "type": "GRASS",
-        "original": "A4-024"
+        "firstPrint": "A4-024"
     },
     {
         "id": "A4b-028",
@@ -361,7 +361,7 @@
             "DELUXE_2025"
         ],
         "type": "GRASS",
-        "original": "A4b-028"
+        "firstPrint": "A4b-028"
     },
     {
         "id": "A4b-029",
@@ -374,7 +374,7 @@
             "DELUXE_2025"
         ],
         "type": "GRASS",
-        "original": "A2a-010"
+        "firstPrint": "A2a-010"
     },
     {
         "id": "A4b-030",
@@ -387,7 +387,7 @@
             "DELUXE_2025"
         ],
         "type": "GRASS",
-        "original": "A2-022"
+        "firstPrint": "A2-022"
     },
     {
         "id": "A4b-031",
@@ -400,7 +400,7 @@
             "DELUXE_2025"
         ],
         "type": "GRASS",
-        "original": "A4b-031"
+        "firstPrint": "A4b-031"
     },
     {
         "id": "A4b-032",
@@ -413,7 +413,7 @@
             "DELUXE_2025"
         ],
         "type": "GRASS",
-        "original": "A1a-004"
+        "firstPrint": "A1a-004"
     },
     {
         "id": "A4b-033",
@@ -426,7 +426,7 @@
             "DELUXE_2025"
         ],
         "type": "GRASS",
-        "original": "A4b-033"
+        "firstPrint": "A4b-033"
     },
     {
         "id": "A4b-034",
@@ -439,7 +439,7 @@
             "DELUXE_2025"
         ],
         "type": "GRASS",
-        "original": "A1a-005"
+        "firstPrint": "A1a-005"
     },
     {
         "id": "A4b-035",
@@ -452,7 +452,7 @@
             "DELUXE_2025"
         ],
         "type": "GRASS",
-        "original": "A4b-035"
+        "firstPrint": "A4b-035"
     },
     {
         "id": "A4b-036",
@@ -465,7 +465,7 @@
             "DELUXE_2025"
         ],
         "type": "GRASS",
-        "original": "A1a-006"
+        "firstPrint": "A1a-006"
     },
     {
         "id": "A4b-037",
@@ -478,7 +478,7 @@
             "DELUXE_2025"
         ],
         "type": "GRASS",
-        "original": "A4b-037"
+        "firstPrint": "A4b-037"
     },
     {
         "id": "A4b-038",
@@ -491,7 +491,7 @@
             "DELUXE_2025"
         ],
         "type": "GRASS",
-        "original": "A3-010"
+        "firstPrint": "A3-010"
     },
     {
         "id": "A4b-039",
@@ -504,7 +504,7 @@
             "DELUXE_2025"
         ],
         "type": "GRASS",
-        "original": "A4b-039"
+        "firstPrint": "A4b-039"
     },
     {
         "id": "A4b-040",
@@ -517,7 +517,7 @@
             "DELUXE_2025"
         ],
         "type": "GRASS",
-        "original": "A3-011"
+        "firstPrint": "A3-011"
     },
     {
         "id": "A4b-041",
@@ -530,7 +530,7 @@
             "DELUXE_2025"
         ],
         "type": "GRASS",
-        "original": "A4b-041"
+        "firstPrint": "A4b-041"
     },
     {
         "id": "A4b-042",
@@ -543,7 +543,7 @@
             "DELUXE_2025"
         ],
         "type": "GRASS",
-        "original": "A3-012"
+        "firstPrint": "A3-012"
     },
     {
         "id": "A4b-043",
@@ -556,7 +556,7 @@
             "DELUXE_2025"
         ],
         "type": "GRASS",
-        "original": "A3-023"
+        "firstPrint": "A3-023"
     },
     {
         "id": "A4b-044",
@@ -569,7 +569,7 @@
             "DELUXE_2025"
         ],
         "type": "GRASS",
-        "original": "A3a-006"
+        "firstPrint": "A3a-006"
     },
     {
         "id": "A4b-045",
@@ -582,7 +582,7 @@
             "DELUXE_2025"
         ],
         "type": "GRASS",
-        "original": "A3a-007"
+        "firstPrint": "A3a-007"
     },
     {
         "id": "A4b-046",
@@ -595,7 +595,7 @@
             "DELUXE_2025"
         ],
         "type": "GRASS",
-        "original": "A4b-046"
+        "firstPrint": "A4b-046"
     },
     {
         "id": "A4b-047",
@@ -608,7 +608,7 @@
             "DELUXE_2025"
         ],
         "type": "GRASS",
-        "original": "A3a-008"
+        "firstPrint": "A3a-008"
     },
     {
         "id": "A4b-048",
@@ -621,7 +621,7 @@
             "DELUXE_2025"
         ],
         "type": "GRASS",
-        "original": "A4b-048"
+        "firstPrint": "A4b-048"
     },
     {
         "id": "A4b-049",
@@ -634,7 +634,7 @@
             "DELUXE_2025"
         ],
         "type": "GRASS",
-        "original": "A2b-005"
+        "firstPrint": "A2b-005"
     },
     {
         "id": "A4b-050",
@@ -647,7 +647,7 @@
             "DELUXE_2025"
         ],
         "type": "GRASS",
-        "original": "A4b-050"
+        "firstPrint": "A4b-050"
     },
     {
         "id": "A4b-051",
@@ -660,7 +660,7 @@
             "DELUXE_2025"
         ],
         "type": "GRASS",
-        "original": "A2b-006"
+        "firstPrint": "A2b-006"
     },
     {
         "id": "A4b-052",
@@ -673,7 +673,7 @@
             "DELUXE_2025"
         ],
         "type": "GRASS",
-        "original": "A4b-052"
+        "firstPrint": "A4b-052"
     },
     {
         "id": "A4b-053",
@@ -686,7 +686,7 @@
             "DELUXE_2025"
         ],
         "type": "GRASS",
-        "original": "A2b-007"
+        "firstPrint": "A2b-007"
     },
     {
         "id": "A4b-054",
@@ -699,7 +699,7 @@
             "DELUXE_2025"
         ],
         "type": "GRASS",
-        "original": "A4b-054"
+        "firstPrint": "A4b-054"
     },
     {
         "id": "A4b-055",
@@ -712,7 +712,7 @@
             "DELUXE_2025"
         ],
         "type": "FIRE",
-        "original": "A1-033"
+        "firstPrint": "A1-033"
     },
     {
         "id": "A4b-056",
@@ -725,7 +725,7 @@
             "DELUXE_2025"
         ],
         "type": "FIRE",
-        "original": "A4b-056"
+        "firstPrint": "A4b-056"
     },
     {
         "id": "A4b-057",
@@ -738,7 +738,7 @@
             "DELUXE_2025"
         ],
         "type": "FIRE",
-        "original": "A1-034"
+        "firstPrint": "A1-034"
     },
     {
         "id": "A4b-058",
@@ -751,7 +751,7 @@
             "DELUXE_2025"
         ],
         "type": "FIRE",
-        "original": "A4b-058"
+        "firstPrint": "A4b-058"
     },
     {
         "id": "A4b-059",
@@ -764,7 +764,7 @@
             "DELUXE_2025"
         ],
         "type": "FIRE",
-        "original": "A1-036"
+        "firstPrint": "A1-036"
     },
     {
         "id": "A4b-060",
@@ -777,7 +777,7 @@
             "DELUXE_2025"
         ],
         "type": "FIRE",
-        "original": "A2b-010"
+        "firstPrint": "A2b-010"
     },
     {
         "id": "A4b-061",
@@ -790,7 +790,7 @@
             "DELUXE_2025"
         ],
         "type": "FIRE",
-        "original": "A1-039"
+        "firstPrint": "A1-039"
     },
     {
         "id": "A4b-062",
@@ -803,7 +803,7 @@
             "DELUXE_2025"
         ],
         "type": "FIRE",
-        "original": "A4b-062"
+        "firstPrint": "A4b-062"
     },
     {
         "id": "A4b-063",
@@ -816,7 +816,7 @@
             "DELUXE_2025"
         ],
         "type": "FIRE",
-        "original": "A1-041"
+        "firstPrint": "A1-041"
     },
     {
         "id": "A4b-064",
@@ -829,7 +829,7 @@
             "DELUXE_2025"
         ],
         "type": "FIRE",
-        "original": "A3b-008"
+        "firstPrint": "A3b-008"
     },
     {
         "id": "A4b-065",
@@ -842,7 +842,7 @@
             "DELUXE_2025"
         ],
         "type": "FIRE",
-        "original": "A4b-065"
+        "firstPrint": "A4b-065"
     },
     {
         "id": "A4b-066",
@@ -855,7 +855,7 @@
             "DELUXE_2025"
         ],
         "type": "FIRE",
-        "original": "A3b-009"
+        "firstPrint": "A3b-009"
     },
     {
         "id": "A4b-067",
@@ -868,7 +868,7 @@
             "DELUXE_2025"
         ],
         "type": "FIRE",
-        "original": "A1-047"
+        "firstPrint": "A1-047"
     },
     {
         "id": "A4b-068",
@@ -881,7 +881,7 @@
             "DELUXE_2025"
         ],
         "type": "FIRE",
-        "original": "A4-034"
+        "firstPrint": "A4-034"
     },
     {
         "id": "A4b-069",
@@ -894,7 +894,7 @@
             "DELUXE_2025"
         ],
         "type": "FIRE",
-        "original": "A3b-010"
+        "firstPrint": "A3b-010"
     },
     {
         "id": "A4b-070",
@@ -907,7 +907,7 @@
             "DELUXE_2025"
         ],
         "type": "FIRE",
-        "original": "A4b-070"
+        "firstPrint": "A4b-070"
     },
     {
         "id": "A4b-071",
@@ -920,7 +920,7 @@
             "DELUXE_2025"
         ],
         "type": "FIRE",
-        "original": "A2-027"
+        "firstPrint": "A2-027"
     },
     {
         "id": "A4b-072",
@@ -933,7 +933,7 @@
             "DELUXE_2025"
         ],
         "type": "FIRE",
-        "original": "A4b-072"
+        "firstPrint": "A4b-072"
     },
     {
         "id": "A4b-073",
@@ -946,7 +946,7 @@
             "DELUXE_2025"
         ],
         "type": "FIRE",
-        "original": "A2-028"
+        "firstPrint": "A2-028"
     },
     {
         "id": "A4b-074",
@@ -959,7 +959,7 @@
             "DELUXE_2025"
         ],
         "type": "FIRE",
-        "original": "A4b-074"
+        "firstPrint": "A4b-074"
     },
     {
         "id": "A4b-075",
@@ -972,7 +972,7 @@
             "DELUXE_2025"
         ],
         "type": "FIRE",
-        "original": "A2-029"
+        "firstPrint": "A2-029"
     },
     {
         "id": "A4b-076",
@@ -985,7 +985,7 @@
             "DELUXE_2025"
         ],
         "type": "FIRE",
-        "original": "A2a-013"
+        "firstPrint": "A2a-013"
     },
     {
         "id": "A4b-077",
@@ -998,7 +998,7 @@
             "DELUXE_2025"
         ],
         "type": "FIRE",
-        "original": "A4b-077"
+        "firstPrint": "A4b-077"
     },
     {
         "id": "A4b-078",
@@ -1011,7 +1011,7 @@
             "DELUXE_2025"
         ],
         "type": "FIRE",
-        "original": "A3-030"
+        "firstPrint": "A3-030"
     },
     {
         "id": "A4b-079",
@@ -1024,7 +1024,7 @@
             "DELUXE_2025"
         ],
         "type": "FIRE",
-        "original": "A4b-079"
+        "firstPrint": "A4b-079"
     },
     {
         "id": "A4b-080",
@@ -1037,7 +1037,7 @@
             "DELUXE_2025"
         ],
         "type": "FIRE",
-        "original": "A3-032"
+        "firstPrint": "A3-032"
     },
     {
         "id": "A4b-081",
@@ -1050,7 +1050,7 @@
             "DELUXE_2025"
         ],
         "type": "FIRE",
-        "original": "A4b-081"
+        "firstPrint": "A4b-081"
     },
     {
         "id": "A4b-082",
@@ -1063,7 +1063,7 @@
             "DELUXE_2025"
         ],
         "type": "FIRE",
-        "original": "A3-033"
+        "firstPrint": "A3-033"
     },
     {
         "id": "A4b-083",
@@ -1076,7 +1076,7 @@
             "DELUXE_2025"
         ],
         "type": "WATER",
-        "original": "A1-053"
+        "firstPrint": "A1-053"
     },
     {
         "id": "A4b-084",
@@ -1089,7 +1089,7 @@
             "DELUXE_2025"
         ],
         "type": "WATER",
-        "original": "A4b-084"
+        "firstPrint": "A4b-084"
     },
     {
         "id": "A4b-085",
@@ -1102,7 +1102,7 @@
             "DELUXE_2025"
         ],
         "type": "WATER",
-        "original": "A1-054"
+        "firstPrint": "A1-054"
     },
     {
         "id": "A4b-086",
@@ -1115,7 +1115,7 @@
             "DELUXE_2025"
         ],
         "type": "WATER",
-        "original": "A4b-086"
+        "firstPrint": "A4b-086"
     },
     {
         "id": "A4b-087",
@@ -1128,7 +1128,7 @@
             "DELUXE_2025"
         ],
         "type": "WATER",
-        "original": "A1-056"
+        "firstPrint": "A1-056"
     },
     {
         "id": "A4b-088",
@@ -1141,7 +1141,7 @@
             "DELUXE_2025"
         ],
         "type": "WATER",
-        "original": "A4-041"
+        "firstPrint": "A4-041"
     },
     {
         "id": "A4b-089",
@@ -1154,7 +1154,7 @@
             "DELUXE_2025"
         ],
         "type": "WATER",
-        "original": "A4b-089"
+        "firstPrint": "A4b-089"
     },
     {
         "id": "A4b-090",
@@ -1167,7 +1167,7 @@
             "DELUXE_2025"
         ],
         "type": "WATER",
-        "original": "A4-042"
+        "firstPrint": "A4-042"
     },
     {
         "id": "A4b-091",
@@ -1180,7 +1180,7 @@
             "DELUXE_2025"
         ],
         "type": "WATER",
-        "original": "A4b-091"
+        "firstPrint": "A4b-091"
     },
     {
         "id": "A4b-092",
@@ -1193,7 +1193,7 @@
             "DELUXE_2025"
         ],
         "type": "WATER",
-        "original": "A4-043"
+        "firstPrint": "A4-043"
     },
     {
         "id": "A4b-093",
@@ -1206,7 +1206,7 @@
             "DELUXE_2025"
         ],
         "type": "WATER",
-        "original": "A1-074"
+        "firstPrint": "A1-074"
     },
     {
         "id": "A4b-094",
@@ -1219,7 +1219,7 @@
             "DELUXE_2025"
         ],
         "type": "WATER",
-        "original": "A4b-094"
+        "firstPrint": "A4b-094"
     },
     {
         "id": "A4b-095",
@@ -1232,7 +1232,7 @@
             "DELUXE_2025"
         ],
         "type": "WATER",
-        "original": "A1-076"
+        "firstPrint": "A1-076"
     },
     {
         "id": "A4b-096",
@@ -1245,7 +1245,7 @@
             "DELUXE_2025"
         ],
         "type": "WATER",
-        "original": "A1a-017"
+        "firstPrint": "A1a-017"
     },
     {
         "id": "A4b-097",
@@ -1258,7 +1258,7 @@
             "DELUXE_2025"
         ],
         "type": "WATER",
-        "original": "A4b-097"
+        "firstPrint": "A4b-097"
     },
     {
         "id": "A4b-098",
@@ -1271,7 +1271,7 @@
             "DELUXE_2025"
         ],
         "type": "WATER",
-        "original": "A1a-018"
+        "firstPrint": "A1a-018"
     },
     {
         "id": "A4b-099",
@@ -1284,7 +1284,7 @@
             "DELUXE_2025"
         ],
         "type": "WATER",
-        "original": "A1a-019"
+        "firstPrint": "A1a-019"
     },
     {
         "id": "A4b-100",
@@ -1297,7 +1297,7 @@
             "DELUXE_2025"
         ],
         "type": "WATER",
-        "original": "A4b-100"
+        "firstPrint": "A4b-100"
     },
     {
         "id": "A4b-101",
@@ -1310,7 +1310,7 @@
             "DELUXE_2025"
         ],
         "type": "WATER",
-        "original": "A1-084"
+        "firstPrint": "A1-084"
     },
     {
         "id": "A4b-102",
@@ -1323,7 +1323,7 @@
             "DELUXE_2025"
         ],
         "type": "WATER",
-        "original": "A4-060"
+        "firstPrint": "A4-060"
     },
     {
         "id": "A4b-103",
@@ -1336,7 +1336,7 @@
             "DELUXE_2025"
         ],
         "type": "WATER",
-        "original": "A4b-103"
+        "firstPrint": "A4b-103"
     },
     {
         "id": "A4b-104",
@@ -1349,7 +1349,7 @@
             "DELUXE_2025"
         ],
         "type": "WATER",
-        "original": "A4-061"
+        "firstPrint": "A4-061"
     },
     {
         "id": "A4b-105",
@@ -1362,7 +1362,7 @@
             "DELUXE_2025"
         ],
         "type": "WATER",
-        "original": "A4b-105"
+        "firstPrint": "A4b-105"
     },
     {
         "id": "A4b-106",
@@ -1375,7 +1375,7 @@
             "DELUXE_2025"
         ],
         "type": "WATER",
-        "original": "A2a-022"
+        "firstPrint": "A2a-022"
     },
     {
         "id": "A4b-107",
@@ -1388,7 +1388,7 @@
             "DELUXE_2025"
         ],
         "type": "WATER",
-        "original": "A2-049"
+        "firstPrint": "A2-049"
     },
     {
         "id": "A4b-108",
@@ -1401,7 +1401,7 @@
             "DELUXE_2025"
         ],
         "type": "WATER",
-        "original": "A2-050"
+        "firstPrint": "A2-050"
     },
     {
         "id": "A4b-109",
@@ -1414,7 +1414,7 @@
             "DELUXE_2025"
         ],
         "type": "WATER",
-        "original": "A4b-109"
+        "firstPrint": "A4b-109"
     },
     {
         "id": "A4b-110",
@@ -1427,7 +1427,7 @@
             "DELUXE_2025"
         ],
         "type": "WATER",
-        "original": "A1-087"
+        "firstPrint": "A1-087"
     },
     {
         "id": "A4b-111",
@@ -1440,7 +1440,7 @@
             "DELUXE_2025"
         ],
         "type": "WATER",
-        "original": "A4b-111"
+        "firstPrint": "A4b-111"
     },
     {
         "id": "A4b-112",
@@ -1453,7 +1453,7 @@
             "DELUXE_2025"
         ],
         "type": "WATER",
-        "original": "A1-088"
+        "firstPrint": "A1-088"
     },
     {
         "id": "A4b-113",
@@ -1466,7 +1466,7 @@
             "DELUXE_2025"
         ],
         "type": "WATER",
-        "original": "A4b-113"
+        "firstPrint": "A4b-113"
     },
     {
         "id": "A4b-114",
@@ -1479,7 +1479,7 @@
             "DELUXE_2025"
         ],
         "type": "WATER",
-        "original": "A1-089"
+        "firstPrint": "A1-089"
     },
     {
         "id": "A4b-115",
@@ -1492,7 +1492,7 @@
             "DELUXE_2025"
         ],
         "type": "WATER",
-        "original": "A4b-115"
+        "firstPrint": "A4b-115"
     },
     {
         "id": "A4b-116",
@@ -1505,7 +1505,7 @@
             "DELUXE_2025"
         ],
         "type": "WATER",
-        "original": "A3b-022"
+        "firstPrint": "A3b-022"
     },
     {
         "id": "A4b-117",
@@ -1518,7 +1518,7 @@
             "DELUXE_2025"
         ],
         "type": "WATER",
-        "original": "A4b-117"
+        "firstPrint": "A4b-117"
     },
     {
         "id": "A4b-118",
@@ -1531,7 +1531,7 @@
             "DELUXE_2025"
         ],
         "type": "WATER",
-        "original": "A3b-023"
+        "firstPrint": "A3b-023"
     },
     {
         "id": "A4b-119",
@@ -1544,7 +1544,7 @@
             "DELUXE_2025"
         ],
         "type": "WATER",
-        "original": "A4b-119"
+        "firstPrint": "A4b-119"
     },
     {
         "id": "A4b-120",
@@ -1557,7 +1557,7 @@
             "DELUXE_2025"
         ],
         "type": "WATER",
-        "original": "A3b-024"
+        "firstPrint": "A3b-024"
     },
     {
         "id": "A4b-121",
@@ -1570,7 +1570,7 @@
             "DELUXE_2025"
         ],
         "type": "WATER",
-        "original": "A3-049"
+        "firstPrint": "A3-049"
     },
     {
         "id": "A4b-122",
@@ -1583,7 +1583,7 @@
             "DELUXE_2025"
         ],
         "type": "WATER",
-        "original": "A3-050"
+        "firstPrint": "A3-050"
     },
     {
         "id": "A4b-123",
@@ -1596,7 +1596,7 @@
             "DELUXE_2025"
         ],
         "type": "WATER",
-        "original": "A4b-123"
+        "firstPrint": "A4b-123"
     },
     {
         "id": "A4b-124",
@@ -1609,7 +1609,7 @@
             "DELUXE_2025"
         ],
         "type": "WATER",
-        "original": "A3-051"
+        "firstPrint": "A3-051"
     },
     {
         "id": "A4b-125",
@@ -1622,7 +1622,7 @@
             "DELUXE_2025"
         ],
         "type": "WATER",
-        "original": "A2b-018"
+        "firstPrint": "A2b-018"
     },
     {
         "id": "A4b-126",
@@ -1635,7 +1635,7 @@
             "DELUXE_2025"
         ],
         "type": "WATER",
-        "original": "A4b-126"
+        "firstPrint": "A4b-126"
     },
     {
         "id": "A4b-127",
@@ -1648,7 +1648,7 @@
             "DELUXE_2025"
         ],
         "type": "WATER",
-        "original": "A2b-019"
+        "firstPrint": "A2b-019"
     },
     {
         "id": "A4b-128",
@@ -1661,7 +1661,7 @@
             "DELUXE_2025"
         ],
         "type": "LIGHTNING",
-        "original": "A1-094"
+        "firstPrint": "A1-094"
     },
     {
         "id": "A4b-129",
@@ -1674,7 +1674,7 @@
             "DELUXE_2025"
         ],
         "type": "LIGHTNING",
-        "original": "A4b-129"
+        "firstPrint": "A4b-129"
     },
     {
         "id": "A4b-130",
@@ -1687,7 +1687,7 @@
             "DELUXE_2025"
         ],
         "type": "LIGHTNING",
-        "original": "A3-058"
+        "firstPrint": "A3-058"
     },
     {
         "id": "A4b-131",
@@ -1700,7 +1700,7 @@
             "DELUXE_2025"
         ],
         "type": "LIGHTNING",
-        "original": "A1-096"
+        "firstPrint": "A1-096"
     },
     {
         "id": "A4b-132",
@@ -1713,7 +1713,7 @@
             "DELUXE_2025"
         ],
         "type": "LIGHTNING",
-        "original": "A2b-022"
+        "firstPrint": "A2b-022"
     },
     {
         "id": "A4b-133",
@@ -1726,7 +1726,7 @@
             "DELUXE_2025"
         ],
         "type": "LIGHTNING",
-        "original": "A1-097"
+        "firstPrint": "A1-097"
     },
     {
         "id": "A4b-134",
@@ -1739,7 +1739,7 @@
             "DELUXE_2025"
         ],
         "type": "LIGHTNING",
-        "original": "A4b-134"
+        "firstPrint": "A4b-134"
     },
     {
         "id": "A4b-135",
@@ -1752,7 +1752,7 @@
             "DELUXE_2025"
         ],
         "type": "LIGHTNING",
-        "original": "A1-098"
+        "firstPrint": "A1-098"
     },
     {
         "id": "A4b-136",
@@ -1765,7 +1765,7 @@
             "DELUXE_2025"
         ],
         "type": "LIGHTNING",
-        "original": "A4b-136"
+        "firstPrint": "A4b-136"
     },
     {
         "id": "A4b-137",
@@ -1778,7 +1778,7 @@
             "DELUXE_2025"
         ],
         "type": "LIGHTNING",
-        "original": "A2-053"
+        "firstPrint": "A2-053"
     },
     {
         "id": "A4b-138",
@@ -1791,7 +1791,7 @@
             "DELUXE_2025"
         ],
         "type": "LIGHTNING",
-        "original": "A4b-138"
+        "firstPrint": "A4b-138"
     },
     {
         "id": "A4b-139",
@@ -1804,7 +1804,7 @@
             "DELUXE_2025"
         ],
         "type": "LIGHTNING",
-        "original": "A1-104"
+        "firstPrint": "A1-104"
     },
     {
         "id": "A4b-140",
@@ -1817,7 +1817,7 @@
             "DELUXE_2025"
         ],
         "type": "LIGHTNING",
-        "original": "A4-064"
+        "firstPrint": "A4-064"
     },
     {
         "id": "A4b-141",
@@ -1830,7 +1830,7 @@
             "DELUXE_2025"
         ],
         "type": "LIGHTNING",
-        "original": "A4b-141"
+        "firstPrint": "A4b-141"
     },
     {
         "id": "A4b-142",
@@ -1843,7 +1843,7 @@
             "DELUXE_2025"
         ],
         "type": "LIGHTNING",
-        "original": "A4-065"
+        "firstPrint": "A4-065"
     },
     {
         "id": "A4b-143",
@@ -1856,7 +1856,7 @@
             "DELUXE_2025"
         ],
         "type": "LIGHTNING",
-        "original": "A2b-025"
+        "firstPrint": "A2b-025"
     },
     {
         "id": "A4b-144",
@@ -1869,7 +1869,7 @@
             "DELUXE_2025"
         ],
         "type": "LIGHTNING",
-        "original": "A4b-144"
+        "firstPrint": "A4b-144"
     },
     {
         "id": "A4b-145",
@@ -1882,7 +1882,7 @@
             "DELUXE_2025"
         ],
         "type": "LIGHTNING",
-        "original": "A2-061"
+        "firstPrint": "A2-061"
     },
     {
         "id": "A4b-146",
@@ -1895,7 +1895,7 @@
             "DELUXE_2025"
         ],
         "type": "LIGHTNING",
-        "original": "A3-066"
+        "firstPrint": "A3-066"
     },
     {
         "id": "A4b-147",
@@ -1908,7 +1908,7 @@
             "DELUXE_2025"
         ],
         "type": "LIGHTNING",
-        "original": "A4b-147"
+        "firstPrint": "A4b-147"
     },
     {
         "id": "A4b-148",
@@ -1921,7 +1921,7 @@
             "DELUXE_2025"
         ],
         "type": "LIGHTNING",
-        "original": "A3a-019"
+        "firstPrint": "A3a-019"
     },
     {
         "id": "A4b-149",
@@ -1934,7 +1934,7 @@
             "DELUXE_2025"
         ],
         "type": "LIGHTNING",
-        "original": "A3a-021"
+        "firstPrint": "A3a-021"
     },
     {
         "id": "A4b-150",
@@ -1947,7 +1947,7 @@
             "DELUXE_2025"
         ],
         "type": "LIGHTNING",
-        "original": "A4b-150"
+        "firstPrint": "A4b-150"
     },
     {
         "id": "A4b-151",
@@ -1960,7 +1960,7 @@
             "DELUXE_2025"
         ],
         "type": "PSYCHIC",
-        "original": "A1-120"
+        "firstPrint": "A1-120"
     },
     {
         "id": "A4b-152",
@@ -1973,7 +1973,7 @@
             "DELUXE_2025"
         ],
         "type": "PSYCHIC",
-        "original": "A4b-152"
+        "firstPrint": "A4b-152"
     },
     {
         "id": "A4b-153",
@@ -1986,7 +1986,7 @@
             "DELUXE_2025"
         ],
         "type": "PSYCHIC",
-        "original": "A1-121"
+        "firstPrint": "A1-121"
     },
     {
         "id": "A4b-154",
@@ -1999,7 +1999,7 @@
             "DELUXE_2025"
         ],
         "type": "PSYCHIC",
-        "original": "A4b-154"
+        "firstPrint": "A4b-154"
     },
     {
         "id": "A4b-155",
@@ -2012,7 +2012,7 @@
             "DELUXE_2025"
         ],
         "type": "PSYCHIC",
-        "original": "A1-123"
+        "firstPrint": "A1-123"
     },
     {
         "id": "A4b-156",
@@ -2025,7 +2025,7 @@
             "DELUXE_2025"
         ],
         "type": "PSYCHIC",
-        "original": "A1-127"
+        "firstPrint": "A1-127"
     },
     {
         "id": "A4b-157",
@@ -2038,7 +2038,7 @@
             "DELUXE_2025"
         ],
         "type": "PSYCHIC",
-        "original": "A4b-157"
+        "firstPrint": "A4b-157"
     },
     {
         "id": "A4b-158",
@@ -2051,7 +2051,7 @@
             "DELUXE_2025"
         ],
         "type": "PSYCHIC",
-        "original": "A1-129"
+        "firstPrint": "A1-129"
     },
     {
         "id": "A4b-159",
@@ -2064,7 +2064,7 @@
             "DELUXE_2025"
         ],
         "type": "PSYCHIC",
-        "original": "A1a-032"
+        "firstPrint": "A1a-032"
     },
     {
         "id": "A4b-160",
@@ -2077,7 +2077,7 @@
             "DELUXE_2025"
         ],
         "type": "PSYCHIC",
-        "original": "A4-083"
+        "firstPrint": "A4-083"
     },
     {
         "id": "A4b-161",
@@ -2090,7 +2090,7 @@
             "DELUXE_2025"
         ],
         "type": "PSYCHIC",
-        "original": "A2-066"
+        "firstPrint": "A2-066"
     },
     {
         "id": "A4b-162",
@@ -2103,7 +2103,7 @@
             "DELUXE_2025"
         ],
         "type": "PSYCHIC",
-        "original": "A4b-162"
+        "firstPrint": "A4b-162"
     },
     {
         "id": "A4b-163",
@@ -2116,7 +2116,7 @@
             "DELUXE_2025"
         ],
         "type": "PSYCHIC",
-        "original": "A2-067"
+        "firstPrint": "A2-067"
     },
     {
         "id": "A4b-164",
@@ -2129,7 +2129,7 @@
             "DELUXE_2025"
         ],
         "type": "PSYCHIC",
-        "original": "A2-068"
+        "firstPrint": "A2-068"
     },
     {
         "id": "A4b-165",
@@ -2142,7 +2142,7 @@
             "DELUXE_2025"
         ],
         "type": "PSYCHIC",
-        "original": "A4b-165"
+        "firstPrint": "A4b-165"
     },
     {
         "id": "A4b-166",
@@ -2155,7 +2155,7 @@
             "DELUXE_2025"
         ],
         "type": "PSYCHIC",
-        "original": "A2-069"
+        "firstPrint": "A2-069"
     },
     {
         "id": "A4b-167",
@@ -2168,7 +2168,7 @@
             "DELUXE_2025"
         ],
         "type": "PSYCHIC",
-        "original": "A4b-167"
+        "firstPrint": "A4b-167"
     },
     {
         "id": "A4b-168",
@@ -2181,7 +2181,7 @@
             "DELUXE_2025"
         ],
         "type": "PSYCHIC",
-        "original": "A1-132"
+        "firstPrint": "A1-132"
     },
     {
         "id": "A4b-169",
@@ -2194,7 +2194,7 @@
             "DELUXE_2025"
         ],
         "type": "PSYCHIC",
-        "original": "A4b-169"
+        "firstPrint": "A4b-169"
     },
     {
         "id": "A4b-170",
@@ -2207,7 +2207,7 @@
             "DELUXE_2025"
         ],
         "type": "PSYCHIC",
-        "original": "A2-078"
+        "firstPrint": "A2-078"
     },
     {
         "id": "A4b-171",
@@ -2220,7 +2220,7 @@
             "DELUXE_2025"
         ],
         "type": "PSYCHIC",
-        "original": "A4b-171"
+        "firstPrint": "A4b-171"
     },
     {
         "id": "A4b-172",
@@ -2233,7 +2233,7 @@
             "DELUXE_2025"
         ],
         "type": "PSYCHIC",
-        "original": "A2b-035"
+        "firstPrint": "A2b-035"
     },
     {
         "id": "A4b-173",
@@ -2246,7 +2246,7 @@
             "DELUXE_2025"
         ],
         "type": "PSYCHIC",
-        "original": "A3b-031"
+        "firstPrint": "A3b-031"
     },
     {
         "id": "A4b-174",
@@ -2259,7 +2259,7 @@
             "DELUXE_2025"
         ],
         "type": "PSYCHIC",
-        "original": "A4b-174"
+        "firstPrint": "A4b-174"
     },
     {
         "id": "A4b-175",
@@ -2272,7 +2272,7 @@
             "DELUXE_2025"
         ],
         "type": "PSYCHIC",
-        "original": "A3b-032"
+        "firstPrint": "A3b-032"
     },
     {
         "id": "A4b-176",
@@ -2285,7 +2285,7 @@
             "DELUXE_2025"
         ],
         "type": "PSYCHIC",
-        "original": "A4b-176"
+        "firstPrint": "A4b-176"
     },
     {
         "id": "A4b-177",
@@ -2298,7 +2298,7 @@
             "DELUXE_2025"
         ],
         "type": "PSYCHIC",
-        "original": "A3b-034"
+        "firstPrint": "A3b-034"
     },
     {
         "id": "A4b-178",
@@ -2311,7 +2311,7 @@
             "DELUXE_2025"
         ],
         "type": "PSYCHIC",
-        "original": "A3-077"
+        "firstPrint": "A3-077"
     },
     {
         "id": "A4b-179",
@@ -2324,7 +2324,7 @@
             "DELUXE_2025"
         ],
         "type": "PSYCHIC",
-        "original": "A4b-179"
+        "firstPrint": "A4b-179"
     },
     {
         "id": "A4b-180",
@@ -2337,7 +2337,7 @@
             "DELUXE_2025"
         ],
         "type": "PSYCHIC",
-        "original": "A3-085"
+        "firstPrint": "A3-085"
     },
     {
         "id": "A4b-181",
@@ -2350,7 +2350,7 @@
             "DELUXE_2025"
         ],
         "type": "PSYCHIC",
-        "original": "A4b-181"
+        "firstPrint": "A4b-181"
     },
     {
         "id": "A4b-182",
@@ -2363,7 +2363,7 @@
             "DELUXE_2025"
         ],
         "type": "PSYCHIC",
-        "original": "A3-086"
+        "firstPrint": "A3-086"
     },
     {
         "id": "A4b-183",
@@ -2376,7 +2376,7 @@
             "DELUXE_2025"
         ],
         "type": "PSYCHIC",
-        "original": "A4b-183"
+        "firstPrint": "A4b-183"
     },
     {
         "id": "A4b-184",
@@ -2389,7 +2389,7 @@
             "DELUXE_2025"
         ],
         "type": "PSYCHIC",
-        "original": "A3-087"
+        "firstPrint": "A3-087"
     },
     {
         "id": "A4b-185",
@@ -2402,7 +2402,7 @@
             "DELUXE_2025"
         ],
         "type": "PSYCHIC",
-        "original": "A3b-036"
+        "firstPrint": "A3b-036"
     },
     {
         "id": "A4b-186",
@@ -2415,7 +2415,7 @@
             "DELUXE_2025"
         ],
         "type": "PSYCHIC",
-        "original": "A4b-186"
+        "firstPrint": "A4b-186"
     },
     {
         "id": "A4b-187",
@@ -2428,7 +2428,7 @@
             "DELUXE_2025"
         ],
         "type": "PSYCHIC",
-        "original": "A3b-037"
+        "firstPrint": "A3b-037"
     },
     {
         "id": "A4b-188",
@@ -2441,7 +2441,7 @@
             "DELUXE_2025"
         ],
         "type": "PSYCHIC",
-        "original": "A4b-188"
+        "firstPrint": "A4b-188"
     },
     {
         "id": "A4b-189",
@@ -2454,7 +2454,7 @@
             "DELUXE_2025"
         ],
         "type": "FIGHTING",
-        "original": "A1-143"
+        "firstPrint": "A1-143"
     },
     {
         "id": "A4b-190",
@@ -2467,7 +2467,7 @@
             "DELUXE_2025"
         ],
         "type": "FIGHTING",
-        "original": "A4b-190"
+        "firstPrint": "A4b-190"
     },
     {
         "id": "A4b-191",
@@ -2480,7 +2480,7 @@
             "DELUXE_2025"
         ],
         "type": "FIGHTING",
-        "original": "A1-144"
+        "firstPrint": "A1-144"
     },
     {
         "id": "A4b-192",
@@ -2493,7 +2493,7 @@
             "DELUXE_2025"
         ],
         "type": "FIGHTING",
-        "original": "A4b-192"
+        "firstPrint": "A4b-192"
     },
     {
         "id": "A4b-193",
@@ -2506,7 +2506,7 @@
             "DELUXE_2025"
         ],
         "type": "FIGHTING",
-        "original": "A1-146"
+        "firstPrint": "A1-146"
     },
     {
         "id": "A4b-194",
@@ -2519,7 +2519,7 @@
             "DELUXE_2025"
         ],
         "type": "FIGHTING",
-        "original": "A1-151"
+        "firstPrint": "A1-151"
     },
     {
         "id": "A4b-195",
@@ -2532,7 +2532,7 @@
             "DELUXE_2025"
         ],
         "type": "FIGHTING",
-        "original": "A4b-195"
+        "firstPrint": "A4b-195"
     },
     {
         "id": "A4b-196",
@@ -2545,7 +2545,7 @@
             "DELUXE_2025"
         ],
         "type": "FIGHTING",
-        "original": "A1-153"
+        "firstPrint": "A1-153"
     },
     {
         "id": "A4b-197",
@@ -2558,7 +2558,7 @@
             "DELUXE_2025"
         ],
         "type": "FIGHTING",
-        "original": "A1a-046"
+        "firstPrint": "A1a-046"
     },
     {
         "id": "A4b-198",
@@ -2571,7 +2571,7 @@
             "DELUXE_2025"
         ],
         "type": "FIGHTING",
-        "original": "A2a-036"
+        "firstPrint": "A2a-036"
     },
     {
         "id": "A4b-199",
@@ -2584,7 +2584,7 @@
             "DELUXE_2025"
         ],
         "type": "FIGHTING",
-        "original": "A4b-199"
+        "firstPrint": "A4b-199"
     },
     {
         "id": "A4b-200",
@@ -2597,7 +2597,7 @@
             "DELUXE_2025"
         ],
         "type": "FIGHTING",
-        "original": "A4-099"
+        "firstPrint": "A4-099"
     },
     {
         "id": "A4b-201",
@@ -2610,7 +2610,7 @@
             "DELUXE_2025"
         ],
         "type": "FIGHTING",
-        "original": "A4b-201"
+        "firstPrint": "A4b-201"
     },
     {
         "id": "A4b-202",
@@ -2623,7 +2623,7 @@
             "DELUXE_2025"
         ],
         "type": "FIGHTING",
-        "original": "A4-100"
+        "firstPrint": "A4-100"
     },
     {
         "id": "A4b-203",
@@ -2636,7 +2636,7 @@
             "DELUXE_2025"
         ],
         "type": "FIGHTING",
-        "original": "A2a-042"
+        "firstPrint": "A2a-042"
     },
     {
         "id": "A4b-204",
@@ -2649,7 +2649,7 @@
             "DELUXE_2025"
         ],
         "type": "FIGHTING",
-        "original": "A4b-204"
+        "firstPrint": "A4b-204"
     },
     {
         "id": "A4b-205",
@@ -2662,7 +2662,7 @@
             "DELUXE_2025"
         ],
         "type": "FIGHTING",
-        "original": "A2a-045"
+        "firstPrint": "A2a-045"
     },
     {
         "id": "A4b-206",
@@ -2675,7 +2675,7 @@
             "DELUXE_2025"
         ],
         "type": "FIGHTING",
-        "original": "A4b-206"
+        "firstPrint": "A4b-206"
     },
     {
         "id": "A4b-207",
@@ -2688,7 +2688,7 @@
             "DELUXE_2025"
         ],
         "type": "FIGHTING",
-        "original": "A2a-046"
+        "firstPrint": "A2a-046"
     },
     {
         "id": "A4b-208",
@@ -2701,7 +2701,7 @@
             "DELUXE_2025"
         ],
         "type": "FIGHTING",
-        "original": "A4b-208"
+        "firstPrint": "A4b-208"
     },
     {
         "id": "A4b-209",
@@ -2714,7 +2714,7 @@
             "DELUXE_2025"
         ],
         "type": "FIGHTING",
-        "original": "A2a-047"
+        "firstPrint": "A2a-047"
     },
     {
         "id": "A4b-210",
@@ -2727,7 +2727,7 @@
             "DELUXE_2025"
         ],
         "type": "FIGHTING",
-        "original": "A2b-042"
+        "firstPrint": "A2b-042"
     },
     {
         "id": "A4b-211",
@@ -2740,7 +2740,7 @@
             "DELUXE_2025"
         ],
         "type": "FIGHTING",
-        "original": "A4b-211"
+        "firstPrint": "A4b-211"
     },
     {
         "id": "A4b-212",
@@ -2753,7 +2753,7 @@
             "DELUXE_2025"
         ],
         "type": "FIGHTING",
-        "original": "A2-092"
+        "firstPrint": "A2-092"
     },
     {
         "id": "A4b-213",
@@ -2766,7 +2766,7 @@
             "DELUXE_2025"
         ],
         "type": "FIGHTING",
-        "original": "A4b-213"
+        "firstPrint": "A4b-213"
     },
     {
         "id": "A4b-214",
@@ -2779,7 +2779,7 @@
             "DELUXE_2025"
         ],
         "type": "FIGHTING",
-        "original": "A2b-043"
+        "firstPrint": "A2b-043"
     },
     {
         "id": "A4b-215",
@@ -2792,7 +2792,7 @@
             "DELUXE_2025"
         ],
         "type": "FIGHTING",
-        "original": "A2-095"
+        "firstPrint": "A2-095"
     },
     {
         "id": "A4b-216",
@@ -2805,7 +2805,7 @@
             "DELUXE_2025"
         ],
         "type": "FIGHTING",
-        "original": "A3-093"
+        "firstPrint": "A3-093"
     },
     {
         "id": "A4b-217",
@@ -2818,7 +2818,7 @@
             "DELUXE_2025"
         ],
         "type": "FIGHTING",
-        "original": "A4b-217"
+        "firstPrint": "A4b-217"
     },
     {
         "id": "A4b-218",
@@ -2831,7 +2831,7 @@
             "DELUXE_2025"
         ],
         "type": "FIGHTING",
-        "original": "A3-097"
+        "firstPrint": "A3-097"
     },
     {
         "id": "A4b-219",
@@ -2844,7 +2844,7 @@
             "DELUXE_2025"
         ],
         "type": "FIGHTING",
-        "original": "A4b-219"
+        "firstPrint": "A4b-219"
     },
     {
         "id": "A4b-220",
@@ -2857,7 +2857,7 @@
             "DELUXE_2025"
         ],
         "type": "FIGHTING",
-        "original": "A3a-032"
+        "firstPrint": "A3a-032"
     },
     {
         "id": "A4b-221",
@@ -2870,7 +2870,7 @@
             "DELUXE_2025"
         ],
         "type": "FIGHTING",
-        "original": "A4b-221"
+        "firstPrint": "A4b-221"
     },
     {
         "id": "A4b-222",
@@ -2883,7 +2883,7 @@
             "DELUXE_2025"
         ],
         "type": "FIGHTING",
-        "original": "A3a-033"
+        "firstPrint": "A3a-033"
     },
     {
         "id": "A4b-223",
@@ -2896,7 +2896,7 @@
             "DELUXE_2025"
         ],
         "type": "FIGHTING",
-        "original": "A3-104"
+        "firstPrint": "A3-104"
     },
     {
         "id": "A4b-224",
@@ -2909,7 +2909,7 @@
             "DELUXE_2025"
         ],
         "type": "FIGHTING",
-        "original": "A1a-047"
+        "firstPrint": "A1a-047"
     },
     {
         "id": "A4b-225",
@@ -2922,7 +2922,7 @@
             "DELUXE_2025"
         ],
         "type": "FIGHTING",
-        "original": "A4b-225"
+        "firstPrint": "A4b-225"
     },
     {
         "id": "A4b-226",
@@ -2935,7 +2935,7 @@
             "DELUXE_2025"
         ],
         "type": "DARKNESS",
-        "original": "A2a-048"
+        "firstPrint": "A2a-048"
     },
     {
         "id": "A4b-227",
@@ -2948,7 +2948,7 @@
             "DELUXE_2025"
         ],
         "type": "DARKNESS",
-        "original": "A4b-227"
+        "firstPrint": "A4b-227"
     },
     {
         "id": "A4b-228",
@@ -2961,7 +2961,7 @@
             "DELUXE_2025"
         ],
         "type": "DARKNESS",
-        "original": "A2a-049"
+        "firstPrint": "A2a-049"
     },
     {
         "id": "A4b-229",
@@ -2974,7 +2974,7 @@
             "DELUXE_2025"
         ],
         "type": "DARKNESS",
-        "original": "A4b-229"
+        "firstPrint": "A4b-229"
     },
     {
         "id": "A4b-230",
@@ -2987,7 +2987,7 @@
             "DELUXE_2025"
         ],
         "type": "DARKNESS",
-        "original": "A2a-050"
+        "firstPrint": "A2a-050"
     },
     {
         "id": "A4b-231",
@@ -3000,7 +3000,7 @@
             "DELUXE_2025"
         ],
         "type": "DARKNESS",
-        "original": "A4b-231"
+        "firstPrint": "A4b-231"
     },
     {
         "id": "A4b-232",
@@ -3013,7 +3013,7 @@
             "DELUXE_2025"
         ],
         "type": "DARKNESS",
-        "original": "A4-109"
+        "firstPrint": "A4-109"
     },
     {
         "id": "A4b-233",
@@ -3026,7 +3026,7 @@
             "DELUXE_2025"
         ],
         "type": "DARKNESS",
-        "original": "A3-110"
+        "firstPrint": "A3-110"
     },
     {
         "id": "A4b-234",
@@ -3039,7 +3039,7 @@
             "DELUXE_2025"
         ],
         "type": "DARKNESS",
-        "original": "A4b-234"
+        "firstPrint": "A4b-234"
     },
     {
         "id": "A4b-235",
@@ -3052,7 +3052,7 @@
             "DELUXE_2025"
         ],
         "type": "DARKNESS",
-        "original": "A3-111"
+        "firstPrint": "A3-111"
     },
     {
         "id": "A4b-236",
@@ -3065,7 +3065,7 @@
             "DELUXE_2025"
         ],
         "type": "DARKNESS",
-        "original": "A2b-047"
+        "firstPrint": "A2b-047"
     },
     {
         "id": "A4b-237",
@@ -3078,7 +3078,7 @@
             "DELUXE_2025"
         ],
         "type": "DARKNESS",
-        "original": "A4b-237"
+        "firstPrint": "A4b-237"
     },
     {
         "id": "A4b-238",
@@ -3091,7 +3091,7 @@
             "DELUXE_2025"
         ],
         "type": "DARKNESS",
-        "original": "A2b-048"
+        "firstPrint": "A2b-048"
     },
     {
         "id": "A4b-239",
@@ -3104,7 +3104,7 @@
             "DELUXE_2025"
         ],
         "type": "DARKNESS",
-        "original": "A3b-043"
+        "firstPrint": "A3b-043"
     },
     {
         "id": "A4b-240",
@@ -3117,7 +3117,7 @@
             "DELUXE_2025"
         ],
         "type": "DARKNESS",
-        "original": "A4b-240"
+        "firstPrint": "A4b-240"
     },
     {
         "id": "A4b-241",
@@ -3130,7 +3130,7 @@
             "DELUXE_2025"
         ],
         "type": "DARKNESS",
-        "original": "A4-112"
+        "firstPrint": "A4-112"
     },
     {
         "id": "A4b-242",
@@ -3143,7 +3143,7 @@
             "DELUXE_2025"
         ],
         "type": "DARKNESS",
-        "original": "A2-098"
+        "firstPrint": "A2-098"
     },
     {
         "id": "A4b-243",
@@ -3156,7 +3156,7 @@
             "DELUXE_2025"
         ],
         "type": "DARKNESS",
-        "original": "A4b-243"
+        "firstPrint": "A4b-243"
     },
     {
         "id": "A4b-244",
@@ -3169,7 +3169,7 @@
             "DELUXE_2025"
         ],
         "type": "DARKNESS",
-        "original": "A2-099"
+        "firstPrint": "A2-099"
     },
     {
         "id": "A4b-245",
@@ -3182,7 +3182,7 @@
             "DELUXE_2025"
         ],
         "type": "DARKNESS",
-        "original": "A2-110"
+        "firstPrint": "A2-110"
     },
     {
         "id": "A4b-246",
@@ -3195,7 +3195,7 @@
             "DELUXE_2025"
         ],
         "type": "DARKNESS",
-        "original": "A3a-042"
+        "firstPrint": "A3a-042"
     },
     {
         "id": "A4b-247",
@@ -3208,7 +3208,7 @@
             "DELUXE_2025"
         ],
         "type": "DARKNESS",
-        "original": "A4b-247"
+        "firstPrint": "A4b-247"
     },
     {
         "id": "A4b-248",
@@ -3221,7 +3221,7 @@
             "DELUXE_2025"
         ],
         "type": "DARKNESS",
-        "original": "A3a-043"
+        "firstPrint": "A3a-043"
     },
     {
         "id": "A4b-249",
@@ -3234,7 +3234,7 @@
             "DELUXE_2025"
         ],
         "type": "METAL",
-        "original": "A3a-046"
+        "firstPrint": "A3a-046"
     },
     {
         "id": "A4b-250",
@@ -3247,7 +3247,7 @@
             "DELUXE_2025"
         ],
         "type": "METAL",
-        "original": "A4b-250"
+        "firstPrint": "A4b-250"
     },
     {
         "id": "A4b-251",
@@ -3260,7 +3260,7 @@
             "DELUXE_2025"
         ],
         "type": "METAL",
-        "original": "A3a-047"
+        "firstPrint": "A3a-047"
     },
     {
         "id": "A4b-252",
@@ -3273,7 +3273,7 @@
             "DELUXE_2025"
         ],
         "type": "METAL",
-        "original": "A4-124"
+        "firstPrint": "A4-124"
     },
     {
         "id": "A4b-253",
@@ -3286,7 +3286,7 @@
             "DELUXE_2025"
         ],
         "type": "METAL",
-        "original": "A2a-057"
+        "firstPrint": "A2a-057"
     },
     {
         "id": "A4b-254",
@@ -3299,7 +3299,7 @@
             "DELUXE_2025"
         ],
         "type": "METAL",
-        "original": "A2-119"
+        "firstPrint": "A2-119"
     },
     {
         "id": "A4b-255",
@@ -3312,7 +3312,7 @@
             "DELUXE_2025"
         ],
         "type": "METAL",
-        "original": "A3-119"
+        "firstPrint": "A3-119"
     },
     {
         "id": "A4b-256",
@@ -3325,7 +3325,7 @@
             "DELUXE_2025"
         ],
         "type": "METAL",
-        "original": "A4b-256"
+        "firstPrint": "A4b-256"
     },
     {
         "id": "A4b-257",
@@ -3338,7 +3338,7 @@
             "DELUXE_2025"
         ],
         "type": "METAL",
-        "original": "A3-121"
+        "firstPrint": "A3-121"
     },
     {
         "id": "A4b-258",
@@ -3351,7 +3351,7 @@
             "DELUXE_2025"
         ],
         "type": "METAL",
-        "original": "A4b-258"
+        "firstPrint": "A4b-258"
     },
     {
         "id": "A4b-259",
@@ -3364,7 +3364,7 @@
             "DELUXE_2025"
         ],
         "type": "METAL",
-        "original": "A3-122"
+        "firstPrint": "A3-122"
     },
     {
         "id": "A4b-260",
@@ -3377,7 +3377,7 @@
             "DELUXE_2025"
         ],
         "type": "METAL",
-        "original": "A3-123"
+        "firstPrint": "A3-123"
     },
     {
         "id": "A4b-261",
@@ -3390,7 +3390,7 @@
             "DELUXE_2025"
         ],
         "type": "METAL",
-        "original": "A4b-261"
+        "firstPrint": "A4b-261"
     },
     {
         "id": "A4b-262",
@@ -3403,7 +3403,7 @@
             "DELUXE_2025"
         ],
         "type": "METAL",
-        "original": "A2b-052"
+        "firstPrint": "A2b-052"
     },
     {
         "id": "A4b-263",
@@ -3416,7 +3416,7 @@
             "DELUXE_2025"
         ],
         "type": "METAL",
-        "original": "A4b-263"
+        "firstPrint": "A4b-263"
     },
     {
         "id": "A4b-264",
@@ -3429,7 +3429,7 @@
             "DELUXE_2025"
         ],
         "type": "METAL",
-        "original": "A2b-053"
+        "firstPrint": "A2b-053"
     },
     {
         "id": "A4b-265",
@@ -3442,7 +3442,7 @@
             "DELUXE_2025"
         ],
         "type": "METAL",
-        "original": "A4b-265"
+        "firstPrint": "A4b-265"
     },
     {
         "id": "A4b-266",
@@ -3455,7 +3455,7 @@
             "DELUXE_2025"
         ],
         "type": "METAL",
-        "original": "A2b-054"
+        "firstPrint": "A2b-054"
     },
     {
         "id": "A4b-267",
@@ -3468,7 +3468,7 @@
             "DELUXE_2025"
         ],
         "type": "TRAINER",
-        "original": "A3b-051"
+        "firstPrint": "A3b-051"
     },
     {
         "id": "A4b-268",
@@ -3481,7 +3481,7 @@
             "DELUXE_2025"
         ],
         "type": "TRAINER",
-        "original": "A4b-268"
+        "firstPrint": "A4b-268"
     },
     {
         "id": "A4b-269",
@@ -3494,7 +3494,7 @@
             "DELUXE_2025"
         ],
         "type": "TRAINER",
-        "original": "A3b-052"
+        "firstPrint": "A3b-052"
     },
     {
         "id": "A4b-270",
@@ -3507,7 +3507,7 @@
             "DELUXE_2025"
         ],
         "type": "TRAINER",
-        "original": "A4b-270"
+        "firstPrint": "A4b-270"
     },
     {
         "id": "A4b-271",
@@ -3520,7 +3520,7 @@
             "DELUXE_2025"
         ],
         "type": "TRAINER",
-        "original": "A3b-053"
+        "firstPrint": "A3b-053"
     },
     {
         "id": "A4b-272",
@@ -3533,7 +3533,7 @@
             "DELUXE_2025"
         ],
         "type": "COLORLESS",
-        "original": "A1a-057"
+        "firstPrint": "A1a-057"
     },
     {
         "id": "A4b-273",
@@ -3546,7 +3546,7 @@
             "DELUXE_2025"
         ],
         "type": "COLORLESS",
-        "original": "A4b-273"
+        "firstPrint": "A4b-273"
     },
     {
         "id": "A4b-274",
@@ -3559,7 +3559,7 @@
             "DELUXE_2025"
         ],
         "type": "COLORLESS",
-        "original": "A1a-058"
+        "firstPrint": "A1a-058"
     },
     {
         "id": "A4b-275",
@@ -3572,7 +3572,7 @@
             "DELUXE_2025"
         ],
         "type": "COLORLESS",
-        "original": "A4b-275"
+        "firstPrint": "A4b-275"
     },
     {
         "id": "A4b-276",
@@ -3585,7 +3585,7 @@
             "DELUXE_2025"
         ],
         "type": "COLORLESS",
-        "original": "A1a-059"
+        "firstPrint": "A1a-059"
     },
     {
         "id": "A4b-277",
@@ -3598,7 +3598,7 @@
             "DELUXE_2025"
         ],
         "type": "COLORLESS",
-        "original": "A1-193"
+        "firstPrint": "A1-193"
     },
     {
         "id": "A4b-278",
@@ -3611,7 +3611,7 @@
             "DELUXE_2025"
         ],
         "type": "COLORLESS",
-        "original": "A4b-278"
+        "firstPrint": "A4b-278"
     },
     {
         "id": "A4b-279",
@@ -3624,7 +3624,7 @@
             "DELUXE_2025"
         ],
         "type": "COLORLESS",
-        "original": "A1-195"
+        "firstPrint": "A1-195"
     },
     {
         "id": "A4b-280",
@@ -3637,7 +3637,7 @@
             "DELUXE_2025"
         ],
         "type": "COLORLESS",
-        "original": "A1-198"
+        "firstPrint": "A1-198"
     },
     {
         "id": "A4b-281",
@@ -3650,7 +3650,7 @@
             "DELUXE_2025"
         ],
         "type": "COLORLESS",
-        "original": "A4b-281"
+        "firstPrint": "A4b-281"
     },
     {
         "id": "A4b-282",
@@ -3663,7 +3663,7 @@
             "DELUXE_2025"
         ],
         "type": "COLORLESS",
-        "original": "A2-124"
+        "firstPrint": "A2-124"
     },
     {
         "id": "A4b-283",
@@ -3676,7 +3676,7 @@
             "DELUXE_2025"
         ],
         "type": "COLORLESS",
-        "original": "A4b-283"
+        "firstPrint": "A4b-283"
     },
     {
         "id": "A4b-284",
@@ -3689,7 +3689,7 @@
             "DELUXE_2025"
         ],
         "type": "COLORLESS",
-        "original": "A2-125"
+        "firstPrint": "A2-125"
     },
     {
         "id": "A4b-285",
@@ -3702,7 +3702,7 @@
             "DELUXE_2025"
         ],
         "type": "COLORLESS",
-        "original": "A3b-055"
+        "firstPrint": "A3b-055"
     },
     {
         "id": "A4b-286",
@@ -3715,7 +3715,7 @@
             "DELUXE_2025"
         ],
         "type": "COLORLESS",
-        "original": "A4b-286"
+        "firstPrint": "A4b-286"
     },
     {
         "id": "A4b-287",
@@ -3728,7 +3728,7 @@
             "DELUXE_2025"
         ],
         "type": "COLORLESS",
-        "original": "A3b-056"
+        "firstPrint": "A3b-056"
     },
     {
         "id": "A4b-288",
@@ -3741,7 +3741,7 @@
             "DELUXE_2025"
         ],
         "type": "COLORLESS",
-        "original": "A3b-057"
+        "firstPrint": "A3b-057"
     },
     {
         "id": "A4b-289",
@@ -3754,7 +3754,7 @@
             "DELUXE_2025"
         ],
         "type": "COLORLESS",
-        "original": "A4-149"
+        "firstPrint": "A4-149"
     },
     {
         "id": "A4b-290",
@@ -3767,7 +3767,7 @@
             "DELUXE_2025"
         ],
         "type": "COLORLESS",
-        "original": "A3-129"
+        "firstPrint": "A3-129"
     },
     {
         "id": "A4b-291",
@@ -3780,7 +3780,7 @@
             "DELUXE_2025"
         ],
         "type": "COLORLESS",
-        "original": "A4b-291"
+        "firstPrint": "A4b-291"
     },
     {
         "id": "A4b-292",
@@ -3793,7 +3793,7 @@
             "DELUXE_2025"
         ],
         "type": "COLORLESS",
-        "original": "A3-130"
+        "firstPrint": "A3-130"
     },
     {
         "id": "A4b-293",
@@ -3806,7 +3806,7 @@
             "DELUXE_2025"
         ],
         "type": "COLORLESS",
-        "original": "A4b-293"
+        "firstPrint": "A4b-293"
     },
     {
         "id": "A4b-294",
@@ -3819,7 +3819,7 @@
             "DELUXE_2025"
         ],
         "type": "COLORLESS",
-        "original": "A2b-064"
+        "firstPrint": "A2b-064"
     },
     {
         "id": "A4b-295",
@@ -3832,7 +3832,7 @@
             "DELUXE_2025"
         ],
         "type": "COLORLESS",
-        "original": "A4b-295"
+        "firstPrint": "A4b-295"
     },
     {
         "id": "A4b-296",
@@ -3845,7 +3845,7 @@
             "DELUXE_2025"
         ],
         "type": "COLORLESS",
-        "original": "A2b-065"
+        "firstPrint": "A2b-065"
     },
     {
         "id": "A4b-297",
@@ -3858,7 +3858,7 @@
             "DELUXE_2025"
         ],
         "type": "COLORLESS",
-        "original": "A2a-069"
+        "firstPrint": "A2a-069"
     },
     {
         "id": "A4b-298",
@@ -3871,7 +3871,7 @@
             "DELUXE_2025"
         ],
         "type": "COLORLESS",
-        "original": "A4b-298"
+        "firstPrint": "A4b-298"
     },
     {
         "id": "A4b-299",
@@ -3884,7 +3884,7 @@
             "DELUXE_2025"
         ],
         "type": "COLORLESS",
-        "original": "A2a-071"
+        "firstPrint": "A2a-071"
     },
     {
         "id": "A4b-300",
@@ -3897,7 +3897,7 @@
             "DELUXE_2025"
         ],
         "type": "COLORLESS",
-        "original": "A3a-060"
+        "firstPrint": "A3a-060"
     },
     {
         "id": "A4b-301",
@@ -3910,7 +3910,7 @@
             "DELUXE_2025"
         ],
         "type": "COLORLESS",
-        "original": "A4b-301"
+        "firstPrint": "A4b-301"
     },
     {
         "id": "A4b-302",
@@ -3923,7 +3923,7 @@
             "DELUXE_2025"
         ],
         "type": "COLORLESS",
-        "original": "A3a-061"
+        "firstPrint": "A3a-061"
     },
     {
         "id": "A4b-303",
@@ -3936,7 +3936,7 @@
             "DELUXE_2025"
         ],
         "type": "COLORLESS",
-        "original": "A4b-303"
+        "firstPrint": "A4b-303"
     },
     {
         "id": "A4b-304",
@@ -3949,7 +3949,7 @@
             "DELUXE_2025"
         ],
         "type": "COLORLESS",
-        "original": "A3a-062"
+        "firstPrint": "A3a-062"
     },
     {
         "id": "A4b-305",
@@ -3962,7 +3962,7 @@
             "DELUXE_2025"
         ],
         "type": "COLORLESS",
-        "original": "A4b-305"
+        "firstPrint": "A4b-305"
     },
     {
         "id": "A4b-306",
@@ -3975,7 +3975,7 @@
             "DELUXE_2025"
         ],
         "type": "COLORLESS",
-        "original": "A2b-068"
+        "firstPrint": "A2b-068"
     },
     {
         "id": "A4b-307",
@@ -3988,7 +3988,7 @@
             "DELUXE_2025"
         ],
         "type": "COLORLESS",
-        "original": "A4b-307"
+        "firstPrint": "A4b-307"
     },
     {
         "id": "A4b-308",
@@ -4001,7 +4001,7 @@
             "DELUXE_2025"
         ],
         "type": "TRAINER",
-        "original": "A3b-066"
+        "firstPrint": "A3b-066"
     },
     {
         "id": "A4b-309",
@@ -4014,7 +4014,7 @@
             "DELUXE_2025"
         ],
         "type": "TRAINER",
-        "original": "A4b-309"
+        "firstPrint": "A4b-309"
     },
     {
         "id": "A4b-310",
@@ -4027,7 +4027,7 @@
             "DELUXE_2025"
         ],
         "type": "TRAINER",
-        "original": "A4-151"
+        "firstPrint": "A4-151"
     },
     {
         "id": "A4b-311",
@@ -4040,7 +4040,7 @@
             "DELUXE_2025"
         ],
         "type": "TRAINER",
-        "original": "A4b-311"
+        "firstPrint": "A4b-311"
     },
     {
         "id": "A4b-312",
@@ -4053,7 +4053,7 @@
             "DELUXE_2025"
         ],
         "type": "TRAINER",
-        "original": "A1-218"
+        "firstPrint": "A1-218"
     },
     {
         "id": "A4b-313",
@@ -4066,7 +4066,7 @@
             "DELUXE_2025"
         ],
         "type": "TRAINER",
-        "original": "A4b-313"
+        "firstPrint": "A4b-313"
     },
     {
         "id": "A4b-314",
@@ -4079,7 +4079,7 @@
             "DELUXE_2025"
         ],
         "type": "TRAINER",
-        "original": "A3-144"
+        "firstPrint": "A3-144"
     },
     {
         "id": "A4b-315",
@@ -4092,7 +4092,7 @@
             "DELUXE_2025"
         ],
         "type": "TRAINER",
-        "original": "A4b-315"
+        "firstPrint": "A4b-315"
     },
     {
         "id": "A4b-316",
@@ -4105,7 +4105,7 @@
             "DELUXE_2025"
         ],
         "type": "TRAINER",
-        "original": "A2-146"
+        "firstPrint": "A2-146"
     },
     {
         "id": "A4b-317",
@@ -4118,7 +4118,7 @@
             "DELUXE_2025"
         ],
         "type": "TRAINER",
-        "original": "A4b-317"
+        "firstPrint": "A4b-317"
     },
     {
         "id": "A4b-318",
@@ -4131,7 +4131,7 @@
             "DELUXE_2025"
         ],
         "type": "TRAINER",
-        "original": "A3a-065"
+        "firstPrint": "A3a-065"
     },
     {
         "id": "A4b-319",
@@ -4144,7 +4144,7 @@
             "DELUXE_2025"
         ],
         "type": "TRAINER",
-        "original": "A4b-319"
+        "firstPrint": "A4b-319"
     },
     {
         "id": "A4b-320",
@@ -4157,7 +4157,7 @@
             "DELUXE_2025"
         ],
         "type": "TRAINER",
-        "original": "A2-147"
+        "firstPrint": "A2-147"
     },
     {
         "id": "A4b-321",
@@ -4170,7 +4170,7 @@
             "DELUXE_2025"
         ],
         "type": "TRAINER",
-        "original": "A4b-321"
+        "firstPrint": "A4b-321"
     },
     {
         "id": "A4b-322",
@@ -4183,7 +4183,7 @@
             "DELUXE_2025"
         ],
         "type": "TRAINER",
-        "original": "A2-148"
+        "firstPrint": "A2-148"
     },
     {
         "id": "A4b-323",
@@ -4196,7 +4196,7 @@
             "DELUXE_2025"
         ],
         "type": "TRAINER",
-        "original": "A4b-323"
+        "firstPrint": "A4b-323"
     },
     {
         "id": "A4b-324",
@@ -4209,7 +4209,7 @@
             "DELUXE_2025"
         ],
         "type": "TRAINER",
-        "original": "A3-147"
+        "firstPrint": "A3-147"
     },
     {
         "id": "A4b-325",
@@ -4222,7 +4222,7 @@
             "DELUXE_2025"
         ],
         "type": "TRAINER",
-        "original": "A4b-325"
+        "firstPrint": "A4b-325"
     },
     {
         "id": "A4b-326",
@@ -4235,7 +4235,7 @@
             "DELUXE_2025"
         ],
         "type": "TRAINER",
-        "original": "A2-150"
+        "firstPrint": "A2-150"
     },
     {
         "id": "A4b-327",
@@ -4248,7 +4248,7 @@
             "DELUXE_2025"
         ],
         "type": "TRAINER",
-        "original": "A4b-327"
+        "firstPrint": "A4b-327"
     },
     {
         "id": "A4b-328",
@@ -4261,7 +4261,7 @@
             "DELUXE_2025"
         ],
         "type": "TRAINER",
-        "original": "A1-219"
+        "firstPrint": "A1-219"
     },
     {
         "id": "A4b-329",
@@ -4274,7 +4274,7 @@
             "DELUXE_2025"
         ],
         "type": "TRAINER",
-        "original": "A4b-329"
+        "firstPrint": "A4b-329"
     },
     {
         "id": "A4b-330",
@@ -4287,7 +4287,7 @@
             "DELUXE_2025"
         ],
         "type": "TRAINER",
-        "original": "A2a-072"
+        "firstPrint": "A2a-072"
     },
     {
         "id": "A4b-331",
@@ -4300,7 +4300,7 @@
             "DELUXE_2025"
         ],
         "type": "TRAINER",
-        "original": "A4b-331"
+        "firstPrint": "A4b-331"
     },
     {
         "id": "A4b-332",
@@ -4313,7 +4313,7 @@
             "DELUXE_2025"
         ],
         "type": "TRAINER",
-        "original": "A4-157"
+        "firstPrint": "A4-157"
     },
     {
         "id": "A4b-333",
@@ -4326,7 +4326,7 @@
             "DELUXE_2025"
         ],
         "type": "TRAINER",
-        "original": "A4b-333"
+        "firstPrint": "A4b-333"
     },
     {
         "id": "A4b-334",
@@ -4339,7 +4339,7 @@
             "DELUXE_2025"
         ],
         "type": "TRAINER",
-        "original": "A1-223"
+        "firstPrint": "A1-223"
     },
     {
         "id": "A4b-335",
@@ -4352,7 +4352,7 @@
             "DELUXE_2025"
         ],
         "type": "TRAINER",
-        "original": "A4b-335"
+        "firstPrint": "A4b-335"
     },
     {
         "id": "A4b-336",
@@ -4365,7 +4365,7 @@
             "DELUXE_2025"
         ],
         "type": "TRAINER",
-        "original": "A4-158"
+        "firstPrint": "A4-158"
     },
     {
         "id": "A4b-337",
@@ -4378,7 +4378,7 @@
             "DELUXE_2025"
         ],
         "type": "TRAINER",
-        "original": "A4b-337"
+        "firstPrint": "A4b-337"
     },
     {
         "id": "A4b-338",
@@ -4391,7 +4391,7 @@
             "DELUXE_2025"
         ],
         "type": "TRAINER",
-        "original": "A1-225"
+        "firstPrint": "A1-225"
     },
     {
         "id": "A4b-339",
@@ -4404,7 +4404,7 @@
             "DELUXE_2025"
         ],
         "type": "TRAINER",
-        "original": "A4b-339"
+        "firstPrint": "A4b-339"
     },
     {
         "id": "A4b-340",
@@ -4417,7 +4417,7 @@
             "DELUXE_2025"
         ],
         "type": "TRAINER",
-        "original": "A2b-069"
+        "firstPrint": "A2b-069"
     },
     {
         "id": "A4b-341",
@@ -4430,7 +4430,7 @@
             "DELUXE_2025"
         ],
         "type": "TRAINER",
-        "original": "A4b-341"
+        "firstPrint": "A4b-341"
     },
     {
         "id": "A4b-342",
@@ -4443,7 +4443,7 @@
             "DELUXE_2025"
         ],
         "type": "TRAINER",
-        "original": "A2-154"
+        "firstPrint": "A2-154"
     },
     {
         "id": "A4b-343",
@@ -4456,7 +4456,7 @@
             "DELUXE_2025"
         ],
         "type": "TRAINER",
-        "original": "A4b-343"
+        "firstPrint": "A4b-343"
     },
     {
         "id": "A4b-344",
@@ -4469,7 +4469,7 @@
             "DELUXE_2025"
         ],
         "type": "TRAINER",
-        "original": "A2-155"
+        "firstPrint": "A2-155"
     },
     {
         "id": "A4b-345",
@@ -4482,7 +4482,7 @@
             "DELUXE_2025"
         ],
         "type": "TRAINER",
-        "original": "A4b-345"
+        "firstPrint": "A4b-345"
     },
     {
         "id": "A4b-346",
@@ -4495,7 +4495,7 @@
             "DELUXE_2025"
         ],
         "type": "TRAINER",
-        "original": "A1a-068"
+        "firstPrint": "A1a-068"
     },
     {
         "id": "A4b-347",
@@ -4508,7 +4508,7 @@
             "DELUXE_2025"
         ],
         "type": "TRAINER",
-        "original": "A4b-347"
+        "firstPrint": "A4b-347"
     },
     {
         "id": "A4b-348",
@@ -4521,7 +4521,7 @@
             "DELUXE_2025"
         ],
         "type": "TRAINER",
-        "original": "A3-155"
+        "firstPrint": "A3-155"
     },
     {
         "id": "A4b-349",
@@ -4534,7 +4534,7 @@
             "DELUXE_2025"
         ],
         "type": "TRAINER",
-        "original": "A4b-349"
+        "firstPrint": "A4b-349"
     },
     {
         "id": "A4b-350",
@@ -4547,7 +4547,7 @@
             "DELUXE_2025"
         ],
         "type": "TRAINER",
-        "original": "A3a-069"
+        "firstPrint": "A3a-069"
     },
     {
         "id": "A4b-351",
@@ -4560,7 +4560,7 @@
             "DELUXE_2025"
         ],
         "type": "TRAINER",
-        "original": "A4b-351"
+        "firstPrint": "A4b-351"
     },
     {
         "id": "A4b-352",
@@ -4573,7 +4573,7 @@
             "DELUXE_2025"
         ],
         "type": "TRAINER",
-        "original": "A2b-071"
+        "firstPrint": "A2b-071"
     },
     {
         "id": "A4b-353",
@@ -4586,7 +4586,7 @@
             "DELUXE_2025"
         ],
         "type": "TRAINER",
-        "original": "A4b-353"
+        "firstPrint": "A4b-353"
     },
     {
         "id": "A4b-354",
@@ -4599,7 +4599,7 @@
             "DELUXE_2025"
         ],
         "type": "GRASS",
-        "original": "A4b-354"
+        "firstPrint": "A4b-354"
     },
     {
         "id": "A4b-355",
@@ -4612,7 +4612,7 @@
             "DELUXE_2025"
         ],
         "type": "WATER",
-        "original": "A4b-355"
+        "firstPrint": "A4b-355"
     },
     {
         "id": "A4b-356",
@@ -4625,7 +4625,7 @@
             "DELUXE_2025"
         ],
         "type": "WATER",
-        "original": "A4b-356"
+        "firstPrint": "A4b-356"
     },
     {
         "id": "A4b-357",
@@ -4638,7 +4638,7 @@
             "DELUXE_2025"
         ],
         "type": "PSYCHIC",
-        "original": "A4b-357"
+        "firstPrint": "A4b-357"
     },
     {
         "id": "A4b-358",
@@ -4651,7 +4651,7 @@
             "DELUXE_2025"
         ],
         "type": "PSYCHIC",
-        "original": "A4b-358"
+        "firstPrint": "A4b-358"
     },
     {
         "id": "A4b-359",
@@ -4664,7 +4664,7 @@
             "DELUXE_2025"
         ],
         "type": "COLORLESS",
-        "original": "A4b-359"
+        "firstPrint": "A4b-359"
     },
     {
         "id": "A4b-360",
@@ -4677,7 +4677,7 @@
             "DELUXE_2025"
         ],
         "type": "GRASS",
-        "original": "A4b-360"
+        "firstPrint": "A4b-360"
     },
     {
         "id": "A4b-361",
@@ -4690,7 +4690,7 @@
             "DELUXE_2025"
         ],
         "type": "FIRE",
-        "original": "A4b-361"
+        "firstPrint": "A4b-361"
     },
     {
         "id": "A4b-362",
@@ -4703,7 +4703,7 @@
             "DELUXE_2025"
         ],
         "type": "FIRE",
-        "original": "A4b-362"
+        "firstPrint": "A4b-362"
     },
     {
         "id": "A4b-363",
@@ -4716,7 +4716,7 @@
             "DELUXE_2025"
         ],
         "type": "WATER",
-        "original": "A4b-363"
+        "firstPrint": "A4b-363"
     },
     {
         "id": "A4b-364",
@@ -4729,7 +4729,7 @@
             "DELUXE_2025"
         ],
         "type": "LIGHTNING",
-        "original": "A4b-364"
+        "firstPrint": "A4b-364"
     },
     {
         "id": "A4b-365",
@@ -4742,7 +4742,7 @@
             "DELUXE_2025"
         ],
         "type": "PSYCHIC",
-        "original": "A4b-365"
+        "firstPrint": "A4b-365"
     },
     {
         "id": "A4b-366",
@@ -4755,7 +4755,7 @@
             "DELUXE_2025"
         ],
         "type": "PSYCHIC",
-        "original": "A4b-366"
+        "firstPrint": "A4b-366"
     },
     {
         "id": "A4b-367",
@@ -4768,7 +4768,7 @@
             "DELUXE_2025"
         ],
         "type": "PSYCHIC",
-        "original": "A4b-367"
+        "firstPrint": "A4b-367"
     },
     {
         "id": "A4b-368",
@@ -4781,7 +4781,7 @@
             "DELUXE_2025"
         ],
         "type": "METAL",
-        "original": "A4b-368"
+        "firstPrint": "A4b-368"
     },
     {
         "id": "A4b-369",
@@ -4794,7 +4794,7 @@
             "DELUXE_2025"
         ],
         "type": "METAL",
-        "original": "A4b-369"
+        "firstPrint": "A4b-369"
     },
     {
         "id": "A4b-370",
@@ -4807,7 +4807,7 @@
             "DELUXE_2025"
         ],
         "type": "COLORLESS",
-        "original": "A4b-370"
+        "firstPrint": "A4b-370"
     },
     {
         "id": "A4b-371",
@@ -4820,7 +4820,7 @@
             "DELUXE_2025"
         ],
         "type": "COLORLESS",
-        "original": "A4b-371"
+        "firstPrint": "A4b-371"
     },
     {
         "id": "A4b-372",
@@ -4833,7 +4833,7 @@
             "DELUXE_2025"
         ],
         "type": "COLORLESS",
-        "original": "A4b-372"
+        "firstPrint": "A4b-372"
     },
     {
         "id": "A4b-373",
@@ -4846,7 +4846,7 @@
             "DELUXE_2025"
         ],
         "type": "TRAINER",
-        "original": "A4b-373"
+        "firstPrint": "A4b-373"
     },
     {
         "id": "A4b-374",
@@ -4859,7 +4859,7 @@
             "DELUXE_2025"
         ],
         "type": "TRAINER",
-        "original": "A4b-374"
+        "firstPrint": "A4b-374"
     },
     {
         "id": "A4b-375",
@@ -4872,7 +4872,7 @@
             "DELUXE_2025"
         ],
         "type": "TRAINER",
-        "original": "A4b-375"
+        "firstPrint": "A4b-375"
     },
     {
         "id": "A4b-376",
@@ -4885,7 +4885,7 @@
             "DELUXE_2025"
         ],
         "type": "LIGHTNING",
-        "original": "A4b-376"
+        "firstPrint": "A4b-376"
     },
     {
         "id": "A4b-377",
@@ -4898,7 +4898,7 @@
             "DELUXE_2025"
         ],
         "type": "PSYCHIC",
-        "original": "A4b-377"
+        "firstPrint": "A4b-377"
     },
     {
         "id": "A4b-378",
@@ -4911,7 +4911,7 @@
             "DELUXE_2025"
         ],
         "type": "DARKNESS",
-        "original": "A4b-378"
+        "firstPrint": "A4b-378"
     },
     {
         "id": "A4b-379",
@@ -4924,6 +4924,6 @@
             "DELUXE_2025"
         ],
         "type": "TRAINER",
-        "original": "A4b-379"
+        "firstPrint": "A4b-379"
     }
 ]

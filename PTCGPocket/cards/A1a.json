@@ -10,7 +10,7 @@
             "MEW"
         ],
         "type": "GRASS",
-        "original": "A1a-001"
+        "firstPrint": "A1a-001"
     },
     {
         "id": "A1a-002",
@@ -23,7 +23,7 @@
             "MEW"
         ],
         "type": "GRASS",
-        "original": "A1a-002"
+        "firstPrint": "A1a-002"
     },
     {
         "id": "A1a-003",
@@ -36,7 +36,7 @@
             "MEW"
         ],
         "type": "GRASS",
-        "original": "A1a-003"
+        "firstPrint": "A1a-003"
     },
     {
         "id": "A1a-004",
@@ -49,7 +49,7 @@
             "MEW"
         ],
         "type": "GRASS",
-        "original": "A1a-004"
+        "firstPrint": "A1a-004"
     },
     {
         "id": "A1a-005",
@@ -62,7 +62,7 @@
             "MEW"
         ],
         "type": "GRASS",
-        "original": "A1a-005"
+        "firstPrint": "A1a-005"
     },
     {
         "id": "A1a-006",
@@ -75,7 +75,7 @@
             "MEW"
         ],
         "type": "GRASS",
-        "original": "A1a-006"
+        "firstPrint": "A1a-006"
     },
     {
         "id": "A1a-007",
@@ -88,7 +88,7 @@
             "MEW"
         ],
         "type": "GRASS",
-        "original": "A1a-007"
+        "firstPrint": "A1a-007"
     },
     {
         "id": "A1a-008",
@@ -101,7 +101,7 @@
             "MEW"
         ],
         "type": "GRASS",
-        "original": "A1a-008"
+        "firstPrint": "A1a-008"
     },
     {
         "id": "A1a-009",
@@ -114,7 +114,7 @@
             "MEW"
         ],
         "type": "GRASS",
-        "original": "A1a-009"
+        "firstPrint": "A1a-009"
     },
     {
         "id": "A1a-010",
@@ -127,7 +127,7 @@
             "MEW"
         ],
         "type": "FIRE",
-        "original": "A1a-010"
+        "firstPrint": "A1a-010"
     },
     {
         "id": "A1a-011",
@@ -140,7 +140,7 @@
             "MEW"
         ],
         "type": "FIRE",
-        "original": "A1a-011"
+        "firstPrint": "A1a-011"
     },
     {
         "id": "A1a-012",
@@ -153,7 +153,7 @@
             "MEW"
         ],
         "type": "FIRE",
-        "original": "A1a-012"
+        "firstPrint": "A1a-012"
     },
     {
         "id": "A1a-013",
@@ -166,7 +166,7 @@
             "MEW"
         ],
         "type": "FIRE",
-        "original": "A1a-013"
+        "firstPrint": "A1a-013"
     },
     {
         "id": "A1a-014",
@@ -179,7 +179,7 @@
             "MEW"
         ],
         "type": "FIRE",
-        "original": "A1a-014"
+        "firstPrint": "A1a-014"
     },
     {
         "id": "A1a-015",
@@ -192,7 +192,7 @@
             "MEW"
         ],
         "type": "FIRE",
-        "original": "A1a-015"
+        "firstPrint": "A1a-015"
     },
     {
         "id": "A1a-016",
@@ -205,7 +205,7 @@
             "MEW"
         ],
         "type": "FIRE",
-        "original": "A1a-016"
+        "firstPrint": "A1a-016"
     },
     {
         "id": "A1a-017",
@@ -218,7 +218,7 @@
             "MEW"
         ],
         "type": "WATER",
-        "original": "A1a-017"
+        "firstPrint": "A1a-017"
     },
     {
         "id": "A1a-018",
@@ -231,7 +231,7 @@
             "MEW"
         ],
         "type": "WATER",
-        "original": "A1a-018"
+        "firstPrint": "A1a-018"
     },
     {
         "id": "A1a-019",
@@ -244,7 +244,7 @@
             "MEW"
         ],
         "type": "WATER",
-        "original": "A1a-019"
+        "firstPrint": "A1a-019"
     },
     {
         "id": "A1a-020",
@@ -257,7 +257,7 @@
             "MEW"
         ],
         "type": "WATER",
-        "original": "A1a-020"
+        "firstPrint": "A1a-020"
     },
     {
         "id": "A1a-021",
@@ -270,7 +270,7 @@
             "MEW"
         ],
         "type": "WATER",
-        "original": "A1a-021"
+        "firstPrint": "A1a-021"
     },
     {
         "id": "A1a-022",
@@ -283,7 +283,7 @@
             "MEW"
         ],
         "type": "WATER",
-        "original": "A1a-022"
+        "firstPrint": "A1a-022"
     },
     {
         "id": "A1a-023",
@@ -296,7 +296,7 @@
             "MEW"
         ],
         "type": "WATER",
-        "original": "A1a-023"
+        "firstPrint": "A1a-023"
     },
     {
         "id": "A1a-024",
@@ -309,7 +309,7 @@
             "MEW"
         ],
         "type": "WATER",
-        "original": "A1a-024"
+        "firstPrint": "A1a-024"
     },
     {
         "id": "A1a-025",
@@ -322,7 +322,7 @@
             "MEW"
         ],
         "type": "LIGHTNING",
-        "original": "A1a-025"
+        "firstPrint": "A1a-025"
     },
     {
         "id": "A1a-026",
@@ -335,7 +335,7 @@
             "MEW"
         ],
         "type": "LIGHTNING",
-        "original": "A1a-026"
+        "firstPrint": "A1a-026"
     },
     {
         "id": "A1a-027",
@@ -348,7 +348,7 @@
             "MEW"
         ],
         "type": "LIGHTNING",
-        "original": "A1a-027"
+        "firstPrint": "A1a-027"
     },
     {
         "id": "A1a-028",
@@ -361,7 +361,7 @@
             "MEW"
         ],
         "type": "LIGHTNING",
-        "original": "A1a-028"
+        "firstPrint": "A1a-028"
     },
     {
         "id": "A1a-029",
@@ -374,7 +374,7 @@
             "MEW"
         ],
         "type": "LIGHTNING",
-        "original": "A1a-029"
+        "firstPrint": "A1a-029"
     },
     {
         "id": "A1a-030",
@@ -387,7 +387,7 @@
             "MEW"
         ],
         "type": "LIGHTNING",
-        "original": "A1a-030"
+        "firstPrint": "A1a-030"
     },
     {
         "id": "A1a-031",
@@ -400,7 +400,7 @@
             "MEW"
         ],
         "type": "PSYCHIC",
-        "original": "A1a-031"
+        "firstPrint": "A1a-031"
     },
     {
         "id": "A1a-032",
@@ -413,7 +413,7 @@
             "MEW"
         ],
         "type": "PSYCHIC",
-        "original": "A1a-032"
+        "firstPrint": "A1a-032"
     },
     {
         "id": "A1a-033",
@@ -426,7 +426,7 @@
             "MEW"
         ],
         "type": "PSYCHIC",
-        "original": "A1a-033"
+        "firstPrint": "A1a-033"
     },
     {
         "id": "A1a-034",
@@ -439,7 +439,7 @@
             "MEW"
         ],
         "type": "PSYCHIC",
-        "original": "A1a-034"
+        "firstPrint": "A1a-034"
     },
     {
         "id": "A1a-035",
@@ -452,7 +452,7 @@
             "MEW"
         ],
         "type": "PSYCHIC",
-        "original": "A1a-035"
+        "firstPrint": "A1a-035"
     },
     {
         "id": "A1a-036",
@@ -465,7 +465,7 @@
             "MEW"
         ],
         "type": "PSYCHIC",
-        "original": "A1a-036"
+        "firstPrint": "A1a-036"
     },
     {
         "id": "A1a-037",
@@ -478,7 +478,7 @@
             "MEW"
         ],
         "type": "PSYCHIC",
-        "original": "A1a-037"
+        "firstPrint": "A1a-037"
     },
     {
         "id": "A1a-038",
@@ -491,7 +491,7 @@
             "MEW"
         ],
         "type": "PSYCHIC",
-        "original": "A1a-038"
+        "firstPrint": "A1a-038"
     },
     {
         "id": "A1a-039",
@@ -504,7 +504,7 @@
             "MEW"
         ],
         "type": "PSYCHIC",
-        "original": "A1a-039"
+        "firstPrint": "A1a-039"
     },
     {
         "id": "A1a-040",
@@ -517,7 +517,7 @@
             "MEW"
         ],
         "type": "PSYCHIC",
-        "original": "A1a-040"
+        "firstPrint": "A1a-040"
     },
     {
         "id": "A1a-041",
@@ -530,7 +530,7 @@
             "MEW"
         ],
         "type": "FIGHTING",
-        "original": "A1a-041"
+        "firstPrint": "A1a-041"
     },
     {
         "id": "A1a-042",
@@ -543,7 +543,7 @@
             "MEW"
         ],
         "type": "FIGHTING",
-        "original": "A1a-042"
+        "firstPrint": "A1a-042"
     },
     {
         "id": "A1a-043",
@@ -556,7 +556,7 @@
             "MEW"
         ],
         "type": "FIGHTING",
-        "original": "A1a-043"
+        "firstPrint": "A1a-043"
     },
     {
         "id": "A1a-044",
@@ -569,7 +569,7 @@
             "MEW"
         ],
         "type": "FIGHTING",
-        "original": "A1a-044"
+        "firstPrint": "A1a-044"
     },
     {
         "id": "A1a-045",
@@ -582,7 +582,7 @@
             "MEW"
         ],
         "type": "FIGHTING",
-        "original": "A1a-045"
+        "firstPrint": "A1a-045"
     },
     {
         "id": "A1a-046",
@@ -595,7 +595,7 @@
             "MEW"
         ],
         "type": "FIGHTING",
-        "original": "A1a-046"
+        "firstPrint": "A1a-046"
     },
     {
         "id": "A1a-047",
@@ -608,7 +608,7 @@
             "MEW"
         ],
         "type": "FIGHTING",
-        "original": "A1a-047"
+        "firstPrint": "A1a-047"
     },
     {
         "id": "A1a-048",
@@ -621,7 +621,7 @@
             "MEW"
         ],
         "type": "FIGHTING",
-        "original": "A1a-048"
+        "firstPrint": "A1a-048"
     },
     {
         "id": "A1a-049",
@@ -634,7 +634,7 @@
             "MEW"
         ],
         "type": "DARKNESS",
-        "original": "A1a-049"
+        "firstPrint": "A1a-049"
     },
     {
         "id": "A1a-050",
@@ -647,7 +647,7 @@
             "MEW"
         ],
         "type": "DARKNESS",
-        "original": "A1a-050"
+        "firstPrint": "A1a-050"
     },
     {
         "id": "A1a-051",
@@ -660,7 +660,7 @@
             "MEW"
         ],
         "type": "DARKNESS",
-        "original": "A1a-051"
+        "firstPrint": "A1a-051"
     },
     {
         "id": "A1a-052",
@@ -673,7 +673,7 @@
             "MEW"
         ],
         "type": "DARKNESS",
-        "original": "A1a-052"
+        "firstPrint": "A1a-052"
     },
     {
         "id": "A1a-053",
@@ -686,7 +686,7 @@
             "MEW"
         ],
         "type": "DARKNESS",
-        "original": "A1a-053"
+        "firstPrint": "A1a-053"
     },
     {
         "id": "A1a-054",
@@ -699,7 +699,7 @@
             "MEW"
         ],
         "type": "DARKNESS",
-        "original": "A1a-054"
+        "firstPrint": "A1a-054"
     },
     {
         "id": "A1a-055",
@@ -712,7 +712,7 @@
             "MEW"
         ],
         "type": "DARKNESS",
-        "original": "A1a-055"
+        "firstPrint": "A1a-055"
     },
     {
         "id": "A1a-056",
@@ -725,7 +725,7 @@
             "MEW"
         ],
         "type": "DRAGON",
-        "original": "A1a-056"
+        "firstPrint": "A1a-056"
     },
     {
         "id": "A1a-057",
@@ -738,7 +738,7 @@
             "MEW"
         ],
         "type": "COLORLESS",
-        "original": "A1a-057"
+        "firstPrint": "A1a-057"
     },
     {
         "id": "A1a-058",
@@ -751,7 +751,7 @@
             "MEW"
         ],
         "type": "COLORLESS",
-        "original": "A1a-058"
+        "firstPrint": "A1a-058"
     },
     {
         "id": "A1a-059",
@@ -764,7 +764,7 @@
             "MEW"
         ],
         "type": "COLORLESS",
-        "original": "A1a-059"
+        "firstPrint": "A1a-059"
     },
     {
         "id": "A1a-060",
@@ -777,7 +777,7 @@
             "MEW"
         ],
         "type": "COLORLESS",
-        "original": "A1a-060"
+        "firstPrint": "A1a-060"
     },
     {
         "id": "A1a-061",
@@ -790,7 +790,7 @@
             "MEW"
         ],
         "type": "COLORLESS",
-        "original": "A1a-061"
+        "firstPrint": "A1a-061"
     },
     {
         "id": "A1a-062",
@@ -803,7 +803,7 @@
             "MEW"
         ],
         "type": "COLORLESS",
-        "original": "A1a-062"
+        "firstPrint": "A1a-062"
     },
     {
         "id": "A1a-063",
@@ -816,7 +816,7 @@
             "MEW"
         ],
         "type": "TRAINER",
-        "original": "A1-218"
+        "firstPrint": "A1-218"
     },
     {
         "id": "A1a-064",
@@ -829,7 +829,7 @@
             "MEW"
         ],
         "type": "TRAINER",
-        "original": "A1a-064"
+        "firstPrint": "A1a-064"
     },
     {
         "id": "A1a-065",
@@ -842,7 +842,7 @@
             "MEW"
         ],
         "type": "TRAINER",
-        "original": "A1a-065"
+        "firstPrint": "A1a-065"
     },
     {
         "id": "A1a-066",
@@ -855,7 +855,7 @@
             "MEW"
         ],
         "type": "TRAINER",
-        "original": "A1a-066"
+        "firstPrint": "A1a-066"
     },
     {
         "id": "A1a-067",
@@ -868,7 +868,7 @@
             "MEW"
         ],
         "type": "TRAINER",
-        "original": "A1a-067"
+        "firstPrint": "A1a-067"
     },
     {
         "id": "A1a-068",
@@ -881,7 +881,7 @@
             "MEW"
         ],
         "type": "TRAINER",
-        "original": "A1a-068"
+        "firstPrint": "A1a-068"
     },
     {
         "id": "A1a-069",
@@ -894,7 +894,7 @@
             "MEW"
         ],
         "type": "GRASS",
-        "original": "A1a-069"
+        "firstPrint": "A1a-069"
     },
     {
         "id": "A1a-070",
@@ -907,7 +907,7 @@
             "MEW"
         ],
         "type": "GRASS",
-        "original": "A1a-070"
+        "firstPrint": "A1a-070"
     },
     {
         "id": "A1a-071",
@@ -920,7 +920,7 @@
             "MEW"
         ],
         "type": "FIRE",
-        "original": "A1a-071"
+        "firstPrint": "A1a-071"
     },
     {
         "id": "A1a-072",
@@ -933,7 +933,7 @@
             "MEW"
         ],
         "type": "WATER",
-        "original": "A1a-072"
+        "firstPrint": "A1a-072"
     },
     {
         "id": "A1a-073",
@@ -946,7 +946,7 @@
             "MEW"
         ],
         "type": "LIGHTNING",
-        "original": "A1a-073"
+        "firstPrint": "A1a-073"
     },
     {
         "id": "A1a-074",
@@ -959,7 +959,7 @@
             "MEW"
         ],
         "type": "FIGHTING",
-        "original": "A1a-074"
+        "firstPrint": "A1a-074"
     },
     {
         "id": "A1a-075",
@@ -972,7 +972,7 @@
             "MEW"
         ],
         "type": "GRASS",
-        "original": "A1a-075"
+        "firstPrint": "A1a-075"
     },
     {
         "id": "A1a-076",
@@ -985,7 +985,7 @@
             "MEW"
         ],
         "type": "WATER",
-        "original": "A1a-076"
+        "firstPrint": "A1a-076"
     },
     {
         "id": "A1a-077",
@@ -998,7 +998,7 @@
             "MEW"
         ],
         "type": "PSYCHIC",
-        "original": "A1a-077"
+        "firstPrint": "A1a-077"
     },
     {
         "id": "A1a-078",
@@ -1011,7 +1011,7 @@
             "MEW"
         ],
         "type": "FIGHTING",
-        "original": "A1a-078"
+        "firstPrint": "A1a-078"
     },
     {
         "id": "A1a-079",
@@ -1024,7 +1024,7 @@
             "MEW"
         ],
         "type": "COLORLESS",
-        "original": "A1a-079"
+        "firstPrint": "A1a-079"
     },
     {
         "id": "A1a-080",
@@ -1037,7 +1037,7 @@
             "MEW"
         ],
         "type": "TRAINER",
-        "original": "A1a-080"
+        "firstPrint": "A1a-080"
     },
     {
         "id": "A1a-081",
@@ -1050,7 +1050,7 @@
             "MEW"
         ],
         "type": "TRAINER",
-        "original": "A1a-081"
+        "firstPrint": "A1a-081"
     },
     {
         "id": "A1a-082",
@@ -1063,7 +1063,7 @@
             "MEW"
         ],
         "type": "TRAINER",
-        "original": "A1a-082"
+        "firstPrint": "A1a-082"
     },
     {
         "id": "A1a-083",
@@ -1076,7 +1076,7 @@
             "MEW"
         ],
         "type": "PSYCHIC",
-        "original": "A1a-083"
+        "firstPrint": "A1a-083"
     },
     {
         "id": "A1a-084",
@@ -1089,7 +1089,7 @@
             "MEW"
         ],
         "type": "FIGHTING",
-        "original": "A1a-084"
+        "firstPrint": "A1a-084"
     },
     {
         "id": "A1a-085",
@@ -1102,7 +1102,7 @@
             "MEW"
         ],
         "type": "GRASS",
-        "original": "A1a-085"
+        "firstPrint": "A1a-085"
     },
     {
         "id": "A1a-086",
@@ -1115,6 +1115,6 @@
             "MEW"
         ],
         "type": "PSYCHIC",
-        "original": "A1a-086"
+        "firstPrint": "A1a-086"
     }
 ]
