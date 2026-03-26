@@ -219,5 +219,18 @@
     "color": [11.0, 174.0, 143.0],
     "cardCount": 131,
     "origins": ["PALDEA_STARTERS"]
+  },
+  {
+    "set": "B2b",
+    "expansion": "B2",
+    "series": "B",
+    "name": {
+      "en": "Mega Shine",
+      "es": "Megavariocolor"
+    },
+    "cover": "https://raw.githubusercontent.com/adresa97/TCGTracker-database/refs/heads/main/PTCGPocket/covers/b2b_mega_shine_en.png",
+    "color": [84.0, 149.0, 183.0],
+    "cardCount": 117,
+    "origins": ["SHINY_MEGA_GENGAR"]
   }
 ]
