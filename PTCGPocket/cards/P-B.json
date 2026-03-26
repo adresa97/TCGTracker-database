@@ -518,5 +518,109 @@
         ],
         "type": "DARKNESS",
         "firstPrint": "P-B-040"
+    },
+    {
+        "id": "P-B-041",
+        "name": {
+            "en": "Chien-Pao ex",
+            "es": "Chien-Pao ex"
+        },
+        "rarity": "NONE",
+        "origins": [
+            "PREMIUM"
+        ],
+        "type": "WATER",
+        "firstPrint": "P-B-041"
+    },
+    {
+        "id": "P-B-042",
+        "name": {
+            "en": "Slowpoke",
+            "es": "Slowpoke"
+        },
+        "rarity": "NONE",
+        "origins": [
+            "DROP_EVENT"
+        ],
+        "type": "WATER",
+        "firstPrint": "P-B-042"
+    },
+    {
+        "id": "P-B-043",
+        "name": {
+            "en": "Electrike",
+            "es": "Electrike"
+        },
+        "rarity": "NONE",
+        "origins": [
+            "DROP_EVENT"
+        ],
+        "type": "LIGHTNING",
+        "firstPrint": "P-B-043"
+    },
+    {
+        "id": "P-B-044",
+        "name": {
+            "en": "Varoom",
+            "es": "Varoom"
+        },
+        "rarity": "NONE",
+        "origins": [
+            "DROP_EVENT"
+        ],
+        "type": "METAL",
+        "firstPrint": "P-B-044"
+    },
+    {
+        "id": "P-B-045",
+        "name": {
+            "en": "Haxorus",
+            "es": "Haxorus"
+        },
+        "rarity": "NONE",
+        "origins": [
+            "DROP_EVENT"
+        ],
+        "type": "DRAGON",
+        "firstPrint": "P-B-045"
+    },
+    {
+        "id": "P-B-046",
+        "name": {
+            "en": "Chatot",
+            "es": "Chatot"
+        },
+        "rarity": "NONE",
+        "origins": [
+            "DROP_EVENT"
+        ],
+        "type": "COLORLESS",
+        "firstPrint": "P-B-046"
+    },
+    {
+        "id": "P-B-047",
+        "name": {
+            "en": "Gastly",
+            "es": "Gastly"
+        },
+        "rarity": "NONE",
+        "origins": [
+            "WONDER_EVENT"
+        ],
+        "type": "DARKNESS",
+        "firstPrint": "P-B-047"
+    },
+    {
+        "id": "P-B-048",
+        "name": {
+            "en": "Wigglytuff",
+            "es": "Wigglytuff"
+        },
+        "rarity": "NONE",
+        "origins": [
+            "WONDER_EVENT"
+        ],
+        "type": "COLORLESS",
+        "firstPrint": "P-B-048"
     }
 ]
