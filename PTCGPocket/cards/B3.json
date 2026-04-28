@@ -1,0 +1,3072 @@
+[
+    {
+        "id": "B3-001",
+        "name": {
+            "en": "Tangela",
+            "es": "Tangela"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "GRASS",
+        "firstPrint": "B3-001"
+    },
+    {
+        "id": "B3-002",
+        "name": {
+            "en": "Tangrowth",
+            "es": "Tangrowth"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "GRASS",
+        "firstPrint": "B3-002"
+    },
+    {
+        "id": "B3-003",
+        "name": {
+            "en": "Heracross",
+            "es": "Heracross"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "GRASS",
+        "firstPrint": "B3-003"
+    },
+    {
+        "id": "B3-004",
+        "name": {
+            "en": "Celebi",
+            "es": "Celebi"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "GRASS",
+        "firstPrint": "B3-004"
+    },
+    {
+        "id": "B3-005",
+        "name": {
+            "en": "Treecko",
+            "es": "Treecko"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "GRASS",
+        "firstPrint": "B3-005"
+    },
+    {
+        "id": "B3-006",
+        "name": {
+            "en": "Grovyle",
+            "es": "Grovyle"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "GRASS",
+        "firstPrint": "B3-006"
+    },
+    {
+        "id": "B3-007",
+        "name": {
+            "en": "Sceptile",
+            "es": "Sceptile"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "GRASS",
+        "firstPrint": "B3-007"
+    },
+    {
+        "id": "B3-008",
+        "name": {
+            "en": "Mega Sceptile ex",
+            "es": "Mega-Sceptile ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "GRASS",
+        "firstPrint": "B3-008"
+    },
+    {
+        "id": "B3-009",
+        "name": {
+            "en": "Surskit",
+            "es": "Surskit"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "GRASS",
+        "firstPrint": "B3-009"
+    },
+    {
+        "id": "B3-010",
+        "name": {
+            "en": "Masquerain",
+            "es": "Masquerain"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "GRASS",
+        "firstPrint": "B3-010"
+    },
+    {
+        "id": "B3-011",
+        "name": {
+            "en": "Shroomish",
+            "es": "Shroomish"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "GRASS",
+        "firstPrint": "B3-011"
+    },
+    {
+        "id": "B3-012",
+        "name": {
+            "en": "Breloom",
+            "es": "Breloom"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "GRASS",
+        "firstPrint": "B3-012"
+    },
+    {
+        "id": "B3-013",
+        "name": {
+            "en": "Budew",
+            "es": "Budew"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "GRASS",
+        "firstPrint": "B3-013"
+    },
+    {
+        "id": "B3-014",
+        "name": {
+            "en": "Carnivine",
+            "es": "Carnivine"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "GRASS",
+        "firstPrint": "B3-014"
+    },
+    {
+        "id": "B3-015",
+        "name": {
+            "en": "Sewaddle",
+            "es": "Sewaddle"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "GRASS",
+        "firstPrint": "B3-015"
+    },
+    {
+        "id": "B3-016",
+        "name": {
+            "en": "Swadloon",
+            "es": "Swadloon"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "GRASS",
+        "firstPrint": "B3-016"
+    },
+    {
+        "id": "B3-017",
+        "name": {
+            "en": "Leavanny",
+            "es": "Leavanny"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "GRASS",
+        "firstPrint": "B3-017"
+    },
+    {
+        "id": "B3-018",
+        "name": {
+            "en": "Durant",
+            "es": "Durant"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "GRASS",
+        "firstPrint": "B3-018"
+    },
+    {
+        "id": "B3-019",
+        "name": {
+            "en": "Applin",
+            "es": "Applin"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "GRASS",
+        "firstPrint": "B3-019"
+    },
+    {
+        "id": "B3-020",
+        "name": {
+            "en": "Flapple",
+            "es": "Flapple"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "GRASS",
+        "firstPrint": "B3-020"
+    },
+    {
+        "id": "B3-021",
+        "name": {
+            "en": "Numel",
+            "es": "Numel"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "FIRE",
+        "firstPrint": "B3-021"
+    },
+    {
+        "id": "B3-022",
+        "name": {
+            "en": "Camerupt",
+            "es": "Camerupt"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "FIRE",
+        "firstPrint": "B3-022"
+    },
+    {
+        "id": "B3-023",
+        "name": {
+            "en": "Mega Camerupt ex",
+            "es": "Mega-Camerupt ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "FIRE",
+        "firstPrint": "B3-023"
+    },
+    {
+        "id": "B3-024",
+        "name": {
+            "en": "Castform Sunny Form",
+            "es": "Castform Forma Sol"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "FIRE",
+        "firstPrint": "B3-024"
+    },
+    {
+        "id": "B3-025",
+        "name": {
+            "en": "Victini",
+            "es": "Victini"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "FIRE",
+        "firstPrint": "B3-025"
+    },
+    {
+        "id": "B3-026",
+        "name": {
+            "en": "Tepig",
+            "es": "Tepig"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "FIRE",
+        "firstPrint": "B3-026"
+    },
+    {
+        "id": "B3-027",
+        "name": {
+            "en": "Pignite",
+            "es": "Pignite"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "FIRE",
+        "firstPrint": "B3-027"
+    },
+    {
+        "id": "B3-028",
+        "name": {
+            "en": "Emboar",
+            "es": "Emboar"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "FIRE",
+        "firstPrint": "B3-028"
+    },
+    {
+        "id": "B3-029",
+        "name": {
+            "en": "Darumaka",
+            "es": "Darumaka"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "FIRE",
+        "firstPrint": "B3-029"
+    },
+    {
+        "id": "B3-030",
+        "name": {
+            "en": "Darmanitan",
+            "es": "Darmanitan"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "FIRE",
+        "firstPrint": "B3-030"
+    },
+    {
+        "id": "B3-031",
+        "name": {
+            "en": "Larvesta",
+            "es": "Larvesta"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "FIRE",
+        "firstPrint": "B3-031"
+    },
+    {
+        "id": "B3-032",
+        "name": {
+            "en": "Volcarona",
+            "es": "Volcarona"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "FIRE",
+        "firstPrint": "B3-032"
+    },
+    {
+        "id": "B3-033",
+        "name": {
+            "en": "Poliwag",
+            "es": "Poliwag"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "WATER",
+        "firstPrint": "B3-033"
+    },
+    {
+        "id": "B3-034",
+        "name": {
+            "en": "Poliwhirl",
+            "es": "Poliwhirl"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "WATER",
+        "firstPrint": "B3-034"
+    },
+    {
+        "id": "B3-035",
+        "name": {
+            "en": "Politoed",
+            "es": "Politoed"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "WATER",
+        "firstPrint": "B3-035"
+    },
+    {
+        "id": "B3-036",
+        "name": {
+            "en": "Paldean Tauros",
+            "es": "Tauros de Paldea"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "WATER",
+        "firstPrint": "B3-036"
+    },
+    {
+        "id": "B3-037",
+        "name": {
+            "en": "Vaporeon ex",
+            "es": "Vaporeon ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "WATER",
+        "firstPrint": "B3-037"
+    },
+    {
+        "id": "B3-038",
+        "name": {
+            "en": "Wooper",
+            "es": "Wooper"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "WATER",
+        "firstPrint": "B3-038"
+    },
+    {
+        "id": "B3-039",
+        "name": {
+            "en": "Quagsire",
+            "es": "Quagsire"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "WATER",
+        "firstPrint": "B3-039"
+    },
+    {
+        "id": "B3-040",
+        "name": {
+            "en": "Castform Rainy Form",
+            "es": "Castform Forma Lluvia"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "WATER",
+        "firstPrint": "B3-040"
+    },
+    {
+        "id": "B3-041",
+        "name": {
+            "en": "Castform Snowy Form",
+            "es": "Castform Forma Nieve"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "WATER",
+        "firstPrint": "B3-041"
+    },
+    {
+        "id": "B3-042",
+        "name": {
+            "en": "Clamperl",
+            "es": "Clamperl"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "WATER",
+        "firstPrint": "B3-042"
+    },
+    {
+        "id": "B3-043",
+        "name": {
+            "en": "Huntail",
+            "es": "Huntail"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "WATER",
+        "firstPrint": "B3-043"
+    },
+    {
+        "id": "B3-044",
+        "name": {
+            "en": "Gorebyss",
+            "es": "Gorebyss"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "WATER",
+        "firstPrint": "B3-044"
+    },
+    {
+        "id": "B3-045",
+        "name": {
+            "en": "Regice",
+            "es": "Regice"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "WATER",
+        "firstPrint": "B3-045"
+    },
+    {
+        "id": "B3-046",
+        "name": {
+            "en": "Cubchoo",
+            "es": "Cubchoo"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "WATER",
+        "firstPrint": "B3-046"
+    },
+    {
+        "id": "B3-047",
+        "name": {
+            "en": "Beartic",
+            "es": "Beartic"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "WATER",
+        "firstPrint": "B3-047"
+    },
+    {
+        "id": "B3-048",
+        "name": {
+            "en": "Sobble",
+            "es": "Sobble"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "WATER",
+        "firstPrint": "B3-048"
+    },
+    {
+        "id": "B3-049",
+        "name": {
+            "en": "Drizzile",
+            "es": "Drizzile"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "WATER",
+        "firstPrint": "B3-049"
+    },
+    {
+        "id": "B3-050",
+        "name": {
+            "en": "Inteleon",
+            "es": "Inteleon"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "WATER",
+        "firstPrint": "B3-050"
+    },
+    {
+        "id": "B3-051",
+        "name": {
+            "en": "Rapid Strike Urshifu",
+            "es": "Urshifu Golpe Fluido"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "WATER",
+        "firstPrint": "B3-051"
+    },
+    {
+        "id": "B3-052",
+        "name": {
+            "en": "Magnemite",
+            "es": "Magnemite"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "LIGHTNING",
+        "firstPrint": "B3-052"
+    },
+    {
+        "id": "B3-053",
+        "name": {
+            "en": "Magneton",
+            "es": "Magneton"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "LIGHTNING",
+        "firstPrint": "B3-053"
+    },
+    {
+        "id": "B3-054",
+        "name": {
+            "en": "Magnezone ex",
+            "es": "Magnezone ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "LIGHTNING",
+        "firstPrint": "B3-054"
+    },
+    {
+        "id": "B3-055",
+        "name": {
+            "en": "Voltorb",
+            "es": "Voltorb"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "LIGHTNING",
+        "firstPrint": "B3-055"
+    },
+    {
+        "id": "B3-056",
+        "name": {
+            "en": "Electrode",
+            "es": "Electrode"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "LIGHTNING",
+        "firstPrint": "B3-056"
+    },
+    {
+        "id": "B3-057",
+        "name": {
+            "en": "Chinchou",
+            "es": "Chinchou"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "LIGHTNING",
+        "firstPrint": "B3-057"
+    },
+    {
+        "id": "B3-058",
+        "name": {
+            "en": "Lanturn",
+            "es": "Lanturn"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "LIGHTNING",
+        "firstPrint": "B3-058"
+    },
+    {
+        "id": "B3-059",
+        "name": {
+            "en": "Zekrom",
+            "es": "Zekrom"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "LIGHTNING",
+        "firstPrint": "B3-059"
+    },
+    {
+        "id": "B3-060",
+        "name": {
+            "en": "Toxel",
+            "es": "Toxel"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "LIGHTNING",
+        "firstPrint": "B3-060"
+    },
+    {
+        "id": "B3-061",
+        "name": {
+            "en": "Toxtricity",
+            "es": "Toxtricity"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "LIGHTNING",
+        "firstPrint": "B3-061"
+    },
+    {
+        "id": "B3-062",
+        "name": {
+            "en": "Morpeko",
+            "es": "Morpeko"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "LIGHTNING",
+        "firstPrint": "B3-062"
+    },
+    {
+        "id": "B3-063",
+        "name": {
+            "en": "Ralts",
+            "es": "Ralts"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "PSYCHIC",
+        "firstPrint": "B3-063"
+    },
+    {
+        "id": "B3-064",
+        "name": {
+            "en": "Kirlia",
+            "es": "Kirlia"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "PSYCHIC",
+        "firstPrint": "B3-064"
+    },
+    {
+        "id": "B3-065",
+        "name": {
+            "en": "Espurr",
+            "es": "Espurr"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "PSYCHIC",
+        "firstPrint": "B3-065"
+    },
+    {
+        "id": "B3-066",
+        "name": {
+            "en": "Meowstic",
+            "es": "Meowstic"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "PSYCHIC",
+        "firstPrint": "B3-066"
+    },
+    {
+        "id": "B3-067",
+        "name": {
+            "en": "Diancie",
+            "es": "Diancie"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "PSYCHIC",
+        "firstPrint": "B3-067"
+    },
+    {
+        "id": "B3-068",
+        "name": {
+            "en": "Oricorio",
+            "es": "Oricorio"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "PSYCHIC",
+        "firstPrint": "B3-068"
+    },
+    {
+        "id": "B3-069",
+        "name": {
+            "en": "Hatenna",
+            "es": "Hatenna"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "PSYCHIC",
+        "firstPrint": "B3-069"
+    },
+    {
+        "id": "B3-070",
+        "name": {
+            "en": "Hattrem",
+            "es": "Hattrem"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "PSYCHIC",
+        "firstPrint": "B3-070"
+    },
+    {
+        "id": "B3-071",
+        "name": {
+            "en": "Hatterene",
+            "es": "Hatterene"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "PSYCHIC",
+        "firstPrint": "B3-071"
+    },
+    {
+        "id": "B3-072",
+        "name": {
+            "en": "Bramblin",
+            "es": "Bramblin"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "PSYCHIC",
+        "firstPrint": "B3-072"
+    },
+    {
+        "id": "B3-073",
+        "name": {
+            "en": "Brambleghast",
+            "es": "Brambleghast"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "PSYCHIC",
+        "firstPrint": "B3-073"
+    },
+    {
+        "id": "B3-074",
+        "name": {
+            "en": "Gligar",
+            "es": "Gligar"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "FIGHTING",
+        "firstPrint": "B3-074"
+    },
+    {
+        "id": "B3-075",
+        "name": {
+            "en": "Gliscor",
+            "es": "Gliscor"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "FIGHTING",
+        "firstPrint": "B3-075"
+    },
+    {
+        "id": "B3-076",
+        "name": {
+            "en": "Trapinch",
+            "es": "Trapinch"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "FIGHTING",
+        "firstPrint": "B3-076"
+    },
+    {
+        "id": "B3-077",
+        "name": {
+            "en": "Regirock",
+            "es": "Regirock"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "FIGHTING",
+        "firstPrint": "B3-077"
+    },
+    {
+        "id": "B3-078",
+        "name": {
+            "en": "Bonsly",
+            "es": "Bonsly"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "FIGHTING",
+        "firstPrint": "B3-078"
+    },
+    {
+        "id": "B3-079",
+        "name": {
+            "en": "Riolu",
+            "es": "Riolu"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "FIGHTING",
+        "firstPrint": "B3-079"
+    },
+    {
+        "id": "B3-080",
+        "name": {
+            "en": "Lucario",
+            "es": "Lucario"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "FIGHTING",
+        "firstPrint": "B3-080"
+    },
+    {
+        "id": "B3-081",
+        "name": {
+            "en": "Mega Lucario ex",
+            "es": "Mega-Lucario ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "FIGHTING",
+        "firstPrint": "B3-081"
+    },
+    {
+        "id": "B3-082",
+        "name": {
+            "en": "Croagunk",
+            "es": "Croagunk"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "FIGHTING",
+        "firstPrint": "B3-082"
+    },
+    {
+        "id": "B3-083",
+        "name": {
+            "en": "Toxicroak",
+            "es": "Toxicroak"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "FIGHTING",
+        "firstPrint": "B3-083"
+    },
+    {
+        "id": "B3-084",
+        "name": {
+            "en": "Gallade",
+            "es": "Gallade"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "FIGHTING",
+        "firstPrint": "B3-084"
+    },
+    {
+        "id": "B3-085",
+        "name": {
+            "en": "Throh",
+            "es": "Throh"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "FIGHTING",
+        "firstPrint": "B3-085"
+    },
+    {
+        "id": "B3-086",
+        "name": {
+            "en": "Sawk",
+            "es": "Sawk"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "FIGHTING",
+        "firstPrint": "B3-086"
+    },
+    {
+        "id": "B3-087",
+        "name": {
+            "en": "Dwebble",
+            "es": "Dwebble"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "FIGHTING",
+        "firstPrint": "B3-087"
+    },
+    {
+        "id": "B3-088",
+        "name": {
+            "en": "Crustle ex",
+            "es": "Crustle ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "FIGHTING",
+        "firstPrint": "B3-088"
+    },
+    {
+        "id": "B3-089",
+        "name": {
+            "en": "Meloetta",
+            "es": "Meloetta"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "FIGHTING",
+        "firstPrint": "B3-089"
+    },
+    {
+        "id": "B3-090",
+        "name": {
+            "en": "Stufful",
+            "es": "Stufful"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "FIGHTING",
+        "firstPrint": "B3-090"
+    },
+    {
+        "id": "B3-091",
+        "name": {
+            "en": "Bewear",
+            "es": "Bewear"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "FIGHTING",
+        "firstPrint": "B3-091"
+    },
+    {
+        "id": "B3-092",
+        "name": {
+            "en": "Rolycoly",
+            "es": "Rolycoly"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "FIGHTING",
+        "firstPrint": "B3-092"
+    },
+    {
+        "id": "B3-093",
+        "name": {
+            "en": "Carkol",
+            "es": "Carkol"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "FIGHTING",
+        "firstPrint": "B3-093"
+    },
+    {
+        "id": "B3-094",
+        "name": {
+            "en": "Coalossal",
+            "es": "Coalossal"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "FIGHTING",
+        "firstPrint": "B3-094"
+    },
+    {
+        "id": "B3-095",
+        "name": {
+            "en": "Silicobra",
+            "es": "Silicobra"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "FIGHTING",
+        "firstPrint": "B3-095"
+    },
+    {
+        "id": "B3-096",
+        "name": {
+            "en": "Sandaconda",
+            "es": "Sandaconda"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "FIGHTING",
+        "firstPrint": "B3-096"
+    },
+    {
+        "id": "B3-097",
+        "name": {
+            "en": "Kubfu",
+            "es": "Kubfu"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "FIGHTING",
+        "firstPrint": "B3-097"
+    },
+    {
+        "id": "B3-098",
+        "name": {
+            "en": "Zubat",
+            "es": "Zubat"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "DARKNESS",
+        "firstPrint": "B3-098"
+    },
+    {
+        "id": "B3-099",
+        "name": {
+            "en": "Golbat",
+            "es": "Golbat"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "DARKNESS",
+        "firstPrint": "B3-099"
+    },
+    {
+        "id": "B3-100",
+        "name": {
+            "en": "Crobat",
+            "es": "Crobat"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "DARKNESS",
+        "firstPrint": "B3-100"
+    },
+    {
+        "id": "B3-101",
+        "name": {
+            "en": "Koffing",
+            "es": "Koffing"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "DARKNESS",
+        "firstPrint": "B3-101"
+    },
+    {
+        "id": "B3-102",
+        "name": {
+            "en": "Weezing",
+            "es": "Weezing"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "DARKNESS",
+        "firstPrint": "B3-102"
+    },
+    {
+        "id": "B3-103",
+        "name": {
+            "en": "Qwilfish",
+            "es": "Qwilfish"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "DARKNESS",
+        "firstPrint": "B3-103"
+    },
+    {
+        "id": "B3-104",
+        "name": {
+            "en": "Seviper",
+            "es": "Seviper"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "DARKNESS",
+        "firstPrint": "B3-104"
+    },
+    {
+        "id": "B3-105",
+        "name": {
+            "en": "Zorua",
+            "es": "Zorua"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "DARKNESS",
+        "firstPrint": "B3-105"
+    },
+    {
+        "id": "B3-106",
+        "name": {
+            "en": "Zoroark ex",
+            "es": "Zoroark ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "DARKNESS",
+        "firstPrint": "B3-106"
+    },
+    {
+        "id": "B3-107",
+        "name": {
+            "en": "Foongus",
+            "es": "Foongus"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "DARKNESS",
+        "firstPrint": "B3-107"
+    },
+    {
+        "id": "B3-108",
+        "name": {
+            "en": "Amoonguss",
+            "es": "Amoonguss"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "DARKNESS",
+        "firstPrint": "B3-108"
+    },
+    {
+        "id": "B3-109",
+        "name": {
+            "en": "Vullaby",
+            "es": "Vullaby"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "DARKNESS",
+        "firstPrint": "B3-109"
+    },
+    {
+        "id": "B3-110",
+        "name": {
+            "en": "Mandibuzz",
+            "es": "Mandibuzz"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "DARKNESS",
+        "firstPrint": "B3-110"
+    },
+    {
+        "id": "B3-111",
+        "name": {
+            "en": "Inkay",
+            "es": "Inkay"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "DARKNESS",
+        "firstPrint": "B3-111"
+    },
+    {
+        "id": "B3-112",
+        "name": {
+            "en": "Malamar",
+            "es": "Malamar"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "DARKNESS",
+        "firstPrint": "B3-112"
+    },
+    {
+        "id": "B3-113",
+        "name": {
+            "en": "Single Strike Urshifu",
+            "es": "Urshifu Golpe Brusco"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "DARKNESS",
+        "firstPrint": "B3-113"
+    },
+    {
+        "id": "B3-114",
+        "name": {
+            "en": "Zarude",
+            "es": "Zarude"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "DARKNESS",
+        "firstPrint": "B3-114"
+    },
+    {
+        "id": "B3-115",
+        "name": {
+            "en": "Bombirdier",
+            "es": "Bombirdier"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "DARKNESS",
+        "firstPrint": "B3-115"
+    },
+    {
+        "id": "B3-116",
+        "name": {
+            "en": "Registeel",
+            "es": "Registeel"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "METAL",
+        "firstPrint": "B3-116"
+    },
+    {
+        "id": "B3-117",
+        "name": {
+            "en": "Bronzor",
+            "es": "Bronzor"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "METAL",
+        "firstPrint": "B3-117"
+    },
+    {
+        "id": "B3-118",
+        "name": {
+            "en": "Bronzong",
+            "es": "Bronzong"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "METAL",
+        "firstPrint": "B3-118"
+    },
+    {
+        "id": "B3-119",
+        "name": {
+            "en": "Pawniard",
+            "es": "Pawniard"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "METAL",
+        "firstPrint": "B3-119"
+    },
+    {
+        "id": "B3-120",
+        "name": {
+            "en": "Bisharp",
+            "es": "Bisharp"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "METAL",
+        "firstPrint": "B3-120"
+    },
+    {
+        "id": "B3-121",
+        "name": {
+            "en": "Magearna",
+            "es": "Magearna"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "METAL",
+        "firstPrint": "B3-121"
+    },
+    {
+        "id": "B3-122",
+        "name": {
+            "en": "Meltan",
+            "es": "Meltan"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "METAL",
+        "firstPrint": "B3-122"
+    },
+    {
+        "id": "B3-123",
+        "name": {
+            "en": "Melmetal",
+            "es": "Melmetal"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "METAL",
+        "firstPrint": "B3-123"
+    },
+    {
+        "id": "B3-124",
+        "name": {
+            "en": "Corviknight ex",
+            "es": "Corviknight ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "METAL",
+        "firstPrint": "B3-124"
+    },
+    {
+        "id": "B3-125",
+        "name": {
+            "en": "Vibrava",
+            "es": "Vibrava"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "DRAGON",
+        "firstPrint": "B3-125"
+    },
+    {
+        "id": "B3-126",
+        "name": {
+            "en": "Flygon ex",
+            "es": "Flygon ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "DRAGON",
+        "firstPrint": "B3-126"
+    },
+    {
+        "id": "B3-127",
+        "name": {
+            "en": "Chansey",
+            "es": "Chansey"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "COLORLESS",
+        "firstPrint": "B3-127"
+    },
+    {
+        "id": "B3-128",
+        "name": {
+            "en": "Blissey",
+            "es": "Blissey"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "COLORLESS",
+        "firstPrint": "B3-128"
+    },
+    {
+        "id": "B3-129",
+        "name": {
+            "en": "Eevee",
+            "es": "Eevee"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "COLORLESS",
+        "firstPrint": "B3-129"
+    },
+    {
+        "id": "B3-130",
+        "name": {
+            "en": "Dunsparce",
+            "es": "Dunsparce"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "COLORLESS",
+        "firstPrint": "B3-130"
+    },
+    {
+        "id": "B3-131",
+        "name": {
+            "en": "Teddiursa",
+            "es": "Teddiursa"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "COLORLESS",
+        "firstPrint": "B3-131"
+    },
+    {
+        "id": "B3-132",
+        "name": {
+            "en": "Ursaring",
+            "es": "Ursaring"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "COLORLESS",
+        "firstPrint": "B3-132"
+    },
+    {
+        "id": "B3-133",
+        "name": {
+            "en": "Castform",
+            "es": "Castform"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "COLORLESS",
+        "firstPrint": "B3-133"
+    },
+    {
+        "id": "B3-134",
+        "name": {
+            "en": "Regigigas",
+            "es": "Regigigas"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "COLORLESS",
+        "firstPrint": "B3-134"
+    },
+    {
+        "id": "B3-135",
+        "name": {
+            "en": "Patrat",
+            "es": "Patrat"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "COLORLESS",
+        "firstPrint": "B3-135"
+    },
+    {
+        "id": "B3-136",
+        "name": {
+            "en": "Watchog",
+            "es": "Watchog"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "COLORLESS",
+        "firstPrint": "B3-136"
+    },
+    {
+        "id": "B3-137",
+        "name": {
+            "en": "Lillipup",
+            "es": "Lillipup"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "COLORLESS",
+        "firstPrint": "B3-137"
+    },
+    {
+        "id": "B3-138",
+        "name": {
+            "en": "Herdier",
+            "es": "Herdier"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "COLORLESS",
+        "firstPrint": "B3-138"
+    },
+    {
+        "id": "B3-139",
+        "name": {
+            "en": "Stoutland",
+            "es": "Stoutland"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "COLORLESS",
+        "firstPrint": "B3-139"
+    },
+    {
+        "id": "B3-140",
+        "name": {
+            "en": "Audino",
+            "es": "Audino"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "COLORLESS",
+        "firstPrint": "B3-140"
+    },
+    {
+        "id": "B3-141",
+        "name": {
+            "en": "Mega Audino ex",
+            "es": "Mega-Audino ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "COLORLESS",
+        "firstPrint": "B3-141"
+    },
+    {
+        "id": "B3-142",
+        "name": {
+            "en": "Minccino",
+            "es": "Minccino"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "COLORLESS",
+        "firstPrint": "B3-142"
+    },
+    {
+        "id": "B3-143",
+        "name": {
+            "en": "Cinccino",
+            "es": "Cinccino"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "COLORLESS",
+        "firstPrint": "B3-143"
+    },
+    {
+        "id": "B3-144",
+        "name": {
+            "en": "Furfrou",
+            "es": "Furfrou"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "COLORLESS",
+        "firstPrint": "B3-144"
+    },
+    {
+        "id": "B3-145",
+        "name": {
+            "en": "Rookidee",
+            "es": "Rookidee"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "COLORLESS",
+        "firstPrint": "B3-145"
+    },
+    {
+        "id": "B3-146",
+        "name": {
+            "en": "Corvisquire",
+            "es": "Corvisquire"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "COLORLESS",
+        "firstPrint": "B3-146"
+    },
+    {
+        "id": "B3-147",
+        "name": {
+            "en": "Field Blower",
+            "es": "Soplador de Campo"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "TRAINER",
+        "firstPrint": "B3-147"
+    },
+    {
+        "id": "B3-148",
+        "name": {
+            "en": "Lucky Egg",
+            "es": "Huevo Suerte"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "TRAINER",
+        "firstPrint": "B3-148"
+    },
+    {
+        "id": "B3-149",
+        "name": {
+            "en": "Korrina",
+            "es": "Corelia"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "TRAINER",
+        "firstPrint": "B3-149"
+    },
+    {
+        "id": "B3-150",
+        "name": {
+            "en": "Cabbie",
+            "es": "Aerotaxista"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "TRAINER",
+        "firstPrint": "B3-150"
+    },
+    {
+        "id": "B3-151",
+        "name": {
+            "en": "Cheren",
+            "es": "Cheren"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "TRAINER",
+        "firstPrint": "B3-151"
+    },
+    {
+        "id": "B3-152",
+        "name": {
+            "en": "Parasol Lady",
+            "es": "Dama Parasol"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "TRAINER",
+        "firstPrint": "B3-152"
+    },
+    {
+        "id": "B3-153",
+        "name": {
+            "en": "Fragrant Forest",
+            "es": "Bosque Aromático"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "TRAINER",
+        "firstPrint": "B3-153"
+    },
+    {
+        "id": "B3-154",
+        "name": {
+            "en": "Arena of Antiquity",
+            "es": "Arena Arcaica"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "TRAINER",
+        "firstPrint": "B3-154"
+    },
+    {
+        "id": "B3-155",
+        "name": {
+            "en": "Bounded Field",
+            "es": "Campo Delimitado"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "TRAINER",
+        "firstPrint": "B3-155"
+    },
+    {
+        "id": "B3-156",
+        "name": {
+            "en": "Treecko",
+            "es": "Treecko"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "GRASS",
+        "firstPrint": "B3-156"
+    },
+    {
+        "id": "B3-157",
+        "name": {
+            "en": "Grovyle",
+            "es": "Grovyle"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "GRASS",
+        "firstPrint": "B3-157"
+    },
+    {
+        "id": "B3-158",
+        "name": {
+            "en": "Shroomish",
+            "es": "Shroomish"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "GRASS",
+        "firstPrint": "B3-158"
+    },
+    {
+        "id": "B3-159",
+        "name": {
+            "en": "Budew",
+            "es": "Budew"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "GRASS",
+        "firstPrint": "B3-159"
+    },
+    {
+        "id": "B3-160",
+        "name": {
+            "en": "Flapple",
+            "es": "Flapple"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "GRASS",
+        "firstPrint": "B3-160"
+    },
+    {
+        "id": "B3-161",
+        "name": {
+            "en": "Tepig",
+            "es": "Tepig"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "FIRE",
+        "firstPrint": "B3-161"
+    },
+    {
+        "id": "B3-162",
+        "name": {
+            "en": "Quagsire",
+            "es": "Quagsire"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "WATER",
+        "firstPrint": "B3-162"
+    },
+    {
+        "id": "B3-163",
+        "name": {
+            "en": "Zekrom",
+            "es": "Zekrom"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "LIGHTNING",
+        "firstPrint": "B3-163"
+    },
+    {
+        "id": "B3-164",
+        "name": {
+            "en": "Morpeko",
+            "es": "Morpeko"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "LIGHTNING",
+        "firstPrint": "B3-164"
+    },
+    {
+        "id": "B3-165",
+        "name": {
+            "en": "Meowstic",
+            "es": "Meowstic"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "PSYCHIC",
+        "firstPrint": "B3-165"
+    },
+    {
+        "id": "B3-166",
+        "name": {
+            "en": "Oricorio",
+            "es": "Oricorio"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "PSYCHIC",
+        "firstPrint": "B3-166"
+    },
+    {
+        "id": "B3-167",
+        "name": {
+            "en": "Brambleghast",
+            "es": "Brambleghast"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "PSYCHIC",
+        "firstPrint": "B3-167"
+    },
+    {
+        "id": "B3-168",
+        "name": {
+            "en": "Bonsly",
+            "es": "Bonsly"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "FIGHTING",
+        "firstPrint": "B3-168"
+    },
+    {
+        "id": "B3-169",
+        "name": {
+            "en": "Riolu",
+            "es": "Riolu"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "FIGHTING",
+        "firstPrint": "B3-169"
+    },
+    {
+        "id": "B3-170",
+        "name": {
+            "en": "Meloetta",
+            "es": "Meloetta"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "FIGHTING",
+        "firstPrint": "B3-170"
+    },
+    {
+        "id": "B3-171",
+        "name": {
+            "en": "Carkol",
+            "es": "Carkol"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "FIGHTING",
+        "firstPrint": "B3-171"
+    },
+    {
+        "id": "B3-172",
+        "name": {
+            "en": "Kubfu",
+            "es": "Kubfu"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "FIGHTING",
+        "firstPrint": "B3-172"
+    },
+    {
+        "id": "B3-173",
+        "name": {
+            "en": "Seviper",
+            "es": "Seviper"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "DARKNESS",
+        "firstPrint": "B3-173"
+    },
+    {
+        "id": "B3-174",
+        "name": {
+            "en": "Zorua",
+            "es": "Zorua"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "DARKNESS",
+        "firstPrint": "B3-174"
+    },
+    {
+        "id": "B3-175",
+        "name": {
+            "en": "Malamar",
+            "es": "Malamar"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "DARKNESS",
+        "firstPrint": "B3-175"
+    },
+    {
+        "id": "B3-176",
+        "name": {
+            "en": "Bisharp",
+            "es": "Bisharp"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "METAL",
+        "firstPrint": "B3-176"
+    },
+    {
+        "id": "B3-177",
+        "name": {
+            "en": "Meltan",
+            "es": "Meltan"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "METAL",
+        "firstPrint": "B3-177"
+    },
+    {
+        "id": "B3-178",
+        "name": {
+            "en": "Castform",
+            "es": "Castform"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "COLORLESS",
+        "firstPrint": "B3-178"
+    },
+    {
+        "id": "B3-179",
+        "name": {
+            "en": "Cinccino",
+            "es": "Cinccino"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "COLORLESS",
+        "firstPrint": "B3-179"
+    },
+    {
+        "id": "B3-180",
+        "name": {
+            "en": "Mega Sceptile ex",
+            "es": "Mega-Sceptile ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "GRASS",
+        "firstPrint": "B3-180"
+    },
+    {
+        "id": "B3-181",
+        "name": {
+            "en": "Mega Camerupt ex",
+            "es": "Mega-Camerupt ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "FIRE",
+        "firstPrint": "B3-181"
+    },
+    {
+        "id": "B3-182",
+        "name": {
+            "en": "Vaporeon ex",
+            "es": "Vaporeon ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "WATER",
+        "firstPrint": "B3-182"
+    },
+    {
+        "id": "B3-183",
+        "name": {
+            "en": "Magnezone ex",
+            "es": "Magnezone ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "LIGHTNING",
+        "firstPrint": "B3-183"
+    },
+    {
+        "id": "B3-184",
+        "name": {
+            "en": "Mega Lucario ex",
+            "es": "Mega-Lucario ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "FIGHTING",
+        "firstPrint": "B3-184"
+    },
+    {
+        "id": "B3-185",
+        "name": {
+            "en": "Crustle ex",
+            "es": "Crustle ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "FIGHTING",
+        "firstPrint": "B3-185"
+    },
+    {
+        "id": "B3-186",
+        "name": {
+            "en": "Zoroark ex",
+            "es": "Zoroark ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "DARKNESS",
+        "firstPrint": "B3-186"
+    },
+    {
+        "id": "B3-187",
+        "name": {
+            "en": "Corviknight ex",
+            "es": "Corviknight ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "METAL",
+        "firstPrint": "B3-187"
+    },
+    {
+        "id": "B3-188",
+        "name": {
+            "en": "Flygon ex",
+            "es": "Flygon ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "DRAGON",
+        "firstPrint": "B3-188"
+    },
+    {
+        "id": "B3-189",
+        "name": {
+            "en": "Mega Audino ex",
+            "es": "Mega-Audino ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "COLORLESS",
+        "firstPrint": "B3-189"
+    },
+    {
+        "id": "B3-190",
+        "name": {
+            "en": "Korrina",
+            "es": "Corelia"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "TRAINER",
+        "firstPrint": "B3-190"
+    },
+    {
+        "id": "B3-191",
+        "name": {
+            "en": "Cabbie",
+            "es": "Aerotaxista"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "TRAINER",
+        "firstPrint": "B3-191"
+    },
+    {
+        "id": "B3-192",
+        "name": {
+            "en": "Cheren",
+            "es": "Cheren"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "TRAINER",
+        "firstPrint": "B3-192"
+    },
+    {
+        "id": "B3-193",
+        "name": {
+            "en": "Parasol Lady",
+            "es": "Dama Parasol"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "TRAINER",
+        "firstPrint": "B3-193"
+    },
+    {
+        "id": "B3-194",
+        "name": {
+            "en": "Mega Sceptile ex",
+            "es": "Mega-Sceptile ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "GRASS",
+        "firstPrint": "B3-194"
+    },
+    {
+        "id": "B3-195",
+        "name": {
+            "en": "Mega Camerupt ex",
+            "es": "Mega-Camerupt ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "FIRE",
+        "firstPrint": "B3-195"
+    },
+    {
+        "id": "B3-196",
+        "name": {
+            "en": "Vaporeon ex",
+            "es": "Vaporeon ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "WATER",
+        "firstPrint": "B3-196"
+    },
+    {
+        "id": "B3-197",
+        "name": {
+            "en": "Magnezone ex",
+            "es": "Magnezone ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "LIGHTNING",
+        "firstPrint": "B3-197"
+    },
+    {
+        "id": "B3-198",
+        "name": {
+            "en": "Crustle ex",
+            "es": "Crustle ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "FIGHTING",
+        "firstPrint": "B3-198"
+    },
+    {
+        "id": "B3-199",
+        "name": {
+            "en": "Zoroark ex",
+            "es": "Zoroark ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "DARKNESS",
+        "firstPrint": "B3-199"
+    },
+    {
+        "id": "B3-200",
+        "name": {
+            "en": "Corviknight ex",
+            "es": "Corviknight ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "METAL",
+        "firstPrint": "B3-200"
+    },
+    {
+        "id": "B3-201",
+        "name": {
+            "en": "Flygon ex",
+            "es": "Flygon ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "DRAGON",
+        "firstPrint": "B3-201"
+    },
+    {
+        "id": "B3-202",
+        "name": {
+            "en": "Mega Audino ex",
+            "es": "Mega-Audino ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "COLORLESS",
+        "firstPrint": "B3-202"
+    },
+    {
+        "id": "B3-203",
+        "name": {
+            "en": "Sobble",
+            "es": "Sobble"
+        },
+        "rarity": "THREE_STAR",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "WATER",
+        "firstPrint": "B3-203"
+    },
+    {
+        "id": "B3-204",
+        "name": {
+            "en": "Mega Lucario ex",
+            "es": "Mega-Lucario ex"
+        },
+        "rarity": "THREE_STAR",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "FIGHTING",
+        "firstPrint": "B3-204"
+    },
+    {
+        "id": "B3-205",
+        "name": {
+            "en": "Cottonee",
+            "es": "Cottonee"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "GRASS",
+        "extra": true,
+        "firstPrint": "B3-205"
+    },
+    {
+        "id": "B3-206",
+        "name": {
+            "en": "Torchic",
+            "es": "Torchic"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "FIRE",
+        "extra": true,
+        "firstPrint": "B3-206"
+    },
+    {
+        "id": "B3-207",
+        "name": {
+            "en": "Combusken",
+            "es": "Combusken"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "FIRE",
+        "extra": true,
+        "firstPrint": "B3-207"
+    },
+    {
+        "id": "B3-208",
+        "name": {
+            "en": "Blaziken",
+            "es": "Blaziken"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "FIRE",
+        "extra": true,
+        "firstPrint": "B3-208"
+    },
+    {
+        "id": "B3-209",
+        "name": {
+            "en": "Frillish",
+            "es": "Frillish"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "WATER",
+        "extra": true,
+        "firstPrint": "B3-209"
+    },
+    {
+        "id": "B3-210",
+        "name": {
+            "en": "Jellicent",
+            "es": "Jellicent"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "WATER",
+        "extra": true,
+        "firstPrint": "B3-210"
+    },
+    {
+        "id": "B3-211",
+        "name": {
+            "en": "Onix",
+            "es": "Onix"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "FIGHTING",
+        "extra": true,
+        "firstPrint": "B3-211"
+    },
+    {
+        "id": "B3-212",
+        "name": {
+            "en": "Zubat",
+            "es": "Zubat"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "DARKNESS",
+        "extra": true,
+        "firstPrint": "B3-212"
+    },
+    {
+        "id": "B3-213",
+        "name": {
+            "en": "Golbat",
+            "es": "Golbat"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "DARKNESS",
+        "extra": true,
+        "firstPrint": "B3-213"
+    },
+    {
+        "id": "B3-214",
+        "name": {
+            "en": "Crobat",
+            "es": "Crobat"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "DARKNESS",
+        "extra": true,
+        "firstPrint": "B3-214"
+    },
+    {
+        "id": "B3-215",
+        "name": {
+            "en": "Grimer",
+            "es": "Grimer"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "DARKNESS",
+        "extra": true,
+        "firstPrint": "B3-215"
+    },
+    {
+        "id": "B3-216",
+        "name": {
+            "en": "Muk",
+            "es": "Muk"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "DARKNESS",
+        "extra": true,
+        "firstPrint": "B3-216"
+    },
+    {
+        "id": "B3-217",
+        "name": {
+            "en": "Absol",
+            "es": "Absol"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "DARKNESS",
+        "extra": true,
+        "firstPrint": "B3-217"
+    },
+    {
+        "id": "B3-218",
+        "name": {
+            "en": "Skrelp",
+            "es": "Skrelp"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "DARKNESS",
+        "extra": true,
+        "firstPrint": "B3-218"
+    },
+    {
+        "id": "B3-219",
+        "name": {
+            "en": "Steelix",
+            "es": "Steelix"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "METAL",
+        "extra": true,
+        "firstPrint": "B3-219"
+    },
+    {
+        "id": "B3-220",
+        "name": {
+            "en": "Chansey",
+            "es": "Chansey"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "COLORLESS",
+        "extra": true,
+        "firstPrint": "B3-220"
+    },
+    {
+        "id": "B3-221",
+        "name": {
+            "en": "Blissey",
+            "es": "Blissey"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "COLORLESS",
+        "extra": true,
+        "firstPrint": "B3-221"
+    },
+    {
+        "id": "B3-222",
+        "name": {
+            "en": "Porygon",
+            "es": "Porygon"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "COLORLESS",
+        "extra": true,
+        "firstPrint": "B3-222"
+    },
+    {
+        "id": "B3-223",
+        "name": {
+            "en": "Porygon2",
+            "es": "Porygon2"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "COLORLESS",
+        "extra": true,
+        "firstPrint": "B3-223"
+    },
+    {
+        "id": "B3-224",
+        "name": {
+            "en": "Porygon-Z",
+            "es": "Porygon-Z"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "COLORLESS",
+        "extra": true,
+        "firstPrint": "B3-224"
+    },
+    {
+        "id": "B3-225",
+        "name": {
+            "en": "Whimsicott ex",
+            "es": "Whimsicott ex"
+        },
+        "rarity": "TWO_SHINY",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "GRASS",
+        "extra": true,
+        "firstPrint": "B3-225"
+    },
+    {
+        "id": "B3-226",
+        "name": {
+            "en": "Mega Blaziken ex",
+            "es": "Mega-Blaziken ex"
+        },
+        "rarity": "TWO_SHINY",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "FIRE",
+        "extra": true,
+        "firstPrint": "B3-226"
+    },
+    {
+        "id": "B3-227",
+        "name": {
+            "en": "Greninja ex",
+            "es": "Greninja ex"
+        },
+        "rarity": "TWO_SHINY",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "WATER",
+        "extra": true,
+        "firstPrint": "B3-227"
+    },
+    {
+        "id": "B3-228",
+        "name": {
+            "en": "Jolteon ex",
+            "es": "Jolteon ex"
+        },
+        "rarity": "TWO_SHINY",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "LIGHTNING",
+        "extra": true,
+        "firstPrint": "B3-228"
+    },
+    {
+        "id": "B3-229",
+        "name": {
+            "en": "Hitmonchan ex",
+            "es": "Hitmonchan ex"
+        },
+        "rarity": "TWO_SHINY",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "FIGHTING",
+        "extra": true,
+        "firstPrint": "B3-229"
+    },
+    {
+        "id": "B3-230",
+        "name": {
+            "en": "Mega Absol ex",
+            "es": "Mega-Absol ex"
+        },
+        "rarity": "TWO_SHINY",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "DARKNESS",
+        "extra": true,
+        "firstPrint": "B3-230"
+    },
+    {
+        "id": "B3-231",
+        "name": {
+            "en": "Dragalge ex",
+            "es": "Dragalge ex"
+        },
+        "rarity": "TWO_SHINY",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "DARKNESS",
+        "extra": true,
+        "firstPrint": "B3-231"
+    },
+    {
+        "id": "B3-232",
+        "name": {
+            "en": "Mega Steelix ex",
+            "es": "Mega-Steelix ex"
+        },
+        "rarity": "TWO_SHINY",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "METAL",
+        "extra": true,
+        "firstPrint": "B3-232"
+    },
+    {
+        "id": "B3-233",
+        "name": {
+            "en": "Celebi",
+            "es": "Celebi"
+        },
+        "rarity": "CROWN",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "GRASS",
+        "firstPrint": "B3-233"
+    },
+    {
+        "id": "B3-234",
+        "name": {
+            "en": "Bombirdier",
+            "es": "Bombirdier"
+        },
+        "rarity": "CROWN",
+        "origins": [
+            "MEGA_LUCARIO"
+        ],
+        "type": "DARKNESS",
+        "firstPrint": "B3-234"
+    }
+]

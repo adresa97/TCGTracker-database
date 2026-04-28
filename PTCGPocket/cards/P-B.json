@@ -622,5 +622,187 @@
         ],
         "type": "COLORLESS",
         "firstPrint": "P-B-048"
+    },
+    {
+        "id": "P-B-049",
+        "name": {
+            "en": "Victini",
+            "es": "Victini"
+        },
+        "rarity": "NONE",
+        "origins": [
+            "PREMIUM"
+        ],
+        "type": "FIRE",
+        "firstPrint": "P-B-049"
+    },
+    {
+        "id": "P-B-050",
+        "name": {
+            "en": "Meloetta",
+            "es": "Meloetta"
+        },
+        "rarity": "NONE",
+        "origins": [
+            "DROP_EVENT"
+        ],
+        "type": "PSYCHIC",
+        "firstPrint": "P-B-050"
+    },
+    {
+        "id": "P-B-051",
+        "name": {
+            "en": "Zygarde",
+            "es": "Zygarde"
+        },
+        "rarity": "NONE",
+        "origins": [
+            "DROP_EVENT"
+        ],
+        "type": "FIGHTING",
+        "firstPrint": "P-B-051"
+    },
+    {
+        "id": "P-B-052",
+        "name": {
+            "en": "Zygarde",
+            "es": "Zygarde"
+        },
+        "rarity": "NONE",
+        "origins": [
+            "DROP_EVENT"
+        ],
+        "type": "FIGHTING",
+        "firstPrint": "P-B-052"
+    },
+    {
+        "id": "P-B-053",
+        "name": {
+            "en": "Zygarde ex",
+            "es": "Zygarde ex"
+        },
+        "rarity": "NONE",
+        "origins": [
+            "DROP_EVENT"
+        ],
+        "type": "FIGHTING",
+        "firstPrint": "P-B-053"
+    },
+    {
+        "id": "P-B-054",
+        "name": {
+            "en": "Eevee",
+            "es": "Eevee"
+        },
+        "rarity": "NONE",
+        "origins": [
+            "DROP_EVENT"
+        ],
+        "type": "COLORLESS",
+        "firstPrint": "P-B-054"
+    },
+    {
+        "id": "P-B-055",
+        "name": {
+            "en": "Zygarde ex",
+            "es": "Zygarde ex"
+        },
+        "rarity": "NONE",
+        "origins": [
+            "MISSION_EVENT"
+        ],
+        "type": "FIGHTING",
+        "firstPrint": "P-B-055"
+    },
+    {
+        "id": "P-B-056",
+        "name": {
+            "en": "Mega Heracross ex",
+            "es": "Mega-Heracroos ex"
+        },
+        "rarity": "NONE",
+        "origins": [
+            "DROP_EVENT"
+        ],
+        "type": "GRASS",
+        "firstPrint": "P-B-056"
+    },
+    {
+        "id": "P-B-057",
+        "name": {
+            "en": "Castform Sunny Form",
+            "es": "Castform Forma Sol"
+        },
+        "rarity": "NONE",
+        "origins": [
+            "DROP_EVENT"
+        ],
+        "type": "FIRE",
+        "firstPrint": "P-B-057"
+    },
+    {
+        "id": "P-B-058",
+        "name": {
+            "en": "Tepig",
+            "es": "Tepig"
+        },
+        "rarity": "NONE",
+        "origins": [
+            "DROP_EVENT"
+        ],
+        "type": "FIRE",
+        "firstPrint": "P-B-058"
+    },
+    {
+        "id": "P-B-059",
+        "name": {
+            "en": "Dwebble",
+            "es": "Dwebble"
+        },
+        "rarity": "NONE",
+        "origins": [
+            "DROP_EVENT"
+        ],
+        "type": "FIGHTING",
+        "firstPrint": "P-B-059"
+    },
+    {
+        "id": "P-B-060",
+        "name": {
+            "en": "Zarude",
+            "es": "Zarude"
+        },
+        "rarity": "NONE",
+        "origins": [
+            "DROP_EVENT"
+        ],
+        "type": "DARKNESS",
+        "firstPrint": "P-B-060"
+    },
+    {
+        "id": "P-B-061",
+        "name": {
+            "en": "Treecko",
+            "es": "Treecko"
+        },
+        "rarity": "NONE",
+        "origins": [
+            "WONDER_EVENT"
+        ],
+        "type": "GRASS",
+        "firstPrint": "P-B-061"
+    },
+    {
+        "id": "P-B-062",
+        "name": {
+            "en": "Gallade",
+            "es": "Gallade"
+        },
+        "rarity": "NONE",
+        "origins": [
+            "WONDER_EVENT"
+        ],
+        "type": "FIGHTING",
+        "firstPrint": "P-B-062"
     }
 ]
