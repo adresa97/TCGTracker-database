@@ -245,5 +245,18 @@
     "color": [255.0, 84.0, 45.0],
     "cardCount": 234,
     "origins": ["MEGA_LUCARIO"]
+  },
+  {
+    "set": "B3a",
+    "expansion": "B3",
+    "series": "B",
+    "name": {
+      "en": "Paradox Drive",
+      "es": "Impulso Paradójico"
+    },
+    "cover": "https://raw.githubusercontent.com/adresa97/TCGTracker-database/refs/heads/main/PTCGPocket/covers/b3a_paradox_drive_en.png",
+    "color": [71.0, 175.0, 210.0],
+    "cardCount": 109,
+    "origins": ["MIRAIDON_KORAIDON"]
   }
 ]
