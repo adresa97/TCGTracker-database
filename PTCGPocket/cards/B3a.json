@@ -1,0 +1,1433 @@
+[
+    {
+        "id": "B3a-001",
+        "name": {
+            "en": "Surskit",
+            "es": "Surskit"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MIRAIDON_KORAIDON"
+        ],
+        "type": "GRASS",
+        "firstPrint": "B3a-001"
+    },
+    {
+        "id": "B3a-002",
+        "name": {
+            "en": "Masquerain",
+            "es": "Masquerain"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MIRAIDON_KORAIDON"
+        ],
+        "type": "GRASS",
+        "firstPrint": "B3a-002"
+    },
+    {
+        "id": "B3a-003",
+        "name": {
+            "en": "Brute Bonnet",
+            "es": "Furioseta"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MIRAIDON_KORAIDON"
+        ],
+        "type": "GRASS",
+        "firstPrint": "B3a-003"
+    },
+    {
+        "id": "B3a-004",
+        "name": {
+            "en": "Slither Wing",
+            "es": "Reptalada"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MIRAIDON_KORAIDON"
+        ],
+        "type": "GRASS",
+        "firstPrint": "B3a-004"
+    },
+    {
+        "id": "B3a-005",
+        "name": {
+            "en": "Iron Moth",
+            "es": "Ferropolilla"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MIRAIDON_KORAIDON"
+        ],
+        "type": "FIRE",
+        "firstPrint": "B3a-005"
+    },
+    {
+        "id": "B3a-006",
+        "name": {
+            "en": "Psyduck",
+            "es": "Psyduck"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MIRAIDON_KORAIDON"
+        ],
+        "type": "WATER",
+        "firstPrint": "B3a-006"
+    },
+    {
+        "id": "B3a-007",
+        "name": {
+            "en": "Golduck",
+            "es": "Golduck"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MIRAIDON_KORAIDON"
+        ],
+        "type": "WATER",
+        "firstPrint": "B3a-007"
+    },
+    {
+        "id": "B3a-008",
+        "name": {
+            "en": "Vaporeon",
+            "es": "Vaporeon"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MIRAIDON_KORAIDON"
+        ],
+        "type": "WATER",
+        "firstPrint": "B3a-008"
+    },
+    {
+        "id": "B3a-009",
+        "name": {
+            "en": "Buizel",
+            "es": "Buizel"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MIRAIDON_KORAIDON"
+        ],
+        "type": "WATER",
+        "firstPrint": "B3a-009"
+    },
+    {
+        "id": "B3a-010",
+        "name": {
+            "en": "Floatzel",
+            "es": "Floatzel"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MIRAIDON_KORAIDON"
+        ],
+        "type": "WATER",
+        "firstPrint": "B3a-010"
+    },
+    {
+        "id": "B3a-011",
+        "name": {
+            "en": "Snom",
+            "es": "Snom"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MIRAIDON_KORAIDON"
+        ],
+        "type": "WATER",
+        "firstPrint": "B3a-011"
+    },
+    {
+        "id": "B3a-012",
+        "name": {
+            "en": "Frosmoth",
+            "es": "Frosmoth"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MIRAIDON_KORAIDON"
+        ],
+        "type": "WATER",
+        "firstPrint": "B3a-012"
+    },
+    {
+        "id": "B3a-013",
+        "name": {
+            "en": "Iron Bundle ex",
+            "es": "Ferrosaco ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "MIRAIDON_KORAIDON"
+        ],
+        "type": "WATER",
+        "firstPrint": "B3a-013"
+    },
+    {
+        "id": "B3a-014",
+        "name": {
+            "en": "Pawmi",
+            "es": "Pawmi"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MIRAIDON_KORAIDON"
+        ],
+        "type": "LIGHTNING",
+        "firstPrint": "B3a-014"
+    },
+    {
+        "id": "B3a-015",
+        "name": {
+            "en": "Pawmo",
+            "es": "Pawmo"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MIRAIDON_KORAIDON"
+        ],
+        "type": "LIGHTNING",
+        "firstPrint": "B3a-015"
+    },
+    {
+        "id": "B3a-016",
+        "name": {
+            "en": "Pawmot",
+            "es": "Pawmot"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MIRAIDON_KORAIDON"
+        ],
+        "type": "LIGHTNING",
+        "firstPrint": "B3a-016"
+    },
+    {
+        "id": "B3a-017",
+        "name": {
+            "en": "Iron Hands",
+            "es": "Ferropalmas"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MIRAIDON_KORAIDON"
+        ],
+        "type": "LIGHTNING",
+        "firstPrint": "B3a-017"
+    },
+    {
+        "id": "B3a-018",
+        "name": {
+            "en": "Iron Thorns",
+            "es": "Ferropúas"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MIRAIDON_KORAIDON"
+        ],
+        "type": "LIGHTNING",
+        "firstPrint": "B3a-018"
+    },
+    {
+        "id": "B3a-019",
+        "name": {
+            "en": "Miraidon ex",
+            "es": "Miraidon ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "MIRAIDON_KORAIDON"
+        ],
+        "type": "LIGHTNING",
+        "firstPrint": "B3a-019"
+    },
+    {
+        "id": "B3a-020",
+        "name": {
+            "en": "Espeon",
+            "es": "Espeon"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MIRAIDON_KORAIDON"
+        ],
+        "type": "PSYCHIC",
+        "firstPrint": "B3a-020"
+    },
+    {
+        "id": "B3a-021",
+        "name": {
+            "en": "Flittle",
+            "es": "Flittle"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MIRAIDON_KORAIDON"
+        ],
+        "type": "PSYCHIC",
+        "firstPrint": "B3a-021"
+    },
+    {
+        "id": "B3a-022",
+        "name": {
+            "en": "Espathra",
+            "es": "Espathra"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MIRAIDON_KORAIDON"
+        ],
+        "type": "PSYCHIC",
+        "firstPrint": "B3a-022"
+    },
+    {
+        "id": "B3a-023",
+        "name": {
+            "en": "Greavard",
+            "es": "Greavard"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MIRAIDON_KORAIDON"
+        ],
+        "type": "PSYCHIC",
+        "firstPrint": "B3a-023"
+    },
+    {
+        "id": "B3a-024",
+        "name": {
+            "en": "Houndstone",
+            "es": "Houndstone"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MIRAIDON_KORAIDON"
+        ],
+        "type": "PSYCHIC",
+        "firstPrint": "B3a-024"
+    },
+    {
+        "id": "B3a-025",
+        "name": {
+            "en": "Scream Tail",
+            "es": "Colagrito"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MIRAIDON_KORAIDON"
+        ],
+        "type": "PSYCHIC",
+        "firstPrint": "B3a-025"
+    },
+    {
+        "id": "B3a-026",
+        "name": {
+            "en": "Flutter Mane ex",
+            "es": "Melenaleteo ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "MIRAIDON_KORAIDON"
+        ],
+        "type": "PSYCHIC",
+        "firstPrint": "B3a-026"
+    },
+    {
+        "id": "B3a-027",
+        "name": {
+            "en": "Iron Valiant",
+            "es": "Ferropaladín"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "MIRAIDON_KORAIDON"
+        ],
+        "type": "PSYCHIC",
+        "firstPrint": "B3a-027"
+    },
+    {
+        "id": "B3a-028",
+        "name": {
+            "en": "Iron Leaves",
+            "es": "Ferroverdor"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "MIRAIDON_KORAIDON"
+        ],
+        "type": "PSYCHIC",
+        "firstPrint": "B3a-028"
+    },
+    {
+        "id": "B3a-029",
+        "name": {
+            "en": "Iron Boulder",
+            "es": "Ferromole"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "MIRAIDON_KORAIDON"
+        ],
+        "type": "PSYCHIC",
+        "firstPrint": "B3a-029"
+    },
+    {
+        "id": "B3a-030",
+        "name": {
+            "en": "Iron Crown",
+            "es": "Ferrotesta"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "MIRAIDON_KORAIDON"
+        ],
+        "type": "PSYCHIC",
+        "firstPrint": "B3a-030"
+    },
+    {
+        "id": "B3a-031",
+        "name": {
+            "en": "Nacli",
+            "es": "Nacli"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MIRAIDON_KORAIDON"
+        ],
+        "type": "FIGHTING",
+        "firstPrint": "B3a-031"
+    },
+    {
+        "id": "B3a-032",
+        "name": {
+            "en": "Naclstack",
+            "es": "Naclstack"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MIRAIDON_KORAIDON"
+        ],
+        "type": "FIGHTING",
+        "firstPrint": "B3a-032"
+    },
+    {
+        "id": "B3a-033",
+        "name": {
+            "en": "Garganacl",
+            "es": "Garganacl"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "MIRAIDON_KORAIDON"
+        ],
+        "type": "FIGHTING",
+        "firstPrint": "B3a-033"
+    },
+    {
+        "id": "B3a-034",
+        "name": {
+            "en": "Great Tusk",
+            "es": "Colmilargo"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MIRAIDON_KORAIDON"
+        ],
+        "type": "FIGHTING",
+        "firstPrint": "B3a-034"
+    },
+    {
+        "id": "B3a-035",
+        "name": {
+            "en": "Sandy Shocks",
+            "es": "Pelarena"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MIRAIDON_KORAIDON"
+        ],
+        "type": "FIGHTING",
+        "firstPrint": "B3a-035"
+    },
+    {
+        "id": "B3a-036",
+        "name": {
+            "en": "Koraidon ex",
+            "es": "Koraidon ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "MIRAIDON_KORAIDON"
+        ],
+        "type": "FIGHTING",
+        "firstPrint": "B3a-036"
+    },
+    {
+        "id": "B3a-037",
+        "name": {
+            "en": "Umbreon",
+            "es": "Umbreon"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MIRAIDON_KORAIDON"
+        ],
+        "type": "DARKNESS",
+        "firstPrint": "B3a-037"
+    },
+    {
+        "id": "B3a-038",
+        "name": {
+            "en": "Sneasel",
+            "es": "Sneasel"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MIRAIDON_KORAIDON"
+        ],
+        "type": "DARKNESS",
+        "firstPrint": "B3a-038"
+    },
+    {
+        "id": "B3a-039",
+        "name": {
+            "en": "Weavile",
+            "es": "Weavile"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MIRAIDON_KORAIDON"
+        ],
+        "type": "DARKNESS",
+        "firstPrint": "B3a-039"
+    },
+    {
+        "id": "B3a-040",
+        "name": {
+            "en": "Sableye",
+            "es": "Sableye"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MIRAIDON_KORAIDON"
+        ],
+        "type": "DARKNESS",
+        "firstPrint": "B3a-040"
+    },
+    {
+        "id": "B3a-041",
+        "name": {
+            "en": "Pawniard",
+            "es": "Pawniard"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MIRAIDON_KORAIDON"
+        ],
+        "type": "DARKNESS",
+        "firstPrint": "B3a-041"
+    },
+    {
+        "id": "B3a-042",
+        "name": {
+            "en": "Bisharp",
+            "es": "Bisharp"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MIRAIDON_KORAIDON"
+        ],
+        "type": "DARKNESS",
+        "firstPrint": "B3a-042"
+    },
+    {
+        "id": "B3a-043",
+        "name": {
+            "en": "Kingambit",
+            "es": "Kingambit"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "MIRAIDON_KORAIDON"
+        ],
+        "type": "DARKNESS",
+        "firstPrint": "B3a-043"
+    },
+    {
+        "id": "B3a-044",
+        "name": {
+            "en": "Glimmet",
+            "es": "Glimmet"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MIRAIDON_KORAIDON"
+        ],
+        "type": "DARKNESS",
+        "firstPrint": "B3a-044"
+    },
+    {
+        "id": "B3a-045",
+        "name": {
+            "en": "Glimmora",
+            "es": "Glimmora"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "MIRAIDON_KORAIDON"
+        ],
+        "type": "DARKNESS",
+        "firstPrint": "B3a-045"
+    },
+    {
+        "id": "B3a-046",
+        "name": {
+            "en": "Iron Jugulis",
+            "es": "Ferrocuello"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MIRAIDON_KORAIDON"
+        ],
+        "type": "DARKNESS",
+        "firstPrint": "B3a-046"
+    },
+    {
+        "id": "B3a-047",
+        "name": {
+            "en": "Roaring Moon",
+            "es": "Bramaluna"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "MIRAIDON_KORAIDON"
+        ],
+        "type": "DARKNESS",
+        "firstPrint": "B3a-047"
+    },
+    {
+        "id": "B3a-048",
+        "name": {
+            "en": "Corviknight",
+            "es": "Corviknight"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MIRAIDON_KORAIDON"
+        ],
+        "type": "METAL",
+        "firstPrint": "B3a-048"
+    },
+    {
+        "id": "B3a-049",
+        "name": {
+            "en": "Cufant",
+            "es": "Cufant"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MIRAIDON_KORAIDON"
+        ],
+        "type": "METAL",
+        "firstPrint": "B3a-049"
+    },
+    {
+        "id": "B3a-050",
+        "name": {
+            "en": "Copperajah",
+            "es": "Copperajah"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MIRAIDON_KORAIDON"
+        ],
+        "type": "METAL",
+        "firstPrint": "B3a-050"
+    },
+    {
+        "id": "B3a-051",
+        "name": {
+            "en": "Iron Treads",
+            "es": "Ferrodada"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MIRAIDON_KORAIDON"
+        ],
+        "type": "METAL",
+        "firstPrint": "B3a-051"
+    },
+    {
+        "id": "B3a-052",
+        "name": {
+            "en": "Altaria",
+            "es": "Altaria"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MIRAIDON_KORAIDON"
+        ],
+        "type": "DRAGON",
+        "firstPrint": "B3a-052"
+    },
+    {
+        "id": "B3a-053",
+        "name": {
+            "en": "Walking Wake",
+            "es": "Ondulagua"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "MIRAIDON_KORAIDON"
+        ],
+        "type": "DRAGON",
+        "firstPrint": "B3a-053"
+    },
+    {
+        "id": "B3a-054",
+        "name": {
+            "en": "Gouging Fire",
+            "es": "Flamariete"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "MIRAIDON_KORAIDON"
+        ],
+        "type": "DRAGON",
+        "firstPrint": "B3a-054"
+    },
+    {
+        "id": "B3a-055",
+        "name": {
+            "en": "Raging Bolt",
+            "es": "Electrofuria"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "MIRAIDON_KORAIDON"
+        ],
+        "type": "DRAGON",
+        "firstPrint": "B3a-055"
+    },
+    {
+        "id": "B3a-056",
+        "name": {
+            "en": "Eevee",
+            "es": "Eevee"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MIRAIDON_KORAIDON"
+        ],
+        "type": "COLORLESS",
+        "firstPrint": "B3a-056"
+    },
+    {
+        "id": "B3a-057",
+        "name": {
+            "en": "Girafarig",
+            "es": "Girafarig"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MIRAIDON_KORAIDON"
+        ],
+        "type": "COLORLESS",
+        "firstPrint": "B3a-057"
+    },
+    {
+        "id": "B3a-058",
+        "name": {
+            "en": "Farigiraf",
+            "es": "Farigiraf"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MIRAIDON_KORAIDON"
+        ],
+        "type": "COLORLESS",
+        "firstPrint": "B3a-058"
+    },
+    {
+        "id": "B3a-059",
+        "name": {
+            "en": "Dunsparce",
+            "es": "Dunsparce"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MIRAIDON_KORAIDON"
+        ],
+        "type": "COLORLESS",
+        "firstPrint": "B3a-059"
+    },
+    {
+        "id": "B3a-060",
+        "name": {
+            "en": "Dudunsparce",
+            "es": "Dudunsparce"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "MIRAIDON_KORAIDON"
+        ],
+        "type": "COLORLESS",
+        "firstPrint": "B3a-060"
+    },
+    {
+        "id": "B3a-061",
+        "name": {
+            "en": "Swablu",
+            "es": "Swablu"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MIRAIDON_KORAIDON"
+        ],
+        "type": "COLORLESS",
+        "firstPrint": "B3a-061"
+    },
+    {
+        "id": "B3a-062",
+        "name": {
+            "en": "Rufflet",
+            "es": "Rufflet"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MIRAIDON_KORAIDON"
+        ],
+        "type": "COLORLESS",
+        "firstPrint": "B3a-062"
+    },
+    {
+        "id": "B3a-063",
+        "name": {
+            "en": "Braviary",
+            "es": "Braviary"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MIRAIDON_KORAIDON"
+        ],
+        "type": "COLORLESS",
+        "firstPrint": "B3a-063"
+    },
+    {
+        "id": "B3a-064",
+        "name": {
+            "en": "Hawlucha",
+            "es": "Hawlucha"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MIRAIDON_KORAIDON"
+        ],
+        "type": "COLORLESS",
+        "firstPrint": "B3a-064"
+    },
+    {
+        "id": "B3a-065",
+        "name": {
+            "en": "Rookidee",
+            "es": "Rookidee"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MIRAIDON_KORAIDON"
+        ],
+        "type": "COLORLESS",
+        "firstPrint": "B3a-065"
+    },
+    {
+        "id": "B3a-066",
+        "name": {
+            "en": "Corvisquire",
+            "es": "Corvisquire"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MIRAIDON_KORAIDON"
+        ],
+        "type": "COLORLESS",
+        "firstPrint": "B3a-066"
+    },
+    {
+        "id": "B3a-067",
+        "name": {
+            "en": "Flamigo",
+            "es": "Flamigo"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MIRAIDON_KORAIDON"
+        ],
+        "type": "COLORLESS",
+        "firstPrint": "B3a-067"
+    },
+    {
+        "id": "B3a-068",
+        "name": {
+            "en": "Terapagos ex",
+            "es": "Terapagos ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "MIRAIDON_KORAIDON"
+        ],
+        "type": "COLORLESS",
+        "firstPrint": "B3a-068"
+    },
+    {
+        "id": "B3a-069",
+        "name": {
+            "en": "Ancient Booster Energy Capsule",
+            "es": "Tanque de Energía Potenciadora del Pasado"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MIRAIDON_KORAIDON"
+        ],
+        "type": "TRAINER",
+        "firstPrint": "B3a-069"
+    },
+    {
+        "id": "B3a-070",
+        "name": {
+            "en": "Future Booster Energy Capsule",
+            "es": "Tanque de Energía Potenciadora del Futuro"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MIRAIDON_KORAIDON"
+        ],
+        "type": "TRAINER",
+        "firstPrint": "B3a-070"
+    },
+    {
+        "id": "B3a-071",
+        "name": {
+            "en": "Juliana",
+            "es": "Juliana"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MIRAIDON_KORAIDON"
+        ],
+        "type": "TRAINER",
+        "firstPrint": "B3a-071"
+    },
+    {
+        "id": "B3a-072",
+        "name": {
+            "en": "Professor Sada",
+            "es": "Profesora Albora"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MIRAIDON_KORAIDON"
+        ],
+        "type": "TRAINER",
+        "firstPrint": "B3a-072"
+    },
+    {
+        "id": "B3a-073",
+        "name": {
+            "en": "Professor Turo",
+            "es": "Profesor Turo"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MIRAIDON_KORAIDON"
+        ],
+        "type": "TRAINER",
+        "firstPrint": "B3a-073"
+    },
+    {
+        "id": "B3a-074",
+        "name": {
+            "en": "Area Zero",
+            "es": "Área Cero"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MIRAIDON_KORAIDON"
+        ],
+        "type": "TRAINER",
+        "firstPrint": "B3a-074"
+    },
+    {
+        "id": "B3a-075",
+        "name": {
+            "en": "Snom",
+            "es": "Snom"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "MIRAIDON_KORAIDON"
+        ],
+        "type": "WATER",
+        "firstPrint": "B3a-075"
+    },
+    {
+        "id": "B3a-076",
+        "name": {
+            "en": "Flittle",
+            "es": "Flittle"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "MIRAIDON_KORAIDON"
+        ],
+        "type": "PSYCHIC",
+        "firstPrint": "B3a-076"
+    },
+    {
+        "id": "B3a-077",
+        "name": {
+            "en": "Iron Boulder",
+            "es": "Ferromole"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "MIRAIDON_KORAIDON"
+        ],
+        "type": "PSYCHIC",
+        "firstPrint": "B3a-077"
+    },
+    {
+        "id": "B3a-078",
+        "name": {
+            "en": "Glimmora",
+            "es": "Glimmora"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "MIRAIDON_KORAIDON"
+        ],
+        "type": "DARKNESS",
+        "firstPrint": "B3a-078"
+    },
+    {
+        "id": "B3a-079",
+        "name": {
+            "en": "Raging Bolt",
+            "es": "Electrofuria"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "MIRAIDON_KORAIDON"
+        ],
+        "type": "DRAGON",
+        "firstPrint": "B3a-079"
+    },
+    {
+        "id": "B3a-080",
+        "name": {
+            "en": "Hawlucha",
+            "es": "Hawlucha"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "MIRAIDON_KORAIDON"
+        ],
+        "type": "COLORLESS",
+        "firstPrint": "B3a-080"
+    },
+    {
+        "id": "B3a-081",
+        "name": {
+            "en": "Iron Bundle ex",
+            "es": "Ferrosaco ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "MIRAIDON_KORAIDON"
+        ],
+        "type": "WATER",
+        "firstPrint": "B3a-081"
+    },
+    {
+        "id": "B3a-082",
+        "name": {
+            "en": "Miraidon ex",
+            "es": "Miraidon ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "MIRAIDON_KORAIDON"
+        ],
+        "type": "LIGHTNING",
+        "firstPrint": "B3a-082"
+    },
+    {
+        "id": "B3a-083",
+        "name": {
+            "en": "Flutter Mane ex",
+            "es": "Melenaleteo ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "MIRAIDON_KORAIDON"
+        ],
+        "type": "PSYCHIC",
+        "firstPrint": "B3a-083"
+    },
+    {
+        "id": "B3a-084",
+        "name": {
+            "en": "Koraidon ex",
+            "es": "Koraidon ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "MIRAIDON_KORAIDON"
+        ],
+        "type": "FIGHTING",
+        "firstPrint": "B3a-084"
+    },
+    {
+        "id": "B3a-085",
+        "name": {
+            "en": "Terapagos ex",
+            "es": "Terapagos ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "MIRAIDON_KORAIDON"
+        ],
+        "type": "COLORLESS",
+        "firstPrint": "B3a-085"
+    },
+    {
+        "id": "B3a-086",
+        "name": {
+            "en": "Juliana",
+            "es": "Juliana"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "MIRAIDON_KORAIDON"
+        ],
+        "type": "TRAINER",
+        "firstPrint": "B3a-086"
+    },
+    {
+        "id": "B3a-087",
+        "name": {
+            "en": "Professor Sada",
+            "es": "Profesora Albora"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "MIRAIDON_KORAIDON"
+        ],
+        "type": "TRAINER",
+        "firstPrint": "B3a-087"
+    },
+    {
+        "id": "B3a-088",
+        "name": {
+            "en": "Professor Turo",
+            "es": "Profesor Turo"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "MIRAIDON_KORAIDON"
+        ],
+        "type": "TRAINER",
+        "firstPrint": "B3a-088"
+    },
+    {
+        "id": "B3a-089",
+        "name": {
+            "en": "Iron Bundle ex",
+            "es": "Ferrosaco ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "MIRAIDON_KORAIDON"
+        ],
+        "type": "WATER",
+        "firstPrint": "B3a-089"
+    },
+    {
+        "id": "B3a-090",
+        "name": {
+            "en": "Miraidon ex",
+            "es": "Miraidon ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "MIRAIDON_KORAIDON"
+        ],
+        "type": "LIGHTNING",
+        "firstPrint": "B3a-090"
+    },
+    {
+        "id": "B3a-091",
+        "name": {
+            "en": "Flutter Mane ex",
+            "es": "Melenaleteo ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "MIRAIDON_KORAIDON"
+        ],
+        "type": "PSYCHIC",
+        "firstPrint": "B3a-091"
+    },
+    {
+        "id": "B3a-092",
+        "name": {
+            "en": "Koraidon ex",
+            "es": "Koraidon ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "MIRAIDON_KORAIDON"
+        ],
+        "type": "FIGHTING",
+        "firstPrint": "B3a-092"
+    },
+    {
+        "id": "B3a-093",
+        "name": {
+            "en": "Terapagos ex",
+            "es": "Terapagos ex"
+        },
+        "rarity": "THREE_STAR",
+        "origins": [
+            "MIRAIDON_KORAIDON"
+        ],
+        "type": "COLORLESS",
+        "firstPrint": "B3a-093"
+    },
+    {
+        "id": "B3a-094",
+        "name": {
+            "en": "Rellor",
+            "es": "Rellor"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "MIRAIDON_KORAIDON"
+        ],
+        "type": "GRASS",
+        "extra": true,
+        "firstPrint": "B3a-094"
+    },
+    {
+        "id": "B3a-095",
+        "name": {
+            "en": "Charcadet",
+            "es": "Charcadet"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "MIRAIDON_KORAIDON"
+        ],
+        "type": "FIRE",
+        "extra": true,
+        "firstPrint": "B3a-095"
+    },
+    {
+        "id": "B3a-096",
+        "name": {
+            "en": "Tadbulb",
+            "es": "Tadbulb"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "MIRAIDON_KORAIDON"
+        ],
+        "type": "LIGHTNING",
+        "extra": true,
+        "firstPrint": "B3a-096"
+    },
+    {
+        "id": "B3a-097",
+        "name": {
+            "en": "Rabsca",
+            "es": "Rabsca"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "MIRAIDON_KORAIDON"
+        ],
+        "type": "PSYCHIC",
+        "extra": true,
+        "firstPrint": "B3a-097"
+    },
+    {
+        "id": "B3a-098",
+        "name": {
+            "en": "Diglett",
+            "es": "Diglett"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "MIRAIDON_KORAIDON"
+        ],
+        "type": "FIGHTING",
+        "extra": true,
+        "firstPrint": "B3a-098"
+    },
+    {
+        "id": "B3a-099",
+        "name": {
+            "en": "Dugtrio",
+            "es": "Dugtrio"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "MIRAIDON_KORAIDON"
+        ],
+        "type": "FIGHTING",
+        "extra": true,
+        "firstPrint": "B3a-099"
+    },
+    {
+        "id": "B3a-100",
+        "name": {
+            "en": "Klawf",
+            "es": "Klawf"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "MIRAIDON_KORAIDON"
+        ],
+        "type": "FIGHTING",
+        "extra": true,
+        "firstPrint": "B3a-100"
+    },
+    {
+        "id": "B3a-101",
+        "name": {
+            "en": "Orthworm",
+            "es": "Orthworm"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "MIRAIDON_KORAIDON"
+        ],
+        "type": "METAL",
+        "extra": true,
+        "firstPrint": "B3a-101"
+    },
+    {
+        "id": "B3a-102",
+        "name": {
+            "en": "Swablu",
+            "es": "Swablu"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "MIRAIDON_KORAIDON"
+        ],
+        "type": "COLORLESS",
+        "extra": true,
+        "firstPrint": "B3a-102"
+    },
+    {
+        "id": "B3a-103",
+        "name": {
+            "en": "Altaria",
+            "es": "Altaria"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "MIRAIDON_KORAIDON"
+        ],
+        "type": "COLORLESS",
+        "extra": true,
+        "firstPrint": "B3a-103"
+    },
+    {
+        "id": "B3a-104",
+        "name": {
+            "en": "Meowscarada ex",
+            "es": "Meowscarada ex"
+        },
+        "rarity": "TWO_SHINY",
+        "origins": [
+            "MIRAIDON_KORAIDON"
+        ],
+        "type": "GRASS",
+        "extra": true,
+        "firstPrint": "B3a-104"
+    },
+    {
+        "id": "B3a-105",
+        "name": {
+            "en": "Armarouge ex",
+            "es": "Armarouge ex"
+        },
+        "rarity": "TWO_SHINY",
+        "origins": [
+            "MIRAIDON_KORAIDON"
+        ],
+        "type": "FIRE",
+        "extra": true,
+        "firstPrint": "B3a-105"
+    },
+    {
+        "id": "B3a-106",
+        "name": {
+            "en": "Bellibolt ex",
+            "es": "Bellibolt ex"
+        },
+        "rarity": "TWO_SHINY",
+        "origins": [
+            "MIRAIDON_KORAIDON"
+        ],
+        "type": "LIGHTNING",
+        "extra": true,
+        "firstPrint": "B3a-106"
+    },
+    {
+        "id": "B3a-107",
+        "name": {
+            "en": "Mega Altaria ex",
+            "es": "Mega-Altaria ex"
+        },
+        "rarity": "TWO_SHINY",
+        "origins": [
+            "MIRAIDON_KORAIDON"
+        ],
+        "type": "PSYCHIC",
+        "extra": true,
+        "firstPrint": "B3a-107"
+    },
+    {
+        "id": "B3a-108",
+        "name": {
+            "en": "Iron Valiant",
+            "es": "Ferropaladín"
+        },
+        "rarity": "CROWN",
+        "origins": [
+            "MIRAIDON_KORAIDON"
+        ],
+        "type": "PSYCHIC",
+        "firstPrint": "B3a-108"
+    },
+    {
+        "id": "B3a-109",
+        "name": {
+            "en": "Roaring Moon",
+            "es": "Bramaluna"
+        },
+        "rarity": "CROWN",
+        "origins": [
+            "MIRAIDON_KORAIDON"
+        ],
+        "type": "DARKNESS",
+        "firstPrint": "B3a-109"
+    }
+]

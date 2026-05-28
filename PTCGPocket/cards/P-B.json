@@ -804,5 +804,109 @@
         ],
         "type": "FIGHTING",
         "firstPrint": "P-B-062"
+    },
+    {
+        "id": "P-B-063",
+        "name": {
+            "en": "Meowscarada ex",
+            "es": "Meowscarada ex"
+        },
+        "rarity": "NONE",
+        "origins": [
+            "PREMIUM"
+        ],
+        "type": "GRASS",
+        "firstPrint": "P-B-063"
+    },
+    {
+        "id": "P-B-064",
+        "name": {
+            "en": "Charcadet",
+            "es": "Charcadet"
+        },
+        "rarity": "NONE",
+        "origins": [
+            "DROP_EVENT"
+        ],
+        "type": "FIRE",
+        "firstPrint": "P-B-064"
+    },
+    {
+        "id": "P-B-065",
+        "name": {
+            "en": "Vaporeon",
+            "es": "Vaporeon"
+        },
+        "rarity": "NONE",
+        "origins": [
+            "DROP_EVENT"
+        ],
+        "type": "WATER",
+        "firstPrint": "P-B-065"
+    },
+    {
+        "id": "P-B-066",
+        "name": {
+            "en": "Ceruledge ex",
+            "es": "Ceruledge ex"
+        },
+        "rarity": "NONE",
+        "origins": [
+            "DROP_EVENT"
+        ],
+        "type": "PSYCHIC",
+        "firstPrint": "P-B-066"
+    },
+    {
+        "id": "P-B-067",
+        "name": {
+            "en": "Pawniard",
+            "es": "Pawniard"
+        },
+        "rarity": "NONE",
+        "origins": [
+            "DROP_EVENT"
+        ],
+        "type": "DARKNESS",
+        "firstPrint": "P-B-067"
+    },
+    {
+        "id": "P-B-068",
+        "name": {
+            "en": "Dudunsparce",
+            "es": "Dudunsparce"
+        },
+        "rarity": "NONE",
+        "origins": [
+            "DROP_EVENT"
+        ],
+        "type": "COLORLESS",
+        "firstPrint": "P-B-068"
+    },
+    {
+        "id": "P-B-069",
+        "name": {
+            "en": "Floragato",
+            "es": "Floragato"
+        },
+        "rarity": "NONE",
+        "origins": [
+            "WONDER_EVENT"
+        ],
+        "type": "GRASS",
+        "firstPrint": "P-B-069"
+    },
+    {
+        "id": "P-B-070",
+        "name": {
+            "en": "Sableye",
+            "es": "Sableye"
+        },
+        "rarity": "NONE",
+        "origins": [
+            "WONDER_EVENT"
+        ],
+        "type": "DARKNESS",
+        "firstPrint": "P-B-070"
     }
 ]
