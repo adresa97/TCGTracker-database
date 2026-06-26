@@ -258,5 +258,18 @@
     "color": [71.0, 175.0, 210.0],
     "cardCount": 109,
     "origins": ["MIRAIDON_KORAIDON"]
+  },
+  {
+    "set": "B3b",
+    "expansion": "B3",
+    "series": "B",
+    "name": {
+      "en": "Everyday Wonders",
+      "es": "Maravillas Cotidianas"
+    },
+    "cover": "https://raw.githubusercontent.com/adresa97/TCGTracker-database/refs/heads/main/PTCGPocket/covers/b3b_everyday_wonders_en.png",
+    "color": [230.0, 222.0, 122.0],
+    "cardCount": 109,
+    "origins": ["SYLVEON_WONDERS"]
   }
 ]
