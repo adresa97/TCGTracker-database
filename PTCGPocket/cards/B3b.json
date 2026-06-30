@@ -1,0 +1,1394 @@
+[
+    {
+        "id": "B3b-001",
+        "name": {
+            "en": "Caterpie",
+            "es": "Caterpie"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "SYLVEON_WONDERS"
+        ],
+        "type": "GRASS",
+        "firstPrint": "B3b-001"
+    },
+    {
+        "id": "B3b-002",
+        "name": {
+            "en": "Metapod",
+            "es": "Metapod"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "SYLVEON_WONDERS"
+        ],
+        "type": "GRASS",
+        "firstPrint": "B3b-002"
+    },
+    {
+        "id": "B3b-003",
+        "name": {
+            "en": "Butterfree",
+            "es": "Butterfree"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "SYLVEON_WONDERS"
+        ],
+        "type": "GRASS",
+        "firstPrint": "B3b-003"
+    },
+    {
+        "id": "B3b-004",
+        "name": {
+            "en": "Cacnea",
+            "es": "Cacnea"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "SYLVEON_WONDERS"
+        ],
+        "type": "GRASS",
+        "firstPrint": "B3b-004"
+    },
+    {
+        "id": "B3b-005",
+        "name": {
+            "en": "Tropius",
+            "es": "Tropius"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "SYLVEON_WONDERS"
+        ],
+        "type": "GRASS",
+        "firstPrint": "B3b-005"
+    },
+    {
+        "id": "B3b-006",
+        "name": {
+            "en": "Petilil",
+            "es": "Petilil"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "SYLVEON_WONDERS"
+        ],
+        "type": "GRASS",
+        "firstPrint": "B3b-006"
+    },
+    {
+        "id": "B3b-007",
+        "name": {
+            "en": "Hisuian Lilligant",
+            "es": "Lilligant de Hisui"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "SYLVEON_WONDERS"
+        ],
+        "type": "GRASS",
+        "firstPrint": "B3b-007"
+    },
+    {
+        "id": "B3b-008",
+        "name": {
+            "en": "Vulpix",
+            "es": "Vulpix"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "SYLVEON_WONDERS"
+        ],
+        "type": "FIRE",
+        "firstPrint": "B3b-008"
+    },
+    {
+        "id": "B3b-009",
+        "name": {
+            "en": "Ninetales",
+            "es": "Ninetales"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "SYLVEON_WONDERS"
+        ],
+        "type": "FIRE",
+        "firstPrint": "B3b-009"
+    },
+    {
+        "id": "B3b-010",
+        "name": {
+            "en": "Growlithe",
+            "es": "Growlithe"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "SYLVEON_WONDERS"
+        ],
+        "type": "FIRE",
+        "firstPrint": "B3b-010"
+    },
+    {
+        "id": "B3b-011",
+        "name": {
+            "en": "Psyduck",
+            "es": "Psyduck"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "SYLVEON_WONDERS"
+        ],
+        "type": "WATER",
+        "firstPrint": "B3b-011"
+    },
+    {
+        "id": "B3b-012",
+        "name": {
+            "en": "Goldeen",
+            "es": "Goldeen"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "SYLVEON_WONDERS"
+        ],
+        "type": "WATER",
+        "firstPrint": "B3b-012"
+    },
+    {
+        "id": "B3b-013",
+        "name": {
+            "en": "Seaking",
+            "es": "Seaking"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "SYLVEON_WONDERS"
+        ],
+        "type": "WATER",
+        "firstPrint": "B3b-013"
+    },
+    {
+        "id": "B3b-014",
+        "name": {
+            "en": "Feebas",
+            "es": "Feebas"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "SYLVEON_WONDERS"
+        ],
+        "type": "WATER",
+        "firstPrint": "B3b-014"
+    },
+    {
+        "id": "B3b-015",
+        "name": {
+            "en": "Milotic ex",
+            "es": "Milotic ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "SYLVEON_WONDERS"
+        ],
+        "type": "WATER",
+        "firstPrint": "B3b-015"
+    },
+    {
+        "id": "B3b-016",
+        "name": {
+            "en": "Snorunt",
+            "es": "Snorunt"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "SYLVEON_WONDERS"
+        ],
+        "type": "WATER",
+        "firstPrint": "B3b-016"
+    },
+    {
+        "id": "B3b-017",
+        "name": {
+            "en": "Froslass",
+            "es": "Froslass"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "SYLVEON_WONDERS"
+        ],
+        "type": "WATER",
+        "firstPrint": "B3b-017"
+    },
+    {
+        "id": "B3b-018",
+        "name": {
+            "en": "Luvdisc",
+            "es": "Luvdisc"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "SYLVEON_WONDERS"
+        ],
+        "type": "WATER",
+        "firstPrint": "B3b-018"
+    },
+    {
+        "id": "B3b-019",
+        "name": {
+            "en": "Piplup",
+            "es": "Piplup"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "SYLVEON_WONDERS"
+        ],
+        "type": "WATER",
+        "firstPrint": "B3b-019"
+    },
+    {
+        "id": "B3b-020",
+        "name": {
+            "en": "Iron Bundle",
+            "es": "Ferrosaco"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "SYLVEON_WONDERS"
+        ],
+        "type": "WATER",
+        "firstPrint": "B3b-020"
+    },
+    {
+        "id": "B3b-021",
+        "name": {
+            "en": "Pikachu",
+            "es": "Pikachu"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "SYLVEON_WONDERS"
+        ],
+        "type": "LIGHTNING",
+        "firstPrint": "B3b-021"
+    },
+    {
+        "id": "B3b-022",
+        "name": {
+            "en": "Raichu",
+            "es": "Raichu"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "SYLVEON_WONDERS"
+        ],
+        "type": "LIGHTNING",
+        "firstPrint": "B3b-022"
+    },
+    {
+        "id": "B3b-023",
+        "name": {
+            "en": "Emolga",
+            "es": "Emolga"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "SYLVEON_WONDERS"
+        ],
+        "type": "LIGHTNING",
+        "firstPrint": "B3b-023"
+    },
+    {
+        "id": "B3b-024",
+        "name": {
+            "en": "Dedenne ex",
+            "es": "Dedenne ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "SYLVEON_WONDERS"
+        ],
+        "type": "LIGHTNING",
+        "firstPrint": "B3b-024"
+    },
+    {
+        "id": "B3b-025",
+        "name": {
+            "en": "Yamper",
+            "es": "Yamper"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "SYLVEON_WONDERS"
+        ],
+        "type": "LIGHTNING",
+        "firstPrint": "B3b-025"
+    },
+    {
+        "id": "B3b-026",
+        "name": {
+            "en": "Slowpoke",
+            "es": "Slowpoke"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "SYLVEON_WONDERS"
+        ],
+        "type": "PSYCHIC",
+        "firstPrint": "B3b-026"
+    },
+    {
+        "id": "B3b-027",
+        "name": {
+            "en": "Slowbro",
+            "es": "Slowbro"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "SYLVEON_WONDERS"
+        ],
+        "type": "PSYCHIC",
+        "firstPrint": "B3b-027"
+    },
+    {
+        "id": "B3b-028",
+        "name": {
+            "en": "Munna",
+            "es": "Munna"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "SYLVEON_WONDERS"
+        ],
+        "type": "PSYCHIC",
+        "firstPrint": "B3b-028"
+    },
+    {
+        "id": "B3b-029",
+        "name": {
+            "en": "Musharna",
+            "es": "Musharna"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "SYLVEON_WONDERS"
+        ],
+        "type": "PSYCHIC",
+        "firstPrint": "B3b-029"
+    },
+    {
+        "id": "B3b-030",
+        "name": {
+            "en": "Sylveon",
+            "es": "Sylveon"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "SYLVEON_WONDERS"
+        ],
+        "type": "PSYCHIC",
+        "firstPrint": "B3b-030"
+    },
+    {
+        "id": "B3b-031",
+        "name": {
+            "en": "Carbink",
+            "es": "Carbink"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "SYLVEON_WONDERS"
+        ],
+        "type": "PSYCHIC",
+        "firstPrint": "B3b-031"
+    },
+    {
+        "id": "B3b-032",
+        "name": {
+            "en": "Mega Diancie ex",
+            "es": "Mega-Diancie ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "SYLVEON_WONDERS"
+        ],
+        "type": "PSYCHIC",
+        "firstPrint": "B3b-032"
+    },
+    {
+        "id": "B3b-033",
+        "name": {
+            "en": "Enamorus",
+            "es": "Enamorus"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "SYLVEON_WONDERS"
+        ],
+        "type": "PSYCHIC",
+        "firstPrint": "B3b-033"
+    },
+    {
+        "id": "B3b-034",
+        "name": {
+            "en": "Fidough",
+            "es": "Fidough"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "SYLVEON_WONDERS"
+        ],
+        "type": "PSYCHIC",
+        "firstPrint": "B3b-034"
+    },
+    {
+        "id": "B3b-035",
+        "name": {
+            "en": "Flutter Mane",
+            "es": "Melenaleteo"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "SYLVEON_WONDERS"
+        ],
+        "type": "PSYCHIC",
+        "firstPrint": "B3b-035"
+    },
+    {
+        "id": "B3b-036",
+        "name": {
+            "en": "Wooper",
+            "es": "Wooper"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "SYLVEON_WONDERS"
+        ],
+        "type": "FIGHTING",
+        "firstPrint": "B3b-036"
+    },
+    {
+        "id": "B3b-037",
+        "name": {
+            "en": "Quagsire",
+            "es": "Quagsire"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "SYLVEON_WONDERS"
+        ],
+        "type": "FIGHTING",
+        "firstPrint": "B3b-037"
+    },
+    {
+        "id": "B3b-038",
+        "name": {
+            "en": "Rockruff",
+            "es": "Rockruff"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "SYLVEON_WONDERS"
+        ],
+        "type": "FIGHTING",
+        "firstPrint": "B3b-038"
+    },
+    {
+        "id": "B3b-039",
+        "name": {
+            "en": "Sandygast",
+            "es": "Sandygast"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "SYLVEON_WONDERS"
+        ],
+        "type": "FIGHTING",
+        "firstPrint": "B3b-039"
+    },
+    {
+        "id": "B3b-040",
+        "name": {
+            "en": "Palossand",
+            "es": "Palossand"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "SYLVEON_WONDERS"
+        ],
+        "type": "FIGHTING",
+        "firstPrint": "B3b-040"
+    },
+    {
+        "id": "B3b-041",
+        "name": {
+            "en": "Mega Sableye ex",
+            "es": "Mega-Sableye ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "SYLVEON_WONDERS"
+        ],
+        "type": "DARKNESS",
+        "firstPrint": "B3b-041"
+    },
+    {
+        "id": "B3b-042",
+        "name": {
+            "en": "Cacturne",
+            "es": "Cacturne"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "SYLVEON_WONDERS"
+        ],
+        "type": "DARKNESS",
+        "firstPrint": "B3b-042"
+    },
+    {
+        "id": "B3b-043",
+        "name": {
+            "en": "Spiritomb",
+            "es": "Spiritomb"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "SYLVEON_WONDERS"
+        ],
+        "type": "DARKNESS",
+        "firstPrint": "B3b-043"
+    },
+    {
+        "id": "B3b-044",
+        "name": {
+            "en": "Scraggy",
+            "es": "Scraggy"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "SYLVEON_WONDERS"
+        ],
+        "type": "DARKNESS",
+        "firstPrint": "B3b-044"
+    },
+    {
+        "id": "B3b-045",
+        "name": {
+            "en": "Scrafty",
+            "es": "Scrafty"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "SYLVEON_WONDERS"
+        ],
+        "type": "DARKNESS",
+        "firstPrint": "B3b-045"
+    },
+    {
+        "id": "B3b-046",
+        "name": {
+            "en": "Mareanie",
+            "es": "Mareanie"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "SYLVEON_WONDERS"
+        ],
+        "type": "DARKNESS",
+        "firstPrint": "B3b-046"
+    },
+    {
+        "id": "B3b-047",
+        "name": {
+            "en": "Toxapex",
+            "es": "Toxapex"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "SYLVEON_WONDERS"
+        ],
+        "type": "DARKNESS",
+        "firstPrint": "B3b-047"
+    },
+    {
+        "id": "B3b-048",
+        "name": {
+            "en": "Goomy",
+            "es": "Goomy"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "SYLVEON_WONDERS"
+        ],
+        "type": "DRAGON",
+        "firstPrint": "B3b-048"
+    },
+    {
+        "id": "B3b-049",
+        "name": {
+            "en": "Hisuian Sliggoo",
+            "es": "Sliggoo de Hisui"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "SYLVEON_WONDERS"
+        ],
+        "type": "DRAGON",
+        "firstPrint": "B3b-049"
+    },
+    {
+        "id": "B3b-050",
+        "name": {
+            "en": "Hisuian Goodra",
+            "es": "Goodra de Hisui"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "SYLVEON_WONDERS"
+        ],
+        "type": "DRAGON",
+        "firstPrint": "B3b-050"
+    },
+    {
+        "id": "B3b-051",
+        "name": {
+            "en": "Jigglypuff",
+            "es": "Jigglypuff"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "SYLVEON_WONDERS"
+        ],
+        "type": "COLORLESS",
+        "firstPrint": "B3b-051"
+    },
+    {
+        "id": "B3b-052",
+        "name": {
+            "en": "Wigglytuff",
+            "es": "Wigglytuff"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "SYLVEON_WONDERS"
+        ],
+        "type": "COLORLESS",
+        "firstPrint": "B3b-052"
+    },
+    {
+        "id": "B3b-053",
+        "name": {
+            "en": "Eevee",
+            "es": "Eevee"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "SYLVEON_WONDERS"
+        ],
+        "type": "COLORLESS",
+        "firstPrint": "B3b-053"
+    },
+    {
+        "id": "B3b-054",
+        "name": {
+            "en": "Munchlax",
+            "es": "Munchlax"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "SYLVEON_WONDERS"
+        ],
+        "type": "COLORLESS",
+        "firstPrint": "B3b-054"
+    },
+    {
+        "id": "B3b-055",
+        "name": {
+            "en": "Snorlax",
+            "es": "Snorlax"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "SYLVEON_WONDERS"
+        ],
+        "type": "COLORLESS",
+        "firstPrint": "B3b-055"
+    },
+    {
+        "id": "B3b-056",
+        "name": {
+            "en": "Teddiursa",
+            "es": "Teddiursa"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "SYLVEON_WONDERS"
+        ],
+        "type": "COLORLESS",
+        "firstPrint": "B3b-056"
+    },
+    {
+        "id": "B3b-057",
+        "name": {
+            "en": "Ursaring",
+            "es": "Ursaring"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "SYLVEON_WONDERS"
+        ],
+        "type": "COLORLESS",
+        "firstPrint": "B3b-057"
+    },
+    {
+        "id": "B3b-058",
+        "name": {
+            "en": "Ursaluna",
+            "es": "Ursaluna"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "SYLVEON_WONDERS"
+        ],
+        "type": "COLORLESS",
+        "firstPrint": "B3b-058"
+    },
+    {
+        "id": "B3b-059",
+        "name": {
+            "en": "Hisuian Zorua",
+            "es": "Zorua de Hisui"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "SYLVEON_WONDERS"
+        ],
+        "type": "COLORLESS",
+        "firstPrint": "B3b-059"
+    },
+    {
+        "id": "B3b-060",
+        "name": {
+            "en": "Hisuian Zoroark ex",
+            "es": "Zoroark de Hisui ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "SYLVEON_WONDERS"
+        ],
+        "type": "COLORLESS",
+        "firstPrint": "B3b-060"
+    },
+    {
+        "id": "B3b-061",
+        "name": {
+            "en": "Furfrou",
+            "es": "Furfrou"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "SYLVEON_WONDERS"
+        ],
+        "type": "COLORLESS",
+        "firstPrint": "B3b-061"
+    },
+    {
+        "id": "B3b-062",
+        "name": {
+            "en": "Skwovet",
+            "es": "Skwovet"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "SYLVEON_WONDERS"
+        ],
+        "type": "COLORLESS",
+        "firstPrint": "B3b-062"
+    },
+    {
+        "id": "B3b-063",
+        "name": {
+            "en": "Greedent",
+            "es": "Greedent"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "SYLVEON_WONDERS"
+        ],
+        "type": "COLORLESS",
+        "firstPrint": "B3b-063"
+    },
+    {
+        "id": "B3b-064",
+        "name": {
+            "en": "Small Balloon",
+            "es": "Globito"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "SYLVEON_WONDERS"
+        ],
+        "type": "TRAINER",
+        "firstPrint": "B3b-064"
+    },
+    {
+        "id": "B3b-065",
+        "name": {
+            "en": "Elegant Cape",
+            "es": "Capa Elegante"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "SYLVEON_WONDERS"
+        ],
+        "type": "TRAINER",
+        "firstPrint": "B3b-065"
+    },
+    {
+        "id": "B3b-066",
+        "name": {
+            "en": "Elesa",
+            "es": "Camila"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "SYLVEON_WONDERS"
+        ],
+        "type": "TRAINER",
+        "firstPrint": "B3b-066"
+    },
+    {
+        "id": "B3b-067",
+        "name": {
+            "en": "Puppy-Loving Girl",
+            "es": "Fan de los Perritos"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "SYLVEON_WONDERS"
+        ],
+        "type": "TRAINER",
+        "firstPrint": "B3b-067"
+    },
+    {
+        "id": "B3b-068",
+        "name": {
+            "en": "Wallace",
+            "es": "Plubio"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "SYLVEON_WONDERS"
+        ],
+        "type": "TRAINER",
+        "firstPrint": "B3b-068"
+    },
+    {
+        "id": "B3b-069",
+        "name": {
+            "en": "Kid's Room",
+            "es": "Habitación Infantil"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "SYLVEON_WONDERS"
+        ],
+        "type": "TRAINER",
+        "firstPrint": "B3b-069"
+    },
+    {
+        "id": "B3b-070",
+        "name": {
+            "en": "Vulpix",
+            "es": "Vulpix"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "SYLVEON_WONDERS"
+        ],
+        "type": "FIRE",
+        "firstPrint": "B3b-070"
+    },
+    {
+        "id": "B3b-071",
+        "name": {
+            "en": "Piplup",
+            "es": "Piplup"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "SYLVEON_WONDERS"
+        ],
+        "type": "WATER",
+        "firstPrint": "B3b-071"
+    },
+    {
+        "id": "B3b-072",
+        "name": {
+            "en": "Pikachu",
+            "es": "Pikachu"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "SYLVEON_WONDERS"
+        ],
+        "type": "LIGHTNING",
+        "firstPrint": "B3b-072"
+    },
+    {
+        "id": "B3b-073",
+        "name": {
+            "en": "Sylveon",
+            "es": "Sylveon"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "SYLVEON_WONDERS"
+        ],
+        "type": "PSYCHIC",
+        "firstPrint": "B3b-073"
+    },
+    {
+        "id": "B3b-074",
+        "name": {
+            "en": "Mareanie",
+            "es": "Mareanie"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "SYLVEON_WONDERS"
+        ],
+        "type": "DARKNESS",
+        "firstPrint": "B3b-074"
+    },
+    {
+        "id": "B3b-075",
+        "name": {
+            "en": "Jigglypuff",
+            "es": "Jigglypuff"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "SYLVEON_WONDERS"
+        ],
+        "type": "COLORLESS",
+        "firstPrint": "B3b-075"
+    },
+    {
+        "id": "B3b-076",
+        "name": {
+            "en": "Snorlax",
+            "es": "Snorlax"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "SYLVEON_WONDERS"
+        ],
+        "type": "COLORLESS",
+        "firstPrint": "B3b-076"
+    },
+    {
+        "id": "B3b-077",
+        "name": {
+            "en": "Greedent",
+            "es": "Greedent"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "SYLVEON_WONDERS"
+        ],
+        "type": "COLORLESS",
+        "firstPrint": "B3b-077"
+    },
+    {
+        "id": "B3b-078",
+        "name": {
+            "en": "Milotic ex",
+            "es": "Milotic ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "SYLVEON_WONDERS"
+        ],
+        "type": "WATER",
+        "firstPrint": "B3b-078"
+    },
+    {
+        "id": "B3b-079",
+        "name": {
+            "en": "Dedenne ex",
+            "es": "Dedenne ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "SYLVEON_WONDERS"
+        ],
+        "type": "LIGHTNING",
+        "firstPrint": "B3b-079"
+    },
+    {
+        "id": "B3b-080",
+        "name": {
+            "en": "Mega Diancie ex",
+            "es": "Mega-Diancie ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "SYLVEON_WONDERS"
+        ],
+        "type": "PSYCHIC",
+        "firstPrint": "B3b-080"
+    },
+    {
+        "id": "B3b-081",
+        "name": {
+            "en": "Mega Sableye ex",
+            "es": "Mega-Sableye ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "SYLVEON_WONDERS"
+        ],
+        "type": "DARKNESS",
+        "firstPrint": "B3b-081"
+    },
+    {
+        "id": "B3b-082",
+        "name": {
+            "en": "Hisuian Zoroark ex",
+            "es": "Zoroark de Hisui ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "SYLVEON_WONDERS"
+        ],
+        "type": "COLORLESS",
+        "firstPrint": "B3b-082"
+    },
+    {
+        "id": "B3b-083",
+        "name": {
+            "en": "Elesa",
+            "es": "Camila"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "SYLVEON_WONDERS"
+        ],
+        "type": "TRAINER",
+        "firstPrint": "B3b-083"
+    },
+    {
+        "id": "B3b-084",
+        "name": {
+            "en": "Puppy-Loving Girl",
+            "es": "Fan de los Perritos"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "SYLVEON_WONDERS"
+        ],
+        "type": "TRAINER",
+        "firstPrint": "B3b-084"
+    },
+    {
+        "id": "B3b-085",
+        "name": {
+            "en": "Wallace",
+            "es": "Plubio"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "SYLVEON_WONDERS"
+        ],
+        "type": "TRAINER",
+        "firstPrint": "B3b-085"
+    },
+    {
+        "id": "B3b-086",
+        "name": {
+            "en": "Milotic ex",
+            "es": "Milotic ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "SYLVEON_WONDERS"
+        ],
+        "type": "WATER",
+        "firstPrint": "B3b-086"
+    },
+    {
+        "id": "B3b-087",
+        "name": {
+            "en": "Mega Diancie ex",
+            "es": "Mega-Diancie ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "SYLVEON_WONDERS"
+        ],
+        "type": "PSYCHIC",
+        "firstPrint": "B3b-087"
+    },
+    {
+        "id": "B3b-088",
+        "name": {
+            "en": "Mega Sableye ex",
+            "es": "Mega-Sableye ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "SYLVEON_WONDERS"
+        ],
+        "type": "DARKNESS",
+        "firstPrint": "B3b-088"
+    },
+    {
+        "id": "B3b-089",
+        "name": {
+            "en": "Hisuian Zoroark ex",
+            "es": "Zoroark de Hisui ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "SYLVEON_WONDERS"
+        ],
+        "type": "COLORLESS",
+        "firstPrint": "B3b-089"
+    },
+    {
+        "id": "B3b-090",
+        "name": {
+            "en": "Dedenne ex",
+            "es": "Dedenne ex"
+        },
+        "rarity": "THREE_STAR",
+        "origins": [
+            "SYLVEON_WONDERS"
+        ],
+        "type": "LIGHTNING",
+        "firstPrint": "B3b-090"
+    },
+    {
+        "id": "B3b-091",
+        "name": {
+            "en": "Caterpie",
+            "es": "Caterpie"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "SYLVEON_WONDERS"
+        ],
+        "type": "GRASS",
+        "extra": true,
+        "firstPrint": "B3b-091"
+    },
+    {
+        "id": "B3b-092",
+        "name": {
+            "en": "Metapod",
+            "es": "Metapod"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "SYLVEON_WONDERS"
+        ],
+        "type": "GRASS",
+        "extra": true,
+        "firstPrint": "B3b-092"
+    },
+    {
+        "id": "B3b-093",
+        "name": {
+            "en": "Butterfree",
+            "es": "Butterfree"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "SYLVEON_WONDERS"
+        ],
+        "type": "GRASS",
+        "extra": true,
+        "firstPrint": "B3b-093"
+    },
+    {
+        "id": "B3b-094",
+        "name": {
+            "en": "Mareep",
+            "es": "Mareep"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "SYLVEON_WONDERS"
+        ],
+        "type": "LIGHTNING",
+        "extra": true,
+        "firstPrint": "B3b-094"
+    },
+    {
+        "id": "B3b-095",
+        "name": {
+            "en": "Flaaffy",
+            "es": "Flaaffy"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "SYLVEON_WONDERS"
+        ],
+        "type": "LIGHTNING",
+        "extra": true,
+        "firstPrint": "B3b-095"
+    },
+    {
+        "id": "B3b-096",
+        "name": {
+            "en": "Ampharos",
+            "es": "Ampharos"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "SYLVEON_WONDERS"
+        ],
+        "type": "LIGHTNING",
+        "extra": true,
+        "firstPrint": "B3b-096"
+    },
+    {
+        "id": "B3b-097",
+        "name": {
+            "en": "Slowbro",
+            "es": "Slowbro"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "SYLVEON_WONDERS"
+        ],
+        "type": "PSYCHIC",
+        "extra": true,
+        "firstPrint": "B3b-097"
+    },
+    {
+        "id": "B3b-098",
+        "name": {
+            "en": "Kangaskhan",
+            "es": "Kangaskhan"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "SYLVEON_WONDERS"
+        ],
+        "type": "COLORLESS",
+        "extra": true,
+        "firstPrint": "B3b-098"
+    },
+    {
+        "id": "B3b-099",
+        "name": {
+            "en": "Ditto",
+            "es": "Ditto"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "SYLVEON_WONDERS"
+        ],
+        "type": "COLORLESS",
+        "extra": true,
+        "firstPrint": "B3b-099"
+    },
+    {
+        "id": "B3b-100",
+        "name": {
+            "en": "Snorlax",
+            "es": "Snorlax"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "SYLVEON_WONDERS"
+        ],
+        "type": "COLORLESS",
+        "extra": true,
+        "firstPrint": "B3b-100"
+    },
+    {
+        "id": "B3b-101",
+        "name": {
+            "en": "Mega Gyarados ex",
+            "es": "Mega-Gyarados ex"
+        },
+        "rarity": "TWO_SHINY",
+        "origins": [
+            "SYLVEON_WONDERS"
+        ],
+        "type": "WATER",
+        "extra": true,
+        "firstPrint": "B3b-101"
+    },
+    {
+        "id": "B3b-102",
+        "name": {
+            "en": "Vaporeon ex",
+            "es": "Vaporeon ex"
+        },
+        "rarity": "TWO_SHINY",
+        "origins": [
+            "SYLVEON_WONDERS"
+        ],
+        "type": "WATER",
+        "extra": true,
+        "firstPrint": "B3b-102"
+    },
+    {
+        "id": "B3b-103",
+        "name": {
+            "en": "Mega Ampharos ex",
+            "es": "Mega-Ampharos ex"
+        },
+        "rarity": "TWO_SHINY",
+        "origins": [
+            "SYLVEON_WONDERS"
+        ],
+        "type": "LIGHTNING",
+        "extra": true,
+        "firstPrint": "B3b-103"
+    },
+    {
+        "id": "B3b-104",
+        "name": {
+            "en": "Indeedee ex",
+            "es": "Indeedee ex"
+        },
+        "rarity": "TWO_SHINY",
+        "origins": [
+            "SYLVEON_WONDERS"
+        ],
+        "type": "PSYCHIC",
+        "extra": true,
+        "firstPrint": "B3b-104"
+    },
+    {
+        "id": "B3b-105",
+        "name": {
+            "en": "Munchlax",
+            "es": "Munchlax"
+        },
+        "rarity": "CROWN",
+        "origins": [
+            "SYLVEON_WONDERS"
+        ],
+        "type": "COLORLESS",
+        "firstPrint": "B3b-105"
+    },
+    {
+        "id": "B3b-106",
+        "name": {
+            "en": "Small Balloon",
+            "es": "Globito"
+        },
+        "rarity": "CROWN",
+        "origins": [
+            "SYLVEON_WONDERS"
+        ],
+        "type": "TRAINER",
+        "firstPrint": "B3b-106"
+    }
+]
