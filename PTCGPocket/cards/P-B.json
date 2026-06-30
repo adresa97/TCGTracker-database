@@ -908,5 +908,109 @@
         ],
         "type": "DARKNESS",
         "firstPrint": "P-B-070"
+    },
+    {
+        "id": "P-B-071",
+        "name": {
+            "en": "Psyduck",
+            "es": "Psyduck"
+        },
+        "rarity": "NONE",
+        "origins": [
+            "PREMIUM"
+        ],
+        "type": "WATER",
+        "firstPrint": "P-B-071"
+    },
+    {
+        "id": "P-B-072",
+        "name": {
+            "en": "Feebas",
+            "es": "Feebas"
+        },
+        "rarity": "NONE",
+        "origins": [
+            "DROP_EVENT"
+        ],
+        "type": "WATER",
+        "firstPrint": "P-B-072"
+    },
+    {
+        "id": "P-B-073",
+        "name": {
+            "en": "Froslass",
+            "es": "Froslass"
+        },
+        "rarity": "NONE",
+        "origins": [
+            "DROP_EVENT"
+        ],
+        "type": "WATER",
+        "firstPrint": "P-B-073"
+    },
+    {
+        "id": "P-B-074",
+        "name": {
+            "en": "Raichu",
+            "es": "Raichu"
+        },
+        "rarity": "NONE",
+        "origins": [
+            "DROP_EVENT"
+        ],
+        "type": "LIGHTNING",
+        "firstPrint": "P-B-074"
+    },
+    {
+        "id": "P-B-075",
+        "name": {
+            "en": "Quagsire",
+            "es": "Quagsire"
+        },
+        "rarity": "NONE",
+        "origins": [
+            "DROP_EVENT"
+        ],
+        "type": "FIGHTING",
+        "firstPrint": "P-B-075"
+    },
+    {
+        "id": "P-B-076",
+        "name": {
+            "en": "Hisuian Zorua",
+            "es": "Zorua de Hisui"
+        },
+        "rarity": "NONE",
+        "origins": [
+            "DROP_EVENT"
+        ],
+        "type": "COLORLESS",
+        "firstPrint": "P-B-076"
+    },
+    {
+        "id": "P-B-077",
+        "name": {
+            "en": "Growlithe",
+            "es": "Growlithe"
+        },
+        "rarity": "NONE",
+        "origins": [
+            "WONDER_EVENT"
+        ],
+        "type": "FIRE",
+        "firstPrint": "P-B-077"
+    },
+    {
+        "id": "P-B-078",
+        "name": {
+            "en": "Emolga",
+            "es": "Emolga"
+        },
+        "rarity": "NONE",
+        "origins": [
+            "WONDER_EVENT"
+        ],
+        "type": "LIGHTNING",
+        "firstPrint": "P-B-078"
     }
 ]
