@@ -1,0 +1,3059 @@
+[
+    {
+        "id": "B4-001",
+        "name": {
+            "en": "Wurmple",
+            "es": "Wurmple"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "GRASS",
+        "firstPrint": "B4-001"
+    },
+    {
+        "id": "B4-002",
+        "name": {
+            "en": "Silcoon",
+            "es": "Silcoon"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "GRASS",
+        "firstPrint": "B4-002"
+    },
+    {
+        "id": "B4-003",
+        "name": {
+            "en": "Beautifly",
+            "es": "Beautifly"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "GRASS",
+        "firstPrint": "B4-003"
+    },
+    {
+        "id": "B4-004",
+        "name": {
+            "en": "Cascoon",
+            "es": "Cascoon"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "GRASS",
+        "firstPrint": "B4-004"
+    },
+    {
+        "id": "B4-005",
+        "name": {
+            "en": "Dustox",
+            "es": "Dustox"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "GRASS",
+        "firstPrint": "B4-005"
+    },
+    {
+        "id": "B4-006",
+        "name": {
+            "en": "Lileep",
+            "es": "Lileep"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "GRASS",
+        "firstPrint": "B4-006"
+    },
+    {
+        "id": "B4-007",
+        "name": {
+            "en": "Cradily",
+            "es": "Cradily"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "GRASS",
+        "firstPrint": "B4-007"
+    },
+    {
+        "id": "B4-008",
+        "name": {
+            "en": "Kricketot",
+            "es": "Kricketot"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "GRASS",
+        "firstPrint": "B4-008"
+    },
+    {
+        "id": "B4-009",
+        "name": {
+            "en": "Kricketune",
+            "es": "Kricketune"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "GRASS",
+        "firstPrint": "B4-009"
+    },
+    {
+        "id": "B4-010",
+        "name": {
+            "en": "Combee",
+            "es": "Combee"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "GRASS",
+        "firstPrint": "B4-010"
+    },
+    {
+        "id": "B4-011",
+        "name": {
+            "en": "Vespiquen ex",
+            "es": "Vespiquen ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "GRASS",
+        "firstPrint": "B4-011"
+    },
+    {
+        "id": "B4-012",
+        "name": {
+            "en": "Karrablast",
+            "es": "Karrablast"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "GRASS",
+        "firstPrint": "B4-012"
+    },
+    {
+        "id": "B4-013",
+        "name": {
+            "en": "Shelmet",
+            "es": "Shelmet"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "GRASS",
+        "firstPrint": "B4-013"
+    },
+    {
+        "id": "B4-014",
+        "name": {
+            "en": "Accelgor",
+            "es": "Accelgor"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "GRASS",
+        "firstPrint": "B4-014"
+    },
+    {
+        "id": "B4-015",
+        "name": {
+            "en": "Dhelmise",
+            "es": "Dhelmise"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "GRASS",
+        "firstPrint": "B4-015"
+    },
+    {
+        "id": "B4-016",
+        "name": {
+            "en": "Pheromosa",
+            "es": "Pheromosa"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "GRASS",
+        "firstPrint": "B4-016"
+    },
+    {
+        "id": "B4-017",
+        "name": {
+            "en": "Poltchageist",
+            "es": "Poltchageist"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "GRASS",
+        "firstPrint": "B4-017"
+    },
+    {
+        "id": "B4-018",
+        "name": {
+            "en": "Sinistcha",
+            "es": "Sinistcha"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "GRASS",
+        "firstPrint": "B4-018"
+    },
+    {
+        "id": "B4-019",
+        "name": {
+            "en": "Teal Mask Ogerpon",
+            "es": "Ogerpon Máscara Turquesa"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "GRASS",
+        "firstPrint": "B4-019"
+    },
+    {
+        "id": "B4-020",
+        "name": {
+            "en": "Ponyta",
+            "es": "Ponyta"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "FIRE",
+        "firstPrint": "B4-020"
+    },
+    {
+        "id": "B4-021",
+        "name": {
+            "en": "Rapidash",
+            "es": "Rapidash"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "FIRE",
+        "firstPrint": "B4-021"
+    },
+    {
+        "id": "B4-022",
+        "name": {
+            "en": "Flareon",
+            "es": "Flareon"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "FIRE",
+        "firstPrint": "B4-022"
+    },
+    {
+        "id": "B4-023",
+        "name": {
+            "en": "Moltres",
+            "es": "Moltres"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "FIRE",
+        "firstPrint": "B4-023"
+    },
+    {
+        "id": "B4-024",
+        "name": {
+            "en": "Cyndaquil",
+            "es": "Cyndaquil"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "FIRE",
+        "firstPrint": "B4-024"
+    },
+    {
+        "id": "B4-025",
+        "name": {
+            "en": "Quilava",
+            "es": "Quilava"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "FIRE",
+        "firstPrint": "B4-025"
+    },
+    {
+        "id": "B4-026",
+        "name": {
+            "en": "Typhlosion ex",
+            "es": "Typhlosion ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "FIRE",
+        "firstPrint": "B4-026"
+    },
+    {
+        "id": "B4-027",
+        "name": {
+            "en": "Houndour",
+            "es": "Houndour"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "FIRE",
+        "firstPrint": "B4-027"
+    },
+    {
+        "id": "B4-028",
+        "name": {
+            "en": "Houndoom",
+            "es": "Houndoom"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "FIRE",
+        "firstPrint": "B4-028"
+    },
+    {
+        "id": "B4-029",
+        "name": {
+            "en": "Heatmor",
+            "es": "Heatmor"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "FIRE",
+        "firstPrint": "B4-029"
+    },
+    {
+        "id": "B4-030",
+        "name": {
+            "en": "Psyduck",
+            "es": "Psyduck"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "WATER",
+        "firstPrint": "B4-030"
+    },
+    {
+        "id": "B4-031",
+        "name": {
+            "en": "Golduck",
+            "es": "Golduck"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "WATER",
+        "firstPrint": "B4-031"
+    },
+    {
+        "id": "B4-032",
+        "name": {
+            "en": "Staryu",
+            "es": "Staryu"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "WATER",
+        "firstPrint": "B4-032"
+    },
+    {
+        "id": "B4-033",
+        "name": {
+            "en": "Starmie",
+            "es": "Starmie"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "WATER",
+        "firstPrint": "B4-033"
+    },
+    {
+        "id": "B4-034",
+        "name": {
+            "en": "Carvanha",
+            "es": "Carvanha"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "WATER",
+        "firstPrint": "B4-034"
+    },
+    {
+        "id": "B4-035",
+        "name": {
+            "en": "Mega Sharpedo ex",
+            "es": "Mega-Sharpedo ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "WATER",
+        "firstPrint": "B4-035"
+    },
+    {
+        "id": "B4-036",
+        "name": {
+            "en": "Wailmer",
+            "es": "Wailmer"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "WATER",
+        "firstPrint": "B4-036"
+    },
+    {
+        "id": "B4-037",
+        "name": {
+            "en": "Wailord ex",
+            "es": "Wailord ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "WATER",
+        "firstPrint": "B4-037"
+    },
+    {
+        "id": "B4-038",
+        "name": {
+            "en": "Spheal",
+            "es": "Spheal"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "WATER",
+        "firstPrint": "B4-038"
+    },
+    {
+        "id": "B4-039",
+        "name": {
+            "en": "Sealeo",
+            "es": "Sealeo"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "WATER",
+        "firstPrint": "B4-039"
+    },
+    {
+        "id": "B4-040",
+        "name": {
+            "en": "Walrein",
+            "es": "Walrein"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "WATER",
+        "firstPrint": "B4-040"
+    },
+    {
+        "id": "B4-041",
+        "name": {
+            "en": "Kyogre",
+            "es": "Kyogre"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "WATER",
+        "firstPrint": "B4-041"
+    },
+    {
+        "id": "B4-042",
+        "name": {
+            "en": "Oshawott",
+            "es": "Oshawott"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "WATER",
+        "firstPrint": "B4-042"
+    },
+    {
+        "id": "B4-043",
+        "name": {
+            "en": "Dewott",
+            "es": "Dewott"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "WATER",
+        "firstPrint": "B4-043"
+    },
+    {
+        "id": "B4-044",
+        "name": {
+            "en": "Samurott",
+            "es": "Samurott"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "WATER",
+        "firstPrint": "B4-044"
+    },
+    {
+        "id": "B4-045",
+        "name": {
+            "en": "Alomomola",
+            "es": "Alomomola"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "WATER",
+        "firstPrint": "B4-045"
+    },
+    {
+        "id": "B4-046",
+        "name": {
+            "en": "Dewpider",
+            "es": "Dewpider"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "WATER",
+        "firstPrint": "B4-046"
+    },
+    {
+        "id": "B4-047",
+        "name": {
+            "en": "Araquanid",
+            "es": "Araquanid"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "WATER",
+        "firstPrint": "B4-047"
+    },
+    {
+        "id": "B4-048",
+        "name": {
+            "en": "Bruxish",
+            "es": "Bruxish"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "WATER",
+        "firstPrint": "B4-048"
+    },
+    {
+        "id": "B4-049",
+        "name": {
+            "en": "Pikachu",
+            "es": "Pikachu"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "LIGHTNING",
+        "firstPrint": "B4-049"
+    },
+    {
+        "id": "B4-050",
+        "name": {
+            "en": "Raichu",
+            "es": "Raichu"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "LIGHTNING",
+        "firstPrint": "B4-050"
+    },
+    {
+        "id": "B4-051",
+        "name": {
+            "en": "Shinx",
+            "es": "Shinx"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "LIGHTNING",
+        "firstPrint": "B4-051"
+    },
+    {
+        "id": "B4-052",
+        "name": {
+            "en": "Luxio",
+            "es": "Luxio"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "LIGHTNING",
+        "firstPrint": "B4-052"
+    },
+    {
+        "id": "B4-053",
+        "name": {
+            "en": "Luxray",
+            "es": "Luxray"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "LIGHTNING",
+        "firstPrint": "B4-053"
+    },
+    {
+        "id": "B4-054",
+        "name": {
+            "en": "Pachirisu",
+            "es": "Pachirisu"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "LIGHTNING",
+        "firstPrint": "B4-054"
+    },
+    {
+        "id": "B4-055",
+        "name": {
+            "en": "Rotom ex",
+            "es": "Rotom ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "LIGHTNING",
+        "firstPrint": "B4-055"
+    },
+    {
+        "id": "B4-056",
+        "name": {
+            "en": "Tynamo",
+            "es": "Tynamo"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "LIGHTNING",
+        "firstPrint": "B4-056"
+    },
+    {
+        "id": "B4-057",
+        "name": {
+            "en": "Eelektrik",
+            "es": "Eelektrik"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "LIGHTNING",
+        "firstPrint": "B4-057"
+    },
+    {
+        "id": "B4-058",
+        "name": {
+            "en": "Eelektross",
+            "es": "Eelektross"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "LIGHTNING",
+        "firstPrint": "B4-058"
+    },
+    {
+        "id": "B4-059",
+        "name": {
+            "en": "Thundurus",
+            "es": "Thundurus"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "LIGHTNING",
+        "firstPrint": "B4-059"
+    },
+    {
+        "id": "B4-060",
+        "name": {
+            "en": "Helioptile",
+            "es": "Helioptile"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "LIGHTNING",
+        "firstPrint": "B4-060"
+    },
+    {
+        "id": "B4-061",
+        "name": {
+            "en": "Heliolisk",
+            "es": "Heliolisk"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "LIGHTNING",
+        "firstPrint": "B4-061"
+    },
+    {
+        "id": "B4-062",
+        "name": {
+            "en": "Wattrel",
+            "es": "Wattrel"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "LIGHTNING",
+        "firstPrint": "B4-062"
+    },
+    {
+        "id": "B4-063",
+        "name": {
+            "en": "Kilowattrel",
+            "es": "Kilowattrel"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "LIGHTNING",
+        "firstPrint": "B4-063"
+    },
+    {
+        "id": "B4-064",
+        "name": {
+            "en": "Clefairy",
+            "es": "Clefairy"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "PSYCHIC",
+        "firstPrint": "B4-064"
+    },
+    {
+        "id": "B4-065",
+        "name": {
+            "en": "Clefable",
+            "es": "Clefable"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "PSYCHIC",
+        "firstPrint": "B4-065"
+    },
+    {
+        "id": "B4-066",
+        "name": {
+            "en": "Drowzee",
+            "es": "Drowzee"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "PSYCHIC",
+        "firstPrint": "B4-066"
+    },
+    {
+        "id": "B4-067",
+        "name": {
+            "en": "Hypno",
+            "es": "Hypno"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "PSYCHIC",
+        "firstPrint": "B4-067"
+    },
+    {
+        "id": "B4-068",
+        "name": {
+            "en": "Mime Jr.",
+            "es": "Mime Jr."
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "PSYCHIC",
+        "firstPrint": "B4-068"
+    },
+    {
+        "id": "B4-069",
+        "name": {
+            "en": "Mr. Mime",
+            "es": "Mr. Mime"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "PSYCHIC",
+        "firstPrint": "B4-069"
+    },
+    {
+        "id": "B4-070",
+        "name": {
+            "en": "Mewtwo",
+            "es": "Mewtwo"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "PSYCHIC",
+        "firstPrint": "B4-070"
+    },
+    {
+        "id": "B4-071",
+        "name": {
+            "en": "Ralts",
+            "es": "Ralts"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "PSYCHIC",
+        "firstPrint": "B4-071"
+    },
+    {
+        "id": "B4-072",
+        "name": {
+            "en": "Kirlia",
+            "es": "Kirlia"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "PSYCHIC",
+        "firstPrint": "B4-072"
+    },
+    {
+        "id": "B4-073",
+        "name": {
+            "en": "Chimecho",
+            "es": "Chimecho"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "PSYCHIC",
+        "firstPrint": "B4-073"
+    },
+    {
+        "id": "B4-074",
+        "name": {
+            "en": "Wynaut",
+            "es": "Wynaut"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "PSYCHIC",
+        "firstPrint": "B4-074"
+    },
+    {
+        "id": "B4-075",
+        "name": {
+            "en": "Woobat",
+            "es": "Woobat"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "PSYCHIC",
+        "firstPrint": "B4-075"
+    },
+    {
+        "id": "B4-076",
+        "name": {
+            "en": "Swoobat",
+            "es": "Swoobat"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "PSYCHIC",
+        "firstPrint": "B4-076"
+    },
+    {
+        "id": "B4-077",
+        "name": {
+            "en": "Hoopa",
+            "es": "Hoopa"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "PSYCHIC",
+        "firstPrint": "B4-077"
+    },
+    {
+        "id": "B4-078",
+        "name": {
+            "en": "Oricorio",
+            "es": "Oricorio"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "PSYCHIC",
+        "firstPrint": "B4-078"
+    },
+    {
+        "id": "B4-079",
+        "name": {
+            "en": "Makuhita",
+            "es": "Makuhita"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "FIGHTING",
+        "firstPrint": "B4-079"
+    },
+    {
+        "id": "B4-080",
+        "name": {
+            "en": "Hariyama",
+            "es": "Hariyama"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "FIGHTING",
+        "firstPrint": "B4-080"
+    },
+    {
+        "id": "B4-081",
+        "name": {
+            "en": "Anorith",
+            "es": "Anorith"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "FIGHTING",
+        "firstPrint": "B4-081"
+    },
+    {
+        "id": "B4-082",
+        "name": {
+            "en": "Armaldo",
+            "es": "Armaldo"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "FIGHTING",
+        "firstPrint": "B4-082"
+    },
+    {
+        "id": "B4-083",
+        "name": {
+            "en": "Groudon",
+            "es": "Groudon"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "FIGHTING",
+        "firstPrint": "B4-083"
+    },
+    {
+        "id": "B4-084",
+        "name": {
+            "en": "Mega Gallade ex",
+            "es": "Mega-Gallade ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "FIGHTING",
+        "firstPrint": "B4-084"
+    },
+    {
+        "id": "B4-085",
+        "name": {
+            "en": "Drilbur",
+            "es": "Drilbur"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "FIGHTING",
+        "firstPrint": "B4-085"
+    },
+    {
+        "id": "B4-086",
+        "name": {
+            "en": "Excadrill",
+            "es": "Excadrill"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "FIGHTING",
+        "firstPrint": "B4-086"
+    },
+    {
+        "id": "B4-087",
+        "name": {
+            "en": "Timburr",
+            "es": "Timburr"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "FIGHTING",
+        "firstPrint": "B4-087"
+    },
+    {
+        "id": "B4-088",
+        "name": {
+            "en": "Gurdurr",
+            "es": "Gurdurr"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "FIGHTING",
+        "firstPrint": "B4-088"
+    },
+    {
+        "id": "B4-089",
+        "name": {
+            "en": "Conkeldurr",
+            "es": "Conkeldurr"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "FIGHTING",
+        "firstPrint": "B4-089"
+    },
+    {
+        "id": "B4-090",
+        "name": {
+            "en": "Minior",
+            "es": "Minior"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "FIGHTING",
+        "firstPrint": "B4-090"
+    },
+    {
+        "id": "B4-091",
+        "name": {
+            "en": "Grimer",
+            "es": "Grimer"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "DARKNESS",
+        "firstPrint": "B4-091"
+    },
+    {
+        "id": "B4-092",
+        "name": {
+            "en": "Muk",
+            "es": "Muk"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "DARKNESS",
+        "firstPrint": "B4-092"
+    },
+    {
+        "id": "B4-093",
+        "name": {
+            "en": "Poochyena",
+            "es": "Poochyena"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "DARKNESS",
+        "firstPrint": "B4-093"
+    },
+    {
+        "id": "B4-094",
+        "name": {
+            "en": "Mightyena",
+            "es": "Mightyena"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "DARKNESS",
+        "firstPrint": "B4-094"
+    },
+    {
+        "id": "B4-095",
+        "name": {
+            "en": "Galarian Zigzagoon",
+            "es": "Zigzagoon de Galar"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "DARKNESS",
+        "firstPrint": "B4-095"
+    },
+    {
+        "id": "B4-096",
+        "name": {
+            "en": "Galarian Linoone",
+            "es": "Linoone de Galar"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "DARKNESS",
+        "firstPrint": "B4-096"
+    },
+    {
+        "id": "B4-097",
+        "name": {
+            "en": "Galarian Obstagoon",
+            "es": "Obstagoon de Galar"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "DARKNESS",
+        "firstPrint": "B4-097"
+    },
+    {
+        "id": "B4-098",
+        "name": {
+            "en": "Gulpin",
+            "es": "Gulpin"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "DARKNESS",
+        "firstPrint": "B4-098"
+    },
+    {
+        "id": "B4-099",
+        "name": {
+            "en": "Swalot",
+            "es": "Swalot"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "DARKNESS",
+        "firstPrint": "B4-099"
+    },
+    {
+        "id": "B4-100",
+        "name": {
+            "en": "Absol",
+            "es": "Absol"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "DARKNESS",
+        "firstPrint": "B4-100"
+    },
+    {
+        "id": "B4-101",
+        "name": {
+            "en": "Vullaby",
+            "es": "Vullaby"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "DARKNESS",
+        "firstPrint": "B4-101"
+    },
+    {
+        "id": "B4-102",
+        "name": {
+            "en": "Mandibuzz",
+            "es": "Mandibuzz"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "DARKNESS",
+        "firstPrint": "B4-102"
+    },
+    {
+        "id": "B4-103",
+        "name": {
+            "en": "Hoopa ex",
+            "es": "Hoopa ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "DARKNESS",
+        "firstPrint": "B4-103"
+    },
+    {
+        "id": "B4-104",
+        "name": {
+            "en": "Skarmory",
+            "es": "Skarmory"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "METAL",
+        "firstPrint": "B4-104"
+    },
+    {
+        "id": "B4-105",
+        "name": {
+            "en": "Mawile",
+            "es": "Mawile"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "METAL",
+        "firstPrint": "B4-105"
+    },
+    {
+        "id": "B4-106",
+        "name": {
+            "en": "Beldum",
+            "es": "Beldum"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "METAL",
+        "firstPrint": "B4-106"
+    },
+    {
+        "id": "B4-107",
+        "name": {
+            "en": "Metang",
+            "es": "Metang"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "METAL",
+        "firstPrint": "B4-107"
+    },
+    {
+        "id": "B4-108",
+        "name": {
+            "en": "Metagross",
+            "es": "Metagross"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "METAL",
+        "firstPrint": "B4-108"
+    },
+    {
+        "id": "B4-109",
+        "name": {
+            "en": "Mega Metagross ex",
+            "es": "Mega-Metagross ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "METAL",
+        "firstPrint": "B4-109"
+    },
+    {
+        "id": "B4-110",
+        "name": {
+            "en": "Escavalier",
+            "es": "Escavalier"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "METAL",
+        "firstPrint": "B4-110"
+    },
+    {
+        "id": "B4-111",
+        "name": {
+            "en": "Genesect",
+            "es": "Genesect"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "METAL",
+        "firstPrint": "B4-111"
+    },
+    {
+        "id": "B4-112",
+        "name": {
+            "en": "Duraludon",
+            "es": "Duraludon"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "METAL",
+        "firstPrint": "B4-112"
+    },
+    {
+        "id": "B4-113",
+        "name": {
+            "en": "Archaludon",
+            "es": "Archaludon"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "METAL",
+        "firstPrint": "B4-113"
+    },
+    {
+        "id": "B4-114",
+        "name": {
+            "en": "Varoom",
+            "es": "Varoom"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "METAL",
+        "firstPrint": "B4-114"
+    },
+    {
+        "id": "B4-115",
+        "name": {
+            "en": "Revavroom",
+            "es": "Revavroom"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "METAL",
+        "firstPrint": "B4-115"
+    },
+    {
+        "id": "B4-116",
+        "name": {
+            "en": "Dratini",
+            "es": "Dratini"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "DRAGON",
+        "firstPrint": "B4-116"
+    },
+    {
+        "id": "B4-117",
+        "name": {
+            "en": "Dragonair",
+            "es": "Dragonair"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "DRAGON",
+        "firstPrint": "B4-117"
+    },
+    {
+        "id": "B4-118",
+        "name": {
+            "en": "Dragonite",
+            "es": "Dragonite"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "DRAGON",
+        "firstPrint": "B4-118"
+    },
+    {
+        "id": "B4-119",
+        "name": {
+            "en": "Rayquaza",
+            "es": "Rayquaza"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "DRAGON",
+        "firstPrint": "B4-119"
+    },
+    {
+        "id": "B4-120",
+        "name": {
+            "en": "Mega Rayquaza ex",
+            "es": "Mega-Rayquaza ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "DRAGON",
+        "firstPrint": "B4-120"
+    },
+    {
+        "id": "B4-121",
+        "name": {
+            "en": "Noibat",
+            "es": "Noibat"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "DRAGON",
+        "firstPrint": "B4-121"
+    },
+    {
+        "id": "B4-122",
+        "name": {
+            "en": "Noivern",
+            "es": "Noivern"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "DRAGON",
+        "firstPrint": "B4-122"
+    },
+    {
+        "id": "B4-123",
+        "name": {
+            "en": "Turtonator",
+            "es": "Turtonator"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "DRAGON",
+        "firstPrint": "B4-123"
+    },
+    {
+        "id": "B4-124",
+        "name": {
+            "en": "Drampa",
+            "es": "Drampa"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "DRAGON",
+        "firstPrint": "B4-124"
+    },
+    {
+        "id": "B4-125",
+        "name": {
+            "en": "Applin",
+            "es": "Applin"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "DRAGON",
+        "firstPrint": "B4-125"
+    },
+    {
+        "id": "B4-126",
+        "name": {
+            "en": "Dipplin",
+            "es": "Dipplin"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "DRAGON",
+        "firstPrint": "B4-126"
+    },
+    {
+        "id": "B4-127",
+        "name": {
+            "en": "Hydrapple",
+            "es": "Hydrapple"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "DRAGON",
+        "firstPrint": "B4-127"
+    },
+    {
+        "id": "B4-128",
+        "name": {
+            "en": "Cyclizar",
+            "es": "Cyclizar"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "DRAGON",
+        "firstPrint": "B4-128"
+    },
+    {
+        "id": "B4-129",
+        "name": {
+            "en": "Rattata",
+            "es": "Rattata"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "COLORLESS",
+        "firstPrint": "B4-129"
+    },
+    {
+        "id": "B4-130",
+        "name": {
+            "en": "Raticate",
+            "es": "Raticate"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "COLORLESS",
+        "firstPrint": "B4-130"
+    },
+    {
+        "id": "B4-131",
+        "name": {
+            "en": "Eevee",
+            "es": "Eevee"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "COLORLESS",
+        "firstPrint": "B4-131"
+    },
+    {
+        "id": "B4-132",
+        "name": {
+            "en": "Aipom",
+            "es": "Aipom"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "COLORLESS",
+        "firstPrint": "B4-132"
+    },
+    {
+        "id": "B4-133",
+        "name": {
+            "en": "Ambipom",
+            "es": "Ambipom"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "COLORLESS",
+        "firstPrint": "B4-133"
+    },
+    {
+        "id": "B4-134",
+        "name": {
+            "en": "Skitty",
+            "es": "Skitty"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "COLORLESS",
+        "firstPrint": "B4-134"
+    },
+    {
+        "id": "B4-135",
+        "name": {
+            "en": "Delcatty",
+            "es": "Delcatty"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "COLORLESS",
+        "firstPrint": "B4-135"
+    },
+    {
+        "id": "B4-136",
+        "name": {
+            "en": "Kecleon",
+            "es": "Kecleon"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "COLORLESS",
+        "firstPrint": "B4-136"
+    },
+    {
+        "id": "B4-137",
+        "name": {
+            "en": "Pidove",
+            "es": "Pidove"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "COLORLESS",
+        "firstPrint": "B4-137"
+    },
+    {
+        "id": "B4-138",
+        "name": {
+            "en": "Tranquill",
+            "es": "Tranquill"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "COLORLESS",
+        "firstPrint": "B4-138"
+    },
+    {
+        "id": "B4-139",
+        "name": {
+            "en": "Unfezant",
+            "es": "Unfezant"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "COLORLESS",
+        "firstPrint": "B4-139"
+    },
+    {
+        "id": "B4-140",
+        "name": {
+            "en": "Ducklett",
+            "es": "Ducklett"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "COLORLESS",
+        "firstPrint": "B4-140"
+    },
+    {
+        "id": "B4-141",
+        "name": {
+            "en": "Swanna ex",
+            "es": "Swanna ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "COLORLESS",
+        "firstPrint": "B4-141"
+    },
+    {
+        "id": "B4-142",
+        "name": {
+            "en": "Furfrou",
+            "es": "Furfrou"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "COLORLESS",
+        "firstPrint": "B4-142"
+    },
+    {
+        "id": "B4-143",
+        "name": {
+            "en": "Type: Null",
+            "es": "Código Cero"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "COLORLESS",
+        "firstPrint": "B4-143"
+    },
+    {
+        "id": "B4-144",
+        "name": {
+            "en": "Silvally",
+            "es": "Silvally"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "COLORLESS",
+        "firstPrint": "B4-144"
+    },
+    {
+        "id": "B4-145",
+        "name": {
+            "en": "Order Pad",
+            "es": "Dispositivo de Pedidos"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "TRAINER",
+        "firstPrint": "B4-145"
+    },
+    {
+        "id": "B4-146",
+        "name": {
+            "en": "Claw Fossil",
+            "es": "Fósil Garra"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "TRAINER",
+        "firstPrint": "B4-146"
+    },
+    {
+        "id": "B4-147",
+        "name": {
+            "en": "Root Fossil",
+            "es": "Fósil Raíz"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "TRAINER",
+        "firstPrint": "B4-147"
+    },
+    {
+        "id": "B4-148",
+        "name": {
+            "en": "Deceptive Needle",
+            "es": "Aguja Granuja"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "TRAINER",
+        "firstPrint": "B4-148"
+    },
+    {
+        "id": "B4-149",
+        "name": {
+            "en": "Clear Veil",
+            "es": "Velo Traslúcido"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "TRAINER",
+        "firstPrint": "B4-149"
+    },
+    {
+        "id": "B4-150",
+        "name": {
+            "en": "Psychic",
+            "es": "Médium"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "PSYCHIC",
+        "firstPrint": "B4-150"
+    },
+    {
+        "id": "B4-151",
+        "name": {
+            "en": "Drayden",
+            "es": "Lirio"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "TRAINER",
+        "firstPrint": "B4-151"
+    },
+    {
+        "id": "B4-152",
+        "name": {
+            "en": "Skyla",
+            "es": "Gerania"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "TRAINER",
+        "firstPrint": "B4-152"
+    },
+    {
+        "id": "B4-153",
+        "name": {
+            "en": "Wally",
+            "es": "Blasco"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "TRAINER",
+        "firstPrint": "B4-153"
+    },
+    {
+        "id": "B4-154",
+        "name": {
+            "en": "Soothing Shore",
+            "es": "Orilla Reparadora"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "TRAINER",
+        "firstPrint": "B4-154"
+    },
+    {
+        "id": "B4-155",
+        "name": {
+            "en": "Rainbow Cave",
+            "es": "Cueva Arcoiris"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "TRAINER",
+        "firstPrint": "B4-155"
+    },
+    {
+        "id": "B4-156",
+        "name": {
+            "en": "Wurmple",
+            "es": "Wurmple"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "GRASS",
+        "firstPrint": "B4-156"
+    },
+    {
+        "id": "B4-157",
+        "name": {
+            "en": "Lileep",
+            "es": "Lileep"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "GRASS",
+        "firstPrint": "B4-157"
+    },
+    {
+        "id": "B4-158",
+        "name": {
+            "en": "Kricketune",
+            "es": "Kricketune"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "GRASS",
+        "firstPrint": "B4-158"
+    },
+    {
+        "id": "B4-159",
+        "name": {
+            "en": "Accelgor",
+            "es": "Accelgor"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "GRASS",
+        "firstPrint": "B4-159"
+    },
+    {
+        "id": "B4-160",
+        "name": {
+            "en": "Ponyta",
+            "es": "Ponyta"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "FIRE",
+        "firstPrint": "B4-160"
+    },
+    {
+        "id": "B4-161",
+        "name": {
+            "en": "Quilava",
+            "es": "Quilava"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "FIRE",
+        "firstPrint": "B4-161"
+    },
+    {
+        "id": "B4-162",
+        "name": {
+            "en": "Kyogre",
+            "es": "Kyogre"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "WATER",
+        "firstPrint": "B4-162"
+    },
+    {
+        "id": "B4-163",
+        "name": {
+            "en": "Samurott",
+            "es": "Samurott"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "WATER",
+        "firstPrint": "B4-163"
+    },
+    {
+        "id": "B4-164",
+        "name": {
+            "en": "Raichu",
+            "es": "Raichu"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "LIGHTNING",
+        "firstPrint": "B4-164"
+    },
+    {
+        "id": "B4-165",
+        "name": {
+            "en": "Wattrel",
+            "es": "Wattrel"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "LIGHTNING",
+        "firstPrint": "B4-165"
+    },
+    {
+        "id": "B4-166",
+        "name": {
+            "en": "Clefairy",
+            "es": "Clefairy"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "PSYCHIC",
+        "firstPrint": "B4-166"
+    },
+    {
+        "id": "B4-167",
+        "name": {
+            "en": "Ralts",
+            "es": "Ralts"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "PSYCHIC",
+        "firstPrint": "B4-167"
+    },
+    {
+        "id": "B4-168",
+        "name": {
+            "en": "Wynaut",
+            "es": "Wynaut"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "PSYCHIC",
+        "firstPrint": "B4-168"
+    },
+    {
+        "id": "B4-169",
+        "name": {
+            "en": "Oricorio",
+            "es": "Oricorio"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "PSYCHIC",
+        "firstPrint": "B4-169"
+    },
+    {
+        "id": "B4-170",
+        "name": {
+            "en": "Anorith",
+            "es": "Anorith"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "FIGHTING",
+        "firstPrint": "B4-170"
+    },
+    {
+        "id": "B4-171",
+        "name": {
+            "en": "Poochyena",
+            "es": "Poochyena"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "DARKNESS",
+        "firstPrint": "B4-171"
+    },
+    {
+        "id": "B4-172",
+        "name": {
+            "en": "Gulpin",
+            "es": "Gulpin"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "DARKNESS",
+        "firstPrint": "B4-172"
+    },
+    {
+        "id": "B4-173",
+        "name": {
+            "en": "Vullaby",
+            "es": "Vullaby"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "DARKNESS",
+        "firstPrint": "B4-173"
+    },
+    {
+        "id": "B4-174",
+        "name": {
+            "en": "Genesect",
+            "es": "Genesect"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "METAL",
+        "firstPrint": "B4-174"
+    },
+    {
+        "id": "B4-175",
+        "name": {
+            "en": "Dragonair",
+            "es": "Dragonair"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "DRAGON",
+        "firstPrint": "B4-175"
+    },
+    {
+        "id": "B4-176",
+        "name": {
+            "en": "Noivern",
+            "es": "Noivern"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "DRAGON",
+        "firstPrint": "B4-176"
+    },
+    {
+        "id": "B4-177",
+        "name": {
+            "en": "Cyclizar",
+            "es": "Cyclizar"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "DRAGON",
+        "firstPrint": "B4-177"
+    },
+    {
+        "id": "B4-178",
+        "name": {
+            "en": "Raticate",
+            "es": "Raticate"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "COLORLESS",
+        "firstPrint": "B4-178"
+    },
+    {
+        "id": "B4-179",
+        "name": {
+            "en": "Aipom",
+            "es": "Aipom"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "COLORLESS",
+        "firstPrint": "B4-179"
+    },
+    {
+        "id": "B4-180",
+        "name": {
+            "en": "Vespiquen ex",
+            "es": "Vespiquen ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "GRASS",
+        "firstPrint": "B4-180"
+    },
+    {
+        "id": "B4-181",
+        "name": {
+            "en": "Typhlosion ex",
+            "es": "Typhlosion ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "FIRE",
+        "firstPrint": "B4-181"
+    },
+    {
+        "id": "B4-182",
+        "name": {
+            "en": "Mega Sharpedo ex",
+            "es": "Mega-Sharpedo ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "WATER",
+        "firstPrint": "B4-182"
+    },
+    {
+        "id": "B4-183",
+        "name": {
+            "en": "Wailord ex",
+            "es": "Wailord ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "WATER",
+        "firstPrint": "B4-183"
+    },
+    {
+        "id": "B4-184",
+        "name": {
+            "en": "Rotom ex",
+            "es": "Rotom ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "LIGHTNING",
+        "firstPrint": "B4-184"
+    },
+    {
+        "id": "B4-185",
+        "name": {
+            "en": "Mega Gallade ex",
+            "es": "Mega-Gallade ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "FIGHTING",
+        "firstPrint": "B4-185"
+    },
+    {
+        "id": "B4-186",
+        "name": {
+            "en": "Hoopa ex",
+            "es": "Hoopa ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "DARKNESS",
+        "firstPrint": "B4-186"
+    },
+    {
+        "id": "B4-187",
+        "name": {
+            "en": "Mega Metagross ex",
+            "es": "Mega-Metagross ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "METAL",
+        "firstPrint": "B4-187"
+    },
+    {
+        "id": "B4-188",
+        "name": {
+            "en": "Mega Rayquaza ex",
+            "es": "Mega-Rayquaza ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "DRAGON",
+        "firstPrint": "B4-188"
+    },
+    {
+        "id": "B4-189",
+        "name": {
+            "en": "Swanna ex",
+            "es": "Swanna ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "COLORLESS",
+        "firstPrint": "B4-189"
+    },
+    {
+        "id": "B4-190",
+        "name": {
+            "en": "Psychic",
+            "es": "Médium"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "PSYCHIC",
+        "firstPrint": "B4-190"
+    },
+    {
+        "id": "B4-191",
+        "name": {
+            "en": "Drayden",
+            "es": "Lirio"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "TRAINER",
+        "firstPrint": "B4-191"
+    },
+    {
+        "id": "B4-192",
+        "name": {
+            "en": "Skyla",
+            "es": "Gerania"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "TRAINER",
+        "firstPrint": "B4-192"
+    },
+    {
+        "id": "B4-193",
+        "name": {
+            "en": "Wally",
+            "es": "Blasco"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "TRAINER",
+        "firstPrint": "B4-193"
+    },
+    {
+        "id": "B4-194",
+        "name": {
+            "en": "Vespiquen ex",
+            "es": "Vespiquen ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "GRASS",
+        "firstPrint": "B4-194"
+    },
+    {
+        "id": "B4-195",
+        "name": {
+            "en": "Typhlosion ex",
+            "es": "Typhlosion ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "FIRE",
+        "firstPrint": "B4-195"
+    },
+    {
+        "id": "B4-196",
+        "name": {
+            "en": "Mega Sharpedo ex",
+            "es": "Mega-Sharpedo ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "WATER",
+        "firstPrint": "B4-196"
+    },
+    {
+        "id": "B4-197",
+        "name": {
+            "en": "Wailord ex",
+            "es": "Wailord ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "WATER",
+        "firstPrint": "B4-197"
+    },
+    {
+        "id": "B4-198",
+        "name": {
+            "en": "Mega Gallade ex",
+            "es": "Mega-Gallade ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "FIGHTING",
+        "firstPrint": "B4-198"
+    },
+    {
+        "id": "B4-199",
+        "name": {
+            "en": "Hoopa ex",
+            "es": "Hoopa ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "DARKNESS",
+        "firstPrint": "B4-199"
+    },
+    {
+        "id": "B4-200",
+        "name": {
+            "en": "Mega Metagross ex",
+            "es": "Mega-Metagross ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "METAL",
+        "firstPrint": "B4-200"
+    },
+    {
+        "id": "B4-201",
+        "name": {
+            "en": "Swanna ex",
+            "es": "Swanna ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "COLORLESS",
+        "firstPrint": "B4-201"
+    },
+    {
+        "id": "B4-202",
+        "name": {
+            "en": "Rotom ex",
+            "es": "Rotom ex"
+        },
+        "rarity": "THREE_STAR",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "LIGHTNING",
+        "firstPrint": "B4-202"
+    },
+    {
+        "id": "B4-203",
+        "name": {
+            "en": "Mega Rayquaza ex",
+            "es": "Mega-Rayquaza ex"
+        },
+        "rarity": "THREE_STAR",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "DRAGON",
+        "firstPrint": "B4-203"
+    },
+    {
+        "id": "B4-204",
+        "name": {
+            "en": "Alolan Vulpix",
+            "es": "Vulpix de Alola"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "WATER",
+        "extra": true,
+        "firstPrint": "B4-204"
+    },
+    {
+        "id": "B4-205",
+        "name": {
+            "en": "Mudkip",
+            "es": "Mudkip"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "WATER",
+        "extra": true,
+        "firstPrint": "B4-205"
+    },
+    {
+        "id": "B4-206",
+        "name": {
+            "en": "Marshtomp",
+            "es": "Marshtomp"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "WATER",
+        "extra": true,
+        "firstPrint": "B4-206"
+    },
+    {
+        "id": "B4-207",
+        "name": {
+            "en": "Swampert",
+            "es": "Swampert"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "WATER",
+        "extra": true,
+        "firstPrint": "B4-207"
+    },
+    {
+        "id": "B4-208",
+        "name": {
+            "en": "Electabuzz",
+            "es": "Electabuzz"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "LIGHTNING",
+        "extra": true,
+        "firstPrint": "B4-208"
+    },
+    {
+        "id": "B4-209",
+        "name": {
+            "en": "Plusle",
+            "es": "Plusle"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "LIGHTNING",
+        "extra": true,
+        "firstPrint": "B4-209"
+    },
+    {
+        "id": "B4-210",
+        "name": {
+            "en": "Minun",
+            "es": "Minun"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "LIGHTNING",
+        "extra": true,
+        "firstPrint": "B4-210"
+    },
+    {
+        "id": "B4-211",
+        "name": {
+            "en": "Mr. Mime",
+            "es": "Mr. Mime"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "PSYCHIC",
+        "extra": true,
+        "firstPrint": "B4-211"
+    },
+    {
+        "id": "B4-212",
+        "name": {
+            "en": "Mewtwo",
+            "es": "Mewtwo"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "PSYCHIC",
+        "extra": true,
+        "firstPrint": "B4-212"
+    },
+    {
+        "id": "B4-213",
+        "name": {
+            "en": "Roggenrola",
+            "es": "Roggenrola"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "FIGHTING",
+        "extra": true,
+        "firstPrint": "B4-213"
+    },
+    {
+        "id": "B4-214",
+        "name": {
+            "en": "Boldore",
+            "es": "Boldore"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "FIGHTING",
+        "extra": true,
+        "firstPrint": "B4-214"
+    },
+    {
+        "id": "B4-215",
+        "name": {
+            "en": "Falinks",
+            "es": "Falinks"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "FIGHTING",
+        "extra": true,
+        "firstPrint": "B4-215"
+    },
+    {
+        "id": "B4-216",
+        "name": {
+            "en": "Koffing",
+            "es": "Koffing"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "DARKNESS",
+        "extra": true,
+        "firstPrint": "B4-216"
+    },
+    {
+        "id": "B4-217",
+        "name": {
+            "en": "Weezing",
+            "es": "Weezing"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "DARKNESS",
+        "extra": true,
+        "firstPrint": "B4-217"
+    },
+    {
+        "id": "B4-218",
+        "name": {
+            "en": "Galarian Meowth",
+            "es": "Meowth de Galar"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "METAL",
+        "extra": true,
+        "firstPrint": "B4-218"
+    },
+    {
+        "id": "B4-219",
+        "name": {
+            "en": "Galarian Perrserker",
+            "es": "Perrserker de Galar"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "METAL",
+        "extra": true,
+        "firstPrint": "B4-219"
+    },
+    {
+        "id": "B4-220",
+        "name": {
+            "en": "Rattata",
+            "es": "Rattata"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "COLORLESS",
+        "extra": true,
+        "firstPrint": "B4-220"
+    },
+    {
+        "id": "B4-221",
+        "name": {
+            "en": "Raticate",
+            "es": "Raticate"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "COLORLESS",
+        "extra": true,
+        "firstPrint": "B4-221"
+    },
+    {
+        "id": "B4-222",
+        "name": {
+            "en": "Smeargle",
+            "es": "Smeargle"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "COLORLESS",
+        "extra": true,
+        "firstPrint": "B4-222"
+    },
+    {
+        "id": "B4-223",
+        "name": {
+            "en": "Buneary",
+            "es": "Buneary"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "COLORLESS",
+        "extra": true,
+        "firstPrint": "B4-223"
+    },
+    {
+        "id": "B4-224",
+        "name": {
+            "en": "Blacephalon ex",
+            "es": "Blacephalon ex"
+        },
+        "rarity": "TWO_SHINY",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "FIRE",
+        "extra": true,
+        "firstPrint": "B4-224"
+    },
+    {
+        "id": "B4-225",
+        "name": {
+            "en": "Alolan Ninetales ex",
+            "es": "Ninetales de Alola ex"
+        },
+        "rarity": "TWO_SHINY",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "WATER",
+        "extra": true,
+        "firstPrint": "B4-225"
+    },
+    {
+        "id": "B4-226",
+        "name": {
+            "en": "Mega Swampert ex",
+            "es": "Mega-Swampert ex"
+        },
+        "rarity": "TWO_SHINY",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "WATER",
+        "extra": true,
+        "firstPrint": "B4-226"
+    },
+    {
+        "id": "B4-227",
+        "name": {
+            "en": "Mega Gardevoir ex",
+            "es": "Mega-Gardevoir ex"
+        },
+        "rarity": "TWO_SHINY",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "PSYCHIC",
+        "extra": true,
+        "firstPrint": "B4-227"
+    },
+    {
+        "id": "B4-228",
+        "name": {
+            "en": "Mega Lopunny ex",
+            "es": "Mega-Lopunny ex"
+        },
+        "rarity": "TWO_SHINY",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "FIGHTING",
+        "extra": true,
+        "firstPrint": "B4-228"
+    },
+    {
+        "id": "B4-229",
+        "name": {
+            "en": "Gigalith ex",
+            "es": "Gigalith ex"
+        },
+        "rarity": "TWO_SHINY",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "FIGHTING",
+        "extra": true,
+        "firstPrint": "B4-229"
+    },
+    {
+        "id": "B4-230",
+        "name": {
+            "en": "Zoroark ex",
+            "es": "Zoroark ex"
+        },
+        "rarity": "TWO_SHINY",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "DARKNESS",
+        "extra": true,
+        "firstPrint": "B4-230"
+    },
+    {
+        "id": "B4-231",
+        "name": {
+            "en": "Mega Kangaskhan ex",
+            "es": "Mega-Kangaskhan ex"
+        },
+        "rarity": "TWO_SHINY",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "COLORLESS",
+        "extra": true,
+        "firstPrint": "B4-231"
+    },
+    {
+        "id": "B4-232",
+        "name": {
+            "en": "Raichu",
+            "es": "Raichu"
+        },
+        "rarity": "CROWN",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "LIGHTNING",
+        "firstPrint": "B4-232"
+    },
+    {
+        "id": "B4-233",
+        "name": {
+            "en": "Dragonair",
+            "es": "Dragonair"
+        },
+        "rarity": "CROWN",
+        "origins": [
+            "MEGA_RAYQUAZA"
+        ],
+        "type": "DRAGON",
+        "firstPrint": "B4-233"
+    }
+]
