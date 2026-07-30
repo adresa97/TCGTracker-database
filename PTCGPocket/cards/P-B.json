@@ -1012,5 +1012,109 @@
         ],
         "type": "LIGHTNING",
         "firstPrint": "P-B-078"
+    },
+    {
+        "id": "P-B-079",
+        "name": {
+            "en": "Celebi",
+            "es": "Celebi"
+        },
+        "rarity": "NONE",
+        "origins": [
+            "PREMIUM"
+        ],
+        "type": "GRASS",
+        "firstPrint": "P-B-079"
+    },
+    {
+        "id": "P-B-080",
+        "name": {
+            "en": "Mega Houndoom ex",
+            "es": "Mega-Houndoom ex"
+        },
+        "rarity": "NONE",
+        "origins": [
+            "DROP_EVENT"
+        ],
+        "type": "FIRE",
+        "firstPrint": "P-B-080"
+    },
+    {
+        "id": "P-B-081",
+        "name": {
+            "en": "Carvanha",
+            "es": "Carvanha"
+        },
+        "rarity": "NONE",
+        "origins": [
+            "DROP_EVENT"
+        ],
+        "type": "WATER",
+        "firstPrint": "P-B-081"
+    },
+    {
+        "id": "P-B-082",
+        "name": {
+            "en": "Pikachu",
+            "es": "Pikachu"
+        },
+        "rarity": "NONE",
+        "origins": [
+            "DROP_EVENT"
+        ],
+        "type": "LIGHTNING",
+        "firstPrint": "P-B-082"
+    },
+    {
+        "id": "P-B-083",
+        "name": {
+            "en": "Noivern",
+            "es": "Noivern"
+        },
+        "rarity": "NONE",
+        "origins": [
+            "DROP_EVENT"
+        ],
+        "type": "DRAGON",
+        "firstPrint": "P-B-083"
+    },
+    {
+        "id": "P-B-084",
+        "name": {
+            "en": "Skitty",
+            "es": "Skitty"
+        },
+        "rarity": "NONE",
+        "origins": [
+            "DROP_EVENT"
+        ],
+        "type": "COLORLESS",
+        "firstPrint": "P-B-084"
+    },
+    {
+        "id": "P-B-085",
+        "name": {
+            "en": "Pachirisu",
+            "es": "Pachirisu"
+        },
+        "rarity": "NONE",
+        "origins": [
+            "WONDER_EVENT"
+        ],
+        "type": "LIGHTNING",
+        "firstPrint": "P-B-085"
+    },
+    {
+        "id": "P-B-086",
+        "name": {
+            "en": "Beldum",
+            "es": "Beldum"
+        },
+        "rarity": "NONE",
+        "origins": [
+            "WONDER_EVENT"
+        ],
+        "type": "METAL",
+        "firstPrint": "P-B-086"
     }
 ]

@@ -271,5 +271,18 @@
     "color": [230.0, 222.0, 122.0],
     "cardCount": 106,
     "origins": ["SYLVEON_WONDERS"]
+  },
+  {
+    "set": "B4",
+    "expansion": "B4",
+    "series": "B",
+    "name": {
+      "en": "Ruler of the Skies",
+      "es": "Dominador de los Cielos"
+    },
+    "cover": "https://raw.githubusercontent.com/adresa97/TCGTracker-database/refs/heads/main/PTCGPocket/covers/b4_ruler_skies_en.png",
+    "color": [69.0, 213.0, 51.0],
+    "cardCount": 233,
+    "origins": ["MEGA_RAYQUAZA"]
   }
 ]
