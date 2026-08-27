@@ -1116,5 +1116,109 @@
         ],
         "type": "METAL",
         "firstPrint": "P-B-086"
+    },
+    {
+        "id": "P-B-087",
+        "name": {
+            "en": "Mega Sceptile ex",
+            "es": "Mega-Sceptile ex"
+        },
+        "rarity": "NONE",
+        "origins": [
+            "PREMIUM"
+        ],
+        "type": "GRASS",
+        "firstPrint": "P-B-087"
+    },
+    {
+        "id": "P-B-088",
+        "name": {
+            "en": "Team Rocket's Scyther",
+            "es": "Scyther del Team Rocket"
+        },
+        "rarity": "NONE",
+        "origins": [
+            "DROP_EVENT"
+        ],
+        "type": "GRASS",
+        "firstPrint": "P-B-088"
+    },
+    {
+        "id": "P-B-089",
+        "name": {
+            "en": "Team Rocket's Lapras",
+            "es": "Lapras del Team Rocket"
+        },
+        "rarity": "NONE",
+        "origins": [
+            "DROP_EVENT"
+        ],
+        "type": "WATER",
+        "firstPrint": "P-B-089"
+    },
+    {
+        "id": "P-B-090",
+        "name": {
+            "en": "Wingull",
+            "es": "Wingull"
+        },
+        "rarity": "NONE",
+        "origins": [
+            "DROP_EVENT"
+        ],
+        "type": "WATER",
+        "firstPrint": "P-B-090"
+    },
+    {
+        "id": "P-B-091",
+        "name": {
+            "en": "Team Rocket's Wobbuffet",
+            "es": "Wobbuffet del Team Rocket"
+        },
+        "rarity": "NONE",
+        "origins": [
+            "DROP_EVENT"
+        ],
+        "type": "PSYCHIC",
+        "firstPrint": "P-B-091"
+    },
+    {
+        "id": "P-B-092",
+        "name": {
+            "en": "Marowak",
+            "es": "Marowak"
+        },
+        "rarity": "NONE",
+        "origins": [
+            "DROP_EVENT"
+        ],
+        "type": "FIGHTING",
+        "firstPrint": "P-B-092"
+    },
+    {
+        "id": "P-B-093",
+        "name": {
+            "en": "Fennekin",
+            "es": "Fennekin"
+        },
+        "rarity": "NONE",
+        "origins": [
+            "WONDER_EVENT"
+        ],
+        "type": "FIRE",
+        "firstPrint": "P-B-093"
+    },
+    {
+        "id": "P-B-093",
+        "name": {
+            "en": "Meowstic",
+            "es": "Meowstic"
+        },
+        "rarity": "NONE",
+        "origins": [
+            "WONDER_EVENT"
+        ],
+        "type": "PSYCHIC",
+        "firstPrint": "P-B-093"
     }
 ]
