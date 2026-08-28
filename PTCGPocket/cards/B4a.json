@@ -1,0 +1,1446 @@
+[
+    {
+        "id": "B4a-001",
+        "name": {
+            "en": "Volbeat",
+            "es": "Volbeat"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "TEAM_ROCKET"
+        ],
+        "type": "GRASS",
+        "firstPrint": "B4a-001"
+    },
+    {
+        "id": "B4a-002",
+        "name": {
+            "en": "Illumise",
+            "es": "Illumise"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "TEAM_ROCKET"
+        ],
+        "type": "GRASS",
+        "firstPrint": "B4a-002"
+    },
+    {
+        "id": "B4a-003",
+        "name": {
+            "en": "Snivy",
+            "es": "Snivy"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "TEAM_ROCKET"
+        ],
+        "type": "GRASS",
+        "firstPrint": "B4a-003"
+    },
+    {
+        "id": "B4a-004",
+        "name": {
+            "en": "Servine",
+            "es": "Servine"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "TEAM_ROCKET"
+        ],
+        "type": "GRASS",
+        "firstPrint": "B4a-004"
+    },
+    {
+        "id": "B4a-005",
+        "name": {
+            "en": "Serperior",
+            "es": "Serperior"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "TEAM_ROCKET"
+        ],
+        "type": "GRASS",
+        "firstPrint": "B4a-005"
+    },
+    {
+        "id": "B4a-006",
+        "name": {
+            "en": "Team Rocket's Magmar",
+            "es": "Magmar del Team Rocket"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "TEAM_ROCKET"
+        ],
+        "type": "FIRE",
+        "firstPrint": "B4a-006"
+    },
+    {
+        "id": "B4a-007",
+        "name": {
+            "en": "Team Rocket's Moltres ex",
+            "es": "Moltres ex del Team Rocket"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "TEAM_ROCKET"
+        ],
+        "type": "FIRE",
+        "firstPrint": "B4a-007"
+    },
+    {
+        "id": "B4a-008",
+        "name": {
+            "en": "Team Rocket's Houndour",
+            "es": "Houndour del Team Rocket"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "TEAM_ROCKET"
+        ],
+        "type": "FIRE",
+        "firstPrint": "B4a-008"
+    },
+    {
+        "id": "B4a-009",
+        "name": {
+            "en": "Team Rocket's Houndoom",
+            "es": "Houndoom del Team Rocket"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "TEAM_ROCKET"
+        ],
+        "type": "FIRE",
+        "firstPrint": "B4a-009"
+    },
+    {
+        "id": "B4a-010",
+        "name": {
+            "en": "Fennekin",
+            "es": "Fennekin"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "TEAM_ROCKET"
+        ],
+        "type": "FIRE",
+        "firstPrint": "B4a-010"
+    },
+    {
+        "id": "B4a-011",
+        "name": {
+            "en": "Braixen",
+            "es": "Braixen"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "TEAM_ROCKET"
+        ],
+        "type": "FIRE",
+        "firstPrint": "B4a-011"
+    },
+    {
+        "id": "B4a-012",
+        "name": {
+            "en": "Delphox",
+            "es": "Delphox"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "TEAM_ROCKET"
+        ],
+        "type": "FIRE",
+        "firstPrint": "B4a-012"
+    },
+    {
+        "id": "B4a-013",
+        "name": {
+            "en": "Team Rocket's Lapras",
+            "es": "Lapras del Team Rocket"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "TEAM_ROCKET"
+        ],
+        "type": "WATER",
+        "firstPrint": "B4a-013"
+    },
+    {
+        "id": "B4a-014",
+        "name": {
+            "en": "Team Rocket's Articuno ex",
+            "es": "Articuno ex del Team Rocket"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "TEAM_ROCKET"
+        ],
+        "type": "WATER",
+        "firstPrint": "B4a-014"
+    },
+    {
+        "id": "B4a-015",
+        "name": {
+            "en": "Wingull",
+            "es": "Wingull"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "TEAM_ROCKET"
+        ],
+        "type": "WATER",
+        "firstPrint": "B4a-015"
+    },
+    {
+        "id": "B4a-016",
+        "name": {
+            "en": "Pelipper",
+            "es": "Pelipper"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "TEAM_ROCKET"
+        ],
+        "type": "WATER",
+        "firstPrint": "B4a-016"
+    },
+    {
+        "id": "B4a-017",
+        "name": {
+            "en": "Hisuian Basculin",
+            "es": "Basculin de Hisui"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "TEAM_ROCKET"
+        ],
+        "type": "WATER",
+        "firstPrint": "B4a-017"
+    },
+    {
+        "id": "B4a-018",
+        "name": {
+            "en": "Hisuian Basculegion",
+            "es": "Basculegion de Hisui"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "TEAM_ROCKET"
+        ],
+        "type": "WATER",
+        "firstPrint": "B4a-018"
+    },
+    {
+        "id": "B4a-019",
+        "name": {
+            "en": "Team Rocket's Voltorb",
+            "es": "Voltorb del Team Rocket"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "TEAM_ROCKET"
+        ],
+        "type": "LIGHTNING",
+        "firstPrint": "B4a-019"
+    },
+    {
+        "id": "B4a-020",
+        "name": {
+            "en": "Team Rocket's Electrode",
+            "es": "Electrode del Team Rocket"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "TEAM_ROCKET"
+        ],
+        "type": "LIGHTNING",
+        "firstPrint": "B4a-020"
+    },
+    {
+        "id": "B4a-021",
+        "name": {
+            "en": "Team Rocket's Zapdos ex",
+            "es": "Zapdos ex del Team Rocket"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "TEAM_ROCKET"
+        ],
+        "type": "LIGHTNING",
+        "firstPrint": "B4a-021"
+    },
+    {
+        "id": "B4a-022",
+        "name": {
+            "en": "Blitzle",
+            "es": "Blitzle"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "TEAM_ROCKET"
+        ],
+        "type": "LIGHTNING",
+        "firstPrint": "B4a-022"
+    },
+    {
+        "id": "B4a-023",
+        "name": {
+            "en": "Zebstrika",
+            "es": "Zebstrika"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "TEAM_ROCKET"
+        ],
+        "type": "LIGHTNING",
+        "firstPrint": "B4a-023"
+    },
+    {
+        "id": "B4a-024",
+        "name": {
+            "en": "Team Rocket's Pincurchin",
+            "es": "Pincurchin del Team Rocket"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "TEAM_ROCKET"
+        ],
+        "type": "LIGHTNING",
+        "firstPrint": "B4a-024"
+    },
+    {
+        "id": "B4a-025",
+        "name": {
+            "en": "Team Rocket's Slowpoke",
+            "es": "Slowpoke del Team Rocket"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "TEAM_ROCKET"
+        ],
+        "type": "PSYCHIC",
+        "firstPrint": "B4a-025"
+    },
+    {
+        "id": "B4a-026",
+        "name": {
+            "en": "Team Rocket's Slowking ex",
+            "es": "Slowking ex del Team Rocket"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "TEAM_ROCKET"
+        ],
+        "type": "PSYCHIC",
+        "firstPrint": "B4a-026"
+    },
+    {
+        "id": "B4a-027",
+        "name": {
+            "en": "Team Rocket's Drowzee",
+            "es": "Drowzee del Team Rocket"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "TEAM_ROCKET"
+        ],
+        "type": "PSYCHIC",
+        "firstPrint": "B4a-027"
+    },
+    {
+        "id": "B4a-028",
+        "name": {
+            "en": "Team Rocket's Hypno",
+            "es": "Hypno del Team Rocket"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "TEAM_ROCKET"
+        ],
+        "type": "PSYCHIC",
+        "firstPrint": "B4a-028"
+    },
+    {
+        "id": "B4a-029",
+        "name": {
+            "en": "Team Rocket's Mr. Mime",
+            "es": "Mr. Mime del Team Rocket"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "TEAM_ROCKET"
+        ],
+        "type": "PSYCHIC",
+        "firstPrint": "B4a-029"
+    },
+    {
+        "id": "B4a-030",
+        "name": {
+            "en": "Team Rocket's Mewtwo",
+            "es": "Mewtwo del Team Rocket"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "TEAM_ROCKET"
+        ],
+        "type": "PSYCHIC",
+        "firstPrint": "B4a-030"
+    },
+    {
+        "id": "B4a-031",
+        "name": {
+            "en": "Espurr",
+            "es": "Espurr"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "TEAM_ROCKET"
+        ],
+        "type": "PSYCHIC",
+        "firstPrint": "B4a-031"
+    },
+    {
+        "id": "B4a-032",
+        "name": {
+            "en": "Meowstic",
+            "es": "Meowstic"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "TEAM_ROCKET"
+        ],
+        "type": "PSYCHIC",
+        "firstPrint": "B4a-032"
+    },
+    {
+        "id": "B4a-033",
+        "name": {
+            "en": "Oranguru",
+            "es": "Oranguru"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "TEAM_ROCKET"
+        ],
+        "type": "PSYCHIC",
+        "firstPrint": "B4a-033"
+    },
+    {
+        "id": "B4a-034",
+        "name": {
+            "en": "Gimmighoul",
+            "es": "Gimmighoul"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "TEAM_ROCKET"
+        ],
+        "type": "PSYCHIC",
+        "firstPrint": "B4a-034"
+    },
+    {
+        "id": "B4a-035",
+        "name": {
+            "en": "Cubone",
+            "es": "Cubone"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "TEAM_ROCKET"
+        ],
+        "type": "FIGHTING",
+        "firstPrint": "B4a-035"
+    },
+    {
+        "id": "B4a-036",
+        "name": {
+            "en": "Marowak",
+            "es": "Marowak"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "TEAM_ROCKET"
+        ],
+        "type": "FIGHTING",
+        "firstPrint": "B4a-036"
+    },
+    {
+        "id": "B4a-037",
+        "name": {
+            "en": "Landorus",
+            "es": "Landorus"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "TEAM_ROCKET"
+        ],
+        "type": "FIGHTING",
+        "firstPrint": "B4a-037"
+    },
+    {
+        "id": "B4a-038",
+        "name": {
+            "en": "Team Rocket's Ekans",
+            "es": "Ekans del Team Rocket"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "TEAM_ROCKET"
+        ],
+        "type": "DARKNESS",
+        "firstPrint": "B4a-038"
+    },
+    {
+        "id": "B4a-039",
+        "name": {
+            "en": "Team Rocket's Arbok",
+            "es": "Arbok del Team Rocket"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "TEAM_ROCKET"
+        ],
+        "type": "DARKNESS",
+        "firstPrint": "B4a-039"
+    },
+    {
+        "id": "B4a-040",
+        "name": {
+            "en": "Team Rocket's Grimer",
+            "es": "Grimer del Team Rocket"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "TEAM_ROCKET"
+        ],
+        "type": "DARKNESS",
+        "firstPrint": "B4a-040"
+    },
+    {
+        "id": "B4a-041",
+        "name": {
+            "en": "Team Rocket's Muk",
+            "es": "Muk del Team Rocket"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "TEAM_ROCKET"
+        ],
+        "type": "DARKNESS",
+        "firstPrint": "B4a-041"
+    },
+    {
+        "id": "B4a-042",
+        "name": {
+            "en": "Team Rocket's Koffing",
+            "es": "Koffing del Team Rocket"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "TEAM_ROCKET"
+        ],
+        "type": "DARKNESS",
+        "firstPrint": "B4a-042"
+    },
+    {
+        "id": "B4a-043",
+        "name": {
+            "en": "Team Rocket's Weezing ex",
+            "es": "Weezing ex del Team Rocket"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "TEAM_ROCKET"
+        ],
+        "type": "DARKNESS",
+        "firstPrint": "B4a-043"
+    },
+    {
+        "id": "B4a-044",
+        "name": {
+            "en": "Team Rocket's Sneasel",
+            "es": "Sneasel del Team Rocket"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "TEAM_ROCKET"
+        ],
+        "type": "DARKNESS",
+        "firstPrint": "B4a-044"
+    },
+    {
+        "id": "B4a-045",
+        "name": {
+            "en": "Togedemaru",
+            "es": "Togedemaru"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "TEAM_ROCKET"
+        ],
+        "type": "METAL",
+        "firstPrint": "B4a-045"
+    },
+    {
+        "id": "B4a-046",
+        "name": {
+            "en": "Cufant",
+            "es": "Cufant"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "TEAM_ROCKET"
+        ],
+        "type": "METAL",
+        "firstPrint": "B4a-046"
+    },
+    {
+        "id": "B4a-047",
+        "name": {
+            "en": "Copperajah",
+            "es": "Copperajah"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "TEAM_ROCKET"
+        ],
+        "type": "METAL",
+        "firstPrint": "B4a-047"
+    },
+    {
+        "id": "B4a-048",
+        "name": {
+            "en": "Team Rocket's Tinkatink",
+            "es": "Tinkatink del Team Rocket"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "TEAM_ROCKET"
+        ],
+        "type": "METAL",
+        "firstPrint": "B4a-048"
+    },
+    {
+        "id": "B4a-049",
+        "name": {
+            "en": "Team Rocket's Tinkatuff",
+            "es": "Tinkatuff del Team Rocket"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "TEAM_ROCKET"
+        ],
+        "type": "METAL",
+        "firstPrint": "B4a-049"
+    },
+    {
+        "id": "B4a-050",
+        "name": {
+            "en": "Team Rocket's Tinkaton",
+            "es": "Tinkaton del Team Rocket"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "TEAM_ROCKET"
+        ],
+        "type": "METAL",
+        "firstPrint": "B4a-050"
+    },
+    {
+        "id": "B4a-051",
+        "name": {
+            "en": "Gholdengo",
+            "es": "Gholdengo"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "TEAM_ROCKET"
+        ],
+        "type": "METAL",
+        "firstPrint": "B4a-051"
+    },
+    {
+        "id": "B4a-052",
+        "name": {
+            "en": "Gible",
+            "es": "Gible"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "TEAM_ROCKET"
+        ],
+        "type": "DRAGON",
+        "firstPrint": "B4a-052"
+    },
+    {
+        "id": "B4a-053",
+        "name": {
+            "en": "Gabite",
+            "es": "Gabite"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "TEAM_ROCKET"
+        ],
+        "type": "DRAGON",
+        "firstPrint": "B4a-053"
+    },
+    {
+        "id": "B4a-054",
+        "name": {
+            "en": "Garchomp",
+            "es": "Garchomp"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "TEAM_ROCKET"
+        ],
+        "type": "DRAGON",
+        "firstPrint": "B4a-054"
+    },
+    {
+        "id": "B4a-055",
+        "name": {
+            "en": "Duraludon",
+            "es": "Duraludon"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "TEAM_ROCKET"
+        ],
+        "type": "DRAGON",
+        "firstPrint": "B4a-055"
+    },
+    {
+        "id": "B4a-056",
+        "name": {
+            "en": "Archaludon",
+            "es": "Archaludon"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "TEAM_ROCKET"
+        ],
+        "type": "DRAGON",
+        "firstPrint": "B4a-056"
+    },
+    {
+        "id": "B4a-057",
+        "name": {
+            "en": "Regidrago",
+            "es": "Regidrago"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "TEAM_ROCKET"
+        ],
+        "type": "DRAGON",
+        "firstPrint": "B4a-057"
+    },
+    {
+        "id": "B4a-058",
+        "name": {
+            "en": "Team Rocket's Rattata",
+            "es": "Rattata del Team Rocket"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "TEAM_ROCKET"
+        ],
+        "type": "COLORLESS",
+        "firstPrint": "B4a-058"
+    },
+    {
+        "id": "B4a-059",
+        "name": {
+            "en": "Team Rocket's Raticate ex",
+            "es": "Raticate ex del Team Rocket"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "TEAM_ROCKET"
+        ],
+        "type": "COLORLESS",
+        "firstPrint": "B4a-059"
+    },
+    {
+        "id": "B4a-060",
+        "name": {
+            "en": "Team Rocket's Meowth",
+            "es": "Meowth del Team Rocket"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "TEAM_ROCKET"
+        ],
+        "type": "COLORLESS",
+        "firstPrint": "B4a-060"
+    },
+    {
+        "id": "B4a-061",
+        "name": {
+            "en": "Team Rocket's Persian",
+            "es": "Persian del Team Rocket"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "TEAM_ROCKET"
+        ],
+        "type": "COLORLESS",
+        "firstPrint": "B4a-061"
+    },
+    {
+        "id": "B4a-062",
+        "name": {
+            "en": "Team Rocket's Kecleon",
+            "es": "Kecleon del Team Rocket"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "TEAM_ROCKET"
+        ],
+        "type": "COLORLESS",
+        "firstPrint": "B4a-062"
+    },
+    {
+        "id": "B4a-063",
+        "name": {
+            "en": "Happiny",
+            "es": "Happiny"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "TEAM_ROCKET"
+        ],
+        "type": "COLORLESS",
+        "firstPrint": "B4a-063"
+    },
+    {
+        "id": "B4a-064",
+        "name": {
+            "en": "Furfrou",
+            "es": "Furfrou"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "TEAM_ROCKET"
+        ],
+        "type": "COLORLESS",
+        "firstPrint": "B4a-064"
+    },
+    {
+        "id": "B4a-065",
+        "name": {
+            "en": "Lechonk",
+            "es": "Lechonk"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "TEAM_ROCKET"
+        ],
+        "type": "COLORLESS",
+        "firstPrint": "B4a-065"
+    },
+    {
+        "id": "B4a-066",
+        "name": {
+            "en": "Oinkologne",
+            "es": "Oinkologne"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "TEAM_ROCKET"
+        ],
+        "type": "COLORLESS",
+        "firstPrint": "B4a-066"
+    },
+    {
+        "id": "B4a-067",
+        "name": {
+            "en": "Team Rocket's Thieving Machine",
+            "es": "Robomatón del Team Rocket"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "TEAM_ROCKET"
+        ],
+        "type": "TRAINER",
+        "firstPrint": "B4a-067"
+    },
+    {
+        "id": "B4a-068",
+        "name": {
+            "en": "Team Rocket's Goo-zooka",
+            "es": "Babazuca del Team Rocket"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "TEAM_ROCKET"
+        ],
+        "type": "TRAINER",
+        "firstPrint": "B4a-068"
+    },
+    {
+        "id": "B4a-069",
+        "name": {
+            "en": "Team Rocket's Researcher",
+            "es": "Investigación del Team Rocket"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "TEAM_ROCKET"
+        ],
+        "type": "TRAINER",
+        "firstPrint": "B4a-069"
+    },
+    {
+        "id": "B4a-070",
+        "name": {
+            "en": "Team Rocket's Master Plan",
+            "es": "Plan Maestro del Team Rocket"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "TEAM_ROCKET"
+        ],
+        "type": "TRAINER",
+        "firstPrint": "B4a-070"
+    },
+    {
+        "id": "B4a-071",
+        "name": {
+            "en": "Team Rocket's Boss",
+            "es": "Jefe del Team Rocket"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "TEAM_ROCKET"
+        ],
+        "type": "TRAINER",
+        "firstPrint": "B4a-071"
+    },
+    {
+        "id": "B4a-072",
+        "name": {
+            "en": "Arcade",
+            "es": "Salón Recreativo"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "TEAM_ROCKET"
+        ],
+        "type": "TRAINER",
+        "firstPrint": "B4a-072"
+    },
+    {
+        "id": "B4a-073",
+        "name": {
+            "en": "Delphox",
+            "es": "Delphox"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "TEAM_ROCKET"
+        ],
+        "type": "FIRE",
+        "firstPrint": "B4a-073"
+    },
+    {
+        "id": "B4a-074",
+        "name": {
+            "en": "Team Rocket's Hypno",
+            "es": "Hypno del Team Rocket"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "TEAM_ROCKET"
+        ],
+        "type": "PSYCHIC",
+        "firstPrint": "B4a-074"
+    },
+    {
+        "id": "B4a-075",
+        "name": {
+            "en": "Team Rocket's Tinkaton",
+            "es": "Tinkaton del Team Rocket"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "TEAM_ROCKET"
+        ],
+        "type": "METAL",
+        "firstPrint": "B4a-075"
+    },
+    {
+        "id": "B4a-076",
+        "name": {
+            "en": "Team Rocket's Kecleon",
+            "es": "Kecleon del Team Rocket"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "TEAM_ROCKET"
+        ],
+        "type": "COLORLESS",
+        "firstPrint": "B4a-076"
+    },
+    {
+        "id": "B4a-077",
+        "name": {
+            "en": "Happiny",
+            "es": "Happiny"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "TEAM_ROCKET"
+        ],
+        "type": "COLORLESS",
+        "firstPrint": "B4a-077"
+    },
+    {
+        "id": "B4a-078",
+        "name": {
+            "en": "Lechonk",
+            "es": "Lechonk"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "TEAM_ROCKET"
+        ],
+        "type": "COLORLESS",
+        "firstPrint": "B4a-078"
+    },
+    {
+        "id": "B4a-079",
+        "name": {
+            "en": "Team Rocket's Moltres ex",
+            "es": "Moltres ex del Team Rocket"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "TEAM_ROCKET"
+        ],
+        "type": "FIRE",
+        "firstPrint": "B4a-079"
+    },
+    {
+        "id": "B4a-080",
+        "name": {
+            "en": "Team Rocket's Articuno ex",
+            "es": "Articuno ex del Team Rocket"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "TEAM_ROCKET"
+        ],
+        "type": "WATER",
+        "firstPrint": "B4a-080"
+    },
+    {
+        "id": "B4a-081",
+        "name": {
+            "en": "Team Rocket's Zapdos ex",
+            "es": "Zapdos ex del Team Rocket"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "TEAM_ROCKET"
+        ],
+        "type": "LIGHTNING",
+        "firstPrint": "B4a-081"
+    },
+    {
+        "id": "B4a-082",
+        "name": {
+            "en": "Team Rocket's Slowking ex",
+            "es": "Slowking ex del Team Rocket"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "TEAM_ROCKET"
+        ],
+        "type": "PSYCHIC",
+        "firstPrint": "B4a-082"
+    },
+    {
+        "id": "B4a-083",
+        "name": {
+            "en": "Team Rocket's Weezing ex",
+            "es": "Weezing ex del Team Rocket"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "TEAM_ROCKET"
+        ],
+        "type": "DARKNESS",
+        "firstPrint": "B4a-083"
+    },
+    {
+        "id": "B4a-084",
+        "name": {
+            "en": "Team Rocket's Raticate ex",
+            "es": "Raticate ex del Team Rocket"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "TEAM_ROCKET"
+        ],
+        "type": "COLORLESS",
+        "firstPrint": "B4a-084"
+    },
+    {
+        "id": "B4a-085",
+        "name": {
+            "en": "Team Rocket's Researcher",
+            "es": "Investigación del Team Rocket"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "TEAM_ROCKET"
+        ],
+        "type": "TRAINER",
+        "firstPrint": "B4a-085"
+    },
+    {
+        "id": "B4a-086",
+        "name": {
+            "en": "Team Rocket's Master Plan",
+            "es": "Plan Maestro del Team Rocket"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "TEAM_ROCKET"
+        ],
+        "type": "TRAINER",
+        "firstPrint": "B4a-086"
+    },
+    {
+        "id": "B4a-087",
+        "name": {
+            "en": "Team Rocket's Boss",
+            "es": "Jefe del Team Rocket"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "TEAM_ROCKET"
+        ],
+        "type": "TRAINER",
+        "firstPrint": "B4a-087"
+    },
+    {
+        "id": "B4a-088",
+        "name": {
+            "en": "Team Rocket's Moltres ex",
+            "es": "Moltres ex del Team Rocket"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "TEAM_ROCKET"
+        ],
+        "type": "FIRE",
+        "firstPrint": "B4a-088"
+    },
+    {
+        "id": "B4a-089",
+        "name": {
+            "en": "Team Rocket's Articuno ex",
+            "es": "Articuno ex del Team Rocket"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "TEAM_ROCKET"
+        ],
+        "type": "WATER",
+        "firstPrint": "B4a-089"
+    },
+    {
+        "id": "B4a-090",
+        "name": {
+            "en": "Team Rocket's Zapdos ex",
+            "es": "Zapdos ex del Team Rocket"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "TEAM_ROCKET"
+        ],
+        "type": "LIGHTNING",
+        "firstPrint": "B4a-090"
+    },
+    {
+        "id": "B4a-091",
+        "name": {
+            "en": "Team Rocket's Slowking ex",
+            "es": "Slowking ex del Team Rocket"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "TEAM_ROCKET"
+        ],
+        "type": "PSYCHIC",
+        "firstPrint": "B4a-091"
+    },
+    {
+        "id": "B4a-092",
+        "name": {
+            "en": "Team Rocket's Weezing ex",
+            "es": "Weezing ex del Team Rocket"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "TEAM_ROCKET"
+        ],
+        "type": "DARKNESS",
+        "firstPrint": "B4a-092"
+    },
+    {
+        "id": "B4a-093",
+        "name": {
+            "en": "Team Rocket's Raticate ex",
+            "es": "Raticate ex del Team Rocket"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "TEAM_ROCKET"
+        ],
+        "type": "COLORLESS",
+        "firstPrint": "B4a-093"
+    },
+    {
+        "id": "B4a-094",
+        "name": {
+            "en": "Team Rocket's Master Plan",
+            "es": "Plan Maestro del Team Rocket"
+        },
+        "rarity": "THREE_STAR",
+        "origins": [
+            "TEAM_ROCKET"
+        ],
+        "type": "TRAINER",
+        "firstPrint": "B4a-094"
+    },
+    {
+        "id": "B4a-095",
+        "name": {
+            "en": "Vulpix",
+            "es": "Vulpix"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "TEAM_ROCKET"
+        ],
+        "type": "FIRE",
+        "extra": true,
+        "firstPrint": "B4a-095"
+    },
+    {
+        "id": "B4a-096",
+        "name": {
+            "en": "Ninetales",
+            "es": "Ninetales"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "TEAM_ROCKET"
+        ],
+        "type": "FIRE",
+        "extra": true,
+        "firstPrint": "B4a-096"
+    },
+    {
+        "id": "B4a-097",
+        "name": {
+            "en": "Goldeen",
+            "es": "Goldeen"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "TEAM_ROCKET"
+        ],
+        "type": "WATER",
+        "extra": true,
+        "firstPrint": "B4a-097"
+    },
+    {
+        "id": "B4a-098",
+        "name": {
+            "en": "Seaking",
+            "es": "Seaking"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "TEAM_ROCKET"
+        ],
+        "type": "WATER",
+        "extra": true,
+        "firstPrint": "B4a-098"
+    },
+    {
+        "id": "B4a-099",
+        "name": {
+            "en": "Toxel",
+            "es": "Toxel"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "TEAM_ROCKET"
+        ],
+        "type": "LIGHTNING",
+        "extra": true,
+        "firstPrint": "B4a-099"
+    },
+    {
+        "id": "B4a-100",
+        "name": {
+            "en": "Sinistea",
+            "es": "Sinistea"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "TEAM_ROCKET"
+        ],
+        "type": "PSYCHIC",
+        "extra": true,
+        "firstPrint": "B4a-100"
+    },
+    {
+        "id": "B4a-101",
+        "name": {
+            "en": "Polteageist",
+            "es": "Polteageist"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "TEAM_ROCKET"
+        ],
+        "type": "PSYCHIC",
+        "extra": true,
+        "firstPrint": "B4a-101"
+    },
+    {
+        "id": "B4a-102",
+        "name": {
+            "en": "Mawile",
+            "es": "Mawile"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "TEAM_ROCKET"
+        ],
+        "type": "METAL",
+        "extra": true,
+        "firstPrint": "B4a-102"
+    },
+    {
+        "id": "B4a-103",
+        "name": {
+            "en": "Taillow",
+            "es": "Taillow"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "TEAM_ROCKET"
+        ],
+        "type": "COLORLESS",
+        "extra": true,
+        "firstPrint": "B4a-103"
+    },
+    {
+        "id": "B4a-104",
+        "name": {
+            "en": "Swellow",
+            "es": "Swellow"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "TEAM_ROCKET"
+        ],
+        "type": "COLORLESS",
+        "extra": true,
+        "firstPrint": "B4a-104"
+    },
+    {
+        "id": "B4a-105",
+        "name": {
+            "en": "Mega Charizard Y ex",
+            "es": "Mega-Charizard Y ex"
+        },
+        "rarity": "TWO_SHINY",
+        "origins": [
+            "TEAM_ROCKET"
+        ],
+        "type": "FIRE",
+        "extra": true,
+        "firstPrint": "B4a-105"
+    },
+    {
+        "id": "B4a-106",
+        "name": {
+            "en": "Toxtricity ex",
+            "es": "Toxtricity ex"
+        },
+        "rarity": "TWO_SHINY",
+        "origins": [
+            "TEAM_ROCKET"
+        ],
+        "type": "LIGHTNING",
+        "extra": true,
+        "firstPrint": "B4a-106"
+    },
+    {
+        "id": "B4a-107",
+        "name": {
+            "en": "Mimikyu ex",
+            "es": "Mimikyu ex"
+        },
+        "rarity": "TWO_SHINY",
+        "origins": [
+            "TEAM_ROCKET"
+        ],
+        "type": "PSYCHIC",
+        "extra": true,
+        "firstPrint": "B4a-107"
+    },
+    {
+        "id": "B4a-108",
+        "name": {
+            "en": "Mega Mawile ex",
+            "es": "Mega-Mawile ex"
+        },
+        "rarity": "TWO_SHINY",
+        "origins": [
+            "TEAM_ROCKET"
+        ],
+        "type": "METAL",
+        "extra": true,
+        "firstPrint": "B4a-108"
+    },
+    {
+        "id": "B4a-109",
+        "name": {
+            "en": "Gholdengo",
+            "es": "Gholdengo"
+        },
+        "rarity": "CROWN",
+        "origins": [
+            "TEAM_ROCKET"
+        ],
+        "type": "METAL",
+        "firstPrint": "B4a-109"
+    },
+    {
+        "id": "B4a-110",
+        "name": {
+            "en": "Team Rocket's Goo-zooka",
+            "es": "Babazuca del Team Rocket"
+        },
+        "rarity": "CROWN",
+        "origins": [
+            "TEAM_ROCKET"
+        ],
+        "type": "TRAINER",
+        "firstPrint": "B4a-110"
+    }
+]
