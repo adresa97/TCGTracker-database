@@ -284,5 +284,18 @@
     "color": [69.0, 213.0, 51.0],
     "cardCount": 233,
     "origins": ["MEGA_RAYQUAZA"]
+  },
+  {
+    "set": "B4a",
+    "expansion": "B4",
+    "series": "B",
+    "name": {
+      "en": "Team Rocket's Ambition",
+      "es": "La Ambición del Team Rocket"
+    },
+    "cover": "https://raw.githubusercontent.com/adresa97/TCGTracker-database/refs/heads/main/PTCGPocket/covers/b4a_rockets_ambition_en.png",
+    "color": [254.0, 25.0, 47.0],
+    "cardCount": 110,
+    "origins": ["TEAM_ROCKET"]
   }
 ]
