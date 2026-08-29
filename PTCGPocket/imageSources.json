@@ -1,0 +1,14 @@
+[
+    {
+        "code": "v1",
+        "host": "https://cdn.pockettrade.app",
+        "folder": "/images/webp/#lang2#/",
+        "file": "#set#_#single#_#lang3#.webp"
+    },
+    {
+        "code": "v2",
+        "host": "https://cache.pyde.tech",
+        "folder": "/poketrade/expansion-images/#set#/cards/#lang3#/",
+        "file": "#set#_#single#_#lang3#.webp"
+    }
+]

@@ -10,6 +10,7 @@
             "TEAM_ROCKET"
         ],
         "type": "GRASS",
+        "image": "v2",
         "firstPrint": "B4a-001"
     },
     {
@@ -23,6 +24,7 @@
             "TEAM_ROCKET"
         ],
         "type": "GRASS",
+        "image": "v2",
         "firstPrint": "B4a-002"
     },
     {
@@ -36,6 +38,7 @@
             "TEAM_ROCKET"
         ],
         "type": "GRASS",
+        "image": "v2",
         "firstPrint": "B4a-003"
     },
     {
@@ -49,6 +52,7 @@
             "TEAM_ROCKET"
         ],
         "type": "GRASS",
+        "image": "v2",
         "firstPrint": "B4a-004"
     },
     {
@@ -62,6 +66,7 @@
             "TEAM_ROCKET"
         ],
         "type": "GRASS",
+        "image": "v2",
         "firstPrint": "B4a-005"
     },
     {
@@ -75,6 +80,7 @@
             "TEAM_ROCKET"
         ],
         "type": "FIRE",
+        "image": "v2",
         "firstPrint": "B4a-006"
     },
     {
@@ -88,6 +94,7 @@
             "TEAM_ROCKET"
         ],
         "type": "FIRE",
+        "image": "v2",
         "firstPrint": "B4a-007"
     },
     {
@@ -101,6 +108,7 @@
             "TEAM_ROCKET"
         ],
         "type": "FIRE",
+        "image": "v2",
         "firstPrint": "B4a-008"
     },
     {
@@ -114,6 +122,7 @@
             "TEAM_ROCKET"
         ],
         "type": "FIRE",
+        "image": "v2",
         "firstPrint": "B4a-009"
     },
     {
@@ -127,6 +136,7 @@
             "TEAM_ROCKET"
         ],
         "type": "FIRE",
+        "image": "v2",
         "firstPrint": "B4a-010"
     },
     {
@@ -140,6 +150,7 @@
             "TEAM_ROCKET"
         ],
         "type": "FIRE",
+        "image": "v2",
         "firstPrint": "B4a-011"
     },
     {
@@ -153,6 +164,7 @@
             "TEAM_ROCKET"
         ],
         "type": "FIRE",
+        "image": "v2",
         "firstPrint": "B4a-012"
     },
     {
@@ -166,6 +178,7 @@
             "TEAM_ROCKET"
         ],
         "type": "WATER",
+        "image": "v2",
         "firstPrint": "B4a-013"
     },
     {
@@ -179,6 +192,7 @@
             "TEAM_ROCKET"
         ],
         "type": "WATER",
+        "image": "v2",
         "firstPrint": "B4a-014"
     },
     {
@@ -192,6 +206,7 @@
             "TEAM_ROCKET"
         ],
         "type": "WATER",
+        "image": "v2",
         "firstPrint": "B4a-015"
     },
     {
@@ -205,6 +220,7 @@
             "TEAM_ROCKET"
         ],
         "type": "WATER",
+        "image": "v2",
         "firstPrint": "B4a-016"
     },
     {
@@ -218,6 +234,7 @@
             "TEAM_ROCKET"
         ],
         "type": "WATER",
+        "image": "v2",
         "firstPrint": "B4a-017"
     },
     {
@@ -231,6 +248,7 @@
             "TEAM_ROCKET"
         ],
         "type": "WATER",
+        "image": "v2",
         "firstPrint": "B4a-018"
     },
     {
@@ -244,6 +262,7 @@
             "TEAM_ROCKET"
         ],
         "type": "LIGHTNING",
+        "image": "v2",
         "firstPrint": "B4a-019"
     },
     {
@@ -257,6 +276,7 @@
             "TEAM_ROCKET"
         ],
         "type": "LIGHTNING",
+        "image": "v2",
         "firstPrint": "B4a-020"
     },
     {
@@ -270,6 +290,7 @@
             "TEAM_ROCKET"
         ],
         "type": "LIGHTNING",
+        "image": "v2",
         "firstPrint": "B4a-021"
     },
     {
@@ -283,6 +304,7 @@
             "TEAM_ROCKET"
         ],
         "type": "LIGHTNING",
+        "image": "v2",
         "firstPrint": "B4a-022"
     },
     {
@@ -296,6 +318,7 @@
             "TEAM_ROCKET"
         ],
         "type": "LIGHTNING",
+        "image": "v2",
         "firstPrint": "B4a-023"
     },
     {
@@ -309,6 +332,7 @@
             "TEAM_ROCKET"
         ],
         "type": "LIGHTNING",
+        "image": "v2",
         "firstPrint": "B4a-024"
     },
     {
@@ -322,6 +346,7 @@
             "TEAM_ROCKET"
         ],
         "type": "PSYCHIC",
+        "image": "v2",
         "firstPrint": "B4a-025"
     },
     {
@@ -335,6 +360,7 @@
             "TEAM_ROCKET"
         ],
         "type": "PSYCHIC",
+        "image": "v2",
         "firstPrint": "B4a-026"
     },
     {
@@ -348,6 +374,7 @@
             "TEAM_ROCKET"
         ],
         "type": "PSYCHIC",
+        "image": "v2",
         "firstPrint": "B4a-027"
     },
     {
@@ -361,6 +388,7 @@
             "TEAM_ROCKET"
         ],
         "type": "PSYCHIC",
+        "image": "v2",
         "firstPrint": "B4a-028"
     },
     {
@@ -374,6 +402,7 @@
             "TEAM_ROCKET"
         ],
         "type": "PSYCHIC",
+        "image": "v2",
         "firstPrint": "B4a-029"
     },
     {
@@ -387,6 +416,7 @@
             "TEAM_ROCKET"
         ],
         "type": "PSYCHIC",
+        "image": "v2",
         "firstPrint": "B4a-030"
     },
     {
@@ -400,6 +430,7 @@
             "TEAM_ROCKET"
         ],
         "type": "PSYCHIC",
+        "image": "v2",
         "firstPrint": "B4a-031"
     },
     {
@@ -413,6 +444,7 @@
             "TEAM_ROCKET"
         ],
         "type": "PSYCHIC",
+        "image": "v2",
         "firstPrint": "B4a-032"
     },
     {
@@ -426,6 +458,7 @@
             "TEAM_ROCKET"
         ],
         "type": "PSYCHIC",
+        "image": "v2",
         "firstPrint": "B4a-033"
     },
     {
@@ -439,6 +472,7 @@
             "TEAM_ROCKET"
         ],
         "type": "PSYCHIC",
+        "image": "v2",
         "firstPrint": "B4a-034"
     },
     {
@@ -452,6 +486,7 @@
             "TEAM_ROCKET"
         ],
         "type": "FIGHTING",
+        "image": "v2",
         "firstPrint": "B4a-035"
     },
     {
@@ -465,6 +500,7 @@
             "TEAM_ROCKET"
         ],
         "type": "FIGHTING",
+        "image": "v2",
         "firstPrint": "B4a-036"
     },
     {
@@ -478,6 +514,7 @@
             "TEAM_ROCKET"
         ],
         "type": "FIGHTING",
+        "image": "v2",
         "firstPrint": "B4a-037"
     },
     {
@@ -491,6 +528,7 @@
             "TEAM_ROCKET"
         ],
         "type": "DARKNESS",
+        "image": "v2",
         "firstPrint": "B4a-038"
     },
     {
@@ -504,6 +542,7 @@
             "TEAM_ROCKET"
         ],
         "type": "DARKNESS",
+        "image": "v2",
         "firstPrint": "B4a-039"
     },
     {
@@ -517,6 +556,7 @@
             "TEAM_ROCKET"
         ],
         "type": "DARKNESS",
+        "image": "v2",
         "firstPrint": "B4a-040"
     },
     {
@@ -530,6 +570,7 @@
             "TEAM_ROCKET"
         ],
         "type": "DARKNESS",
+        "image": "v2",
         "firstPrint": "B4a-041"
     },
     {
@@ -543,6 +584,7 @@
             "TEAM_ROCKET"
         ],
         "type": "DARKNESS",
+        "image": "v2",
         "firstPrint": "B4a-042"
     },
     {
@@ -556,6 +598,7 @@
             "TEAM_ROCKET"
         ],
         "type": "DARKNESS",
+        "image": "v2",
         "firstPrint": "B4a-043"
     },
     {
@@ -569,6 +612,7 @@
             "TEAM_ROCKET"
         ],
         "type": "DARKNESS",
+        "image": "v2",
         "firstPrint": "B4a-044"
     },
     {
@@ -582,6 +626,7 @@
             "TEAM_ROCKET"
         ],
         "type": "METAL",
+        "image": "v2",
         "firstPrint": "B4a-045"
     },
     {
@@ -595,6 +640,7 @@
             "TEAM_ROCKET"
         ],
         "type": "METAL",
+        "image": "v2",
         "firstPrint": "B4a-046"
     },
     {
@@ -608,6 +654,7 @@
             "TEAM_ROCKET"
         ],
         "type": "METAL",
+        "image": "v2",
         "firstPrint": "B4a-047"
     },
     {
@@ -621,6 +668,7 @@
             "TEAM_ROCKET"
         ],
         "type": "METAL",
+        "image": "v2",
         "firstPrint": "B4a-048"
     },
     {
@@ -634,6 +682,7 @@
             "TEAM_ROCKET"
         ],
         "type": "METAL",
+        "image": "v2",
         "firstPrint": "B4a-049"
     },
     {
@@ -647,6 +696,7 @@
             "TEAM_ROCKET"
         ],
         "type": "METAL",
+        "image": "v2",
         "firstPrint": "B4a-050"
     },
     {
@@ -660,6 +710,7 @@
             "TEAM_ROCKET"
         ],
         "type": "METAL",
+        "image": "v2",
         "firstPrint": "B4a-051"
     },
     {
@@ -673,6 +724,7 @@
             "TEAM_ROCKET"
         ],
         "type": "DRAGON",
+        "image": "v2",
         "firstPrint": "B4a-052"
     },
     {
@@ -686,6 +738,7 @@
             "TEAM_ROCKET"
         ],
         "type": "DRAGON",
+        "image": "v2",
         "firstPrint": "B4a-053"
     },
     {
@@ -699,6 +752,7 @@
             "TEAM_ROCKET"
         ],
         "type": "DRAGON",
+        "image": "v2",
         "firstPrint": "B4a-054"
     },
     {
@@ -712,6 +766,7 @@
             "TEAM_ROCKET"
         ],
         "type": "DRAGON",
+        "image": "v2",
         "firstPrint": "B4a-055"
     },
     {
@@ -725,6 +780,7 @@
             "TEAM_ROCKET"
         ],
         "type": "DRAGON",
+        "image": "v2",
         "firstPrint": "B4a-056"
     },
     {
@@ -738,6 +794,7 @@
             "TEAM_ROCKET"
         ],
         "type": "DRAGON",
+        "image": "v2",
         "firstPrint": "B4a-057"
     },
     {
@@ -751,6 +808,7 @@
             "TEAM_ROCKET"
         ],
         "type": "COLORLESS",
+        "image": "v2",
         "firstPrint": "B4a-058"
     },
     {
@@ -764,6 +822,7 @@
             "TEAM_ROCKET"
         ],
         "type": "COLORLESS",
+        "image": "v2",
         "firstPrint": "B4a-059"
     },
     {
@@ -777,6 +836,7 @@
             "TEAM_ROCKET"
         ],
         "type": "COLORLESS",
+        "image": "v2",
         "firstPrint": "B4a-060"
     },
     {
@@ -790,6 +850,7 @@
             "TEAM_ROCKET"
         ],
         "type": "COLORLESS",
+        "image": "v2",
         "firstPrint": "B4a-061"
     },
     {
@@ -803,6 +864,7 @@
             "TEAM_ROCKET"
         ],
         "type": "COLORLESS",
+        "image": "v2",
         "firstPrint": "B4a-062"
     },
     {
@@ -816,6 +878,7 @@
             "TEAM_ROCKET"
         ],
         "type": "COLORLESS",
+        "image": "v2",
         "firstPrint": "B4a-063"
     },
     {
@@ -829,6 +892,7 @@
             "TEAM_ROCKET"
         ],
         "type": "COLORLESS",
+        "image": "v2",
         "firstPrint": "B4a-064"
     },
     {
@@ -842,6 +906,7 @@
             "TEAM_ROCKET"
         ],
         "type": "COLORLESS",
+        "image": "v2",
         "firstPrint": "B4a-065"
     },
     {
@@ -855,6 +920,7 @@
             "TEAM_ROCKET"
         ],
         "type": "COLORLESS",
+        "image": "v2",
         "firstPrint": "B4a-066"
     },
     {
@@ -868,6 +934,7 @@
             "TEAM_ROCKET"
         ],
         "type": "TRAINER",
+        "image": "v2",
         "firstPrint": "B4a-067"
     },
     {
@@ -881,6 +948,7 @@
             "TEAM_ROCKET"
         ],
         "type": "TRAINER",
+        "image": "v2",
         "firstPrint": "B4a-068"
     },
     {
@@ -894,6 +962,7 @@
             "TEAM_ROCKET"
         ],
         "type": "TRAINER",
+        "image": "v2",
         "firstPrint": "B4a-069"
     },
     {
@@ -907,6 +976,7 @@
             "TEAM_ROCKET"
         ],
         "type": "TRAINER",
+        "image": "v2",
         "firstPrint": "B4a-070"
     },
     {
@@ -920,6 +990,7 @@
             "TEAM_ROCKET"
         ],
         "type": "TRAINER",
+        "image": "v2",
         "firstPrint": "B4a-071"
     },
     {
@@ -933,6 +1004,7 @@
             "TEAM_ROCKET"
         ],
         "type": "TRAINER",
+        "image": "v2",
         "firstPrint": "B4a-072"
     },
     {
@@ -946,6 +1018,7 @@
             "TEAM_ROCKET"
         ],
         "type": "FIRE",
+        "image": "v2",
         "firstPrint": "B4a-073"
     },
     {
@@ -959,6 +1032,7 @@
             "TEAM_ROCKET"
         ],
         "type": "PSYCHIC",
+        "image": "v2",
         "firstPrint": "B4a-074"
     },
     {
@@ -972,6 +1046,7 @@
             "TEAM_ROCKET"
         ],
         "type": "METAL",
+        "image": "v2",
         "firstPrint": "B4a-075"
     },
     {
@@ -985,6 +1060,7 @@
             "TEAM_ROCKET"
         ],
         "type": "COLORLESS",
+        "image": "v2",
         "firstPrint": "B4a-076"
     },
     {
@@ -998,6 +1074,7 @@
             "TEAM_ROCKET"
         ],
         "type": "COLORLESS",
+        "image": "v2",
         "firstPrint": "B4a-077"
     },
     {
@@ -1011,6 +1088,7 @@
             "TEAM_ROCKET"
         ],
         "type": "COLORLESS",
+        "image": "v2",
         "firstPrint": "B4a-078"
     },
     {
@@ -1024,6 +1102,7 @@
             "TEAM_ROCKET"
         ],
         "type": "FIRE",
+        "image": "v2",
         "firstPrint": "B4a-079"
     },
     {
@@ -1037,6 +1116,7 @@
             "TEAM_ROCKET"
         ],
         "type": "WATER",
+        "image": "v2",
         "firstPrint": "B4a-080"
     },
     {
@@ -1050,6 +1130,7 @@
             "TEAM_ROCKET"
         ],
         "type": "LIGHTNING",
+        "image": "v2",
         "firstPrint": "B4a-081"
     },
     {
@@ -1063,6 +1144,7 @@
             "TEAM_ROCKET"
         ],
         "type": "PSYCHIC",
+        "image": "v2",
         "firstPrint": "B4a-082"
     },
     {
@@ -1076,6 +1158,7 @@
             "TEAM_ROCKET"
         ],
         "type": "DARKNESS",
+        "image": "v2",
         "firstPrint": "B4a-083"
     },
     {
@@ -1089,6 +1172,7 @@
             "TEAM_ROCKET"
         ],
         "type": "COLORLESS",
+        "image": "v2",
         "firstPrint": "B4a-084"
     },
     {
@@ -1102,6 +1186,7 @@
             "TEAM_ROCKET"
         ],
         "type": "TRAINER",
+        "image": "v2",
         "firstPrint": "B4a-085"
     },
     {
@@ -1115,6 +1200,7 @@
             "TEAM_ROCKET"
         ],
         "type": "TRAINER",
+        "image": "v2",
         "firstPrint": "B4a-086"
     },
     {
@@ -1128,6 +1214,7 @@
             "TEAM_ROCKET"
         ],
         "type": "TRAINER",
+        "image": "v2",
         "firstPrint": "B4a-087"
     },
     {
@@ -1141,6 +1228,7 @@
             "TEAM_ROCKET"
         ],
         "type": "FIRE",
+        "image": "v2",
         "firstPrint": "B4a-088"
     },
     {
@@ -1154,6 +1242,7 @@
             "TEAM_ROCKET"
         ],
         "type": "WATER",
+        "image": "v2",
         "firstPrint": "B4a-089"
     },
     {
@@ -1167,6 +1256,7 @@
             "TEAM_ROCKET"
         ],
         "type": "LIGHTNING",
+        "image": "v2",
         "firstPrint": "B4a-090"
     },
     {
@@ -1180,6 +1270,7 @@
             "TEAM_ROCKET"
         ],
         "type": "PSYCHIC",
+        "image": "v2",
         "firstPrint": "B4a-091"
     },
     {
@@ -1193,6 +1284,7 @@
             "TEAM_ROCKET"
         ],
         "type": "DARKNESS",
+        "image": "v2",
         "firstPrint": "B4a-092"
     },
     {
@@ -1206,6 +1298,7 @@
             "TEAM_ROCKET"
         ],
         "type": "COLORLESS",
+        "image": "v2",
         "firstPrint": "B4a-093"
     },
     {
@@ -1219,6 +1312,7 @@
             "TEAM_ROCKET"
         ],
         "type": "TRAINER",
+        "image": "v2",
         "firstPrint": "B4a-094"
     },
     {
@@ -1233,6 +1327,7 @@
         ],
         "type": "FIRE",
         "extra": true,
+        "image": "v2",
         "firstPrint": "B4a-095"
     },
     {
@@ -1247,6 +1342,7 @@
         ],
         "type": "FIRE",
         "extra": true,
+        "image": "v2",
         "firstPrint": "B4a-096"
     },
     {
@@ -1261,6 +1357,7 @@
         ],
         "type": "WATER",
         "extra": true,
+        "image": "v2",
         "firstPrint": "B4a-097"
     },
     {
@@ -1275,6 +1372,7 @@
         ],
         "type": "WATER",
         "extra": true,
+        "image": "v2",
         "firstPrint": "B4a-098"
     },
     {
@@ -1289,6 +1387,7 @@
         ],
         "type": "LIGHTNING",
         "extra": true,
+        "image": "v2",
         "firstPrint": "B4a-099"
     },
     {
@@ -1303,6 +1402,7 @@
         ],
         "type": "PSYCHIC",
         "extra": true,
+        "image": "v2",
         "firstPrint": "B4a-100"
     },
     {
@@ -1317,6 +1417,7 @@
         ],
         "type": "PSYCHIC",
         "extra": true,
+        "image": "v2",
         "firstPrint": "B4a-101"
     },
     {
@@ -1331,6 +1432,7 @@
         ],
         "type": "METAL",
         "extra": true,
+        "image": "v2",
         "firstPrint": "B4a-102"
     },
     {
@@ -1345,6 +1447,7 @@
         ],
         "type": "COLORLESS",
         "extra": true,
+        "image": "v2",
         "firstPrint": "B4a-103"
     },
     {
@@ -1359,6 +1462,7 @@
         ],
         "type": "COLORLESS",
         "extra": true,
+        "image": "v2",
         "firstPrint": "B4a-104"
     },
     {
@@ -1373,6 +1477,7 @@
         ],
         "type": "FIRE",
         "extra": true,
+        "image": "v2",
         "firstPrint": "B4a-105"
     },
     {
@@ -1387,6 +1492,7 @@
         ],
         "type": "LIGHTNING",
         "extra": true,
+        "image": "v2",
         "firstPrint": "B4a-106"
     },
     {
@@ -1401,6 +1507,7 @@
         ],
         "type": "PSYCHIC",
         "extra": true,
+        "image": "v2",
         "firstPrint": "B4a-107"
     },
     {
@@ -1415,6 +1522,7 @@
         ],
         "type": "METAL",
         "extra": true,
+        "image": "v2",
         "firstPrint": "B4a-108"
     },
     {
@@ -1428,6 +1536,7 @@
             "TEAM_ROCKET"
         ],
         "type": "METAL",
+        "image": "v2",
         "firstPrint": "B4a-109"
     },
     {
@@ -1441,6 +1550,7 @@
             "TEAM_ROCKET"
         ],
         "type": "TRAINER",
+        "image": "v2",
         "firstPrint": "B4a-110"
     }
 ]
