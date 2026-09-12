@@ -1128,7 +1128,7 @@
             "PREMIUM"
         ],
         "type": "GRASS",
-        "image": "v2",
+        "image": "v3",
         "firstPrint": "P-B-087"
     },
     {
@@ -1142,7 +1142,7 @@
             "DROP_EVENT"
         ],
         "type": "GRASS",
-        "image": "v2",
+        "image": "v3",
         "firstPrint": "P-B-088"
     },
     {
@@ -1156,7 +1156,7 @@
             "DROP_EVENT"
         ],
         "type": "WATER",
-        "image": "v2",
+        "image": "v3",
         "firstPrint": "P-B-089"
     },
     {
@@ -1170,7 +1170,7 @@
             "DROP_EVENT"
         ],
         "type": "WATER",
-        "image": "v2",
+        "image": "v3",
         "firstPrint": "P-B-090"
     },
     {
@@ -1184,7 +1184,7 @@
             "DROP_EVENT"
         ],
         "type": "PSYCHIC",
-        "image": "v2",
+        "image": "v3",
         "firstPrint": "P-B-091"
     },
     {
@@ -1198,7 +1198,7 @@
             "DROP_EVENT"
         ],
         "type": "FIGHTING",
-        "image": "v2",
+        "image": "v3",
         "firstPrint": "P-B-092"
     },
     {
@@ -1212,7 +1212,7 @@
             "WONDER_EVENT"
         ],
         "type": "FIRE",
-        "image": "v2",
+        "image": "v3",
         "firstPrint": "P-B-093"
     },
     {
@@ -1226,7 +1226,7 @@
             "WONDER_EVENT"
         ],
         "type": "PSYCHIC",
-        "image": "v2",
+        "image": "v3",
         "firstPrint": "P-B-093"
     }
 ]
