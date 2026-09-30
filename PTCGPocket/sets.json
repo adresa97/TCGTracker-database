@@ -297,5 +297,18 @@
     "color": [254.0, 25.0, 47.0],
     "cardCount": 110,
     "origins": ["TEAM_ROCKET"]
+  },
+  {
+    "set": "B4b",
+    "expansion": "B4",
+    "series": "B",
+    "name": {
+      "en": "Deluxe Pack Mega",
+      "es": "Sobre Deluxe Mega"
+    },
+    "cover": "https://raw.githubusercontent.com/adresa97/TCGTracker-database/refs/heads/main/PTCGPocket/covers/b4b_deluxe_mega_en.png",
+    "color": [233.0, 196.0, 74.0],
+    "cardCount": 429,
+    "origins": ["DELUXE_2026"]
   }
 ]
