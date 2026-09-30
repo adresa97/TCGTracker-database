@@ -1,0 +1,5581 @@
+[
+    {
+        "id": "B4b-001",
+        "name": {
+            "en": "Bulbasaur",
+            "es": "Bulbasaur"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "GRASS",
+        "firstPrint": "B1a-001"
+    },
+    {
+        "id": "B4b-002",
+        "name": {
+            "en": "Ivysaur",
+            "es": "Ivysaur"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "GRASS",
+        "firstPrint": "B1a-002"
+    },
+    {
+        "id": "B4b-003",
+        "name": {
+            "en": "Mega Venusaur ex",
+            "es": "Mega-Venusaur ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "GRASS",
+        "firstPrint": "B1a-004"
+    },
+    {
+        "id": "B4b-004",
+        "name": {
+            "en": "Caterpie",
+            "es": "Caterpie"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "GRASS",
+        "firstPrint": "B3b-001"
+    },
+    {
+        "id": "B4b-005",
+        "name": {
+            "en": "Metapod",
+            "es": "Metapod"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "GRASS",
+        "firstPrint": "B3b-002"
+    },
+    {
+        "id": "B4b-006",
+        "name": {
+            "en": "Butterfree",
+            "es": "Butterfree"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "GRASS",
+        "firstPrint": "B3b-003"
+    },
+    {
+        "id": "B4b-007",
+        "name": {
+            "en": "Scyther",
+            "es": "Scyther"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "GRASS",
+        "firstPrint": "B2b-001"
+    },
+    {
+        "id": "B4b-008",
+        "name": {
+            "en": "Mega Pinsir ex",
+            "es": "Mega-Pinsir ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "GRASS",
+        "firstPrint": "B1-002"
+    },
+    {
+        "id": "B4b-009",
+        "name": {
+            "en": "Celebi",
+            "es": "Celebi"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "GRASS",
+        "firstPrint": "B3-004"
+    },
+    {
+        "id": "B4b-010",
+        "name": {
+            "en": "Treecko",
+            "es": "Treecko"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "GRASS",
+        "firstPrint": "B3-005"
+    },
+    {
+        "id": "B4b-011",
+        "name": {
+            "en": "Grovyle",
+            "es": "Grovyle"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "GRASS",
+        "firstPrint": "B3-006"
+    },
+    {
+        "id": "B4b-012",
+        "name": {
+            "en": "Mega Sceptile ex",
+            "es": "Mega-Sceptile ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "GRASS",
+        "firstPrint": "B3-008"
+    },
+    {
+        "id": "B4b-013",
+        "name": {
+            "en": "Budew",
+            "es": "Budew"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "GRASS",
+        "firstPrint": "B3-013"
+    },
+    {
+        "id": "B4b-014",
+        "name": {
+            "en": "Combee",
+            "es": "Combee"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "GRASS",
+        "firstPrint": "B4-010"
+    },
+    {
+        "id": "B4b-015",
+        "name": {
+            "en": "Vespiquen ex",
+            "es": "Vespiquen ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "GRASS",
+        "firstPrint": "B4-011"
+    },
+    {
+        "id": "B4b-016",
+        "name": {
+            "en": "Cottonee",
+            "es": "Cottonee"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "GRASS",
+        "firstPrint": "B1-015"
+    },
+    {
+        "id": "B4b-017",
+        "name": {
+            "en": "Whimsicott ex",
+            "es": "Whimsicott ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "GRASS",
+        "firstPrint": "B1-016"
+    },
+    {
+        "id": "B4b-018",
+        "name": {
+            "en": "Petilil",
+            "es": "Petilil"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "GRASS",
+        "firstPrint": "B1-017"
+    },
+    {
+        "id": "B4b-019",
+        "name": {
+            "en": "Lilligant",
+            "es": "Lilligant"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "GRASS",
+        "firstPrint": "B1-018"
+    },
+    {
+        "id": "B4b-020",
+        "name": {
+            "en": "Durant",
+            "es": "Durant"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "GRASS",
+        "firstPrint": "B3-018"
+    },
+    {
+        "id": "B4b-021",
+        "name": {
+            "en": "Sprigatito",
+            "es": "Sprigatito"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "GRASS",
+        "firstPrint": "B2a-001"
+    },
+    {
+        "id": "B4b-022",
+        "name": {
+            "en": "Floragato",
+            "es": "Floragato"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "GRASS",
+        "firstPrint": "B2a-002"
+    },
+    {
+        "id": "B4b-023",
+        "name": {
+            "en": "Meowscarada ex",
+            "es": "Meowscarada ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "GRASS",
+        "firstPrint": "B2a-003"
+    },
+    {
+        "id": "B4b-024",
+        "name": {
+            "en": "Smoliv",
+            "es": "Smoliv"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "GRASS",
+        "firstPrint": "B2a-007"
+    },
+    {
+        "id": "B4b-025",
+        "name": {
+            "en": "Dolliv",
+            "es": "Dolliv"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "GRASS",
+        "firstPrint": "B2a-008"
+    },
+    {
+        "id": "B4b-026",
+        "name": {
+            "en": "Arboliva",
+            "es": "Arboliva"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "GRASS",
+        "firstPrint": "B2a-009"
+    },
+    {
+        "id": "B4b-027",
+        "name": {
+            "en": "Teal Mask Ogerpon",
+            "es": "Ogerpon Máscara Turquesa"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "GRASS",
+        "firstPrint": "B4-019"
+    },
+    {
+        "id": "B4b-028",
+        "name": {
+            "en": "Teal Mask Ogerpon ex",
+            "es": "Ogerpon Máscara Turquesa ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "GRASS",
+        "firstPrint": "B2-017"
+    },
+    {
+        "id": "B4b-029",
+        "name": {
+            "en": "Charmander",
+            "es": "Charmander"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "FIRE",
+        "firstPrint": "B2b-007"
+    },
+    {
+        "id": "B4b-030",
+        "name": {
+            "en": "Charmeleon",
+            "es": "Charmeleon"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "FIRE",
+        "firstPrint": "B2b-008"
+    },
+    {
+        "id": "B4b-031",
+        "name": {
+            "en": "Mega Charizard X ex",
+            "es": "Mega-Charizard X ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "FIRE",
+        "firstPrint": "B2b-009"
+    },
+    {
+        "id": "B4b-032",
+        "name": {
+            "en": "Mega Charizard Y ex",
+            "es": "Mega-Charizard Y ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "FIRE",
+        "firstPrint": "B1a-014"
+    },
+    {
+        "id": "B4b-033",
+        "name": {
+            "en": "Growlithe",
+            "es": "Growlithe"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "FIRE",
+        "firstPrint": "B3b-010"
+    },
+    {
+        "id": "B4b-034",
+        "name": {
+            "en": "Ponyta",
+            "es": "Ponyta"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "FIRE",
+        "firstPrint": "B4-020"
+    },
+    {
+        "id": "B4b-035",
+        "name": {
+            "en": "Rapidash ex",
+            "es": "Rapidash ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "FIRE",
+        "firstPrint": "B1-031"
+    },
+    {
+        "id": "B4b-036",
+        "name": {
+            "en": "Cyndaquil",
+            "es": "Cyndaquil"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "FIRE",
+        "firstPrint": "B4-024"
+    },
+    {
+        "id": "B4b-037",
+        "name": {
+            "en": "Quilava",
+            "es": "Quilava"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "FIRE",
+        "firstPrint": "B4-025"
+    },
+    {
+        "id": "B4b-038",
+        "name": {
+            "en": "Typhlosion ex",
+            "es": "Typhlosion ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "FIRE",
+        "firstPrint": "B4-026"
+    },
+    {
+        "id": "B4b-039",
+        "name": {
+            "en": "Torchic",
+            "es": "Torchic"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "FIRE",
+        "firstPrint": "B1-033"
+    },
+    {
+        "id": "B4b-040",
+        "name": {
+            "en": "Combusken",
+            "es": "Combusken"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "FIRE",
+        "firstPrint": "B1-034"
+    },
+    {
+        "id": "B4b-041",
+        "name": {
+            "en": "Mega Blaziken ex",
+            "es": "Mega-Blaziken ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "FIRE",
+        "firstPrint": "B1-036"
+    },
+    {
+        "id": "B4b-042",
+        "name": {
+            "en": "Numel",
+            "es": "Numel"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "FIRE",
+        "firstPrint": "B3-021"
+    },
+    {
+        "id": "B4b-043",
+        "name": {
+            "en": "Mega Camerupt ex",
+            "es": "Mega-Camerupt ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "FIRE",
+        "firstPrint": "B3-023"
+    },
+    {
+        "id": "B4b-044",
+        "name": {
+            "en": "Victini",
+            "es": "Victini"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "FIRE",
+        "firstPrint": "B3-025"
+    },
+    {
+        "id": "B4b-045",
+        "name": {
+            "en": "Blacephalon ex",
+            "es": "Blacephalon ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "FIRE",
+        "firstPrint": "B2-023"
+    },
+    {
+        "id": "B4b-046",
+        "name": {
+            "en": "Fuecoco",
+            "es": "Fuecoco"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "FIRE",
+        "firstPrint": "B2a-016"
+    },
+    {
+        "id": "B4b-047",
+        "name": {
+            "en": "Crocalor",
+            "es": "Crocalor"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "FIRE",
+        "firstPrint": "B2a-017"
+    },
+    {
+        "id": "B4b-048",
+        "name": {
+            "en": "Skeledirge",
+            "es": "Skeledirge"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "FIRE",
+        "firstPrint": "B2a-018"
+    },
+    {
+        "id": "B4b-049",
+        "name": {
+            "en": "Charcadet",
+            "es": "Charcadet"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "FIRE",
+        "firstPrint": "B2a-019"
+    },
+    {
+        "id": "B4b-050",
+        "name": {
+            "en": "Armarouge ex",
+            "es": "Armarouge ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "FIRE",
+        "firstPrint": "B2a-020"
+    },
+    {
+        "id": "B4b-051",
+        "name": {
+            "en": "Hearthflame Mask Ogerpon",
+            "es": "Ogerpon Máscara Horno"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "FIRE",
+        "firstPrint": "B2-027"
+    },
+    {
+        "id": "B4b-052",
+        "name": {
+            "en": "Squirtle",
+            "es": "Squirtle"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "WATER",
+        "firstPrint": "B1a-017"
+    },
+    {
+        "id": "B4b-053",
+        "name": {
+            "en": "Wartortle",
+            "es": "Wartortle"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "WATER",
+        "firstPrint": "B1a-018"
+    },
+    {
+        "id": "B4b-054",
+        "name": {
+            "en": "Mega Blastoise ex",
+            "es": "Mega-Blastoise ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "WATER",
+        "firstPrint": "B1a-020"
+    },
+    {
+        "id": "B4b-055",
+        "name": {
+            "en": "Alolan Vulpix",
+            "es": "Vulpix de Alola"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "WATER",
+        "firstPrint": "B2-028"
+    },
+    {
+        "id": "B4b-056",
+        "name": {
+            "en": "Alolan Ninetales ex",
+            "es": "Ninetales de Alola ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "WATER",
+        "firstPrint": "B2-029"
+    },
+    {
+        "id": "B4b-057",
+        "name": {
+            "en": "Slowpoke",
+            "es": "Slowpoke"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "WATER",
+        "firstPrint": "B2b-015"
+    },
+    {
+        "id": "B4b-058",
+        "name": {
+            "en": "Mega Slowbro ex",
+            "es": "Mega-Slowbro ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "WATER",
+        "firstPrint": "B2b-016"
+    },
+    {
+        "id": "B4b-059",
+        "name": {
+            "en": "Magikarp",
+            "es": "Magikarp"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "WATER",
+        "firstPrint": "B1-050"
+    },
+    {
+        "id": "B4b-060",
+        "name": {
+            "en": "Mega Gyarados ex",
+            "es": "Mega-Gyarados ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "WATER",
+        "firstPrint": "B1-052"
+    },
+    {
+        "id": "B4b-061",
+        "name": {
+            "en": "Vaporeon ex",
+            "es": "Vaporeon ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "WATER",
+        "firstPrint": "B3-037"
+    },
+    {
+        "id": "B4b-062",
+        "name": {
+            "en": "Mudkip",
+            "es": "Mudkip"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "WATER",
+        "firstPrint": "B2-033"
+    },
+    {
+        "id": "B4b-063",
+        "name": {
+            "en": "Marshtomp",
+            "es": "Marshtomp"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "WATER",
+        "firstPrint": "B2-034"
+    },
+    {
+        "id": "B4b-064",
+        "name": {
+            "en": "Mega Swampert ex",
+            "es": "Mega-Swampert ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "WATER",
+        "firstPrint": "B2-036"
+    },
+    {
+        "id": "B4b-065",
+        "name": {
+            "en": "Carvanha",
+            "es": "Carvanha"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "WATER",
+        "firstPrint": "B4-034"
+    },
+    {
+        "id": "B4b-066",
+        "name": {
+            "en": "Mega Sharpedo ex",
+            "es": "Mega-Sharpedo ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "WATER",
+        "firstPrint": "B4-035"
+    },
+    {
+        "id": "B4b-067",
+        "name": {
+            "en": "Wailmer",
+            "es": "Wailmer"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "WATER",
+        "firstPrint": "B4-036"
+    },
+    {
+        "id": "B4b-068",
+        "name": {
+            "en": "Wailord ex",
+            "es": "Wailord ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "WATER",
+        "firstPrint": "B4-037"
+    },
+    {
+        "id": "B4b-069",
+        "name": {
+            "en": "Feebas",
+            "es": "Feebas"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "WATER",
+        "firstPrint": "B3b-014"
+    },
+    {
+        "id": "B4b-070",
+        "name": {
+            "en": "Milotic ex",
+            "es": "Milotic ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "WATER",
+        "firstPrint": "B3b-015"
+    },
+    {
+        "id": "B4b-071",
+        "name": {
+            "en": "Froakie",
+            "es": "Froakie"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "WATER",
+        "firstPrint": "B1-071"
+    },
+    {
+        "id": "B4b-072",
+        "name": {
+            "en": "Frogadier",
+            "es": "Frogadier"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "WATER",
+        "firstPrint": "B1-072"
+    },
+    {
+        "id": "B4b-073",
+        "name": {
+            "en": "Greninja ex",
+            "es": "Greninja ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "WATER",
+        "firstPrint": "B1-073"
+    },
+    {
+        "id": "B4b-074",
+        "name": {
+            "en": "Sobble",
+            "es": "Sobble"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "WATER",
+        "firstPrint": "B3-048"
+    },
+    {
+        "id": "B4b-075",
+        "name": {
+            "en": "Drizzile",
+            "es": "Drizzile"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "WATER",
+        "firstPrint": "B3-049"
+    },
+    {
+        "id": "B4b-076",
+        "name": {
+            "en": "Inteleon",
+            "es": "Inteleon"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "WATER",
+        "firstPrint": "B3-050"
+    },
+    {
+        "id": "B4b-077",
+        "name": {
+            "en": "Iron Bundle ex",
+            "es": "Ferrosaco ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "WATER",
+        "firstPrint": "B3a-013"
+    },
+    {
+        "id": "B4b-078",
+        "name": {
+            "en": "Frigibax",
+            "es": "Frigibax"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "WATER",
+        "firstPrint": "B2a-034"
+    },
+    {
+        "id": "B4b-079",
+        "name": {
+            "en": "Arctibax",
+            "es": "Arctibax"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "WATER",
+        "firstPrint": "B2a-035"
+    },
+    {
+        "id": "B4b-080",
+        "name": {
+            "en": "Baxcalibur",
+            "es": "Baxcalibur"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "WATER",
+        "firstPrint": "B2a-036"
+    },
+    {
+        "id": "B4b-081",
+        "name": {
+            "en": "Chien-Pao ex",
+            "es": "Chien-Pao ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "WATER",
+        "firstPrint": "B2a-037"
+    },
+    {
+        "id": "B4b-082",
+        "name": {
+            "en": "Pikachu",
+            "es": "Pikachu"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "LIGHTNING",
+        "firstPrint": "B4-049"
+    },
+    {
+        "id": "B4b-083",
+        "name": {
+            "en": "Raichu",
+            "es": "Raichu"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "LIGHTNING",
+        "firstPrint": "B4-050"
+    },
+    {
+        "id": "B4b-084",
+        "name": {
+            "en": "Magnemite",
+            "es": "Magnemite"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "LIGHTNING",
+        "firstPrint": "B1a-024"
+    },
+    {
+        "id": "B4b-085",
+        "name": {
+            "en": "Magneton",
+            "es": "Magneton"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "LIGHTNING",
+        "firstPrint": "B1a-025"
+    },
+    {
+        "id": "B4b-086",
+        "name": {
+            "en": "Magnezone ex",
+            "es": "Magnezone ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "LIGHTNING",
+        "firstPrint": "B3-054"
+    },
+    {
+        "id": "B4b-087",
+        "name": {
+            "en": "Jolteon ex",
+            "es": "Jolteon ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "LIGHTNING",
+        "firstPrint": "B1-081"
+    },
+    {
+        "id": "B4b-088",
+        "name": {
+            "en": "Mareep",
+            "es": "Mareep"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "LIGHTNING",
+        "firstPrint": "B1-082"
+    },
+    {
+        "id": "B4b-089",
+        "name": {
+            "en": "Flaaffy",
+            "es": "Flaaffy"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "LIGHTNING",
+        "firstPrint": "B1-083"
+    },
+    {
+        "id": "B4b-090",
+        "name": {
+            "en": "Mega Ampharos ex",
+            "es": "Mega-Ampharos ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "LIGHTNING",
+        "firstPrint": "B1-085"
+    },
+    {
+        "id": "B4b-091",
+        "name": {
+            "en": "Electrike",
+            "es": "Electrike"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "LIGHTNING",
+        "firstPrint": "B2b-026"
+    },
+    {
+        "id": "B4b-092",
+        "name": {
+            "en": "Mega Manectric ex",
+            "es": "Mega-Manectric ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "LIGHTNING",
+        "firstPrint": "B2b-027"
+    },
+    {
+        "id": "B4b-093",
+        "name": {
+            "en": "Rotom ex",
+            "es": "Rotom ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "LIGHTNING",
+        "firstPrint": "B4-055"
+    },
+    {
+        "id": "B4b-094",
+        "name": {
+            "en": "Helioptile",
+            "es": "Helioptile"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "LIGHTNING",
+        "firstPrint": "B4-060"
+    },
+    {
+        "id": "B4b-095",
+        "name": {
+            "en": "Heliolisk",
+            "es": "Heliolisk"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "LIGHTNING",
+        "firstPrint": "B4-061"
+    },
+    {
+        "id": "B4b-096",
+        "name": {
+            "en": "Dedenne ex",
+            "es": "Dedenne ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "LIGHTNING",
+        "firstPrint": "B3b-024"
+    },
+    {
+        "id": "B4b-097",
+        "name": {
+            "en": "Yamper",
+            "es": "Yamper"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "LIGHTNING",
+        "firstPrint": "B3b-025"
+    },
+    {
+        "id": "B4b-098",
+        "name": {
+            "en": "Toxel",
+            "es": "Toxel"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "LIGHTNING",
+        "firstPrint": "B2-054"
+    },
+    {
+        "id": "B4b-099",
+        "name": {
+            "en": "Toxtricity ex",
+            "es": "Toxtricity ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "LIGHTNING",
+        "firstPrint": "B2-055"
+    },
+    {
+        "id": "B4b-100",
+        "name": {
+            "en": "Tadbulb",
+            "es": "Tadbulb"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "LIGHTNING",
+        "firstPrint": "B2-056"
+    },
+    {
+        "id": "B4b-101",
+        "name": {
+            "en": "Bellibolt ex",
+            "es": "Bellibolt ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "LIGHTNING",
+        "firstPrint": "B2a-042"
+    },
+    {
+        "id": "B4b-102",
+        "name": {
+            "en": "Iron Thorns",
+            "es": "Ferropúas"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "LIGHTNING",
+        "firstPrint": "B3a-018"
+    },
+    {
+        "id": "B4b-103",
+        "name": {
+            "en": "Miraidon ex",
+            "es": "Miraidon ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "LIGHTNING",
+        "firstPrint": "B3a-019"
+    },
+    {
+        "id": "B4b-104",
+        "name": {
+            "en": "Ralts",
+            "es": "Ralts"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "PSYCHIC",
+        "firstPrint": "B4-071"
+    },
+    {
+        "id": "B4b-105",
+        "name": {
+            "en": "Kirlia",
+            "es": "Kirlia"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "PSYCHIC",
+        "firstPrint": "B4-072"
+    },
+    {
+        "id": "B4b-106",
+        "name": {
+            "en": "Mega Gardevoir ex",
+            "es": "Mega-Gardevoir ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "PSYCHIC",
+        "firstPrint": "B2-066"
+    },
+    {
+        "id": "B4b-107",
+        "name": {
+            "en": "Mega Altaria ex",
+            "es": "Mega-Altaria ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "PSYCHIC",
+        "firstPrint": "B1-102"
+    },
+    {
+        "id": "B4b-108",
+        "name": {
+            "en": "Wynaut",
+            "es": "Wynaut"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "PSYCHIC",
+        "firstPrint": "B4-074"
+    },
+    {
+        "id": "B4b-109",
+        "name": {
+            "en": "Chingling",
+            "es": "Chingling"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "PSYCHIC",
+        "firstPrint": "B1-109"
+    },
+    {
+        "id": "B4b-110",
+        "name": {
+            "en": "Mime Jr.",
+            "es": "Mime Jr."
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "PSYCHIC",
+        "firstPrint": "B4-068"
+    },
+    {
+        "id": "B4b-111",
+        "name": {
+            "en": "Meloetta",
+            "es": "Meloetta"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "PSYCHIC",
+        "firstPrint": "B2-070"
+    },
+    {
+        "id": "B4b-112",
+        "name": {
+            "en": "Sylveon",
+            "es": "Sylveon"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "PSYCHIC",
+        "firstPrint": "B3b-030"
+    },
+    {
+        "id": "B4b-113",
+        "name": {
+            "en": "Klefki",
+            "es": "Klefki"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "PSYCHIC",
+        "firstPrint": "B1-120"
+    },
+    {
+        "id": "B4b-114",
+        "name": {
+            "en": "Mega Diancie ex",
+            "es": "Mega-Diancie ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "PSYCHIC",
+        "firstPrint": "B3b-032"
+    },
+    {
+        "id": "B4b-115",
+        "name": {
+            "en": "Mimikyu ex",
+            "es": "Mimikyu ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "PSYCHIC",
+        "firstPrint": "B2-073"
+    },
+    {
+        "id": "B4b-116",
+        "name": {
+            "en": "Indeedee ex",
+            "es": "Indeedee ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "PSYCHIC",
+        "firstPrint": "B1-121"
+    },
+    {
+        "id": "B4b-117",
+        "name": {
+            "en": "Fidough",
+            "es": "Fidough"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "PSYCHIC",
+        "firstPrint": "B3b-034"
+    },
+    {
+        "id": "B4b-118",
+        "name": {
+            "en": "Bramblin",
+            "es": "Bramblin"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "PSYCHIC",
+        "firstPrint": "B3-072"
+    },
+    {
+        "id": "B4b-119",
+        "name": {
+            "en": "Brambleghast",
+            "es": "Brambleghast"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "PSYCHIC",
+        "firstPrint": "B3-073"
+    },
+    {
+        "id": "B4b-120",
+        "name": {
+            "en": "Flutter Mane ex",
+            "es": "Melenaleteo ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "PSYCHIC",
+        "firstPrint": "B3a-026"
+    },
+    {
+        "id": "B4b-121",
+        "name": {
+            "en": "Gimmighoul",
+            "es": "Gimmighoul"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "PSYCHIC",
+        "firstPrint": "B2a-054"
+    },
+    {
+        "id": "B4b-122",
+        "name": {
+            "en": "Onix",
+            "es": "Onix"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "FIGHTING",
+        "firstPrint": "B1a-038"
+    },
+    {
+        "id": "B4b-123",
+        "name": {
+            "en": "Hitmonchan ex",
+            "es": "Hitmonchan ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "FIGHTING",
+        "firstPrint": "B1-124"
+    },
+    {
+        "id": "B4b-124",
+        "name": {
+            "en": "Trapinch",
+            "es": "Trapinch"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "FIGHTING",
+        "firstPrint": "B3-076"
+    },
+    {
+        "id": "B4b-125",
+        "name": {
+            "en": "Mega Lopunny ex",
+            "es": "Mega-Lopunny ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "FIGHTING",
+        "firstPrint": "B1a-042"
+    },
+    {
+        "id": "B4b-126",
+        "name": {
+            "en": "Riolu",
+            "es": "Riolu"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "FIGHTING",
+        "firstPrint": "B3-079"
+    },
+    {
+        "id": "B4b-127",
+        "name": {
+            "en": "Mega Lucario ex",
+            "es": "Mega-Lucario ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "FIGHTING",
+        "firstPrint": "B3-081"
+    },
+    {
+        "id": "B4b-128",
+        "name": {
+            "en": "Mega Gallade ex",
+            "es": "Mega-Gallade ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "FIGHTING",
+        "firstPrint": "B4-084"
+    },
+    {
+        "id": "B4b-129",
+        "name": {
+            "en": "Roggenrola",
+            "es": "Roggenrola"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "FIGHTING",
+        "firstPrint": "B2-085"
+    },
+    {
+        "id": "B4b-130",
+        "name": {
+            "en": "Boldore",
+            "es": "Boldore"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "FIGHTING",
+        "firstPrint": "B2-086"
+    },
+    {
+        "id": "B4b-131",
+        "name": {
+            "en": "Gigalith ex",
+            "es": "Gigalith ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "FIGHTING",
+        "firstPrint": "B2-087"
+    },
+    {
+        "id": "B4b-132",
+        "name": {
+            "en": "Dwebble",
+            "es": "Dwebble"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "FIGHTING",
+        "firstPrint": "B3-087"
+    },
+    {
+        "id": "B4b-133",
+        "name": {
+            "en": "Crustle ex",
+            "es": "Crustle ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "FIGHTING",
+        "firstPrint": "B3-088"
+    },
+    {
+        "id": "B4b-134",
+        "name": {
+            "en": "Rockruff",
+            "es": "Rockruff"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "FIGHTING",
+        "firstPrint": "B3b-038"
+    },
+    {
+        "id": "B4b-135",
+        "name": {
+            "en": "Falinks",
+            "es": "Falinks"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "FIGHTING",
+        "firstPrint": "B2-092"
+    },
+    {
+        "id": "B4b-136",
+        "name": {
+            "en": "Koraidon ex",
+            "es": "Koraidon ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "FIGHTING",
+        "firstPrint": "B3a-036"
+    },
+    {
+        "id": "B4b-137",
+        "name": {
+            "en": "Alolan Grimer",
+            "es": "Grimer de Alola"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "DARKNESS",
+        "firstPrint": "B2-096"
+    },
+    {
+        "id": "B4b-138",
+        "name": {
+            "en": "Alolan Muk",
+            "es": "Muk de Alola"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "DARKNESS",
+        "firstPrint": "B2-097"
+    },
+    {
+        "id": "B4b-139",
+        "name": {
+            "en": "Gastly",
+            "es": "Gastly"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "DARKNESS",
+        "firstPrint": "B2b-037"
+    },
+    {
+        "id": "B4b-140",
+        "name": {
+            "en": "Haunter",
+            "es": "Haunter"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "DARKNESS",
+        "firstPrint": "B2b-038"
+    },
+    {
+        "id": "B4b-141",
+        "name": {
+            "en": "Mega Gengar ex",
+            "es": "Mega-Gengar ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "DARKNESS",
+        "firstPrint": "B2b-039"
+    },
+    {
+        "id": "B4b-142",
+        "name": {
+            "en": "Mega Sableye ex",
+            "es": "Mega-Sableye ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "DARKNESS",
+        "firstPrint": "B3b-041"
+    },
+    {
+        "id": "B4b-143",
+        "name": {
+            "en": "Mega Absol ex",
+            "es": "Mega-Absol ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "DARKNESS",
+        "firstPrint": "B1-151"
+    },
+    {
+        "id": "B4b-144",
+        "name": {
+            "en": "Darkrai",
+            "es": "Darkrai"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "DARKNESS",
+        "firstPrint": "B2b-040"
+    },
+    {
+        "id": "B4b-145",
+        "name": {
+            "en": "Zorua",
+            "es": "Zorua"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "DARKNESS",
+        "firstPrint": "B3-105"
+    },
+    {
+        "id": "B4b-146",
+        "name": {
+            "en": "Zoroark ex",
+            "es": "Zoroark ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "DARKNESS",
+        "firstPrint": "B3-106"
+    },
+    {
+        "id": "B4b-147",
+        "name": {
+            "en": "Skrelp",
+            "es": "Skrelp"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "DARKNESS",
+        "firstPrint": "B1-159"
+    },
+    {
+        "id": "B4b-148",
+        "name": {
+            "en": "Dragalge ex",
+            "es": "Dragalge ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "DARKNESS",
+        "firstPrint": "B1-160"
+    },
+    {
+        "id": "B4b-149",
+        "name": {
+            "en": "Hoopa ex",
+            "es": "Hoopa ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "DARKNESS",
+        "firstPrint": "B4-103"
+    },
+    {
+        "id": "B4b-150",
+        "name": {
+            "en": "Zarude",
+            "es": "Zarude"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "DARKNESS",
+        "firstPrint": "B3-114"
+    },
+    {
+        "id": "B4b-151",
+        "name": {
+            "en": "Bombirdier",
+            "es": "Bombirdier"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "DARKNESS",
+        "firstPrint": "B3-115"
+    },
+    {
+        "id": "B4b-152",
+        "name": {
+            "en": "Roaring Moon",
+            "es": "Bramaluna"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "DARKNESS",
+        "firstPrint": "B3a-047"
+    },
+    {
+        "id": "B4b-153",
+        "name": {
+            "en": "Galarian Meowth",
+            "es": "Meowth de Galar"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "METAL",
+        "firstPrint": "B2-110"
+    },
+    {
+        "id": "B4b-154",
+        "name": {
+            "en": "Galarian Perrserker",
+            "es": "Perrserker de Galar"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "METAL",
+        "firstPrint": "B2-111"
+    },
+    {
+        "id": "B4b-155",
+        "name": {
+            "en": "Mega Steelix ex",
+            "es": "Mega-Steelix ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "METAL",
+        "firstPrint": "B1a-052"
+    },
+    {
+        "id": "B4b-156",
+        "name": {
+            "en": "Mega Scizor ex",
+            "es": "Mega-Scizor ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "METAL",
+        "firstPrint": "B2b-047"
+    },
+    {
+        "id": "B4b-157",
+        "name": {
+            "en": "Mega Mawile ex",
+            "es": "Mega-Mawile ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "METAL",
+        "firstPrint": "B2-113"
+    },
+    {
+        "id": "B4b-158",
+        "name": {
+            "en": "Beldum",
+            "es": "Beldum"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "METAL",
+        "firstPrint": "B4-106"
+    },
+    {
+        "id": "B4b-159",
+        "name": {
+            "en": "Metang",
+            "es": "Metang"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "METAL",
+        "firstPrint": "B4-107"
+    },
+    {
+        "id": "B4b-160",
+        "name": {
+            "en": "Mega Metagross ex",
+            "es": "Mega-Metagross ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "METAL",
+        "firstPrint": "B4-109"
+    },
+    {
+        "id": "B4b-161",
+        "name": {
+            "en": "Honedge",
+            "es": "Honedge"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "METAL",
+        "firstPrint": "B1-170"
+    },
+    {
+        "id": "B4b-162",
+        "name": {
+            "en": "Doublade",
+            "es": "Doublade"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "METAL",
+        "firstPrint": "B1-171"
+    },
+    {
+        "id": "B4b-163",
+        "name": {
+            "en": "Aegislash",
+            "es": "Aegislash"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "METAL",
+        "firstPrint": "B2-120"
+    },
+    {
+        "id": "B4b-164",
+        "name": {
+            "en": "Aegislash",
+            "es": "Aegislash"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "METAL",
+        "firstPrint": "B1-172"
+    },
+    {
+        "id": "B4b-165",
+        "name": {
+            "en": "Meltan",
+            "es": "Meltan"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "METAL",
+        "firstPrint": "B1-173"
+    },
+    {
+        "id": "B4b-166",
+        "name": {
+            "en": "Melmetal ex",
+            "es": "Melmetal ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "METAL",
+        "firstPrint": "B1-174"
+    },
+    {
+        "id": "B4b-167",
+        "name": {
+            "en": "Corviknight ex",
+            "es": "Corviknight ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "METAL",
+        "firstPrint": "B3-124"
+    },
+    {
+        "id": "B4b-168",
+        "name": {
+            "en": "Gholdengo ex",
+            "es": "Gholdengo ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "METAL",
+        "firstPrint": "B2a-078"
+    },
+    {
+        "id": "B4b-169",
+        "name": {
+            "en": "Dratini",
+            "es": "Dratini"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "DRAGON",
+        "firstPrint": "B4-116"
+    },
+    {
+        "id": "B4b-170",
+        "name": {
+            "en": "Dragonair",
+            "es": "Dragonair"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "DRAGON",
+        "firstPrint": "B4-117"
+    },
+    {
+        "id": "B4b-171",
+        "name": {
+            "en": "Vibrava",
+            "es": "Vibrava"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "DRAGON",
+        "firstPrint": "B3-125"
+    },
+    {
+        "id": "B4b-172",
+        "name": {
+            "en": "Flygon ex",
+            "es": "Flygon ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "DRAGON",
+        "firstPrint": "B3-126"
+    },
+    {
+        "id": "B4b-173",
+        "name": {
+            "en": "Mega Rayquaza ex",
+            "es": "Mega-Rayquaza ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "DRAGON",
+        "firstPrint": "B4-120"
+    },
+    {
+        "id": "B4b-174",
+        "name": {
+            "en": "Axew",
+            "es": "Axew"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "DRAGON",
+        "firstPrint": "B2b-054"
+    },
+    {
+        "id": "B4b-175",
+        "name": {
+            "en": "Fraxure",
+            "es": "Fraxure"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "DRAGON",
+        "firstPrint": "B2b-055"
+    },
+    {
+        "id": "B4b-176",
+        "name": {
+            "en": "Haxorus",
+            "es": "Haxorus"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "DRAGON",
+        "firstPrint": "B2b-056"
+    },
+    {
+        "id": "B4b-177",
+        "name": {
+            "en": "Drampa",
+            "es": "Drampa"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "DRAGON",
+        "firstPrint": "B4-124"
+    },
+    {
+        "id": "B4b-178",
+        "name": {
+            "en": "Rattata",
+            "es": "Rattata"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "COLORLESS",
+        "firstPrint": "B4-129"
+    },
+    {
+        "id": "B4b-179",
+        "name": {
+            "en": "Raticate",
+            "es": "Raticate"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "COLORLESS",
+        "firstPrint": "B4-130"
+    },
+    {
+        "id": "B4b-180",
+        "name": {
+            "en": "Meowth",
+            "es": "Meowth"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "COLORLESS",
+        "firstPrint": "B2-124"
+    },
+    {
+        "id": "B4b-181",
+        "name": {
+            "en": "Mega Kangaskhan ex",
+            "es": "Mega-Kangaskhan ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "COLORLESS",
+        "firstPrint": "B2-127"
+    },
+    {
+        "id": "B4b-182",
+        "name": {
+            "en": "Tauros ex",
+            "es": "Tauros ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "COLORLESS",
+        "firstPrint": "B1-183"
+    },
+    {
+        "id": "B4b-183",
+        "name": {
+            "en": "Eevee",
+            "es": "Eevee"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "COLORLESS",
+        "firstPrint": "B1-184"
+    },
+    {
+        "id": "B4b-184",
+        "name": {
+            "en": "Skitty",
+            "es": "Skitty"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "COLORLESS",
+        "firstPrint": "B1-193"
+    },
+    {
+        "id": "B4b-185",
+        "name": {
+            "en": "Delcatty",
+            "es": "Delcatty"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "COLORLESS",
+        "firstPrint": "B1-194"
+    },
+    {
+        "id": "B4b-186",
+        "name": {
+            "en": "Swablu",
+            "es": "Swablu"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "COLORLESS",
+        "firstPrint": "B1-196"
+    },
+    {
+        "id": "B4b-187",
+        "name": {
+            "en": "Buneary",
+            "es": "Buneary"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "COLORLESS",
+        "firstPrint": "B1a-062"
+    },
+    {
+        "id": "B4b-188",
+        "name": {
+            "en": "Munchlax",
+            "es": "Munchlax"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "COLORLESS",
+        "firstPrint": "B3b-054"
+    },
+    {
+        "id": "B4b-189",
+        "name": {
+            "en": "Lillipup",
+            "es": "Lillipup"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "COLORLESS",
+        "firstPrint": "B3-137"
+    },
+    {
+        "id": "B4b-190",
+        "name": {
+            "en": "Mega Audino ex",
+            "es": "Mega-Audino ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "COLORLESS",
+        "firstPrint": "B3-141"
+    },
+    {
+        "id": "B4b-191",
+        "name": {
+            "en": "Hisuian Zorua",
+            "es": "Zorua de Hisui"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "COLORLESS",
+        "firstPrint": "B3b-059"
+    },
+    {
+        "id": "B4b-192",
+        "name": {
+            "en": "Hisuian Zoroark ex",
+            "es": "Zoroark de Hisui ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "COLORLESS",
+        "firstPrint": "B3b-060"
+    },
+    {
+        "id": "B4b-193",
+        "name": {
+            "en": "Ducklett",
+            "es": "Ducklett"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "COLORLESS",
+        "firstPrint": "B4-140"
+    },
+    {
+        "id": "B4b-194",
+        "name": {
+            "en": "Swanna ex",
+            "es": "Swanna ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "COLORLESS",
+        "firstPrint": "B4-141"
+    },
+    {
+        "id": "B4b-195",
+        "name": {
+            "en": "Rookidee",
+            "es": "Rookidee"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "COLORLESS",
+        "firstPrint": "B3-145"
+    },
+    {
+        "id": "B4b-196",
+        "name": {
+            "en": "Corvisquire",
+            "es": "Corvisquire"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "COLORLESS",
+        "firstPrint": "B3-146"
+    },
+    {
+        "id": "B4b-197",
+        "name": {
+            "en": "Terapagos ex",
+            "es": "Terapagos ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "COLORLESS",
+        "firstPrint": "B3a-068"
+    },
+    {
+        "id": "B4b-198",
+        "name": {
+            "en": "Lucky Ice Pop",
+            "es": "Helado Suerte"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "TRAINER",
+        "firstPrint": "B2-145"
+    },
+    {
+        "id": "B4b-199",
+        "name": {
+            "en": "Electric Generator",
+            "es": "Generador Eléctrico"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "TRAINER",
+        "firstPrint": "B2a-086"
+    },
+    {
+        "id": "B4b-200",
+        "name": {
+            "en": "Order Pad",
+            "es": "Dispositivo de Pedidos"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "TRAINER",
+        "firstPrint": "B4-145"
+    },
+    {
+        "id": "B4b-201",
+        "name": {
+            "en": "Quick-Grow Extract",
+            "es": "Extracto de Maduración"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "TRAINER",
+        "firstPrint": "B1a-067"
+    },
+    {
+        "id": "B4b-202",
+        "name": {
+            "en": "Field Blower",
+            "es": "Soplador de Campo"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "TRAINER",
+        "firstPrint": "B3-147"
+    },
+    {
+        "id": "B4b-203",
+        "name": {
+            "en": "Flame Patch",
+            "es": "Refuerzo Fuego"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "TRAINER",
+        "firstPrint": "B1-217"
+    },
+    {
+        "id": "B4b-204",
+        "name": {
+            "en": "Deceptive Needle",
+            "es": "Aguja Granuja"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "TRAINER",
+        "firstPrint": "B4-148"
+    },
+    {
+        "id": "B4b-205",
+        "name": {
+            "en": "Lucky Egg",
+            "es": "Huevo Suerte"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "TRAINER",
+        "firstPrint": "B3-148"
+    },
+    {
+        "id": "B4b-206",
+        "name": {
+            "en": "Small Balloon",
+            "es": "Globito"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "TRAINER",
+        "firstPrint": "B3b-064"
+    },
+    {
+        "id": "B4b-207",
+        "name": {
+            "en": "Ancient Booster Energy Capsule",
+            "es": "Tanque de Energía Potenciadora del Pasado"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "TRAINER",
+        "firstPrint": "B3a-069"
+    },
+    {
+        "id": "B4b-208",
+        "name": {
+            "en": "Future Booster Energy Capsule",
+            "es": "Tanque de Energía Potenciadora del Futuro"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "TRAINER",
+        "firstPrint": "B3a-070"
+    },
+    {
+        "id": "B4b-209",
+        "name": {
+            "en": "Protective Poncho",
+            "es": "Poncho Protector"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "TRAINER",
+        "firstPrint": "B2-147"
+    },
+    {
+        "id": "B4b-210",
+        "name": {
+            "en": "Metal Core Barrier",
+            "es": "Barrera Núcleo Metálico"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "TRAINER",
+        "firstPrint": "B2-148"
+    },
+    {
+        "id": "B4b-211",
+        "name": {
+            "en": "Elegant Cape",
+            "es": "Capa Elegante"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "TRAINER",
+        "firstPrint": "B3b-065"
+    },
+    {
+        "id": "B4b-212",
+        "name": {
+            "en": "Iris",
+            "es": "Iris"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "TRAINER",
+        "firstPrint": "B2b-067"
+    },
+    {
+        "id": "B4b-213",
+        "name": {
+            "en": "Juliana",
+            "es": "Juliana"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "TRAINER",
+        "firstPrint": "B3a-071"
+    },
+    {
+        "id": "B4b-214",
+        "name": {
+            "en": "Diantha",
+            "es": "Dianta"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "TRAINER",
+        "firstPrint": "B2-149"
+    },
+    {
+        "id": "B4b-215",
+        "name": {
+            "en": "Calem",
+            "es": "Kalm"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "TRAINER",
+        "firstPrint": "B2b-068"
+    },
+    {
+        "id": "B4b-216",
+        "name": {
+            "en": "Puppy-Loving Girl",
+            "es": "Amante de los Perritos"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "TRAINER",
+        "firstPrint": "B3b-067"
+    },
+    {
+        "id": "B4b-217",
+        "name": {
+            "en": "Korrina",
+            "es": "Corelia"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "TRAINER",
+        "firstPrint": "B3-149"
+    },
+    {
+        "id": "B4b-218",
+        "name": {
+            "en": "Clemont",
+            "es": "Lem"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "TRAINER",
+        "firstPrint": "B1a-068"
+    },
+    {
+        "id": "B4b-219",
+        "name": {
+            "en": "Serena",
+            "es": "Serena"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "TRAINER",
+        "firstPrint": "B1a-069"
+    },
+    {
+        "id": "B4b-220",
+        "name": {
+            "en": "May",
+            "es": "Aura"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "TRAINER",
+        "firstPrint": "B1-223"
+    },
+    {
+        "id": "B4b-221",
+        "name": {
+            "en": "Skyla",
+            "es": "Gerania"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "TRAINER",
+        "firstPrint": "B4-152"
+    },
+    {
+        "id": "B4b-222",
+        "name": {
+            "en": "Arven",
+            "es": "Damián"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "TRAINER",
+        "firstPrint": "B2a-091"
+    },
+    {
+        "id": "B4b-223",
+        "name": {
+            "en": "Wallace",
+            "es": "Plubio"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "TRAINER",
+        "firstPrint": "B3b-068"
+    },
+    {
+        "id": "B4b-224",
+        "name": {
+            "en": "Wally",
+            "es": "Blasco"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "TRAINER",
+        "firstPrint": "B4-153"
+    },
+    {
+        "id": "B4b-225",
+        "name": {
+            "en": "Copycat",
+            "es": "Copiona"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "TRAINER",
+        "firstPrint": "B1-225"
+    },
+    {
+        "id": "B4b-226",
+        "name": {
+            "en": "Lisia",
+            "es": "Ariana"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "TRAINER",
+        "firstPrint": "B1-226"
+    },
+    {
+        "id": "B4b-227",
+        "name": {
+            "en": "Fragrant Forest",
+            "es": "Bosque Aromático"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "TRAINER",
+        "firstPrint": "B3-153"
+    },
+    {
+        "id": "B4b-228",
+        "name": {
+            "en": "Arena of Antiquity",
+            "es": "Arena Arcaica"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "TRAINER",
+        "firstPrint": "B3-154"
+    },
+    {
+        "id": "B4b-229",
+        "name": {
+            "en": "Soothing Shore",
+            "es": "Orilla Reparadora"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "TRAINER",
+        "firstPrint": "B4-154"
+    },
+    {
+        "id": "B4b-230",
+        "name": {
+            "en": "Bounded Field",
+            "es": "Campo Delimitado"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "TRAINER",
+        "firstPrint": "B3-155"
+    },
+    {
+        "id": "B4b-231",
+        "name": {
+            "en": "Mesagoza",
+            "es": "Ciudad Meseta"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "TRAINER",
+        "firstPrint": "B2a-093"
+    },
+    {
+        "id": "B4b-232",
+        "name": {
+            "en": "Training Area",
+            "es": "Área de Entrenamiento"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "TRAINER",
+        "firstPrint": "B2-153"
+    },
+    {
+        "id": "B4b-233",
+        "name": {
+            "en": "Rainbow Cave",
+            "es": "Cueva Arcoiris"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "TRAINER",
+        "firstPrint": "B4-155"
+    },
+    {
+        "id": "B4b-234",
+        "name": {
+            "en": "Hiking Trail",
+            "es": "Ruta de Senderismo"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "TRAINER",
+        "firstPrint": "B2b-069"
+    },
+    {
+        "id": "B4b-235",
+        "name": {
+            "en": "Starting Plains",
+            "es": "Planicie Inicial"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "TRAINER",
+        "firstPrint": "B2-154"
+    },
+    {
+        "id": "B4b-236",
+        "name": {
+            "en": "Peculiar Plaza",
+            "es": "Plaza Peculiar"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "TRAINER",
+        "firstPrint": "B2-155"
+    },
+    {
+        "id": "B4b-237",
+        "name": {
+            "en": "Bulbasaur",
+            "es": "Bulbasaur"
+        },
+        "rarity": "ONE_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "GRASS",
+        "firstPrint": "B4b-237"
+    },
+    {
+        "id": "B4b-238",
+        "name": {
+            "en": "Ivysaur",
+            "es": "Ivysaur"
+        },
+        "rarity": "TWO_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "GRASS",
+        "firstPrint": "B4b-238"
+    },
+    {
+        "id": "B4b-239",
+        "name": {
+            "en": "Caterpie",
+            "es": "Caterpie"
+        },
+        "rarity": "ONE_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "GRASS",
+        "firstPrint": "B4b-239"
+    },
+    {
+        "id": "B4b-240",
+        "name": {
+            "en": "Metapod",
+            "es": "Metapod"
+        },
+        "rarity": "TWO_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "GRASS",
+        "firstPrint": "B4b-240"
+    },
+    {
+        "id": "B4b-241",
+        "name": {
+            "en": "Butterfree",
+            "es": "Butterfree"
+        },
+        "rarity": "THREE_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "GRASS",
+        "firstPrint": "B4b-241"
+    },
+    {
+        "id": "B4b-242",
+        "name": {
+            "en": "Scyther",
+            "es": "Scyther"
+        },
+        "rarity": "ONE_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "GRASS",
+        "firstPrint": "B4b-242"
+    },
+    {
+        "id": "B4b-243",
+        "name": {
+            "en": "Celebi",
+            "es": "Celebi"
+        },
+        "rarity": "THREE_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "GRASS",
+        "firstPrint": "B4b-243"
+    },
+    {
+        "id": "B4b-244",
+        "name": {
+            "en": "Treecko",
+            "es": "Treecko"
+        },
+        "rarity": "ONE_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "GRASS",
+        "firstPrint": "B4b-244"
+    },
+    {
+        "id": "B4b-245",
+        "name": {
+            "en": "Grovyle",
+            "es": "Grovyle"
+        },
+        "rarity": "TWO_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "GRASS",
+        "firstPrint": "B4b-245"
+    },
+    {
+        "id": "B4b-246",
+        "name": {
+            "en": "Budew",
+            "es": "Budew"
+        },
+        "rarity": "THREE_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "GRASS",
+        "firstPrint": "B4b-246"
+    },
+    {
+        "id": "B4b-247",
+        "name": {
+            "en": "Combee",
+            "es": "Combee"
+        },
+        "rarity": "ONE_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "GRASS",
+        "firstPrint": "B4b-247"
+    },
+    {
+        "id": "B4b-248",
+        "name": {
+            "en": "Cottonee",
+            "es": "Cottonee"
+        },
+        "rarity": "ONE_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "GRASS",
+        "firstPrint": "B4b-248"
+    },
+    {
+        "id": "B4b-249",
+        "name": {
+            "en": "Petilil",
+            "es": "Petilil"
+        },
+        "rarity": "ONE_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "GRASS",
+        "firstPrint": "B4b-249"
+    },
+    {
+        "id": "B4b-250",
+        "name": {
+            "en": "Lilligant",
+            "es": "Lilligant"
+        },
+        "rarity": "THREE_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "GRASS",
+        "firstPrint": "B4b-250"
+    },
+    {
+        "id": "B4b-251",
+        "name": {
+            "en": "Durant",
+            "es": "Durant"
+        },
+        "rarity": "ONE_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "GRASS",
+        "firstPrint": "B4b-251"
+    },
+    {
+        "id": "B4b-252",
+        "name": {
+            "en": "Sprigatito",
+            "es": "Sprigatito"
+        },
+        "rarity": "ONE_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "GRASS",
+        "firstPrint": "B4b-252"
+    },
+    {
+        "id": "B4b-253",
+        "name": {
+            "en": "Floragato",
+            "es": "Floragato"
+        },
+        "rarity": "ONE_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "GRASS",
+        "firstPrint": "B4b-253"
+    },
+    {
+        "id": "B4b-254",
+        "name": {
+            "en": "Smoliv",
+            "es": "Smoliv"
+        },
+        "rarity": "ONE_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "GRASS",
+        "firstPrint": "B4b-254"
+    },
+    {
+        "id": "B4b-255",
+        "name": {
+            "en": "Dolliv",
+            "es": "Dolliv"
+        },
+        "rarity": "ONE_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "GRASS",
+        "firstPrint": "B4b-255"
+    },
+    {
+        "id": "B4b-256",
+        "name": {
+            "en": "Arboliva",
+            "es": "Arboliva"
+        },
+        "rarity": "THREE_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "GRASS",
+        "firstPrint": "B4b-256"
+    },
+    {
+        "id": "B4b-257",
+        "name": {
+            "en": "Teal Mask Ogerpon",
+            "es": "Ogerpon Máscara Turquesa"
+        },
+        "rarity": "THREE_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "GRASS",
+        "firstPrint": "B4b-257"
+    },
+    {
+        "id": "B4b-258",
+        "name": {
+            "en": "Charmander",
+            "es": "Charmander"
+        },
+        "rarity": "ONE_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "FIRE",
+        "firstPrint": "B4b-258"
+    },
+    {
+        "id": "B4b-259",
+        "name": {
+            "en": "Charmeleon",
+            "es": "Charmeleon"
+        },
+        "rarity": "TWO_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "FIRE",
+        "firstPrint": "B4b-259"
+    },
+    {
+        "id": "B4b-260",
+        "name": {
+            "en": "Growlithe",
+            "es": "Growlithe"
+        },
+        "rarity": "ONE_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "FIRE",
+        "firstPrint": "B4b-260"
+    },
+    {
+        "id": "B4b-261",
+        "name": {
+            "en": "Ponyta",
+            "es": "Ponyta"
+        },
+        "rarity": "ONE_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "FIRE",
+        "firstPrint": "B4b-261"
+    },
+    {
+        "id": "B4b-262",
+        "name": {
+            "en": "Cyndaquil",
+            "es": "Cyndaquil"
+        },
+        "rarity": "ONE_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "FIRE",
+        "firstPrint": "B4b-262"
+    },
+    {
+        "id": "B4b-263",
+        "name": {
+            "en": "Quilava",
+            "es": "Quilava"
+        },
+        "rarity": "TWO_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "FIRE",
+        "firstPrint": "B4b-263"
+    },
+    {
+        "id": "B4b-264",
+        "name": {
+            "en": "Torchic",
+            "es": "Torchic"
+        },
+        "rarity": "ONE_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "FIRE",
+        "firstPrint": "B4b-264"
+    },
+    {
+        "id": "B4b-265",
+        "name": {
+            "en": "Combusken",
+            "es": "Combusken"
+        },
+        "rarity": "TWO_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "FIRE",
+        "firstPrint": "B4b-265"
+    },
+    {
+        "id": "B4b-266",
+        "name": {
+            "en": "Numel",
+            "es": "Numel"
+        },
+        "rarity": "ONE_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "FIRE",
+        "firstPrint": "B4b-266"
+    },
+    {
+        "id": "B4b-267",
+        "name": {
+            "en": "Victini",
+            "es": "Victini"
+        },
+        "rarity": "THREE_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "FIRE",
+        "firstPrint": "B4b-267"
+    },
+    {
+        "id": "B4b-268",
+        "name": {
+            "en": "Fuecoco",
+            "es": "Fuecoco"
+        },
+        "rarity": "ONE_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "FIRE",
+        "firstPrint": "B4b-268"
+    },
+    {
+        "id": "B4b-269",
+        "name": {
+            "en": "Crocalor",
+            "es": "Crocalor"
+        },
+        "rarity": "ONE_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "FIRE",
+        "firstPrint": "B4b-269"
+    },
+    {
+        "id": "B4b-270",
+        "name": {
+            "en": "Skeledirge",
+            "es": "Skeledirge"
+        },
+        "rarity": "THREE_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "FIRE",
+        "firstPrint": "B4b-270"
+    },
+    {
+        "id": "B4b-271",
+        "name": {
+            "en": "Charcadet",
+            "es": "Charcadet"
+        },
+        "rarity": "ONE_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "FIRE",
+        "firstPrint": "B4b-271"
+    },
+    {
+        "id": "B4b-272",
+        "name": {
+            "en": "Hearthflame Mask Ogerpon",
+            "es": "Ogerpon Máscara Horno"
+        },
+        "rarity": "THREE_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "FIRE",
+        "firstPrint": "B4b-272"
+    },
+    {
+        "id": "B4b-273",
+        "name": {
+            "en": "Squirtle",
+            "es": "Squirtle"
+        },
+        "rarity": "ONE_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "WATER",
+        "firstPrint": "B4b-273"
+    },
+    {
+        "id": "B4b-274",
+        "name": {
+            "en": "Wartortle",
+            "es": "Wartortle"
+        },
+        "rarity": "TWO_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "WATER",
+        "firstPrint": "B4b-274"
+    },
+    {
+        "id": "B4b-275",
+        "name": {
+            "en": "Alolan Vulpix",
+            "es": "Vulpix de Alola"
+        },
+        "rarity": "ONE_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "WATER",
+        "firstPrint": "B4b-275"
+    },
+    {
+        "id": "B4b-276",
+        "name": {
+            "en": "Slowpoke",
+            "es": "Slowpoke"
+        },
+        "rarity": "ONE_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "WATER",
+        "firstPrint": "B4b-276"
+    },
+    {
+        "id": "B4b-277",
+        "name": {
+            "en": "Magikarp",
+            "es": "Magikarp"
+        },
+        "rarity": "ONE_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "WATER",
+        "firstPrint": "B4b-277"
+    },
+    {
+        "id": "B4b-278",
+        "name": {
+            "en": "Mudkip",
+            "es": "Mudkip"
+        },
+        "rarity": "ONE_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "WATER",
+        "firstPrint": "B4b-278"
+    },
+    {
+        "id": "B4b-279",
+        "name": {
+            "en": "Marshtomp",
+            "es": "Marshtomp"
+        },
+        "rarity": "TWO_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "WATER",
+        "firstPrint": "B4b-279"
+    },
+    {
+        "id": "B4b-280",
+        "name": {
+            "en": "Carvanha",
+            "es": "Carvanha"
+        },
+        "rarity": "ONE_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "WATER",
+        "firstPrint": "B4b-280"
+    },
+    {
+        "id": "B4b-281",
+        "name": {
+            "en": "Wailmer",
+            "es": "Wailmer"
+        },
+        "rarity": "ONE_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "WATER",
+        "firstPrint": "B4b-281"
+    },
+    {
+        "id": "B4b-282",
+        "name": {
+            "en": "Feebas",
+            "es": "Feebas"
+        },
+        "rarity": "ONE_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "WATER",
+        "firstPrint": "B4b-282"
+    },
+    {
+        "id": "B4b-283",
+        "name": {
+            "en": "Froakie",
+            "es": "Froakie"
+        },
+        "rarity": "ONE_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "WATER",
+        "firstPrint": "B4b-283"
+    },
+    {
+        "id": "B4b-284",
+        "name": {
+            "en": "Frogadier",
+            "es": "Frogadier"
+        },
+        "rarity": "TWO_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "WATER",
+        "firstPrint": "B4b-284"
+    },
+    {
+        "id": "B4b-285",
+        "name": {
+            "en": "Sobble",
+            "es": "Sobble"
+        },
+        "rarity": "ONE_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "WATER",
+        "firstPrint": "B4b-285"
+    },
+    {
+        "id": "B4b-286",
+        "name": {
+            "en": "Drizzile",
+            "es": "Drizzile"
+        },
+        "rarity": "TWO_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "WATER",
+        "firstPrint": "B4b-286"
+    },
+    {
+        "id": "B4b-287",
+        "name": {
+            "en": "Inteleon",
+            "es": "Inteleon"
+        },
+        "rarity": "THREE_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "WATER",
+        "firstPrint": "B4b-287"
+    },
+    {
+        "id": "B4b-288",
+        "name": {
+            "en": "Frigibax",
+            "es": "Frigibax"
+        },
+        "rarity": "ONE_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "WATER",
+        "firstPrint": "B4b-288"
+    },
+    {
+        "id": "B4b-289",
+        "name": {
+            "en": "Arctibax",
+            "es": "Arctibax"
+        },
+        "rarity": "ONE_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "WATER",
+        "firstPrint": "B4b-289"
+    },
+    {
+        "id": "B4b-290",
+        "name": {
+            "en": "Baxcalibur",
+            "es": "Baxcalibur"
+        },
+        "rarity": "THREE_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "WATER",
+        "firstPrint": "B4b-290"
+    },
+    {
+        "id": "B4b-291",
+        "name": {
+            "en": "Pikachu",
+            "es": "Pikachu"
+        },
+        "rarity": "ONE_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "LIGHTNING",
+        "firstPrint": "B4b-291"
+    },
+    {
+        "id": "B4b-292",
+        "name": {
+            "en": "Raichu",
+            "es": "Raichu"
+        },
+        "rarity": "THREE_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "LIGHTNING",
+        "firstPrint": "B4b-292"
+    },
+    {
+        "id": "B4b-293",
+        "name": {
+            "en": "Magnemite",
+            "es": "Magnemite"
+        },
+        "rarity": "ONE_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "LIGHTNING",
+        "firstPrint": "B4b-293"
+    },
+    {
+        "id": "B4b-294",
+        "name": {
+            "en": "Magneton",
+            "es": "Magneton"
+        },
+        "rarity": "TWO_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "LIGHTNING",
+        "firstPrint": "B4b-294"
+    },
+    {
+        "id": "B4b-295",
+        "name": {
+            "en": "Mareep",
+            "es": "Mareep"
+        },
+        "rarity": "ONE_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "LIGHTNING",
+        "firstPrint": "B4b-295"
+    },
+    {
+        "id": "B4b-296",
+        "name": {
+            "en": "Flaaffy",
+            "es": "Flaaffy"
+        },
+        "rarity": "TWO_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "LIGHTNING",
+        "firstPrint": "B4b-296"
+    },
+    {
+        "id": "B4b-297",
+        "name": {
+            "en": "Electrike",
+            "es": "Electrike"
+        },
+        "rarity": "ONE_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "LIGHTNING",
+        "firstPrint": "B4b-297"
+    },
+    {
+        "id": "B4b-298",
+        "name": {
+            "en": "Helioptile",
+            "es": "Helioptile"
+        },
+        "rarity": "ONE_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "LIGHTNING",
+        "firstPrint": "B4b-298"
+    },
+    {
+        "id": "B4b-299",
+        "name": {
+            "en": "Heliolisk",
+            "es": "Heliolisk"
+        },
+        "rarity": "TWO_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "LIGHTNING",
+        "firstPrint": "B4b-299"
+    },
+    {
+        "id": "B4b-300",
+        "name": {
+            "en": "Yamper",
+            "es": "Yamper"
+        },
+        "rarity": "ONE_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "LIGHTNING",
+        "firstPrint": "B4b-300"
+    },
+    {
+        "id": "B4b-301",
+        "name": {
+            "en": "Toxel",
+            "es": "Toxel"
+        },
+        "rarity": "ONE_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "LIGHTNING",
+        "firstPrint": "B4b-301"
+    },
+    {
+        "id": "B4b-302",
+        "name": {
+            "en": "Tadbulb",
+            "es": "Tadbulb"
+        },
+        "rarity": "ONE_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "LIGHTNING",
+        "firstPrint": "B4b-302"
+    },
+    {
+        "id": "B4b-303",
+        "name": {
+            "en": "Iron Thorns",
+            "es": "Ferropúas"
+        },
+        "rarity": "TWO_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "LIGHTNING",
+        "firstPrint": "B4b-303"
+    },
+    {
+        "id": "B4b-304",
+        "name": {
+            "en": "Ralts",
+            "es": "Ralts"
+        },
+        "rarity": "ONE_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "PSYCHIC",
+        "firstPrint": "B4b-304"
+    },
+    {
+        "id": "B4b-305",
+        "name": {
+            "en": "Kirlia",
+            "es": "Kirlia"
+        },
+        "rarity": "TWO_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "PSYCHIC",
+        "firstPrint": "B4b-305"
+    },
+    {
+        "id": "B4b-306",
+        "name": {
+            "en": "Wynaut",
+            "es": "Wynaut"
+        },
+        "rarity": "THREE_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "PSYCHIC",
+        "firstPrint": "B4b-306"
+    },
+    {
+        "id": "B4b-307",
+        "name": {
+            "en": "Chingling",
+            "es": "Chingling"
+        },
+        "rarity": "THREE_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "PSYCHIC",
+        "firstPrint": "B4b-307"
+    },
+    {
+        "id": "B4b-308",
+        "name": {
+            "en": "Mime Jr.",
+            "es": "Mime Jr."
+        },
+        "rarity": "THREE_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "PSYCHIC",
+        "firstPrint": "B4b-308"
+    },
+    {
+        "id": "B4b-309",
+        "name": {
+            "en": "Meloetta",
+            "es": "Meloetta"
+        },
+        "rarity": "TWO_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "PSYCHIC",
+        "firstPrint": "B4b-309"
+    },
+    {
+        "id": "B4b-310",
+        "name": {
+            "en": "Sylveon",
+            "es": "Sylveon"
+        },
+        "rarity": "THREE_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "PSYCHIC",
+        "firstPrint": "B4b-310"
+    },
+    {
+        "id": "B4b-311",
+        "name": {
+            "en": "Klefki",
+            "es": "Klefki"
+        },
+        "rarity": "THREE_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "PSYCHIC",
+        "firstPrint": "B4b-311"
+    },
+    {
+        "id": "B4b-312",
+        "name": {
+            "en": "Fidough",
+            "es": "Fidough"
+        },
+        "rarity": "ONE_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "PSYCHIC",
+        "firstPrint": "B4b-312"
+    },
+    {
+        "id": "B4b-313",
+        "name": {
+            "en": "Bramblin",
+            "es": "Bramblin"
+        },
+        "rarity": "ONE_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "PSYCHIC",
+        "firstPrint": "B4b-313"
+    },
+    {
+        "id": "B4b-314",
+        "name": {
+            "en": "Brambleghast",
+            "es": "Brambleghast"
+        },
+        "rarity": "THREE_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "PSYCHIC",
+        "firstPrint": "B4b-314"
+    },
+    {
+        "id": "B4b-315",
+        "name": {
+            "en": "Gimmighoul",
+            "es": "Gimmighoul"
+        },
+        "rarity": "ONE_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "PSYCHIC",
+        "firstPrint": "B4b-315"
+    },
+    {
+        "id": "B4b-316",
+        "name": {
+            "en": "Onix",
+            "es": "Onix"
+        },
+        "rarity": "ONE_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "FIGHTING",
+        "firstPrint": "B4b-316"
+    },
+    {
+        "id": "B4b-317",
+        "name": {
+            "en": "Trapinch",
+            "es": "Trapinch"
+        },
+        "rarity": "ONE_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "FIGHTING",
+        "firstPrint": "B4b-317"
+    },
+    {
+        "id": "B4b-318",
+        "name": {
+            "en": "Riolu",
+            "es": "Riolu"
+        },
+        "rarity": "ONE_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "FIGHTING",
+        "firstPrint": "B4b-318"
+    },
+    {
+        "id": "B4b-319",
+        "name": {
+            "en": "Roggenrola",
+            "es": "Roggenrola"
+        },
+        "rarity": "ONE_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "FIGHTING",
+        "firstPrint": "B4b-319"
+    },
+    {
+        "id": "B4b-320",
+        "name": {
+            "en": "Boldore",
+            "es": "Boldore"
+        },
+        "rarity": "TWO_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "FIGHTING",
+        "firstPrint": "B4b-320"
+    },
+    {
+        "id": "B4b-321",
+        "name": {
+            "en": "Dwebble",
+            "es": "Dwebble"
+        },
+        "rarity": "ONE_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "FIGHTING",
+        "firstPrint": "B4b-321"
+    },
+    {
+        "id": "B4b-322",
+        "name": {
+            "en": "Rockruff",
+            "es": "Rockruff"
+        },
+        "rarity": "ONE_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "FIGHTING",
+        "firstPrint": "B4b-322"
+    },
+    {
+        "id": "B4b-323",
+        "name": {
+            "en": "Falinks",
+            "es": "Falinks"
+        },
+        "rarity": "TWO_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "FIGHTING",
+        "firstPrint": "B4b-323"
+    },
+    {
+        "id": "B4b-324",
+        "name": {
+            "en": "Alolan Grimer",
+            "es": "Grimer de Alola"
+        },
+        "rarity": "ONE_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "DARKNESS",
+        "firstPrint": "B4b-324"
+    },
+    {
+        "id": "B4b-325",
+        "name": {
+            "en": "Alolan Muk",
+            "es": "Muk de Alola"
+        },
+        "rarity": "THREE_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "DARKNESS",
+        "firstPrint": "B4b-325"
+    },
+    {
+        "id": "B4b-326",
+        "name": {
+            "en": "Gastly",
+            "es": "Gastly"
+        },
+        "rarity": "ONE_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "DARKNESS",
+        "firstPrint": "B4b-326"
+    },
+    {
+        "id": "B4b-327",
+        "name": {
+            "en": "Haunter",
+            "es": "Haunter"
+        },
+        "rarity": "TWO_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "DARKNESS",
+        "firstPrint": "B4b-327"
+    },
+    {
+        "id": "B4b-328",
+        "name": {
+            "en": "Darkrai",
+            "es": "Darkrai"
+        },
+        "rarity": "THREE_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "DARKNESS",
+        "firstPrint": "B4b-328"
+    },
+    {
+        "id": "B4b-329",
+        "name": {
+            "en": "Zorua",
+            "es": "Zorua"
+        },
+        "rarity": "ONE_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "DARKNESS",
+        "firstPrint": "B4b-329"
+    },
+    {
+        "id": "B4b-330",
+        "name": {
+            "en": "Skrelp",
+            "es": "Skrelp"
+        },
+        "rarity": "ONE_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "DARKNESS",
+        "firstPrint": "B4b-330"
+    },
+    {
+        "id": "B4b-331",
+        "name": {
+            "en": "Zarude",
+            "es": "Zarude"
+        },
+        "rarity": "THREE_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "DARKNESS",
+        "firstPrint": "B4b-331"
+    },
+    {
+        "id": "B4b-332",
+        "name": {
+            "en": "Bombirdier",
+            "es": "Bombirdier"
+        },
+        "rarity": "THREE_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "DARKNESS",
+        "firstPrint": "B4b-332"
+    },
+    {
+        "id": "B4b-333",
+        "name": {
+            "en": "Roaring Moon",
+            "es": "Bramaluna"
+        },
+        "rarity": "THREE_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "DARKNESS",
+        "firstPrint": "B4b-333"
+    },
+    {
+        "id": "B4b-334",
+        "name": {
+            "en": "Galarian Meowth",
+            "es": "Meowth de Galar"
+        },
+        "rarity": "ONE_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "METAL",
+        "firstPrint": "B4b-334"
+    },
+    {
+        "id": "B4b-335",
+        "name": {
+            "en": "Galarian Perrserker",
+            "es": "Perrserker de Galar"
+        },
+        "rarity": "THREE_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "METAL",
+        "firstPrint": "B4b-335"
+    },
+    {
+        "id": "B4b-336",
+        "name": {
+            "en": "Beldum",
+            "es": "Beldum"
+        },
+        "rarity": "ONE_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "METAL",
+        "firstPrint": "B4b-336"
+    },
+    {
+        "id": "B4b-337",
+        "name": {
+            "en": "Metang",
+            "es": "Metang"
+        },
+        "rarity": "TWO_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "METAL",
+        "firstPrint": "B4b-337"
+    },
+    {
+        "id": "B4b-338",
+        "name": {
+            "en": "Honedge",
+            "es": "Honedge"
+        },
+        "rarity": "ONE_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "METAL",
+        "firstPrint": "B4b-338"
+    },
+    {
+        "id": "B4b-339",
+        "name": {
+            "en": "Doublade",
+            "es": "Doublade"
+        },
+        "rarity": "TWO_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "METAL",
+        "firstPrint": "B4b-339"
+    },
+    {
+        "id": "B4b-340",
+        "name": {
+            "en": "Aegislash",
+            "es": "Aegislash"
+        },
+        "rarity": "THREE_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "METAL",
+        "firstPrint": "B4b-340"
+    },
+    {
+        "id": "B4b-341",
+        "name": {
+            "en": "Aegislash",
+            "es": "Aegislash"
+        },
+        "rarity": "THREE_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "METAL",
+        "firstPrint": "B4b-341"
+    },
+    {
+        "id": "B4b-342",
+        "name": {
+            "en": "Meltan",
+            "es": "Meltan"
+        },
+        "rarity": "ONE_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "METAL",
+        "firstPrint": "B4b-342"
+    },
+    {
+        "id": "B4b-343",
+        "name": {
+            "en": "Dratini",
+            "es": "Dratini"
+        },
+        "rarity": "ONE_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "DRAGON",
+        "firstPrint": "B4b-343"
+    },
+    {
+        "id": "B4b-344",
+        "name": {
+            "en": "Dragonair",
+            "es": "Dragonair"
+        },
+        "rarity": "TWO_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "DRAGON",
+        "firstPrint": "B4b-344"
+    },
+    {
+        "id": "B4b-345",
+        "name": {
+            "en": "Vibrava",
+            "es": "Vibrava"
+        },
+        "rarity": "TWO_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "DRAGON",
+        "firstPrint": "B4b-345"
+    },
+    {
+        "id": "B4b-346",
+        "name": {
+            "en": "Axew",
+            "es": "Axew"
+        },
+        "rarity": "ONE_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "DRAGON",
+        "firstPrint": "B4b-346"
+    },
+    {
+        "id": "B4b-347",
+        "name": {
+            "en": "Fraxure",
+            "es": "Fraxure"
+        },
+        "rarity": "TWO_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "DRAGON",
+        "firstPrint": "B4b-347"
+    },
+    {
+        "id": "B4b-348",
+        "name": {
+            "en": "Haxorus",
+            "es": "Haxorus"
+        },
+        "rarity": "THREE_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "DRAGON",
+        "firstPrint": "B4b-348"
+    },
+    {
+        "id": "B4b-349",
+        "name": {
+            "en": "Drampa",
+            "es": "Drampa"
+        },
+        "rarity": "TWO_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "DRAGON",
+        "firstPrint": "B4b-349"
+    },
+    {
+        "id": "B4b-350",
+        "name": {
+            "en": "Rattata",
+            "es": "Rattata"
+        },
+        "rarity": "ONE_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "COLORLESS",
+        "firstPrint": "B4b-350"
+    },
+    {
+        "id": "B4b-351",
+        "name": {
+            "en": "Raticate",
+            "es": "Raticate"
+        },
+        "rarity": "THREE_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "COLORLESS",
+        "firstPrint": "B4b-351"
+    },
+    {
+        "id": "B4b-352",
+        "name": {
+            "en": "Meowth",
+            "es": "Meowth"
+        },
+        "rarity": "ONE_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "COLORLESS",
+        "firstPrint": "B4b-352"
+    },
+    {
+        "id": "B4b-353",
+        "name": {
+            "en": "Eevee",
+            "es": "Eevee"
+        },
+        "rarity": "ONE_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "COLORLESS",
+        "firstPrint": "B4b-353"
+    },
+    {
+        "id": "B4b-354",
+        "name": {
+            "en": "Skitty",
+            "es": "Skitty"
+        },
+        "rarity": "ONE_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "COLORLESS",
+        "firstPrint": "B4b-354"
+    },
+    {
+        "id": "B4b-355",
+        "name": {
+            "en": "Delcatty",
+            "es": "Delcatty"
+        },
+        "rarity": "THREE_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "COLORLESS",
+        "firstPrint": "B4b-355"
+    },
+    {
+        "id": "B4b-356",
+        "name": {
+            "en": "Swablu",
+            "es": "Swablu"
+        },
+        "rarity": "ONE_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "COLORLESS",
+        "firstPrint": "B4b-356"
+    },
+    {
+        "id": "B4b-357",
+        "name": {
+            "en": "Buneary",
+            "es": "Buneary"
+        },
+        "rarity": "ONE_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "COLORLESS",
+        "firstPrint": "B4b-357"
+    },
+    {
+        "id": "B4b-358",
+        "name": {
+            "en": "Munchlax",
+            "es": "Munchlax"
+        },
+        "rarity": "THREE_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "COLORLESS",
+        "firstPrint": "B4b-358"
+    },
+    {
+        "id": "B4b-359",
+        "name": {
+            "en": "Lillipup",
+            "es": "Lillipup"
+        },
+        "rarity": "ONE_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "COLORLESS",
+        "firstPrint": "B4b-359"
+    },
+    {
+        "id": "B4b-360",
+        "name": {
+            "en": "Hisuian Zorua",
+            "es": "Zorua de Hisui"
+        },
+        "rarity": "ONE_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "COLORLESS",
+        "firstPrint": "B4b-360"
+    },
+    {
+        "id": "B4b-361",
+        "name": {
+            "en": "Ducklett",
+            "es": "Ducklett"
+        },
+        "rarity": "ONE_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "COLORLESS",
+        "firstPrint": "B4b-361"
+    },
+    {
+        "id": "B4b-362",
+        "name": {
+            "en": "Rookidee",
+            "es": "Rookidee"
+        },
+        "rarity": "ONE_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "COLORLESS",
+        "firstPrint": "B4b-362"
+    },
+    {
+        "id": "B4b-363",
+        "name": {
+            "en": "Corvisquire",
+            "es": "Corvisquire"
+        },
+        "rarity": "TWO_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "COLORLESS",
+        "firstPrint": "B4b-363"
+    },
+    {
+        "id": "B4b-364",
+        "name": {
+            "en": "Lucky Ice Pop",
+            "es": "Helado Suerte"
+        },
+        "rarity": "TWO_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "TRAINER",
+        "firstPrint": "B4b-364"
+    },
+    {
+        "id": "B4b-365",
+        "name": {
+            "en": "Electric Generator",
+            "es": "Generador Eléctrico"
+        },
+        "rarity": "TWO_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "TRAINER",
+        "firstPrint": "B4b-365"
+    },
+    {
+        "id": "B4b-366",
+        "name": {
+            "en": "Order Pad",
+            "es": "Dispositivo de Pedidos"
+        },
+        "rarity": "TWO_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "TRAINER",
+        "firstPrint": "B4b-366"
+    },
+    {
+        "id": "B4b-367",
+        "name": {
+            "en": "Quick-Grow Extract",
+            "es": "Extracto de Maduración"
+        },
+        "rarity": "TWO_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "TRAINER",
+        "firstPrint": "B4b-367"
+    },
+    {
+        "id": "B4b-368",
+        "name": {
+            "en": "Field Blower",
+            "es": "Soplador de Campo"
+        },
+        "rarity": "TWO_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "TRAINER",
+        "firstPrint": "B4b-368"
+    },
+    {
+        "id": "B4b-369",
+        "name": {
+            "en": "Flame Patch",
+            "es": "Refuerzo Fuego"
+        },
+        "rarity": "TWO_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "TRAINER",
+        "firstPrint": "B4b-369"
+    },
+    {
+        "id": "B4b-370",
+        "name": {
+            "en": "Deceptive Needle",
+            "es": "Aguja Granuja"
+        },
+        "rarity": "TWO_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "TRAINER",
+        "firstPrint": "B4b-370"
+    },
+    {
+        "id": "B4b-371",
+        "name": {
+            "en": "Lucky Egg",
+            "es": "Huevo Suerte"
+        },
+        "rarity": "TWO_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "TRAINER",
+        "firstPrint": "B4b-371"
+    },
+    {
+        "id": "B4b-372",
+        "name": {
+            "en": "Small Balloon",
+            "es": "Globito"
+        },
+        "rarity": "TWO_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "TRAINER",
+        "firstPrint": "B4b-372"
+    },
+    {
+        "id": "B4b-373",
+        "name": {
+            "en": "Ancient Booster Energy Capsule",
+            "es": "Tanque de Energía Potenciadora del Pasado"
+        },
+        "rarity": "TWO_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "TRAINER",
+        "firstPrint": "B4b-373"
+    },
+    {
+        "id": "B4b-374",
+        "name": {
+            "en": "Future Booster Energy Capsule",
+            "es": "Tanque de Energía Potenciadora del Futuro"
+        },
+        "rarity": "TWO_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "TRAINER",
+        "firstPrint": "B4b-374"
+    },
+    {
+        "id": "B4b-375",
+        "name": {
+            "en": "Protective Poncho",
+            "es": "Poncho Protector"
+        },
+        "rarity": "TWO_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "TRAINER",
+        "firstPrint": "B4b-375"
+    },
+    {
+        "id": "B4b-376",
+        "name": {
+            "en": "Metal Core Barrier",
+            "es": "Barrera Núcleo Metálico"
+        },
+        "rarity": "TWO_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "TRAINER",
+        "firstPrint": "B4b-376"
+    },
+    {
+        "id": "B4b-377",
+        "name": {
+            "en": "Elegant Cape",
+            "es": "Capa Elegante"
+        },
+        "rarity": "TWO_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "TRAINER",
+        "firstPrint": "B4b-377"
+    },
+    {
+        "id": "B4b-378",
+        "name": {
+            "en": "Iris",
+            "es": "Iris"
+        },
+        "rarity": "TWO_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "TRAINER",
+        "firstPrint": "B4b-378"
+    },
+    {
+        "id": "B4b-379",
+        "name": {
+            "en": "Juliana",
+            "es": "Juliana"
+        },
+        "rarity": "TWO_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "TRAINER",
+        "firstPrint": "B4b-379"
+    },
+    {
+        "id": "B4b-380",
+        "name": {
+            "en": "Diantha",
+            "es": "Dianta"
+        },
+        "rarity": "TWO_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "TRAINER",
+        "firstPrint": "B4b-380"
+    },
+    {
+        "id": "B4b-381",
+        "name": {
+            "en": "Calem",
+            "es": "Kalm"
+        },
+        "rarity": "TWO_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "TRAINER",
+        "firstPrint": "B4b-381"
+    },
+    {
+        "id": "B4b-382",
+        "name": {
+            "en": "Puppy-Loving Girl",
+            "es": "Amante de los Perritos"
+        },
+        "rarity": "TWO_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "TRAINER",
+        "firstPrint": "B4b-382"
+    },
+    {
+        "id": "B4b-383",
+        "name": {
+            "en": "Korrina",
+            "es": "Corelia"
+        },
+        "rarity": "TWO_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "TRAINER",
+        "firstPrint": "B4b-383"
+    },
+    {
+        "id": "B4b-384",
+        "name": {
+            "en": "Clemont",
+            "es": "Lem"
+        },
+        "rarity": "TWO_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "TRAINER",
+        "firstPrint": "B4b-384"
+    },
+    {
+        "id": "B4b-385",
+        "name": {
+            "en": "Serena",
+            "es": "Serena"
+        },
+        "rarity": "TWO_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "TRAINER",
+        "firstPrint": "B4b-385"
+    },
+    {
+        "id": "B4b-386",
+        "name": {
+            "en": "May",
+            "es": "Aura"
+        },
+        "rarity": "TWO_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "TRAINER",
+        "firstPrint": "B4b-386"
+    },
+    {
+        "id": "B4b-387",
+        "name": {
+            "en": "Skyla",
+            "es": "Gerania"
+        },
+        "rarity": "TWO_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "TRAINER",
+        "firstPrint": "B4b-387"
+    },
+    {
+        "id": "B4b-388",
+        "name": {
+            "en": "Arven",
+            "es": "Damián"
+        },
+        "rarity": "TWO_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "TRAINER",
+        "firstPrint": "B4b-388"
+    },
+    {
+        "id": "B4b-389",
+        "name": {
+            "en": "Wallace",
+            "es": "Plubio"
+        },
+        "rarity": "TWO_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "TRAINER",
+        "firstPrint": "B4b-389"
+    },
+    {
+        "id": "B4b-390",
+        "name": {
+            "en": "Wally",
+            "es": "Blasco"
+        },
+        "rarity": "TWO_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "TRAINER",
+        "firstPrint": "B4b-390"
+    },
+    {
+        "id": "B4b-391",
+        "name": {
+            "en": "Copycat",
+            "es": "Copiona"
+        },
+        "rarity": "TWO_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "TRAINER",
+        "firstPrint": "B4b-391"
+    },
+    {
+        "id": "B4b-392",
+        "name": {
+            "en": "Lisia",
+            "es": "Ariana"
+        },
+        "rarity": "TWO_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "TRAINER",
+        "firstPrint": "B4b-392"
+    },
+    {
+        "id": "B4b-393",
+        "name": {
+            "en": "Fragrant Forest",
+            "es": "Bosque Aromático"
+        },
+        "rarity": "TWO_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "TRAINER",
+        "firstPrint": "B4b-393"
+    },
+    {
+        "id": "B4b-394",
+        "name": {
+            "en": "Arena of Antiquity",
+            "es": "Arena Arcaica"
+        },
+        "rarity": "TWO_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "TRAINER",
+        "firstPrint": "B4b-394"
+    },
+    {
+        "id": "B4b-395",
+        "name": {
+            "en": "Soothing Shore",
+            "es": "Orilla Reparadora"
+        },
+        "rarity": "TWO_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "TRAINER",
+        "firstPrint": "B4b-395"
+    },
+    {
+        "id": "B4b-396",
+        "name": {
+            "en": "Bounded Field",
+            "es": "Campo Delimitado"
+        },
+        "rarity": "TWO_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "TRAINER",
+        "firstPrint": "B4b-396"
+    },
+    {
+        "id": "B4b-397",
+        "name": {
+            "en": "Mesagoza",
+            "es": "Ciudad Meseta"
+        },
+        "rarity": "TWO_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "TRAINER",
+        "firstPrint": "B4b-397"
+    },
+    {
+        "id": "B4b-398",
+        "name": {
+            "en": "Training Area",
+            "es": "Área de Entrenamiento"
+        },
+        "rarity": "TWO_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "TRAINER",
+        "firstPrint": "B4b-398"
+    },
+    {
+        "id": "B4b-399",
+        "name": {
+            "en": "Rainbow Cave",
+            "es": "Cueva Arcoiris"
+        },
+        "rarity": "TWO_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "TRAINER",
+        "firstPrint": "B4b-399"
+    },
+    {
+        "id": "B4b-400",
+        "name": {
+            "en": "Hiking Trail",
+            "es": "Ruta de Senderismo"
+        },
+        "rarity": "TWO_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "TRAINER",
+        "firstPrint": "B4b-400"
+    },
+    {
+        "id": "B4b-401",
+        "name": {
+            "en": "Starting Plains",
+            "es": "Planicie Inicial"
+        },
+        "rarity": "TWO_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "TRAINER",
+        "firstPrint": "B4b-401"
+    },
+    {
+        "id": "B4b-402",
+        "name": {
+            "en": "Peculiar Plaza",
+            "es": "Plaza Peculiar"
+        },
+        "rarity": "TWO_DIAMOND_FOIL",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "TRAINER",
+        "firstPrint": "B4b-402"
+    },
+    {
+        "id": "B4b-403",
+        "name": {
+            "en": "Charmeleon",
+            "es": "Charmeleon"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "FIRE",
+        "firstPrint": "B4b-403"
+    },
+    {
+        "id": "B4b-404",
+        "name": {
+            "en": "Baxcalibur",
+            "es": "Baxcalibur"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "WATER",
+        "firstPrint": "B4b-404"
+    },
+    {
+        "id": "B4b-405",
+        "name": {
+            "en": "Meloetta",
+            "es": "Meloetta"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "PSYCHIC",
+        "firstPrint": "B4b-405"
+    },
+    {
+        "id": "B4b-406",
+        "name": {
+            "en": "Fidough",
+            "es": "Fidough"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "PSYCHIC",
+        "firstPrint": "B4b-406"
+    },
+    {
+        "id": "B4b-407",
+        "name": {
+            "en": "Dratini",
+            "es": "Dratini"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "DRAGON",
+        "firstPrint": "B4b-407"
+    },
+    {
+        "id": "B4b-408",
+        "name": {
+            "en": "Eevee",
+            "es": "Eevee"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "COLORLESS",
+        "firstPrint": "B4b-408"
+    },
+    {
+        "id": "B4b-409",
+        "name": {
+            "en": "Mega Venusaur ex",
+            "es": "Mega-Venusaur ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "GRASS",
+        "firstPrint": "B4b-409"
+    },
+    {
+        "id": "B4b-410",
+        "name": {
+            "en": "Mega Sceptile ex",
+            "es": "Mega-Sceptile ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "GRASS",
+        "firstPrint": "B4b-410"
+    },
+    {
+        "id": "B4b-411",
+        "name": {
+            "en": "Mega Charizard X ex",
+            "es": "Mega-Charizard X ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "FIRE",
+        "firstPrint": "B4b-411"
+    },
+    {
+        "id": "B4b-412",
+        "name": {
+            "en": "Mega Charizard Y ex",
+            "es": "Mega-Charizard Y ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "FIRE",
+        "firstPrint": "B4b-412"
+    },
+    {
+        "id": "B4b-413",
+        "name": {
+            "en": "Mega Blaziken ex",
+            "es": "Mega-Blaziken ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "FIRE",
+        "firstPrint": "B4b-413"
+    },
+    {
+        "id": "B4b-414",
+        "name": {
+            "en": "Mega Blastoise ex",
+            "es": "Mega-Blastoise ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "WATER",
+        "firstPrint": "B4b-414"
+    },
+    {
+        "id": "B4b-415",
+        "name": {
+            "en": "Mega Gyarados ex",
+            "es": "Mega-Gyarados ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "WATER",
+        "firstPrint": "B4b-415"
+    },
+    {
+        "id": "B4b-416",
+        "name": {
+            "en": "Mega Gardevoir ex",
+            "es": "Mega-Gardevoir ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "PSYCHIC",
+        "firstPrint": "B4b-416"
+    },
+    {
+        "id": "B4b-417",
+        "name": {
+            "en": "Mega Altaria ex",
+            "es": "Mega-Altaria ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "PSYCHIC",
+        "firstPrint": "B4b-417"
+    },
+    {
+        "id": "B4b-418",
+        "name": {
+            "en": "Mega Lucario ex",
+            "es": "Mega-Lucario ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "FIGHTING",
+        "firstPrint": "B4b-418"
+    },
+    {
+        "id": "B4b-419",
+        "name": {
+            "en": "Mega Gengar ex",
+            "es": "Mega-Gengar ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "DARKNESS",
+        "firstPrint": "B4b-419"
+    },
+    {
+        "id": "B4b-420",
+        "name": {
+            "en": "Mega Rayquaza ex",
+            "es": "Mega-Rayquaza ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "DRAGON",
+        "firstPrint": "B4b-420"
+    },
+    {
+        "id": "B4b-421",
+        "name": {
+            "en": "Iris",
+            "es": "Iris"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "TRAINER",
+        "firstPrint": "B4b-421"
+    },
+    {
+        "id": "B4b-422",
+        "name": {
+            "en": "Elesa",
+            "es": "Camila"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "TRAINER",
+        "firstPrint": "B4b-422"
+    },
+    {
+        "id": "B4b-423",
+        "name": {
+            "en": "Arven",
+            "es": "Damián"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "TRAINER",
+        "firstPrint": "B4b-423"
+    },
+    {
+        "id": "B4b-424",
+        "name": {
+            "en": "Copycat",
+            "es": "Copiona"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "TRAINER",
+        "firstPrint": "B4b-424"
+    },
+    {
+        "id": "B4b-425",
+        "name": {
+            "en": "Mega Charizard X ex",
+            "es": "Mega-Charizard X ex"
+        },
+        "rarity": "THREE_STAR",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "FIRE",
+        "firstPrint": "B4b-425"
+    },
+    {
+        "id": "B4b-426",
+        "name": {
+            "en": "Dedenne ex",
+            "es": "Dedenne ex"
+        },
+        "rarity": "TWO_SHINY",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "LIGHTNING",
+        "extra": true,
+        "firstPrint": "B4b-426"
+    },
+    {
+        "id": "B4b-427",
+        "name": {
+            "en": "Mega Diancie ex",
+            "es": "Mega-Diancie ex"
+        },
+        "rarity": "TWO_SHINY",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "PSYCHIC",
+        "extra": true,
+        "firstPrint": "B4b-427"
+    },
+    {
+        "id": "B4b-428",
+        "name": {
+            "en": "Miraidon ex",
+            "es": "Miraidon ex"
+        },
+        "rarity": "CROWN",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "LIGHTNING",
+        "firstPrint": "B4b-428"
+    },
+    {
+        "id": "B4b-429",
+        "name": {
+            "en": "Koraidon ex",
+            "es": "Koraidon ex"
+        },
+        "rarity": "CROWN",
+        "origins": [
+            "DELUXE_2026"
+        ],
+        "type": "FIGHTING",
+        "firstPrint": "B4b-429"
+    }
+]

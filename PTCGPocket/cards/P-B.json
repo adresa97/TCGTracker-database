@@ -1228,5 +1228,131 @@
         "type": "PSYCHIC",
         "image": "v3",
         "firstPrint": "P-B-094"
+    },
+    {
+        "id": "P-B-095",
+        "name": {
+            "en": "Darkrai",
+            "es": "Darkrai"
+        },
+        "rarity": "NONE",
+        "origins": [
+            "PREMIUM"
+        ],
+        "type": "DARKNESS",
+        "image": "v3",
+        "firstPrint": "P-B-095"
+    },
+    {
+        "id": "P-B-096",
+        "name": {
+            "en": "Falinks",
+            "es": "Falinks"
+        },
+        "rarity": "NONE",
+        "origins": [
+            "DROP_EVENT"
+        ],
+        "type": "FIGHTING",
+        "image": "v3",
+        "firstPrint": "P-B-096"
+    },
+    {
+        "id": "P-B-097",
+        "name": {
+            "en": "Gible",
+            "es": "Gible"
+        },
+        "rarity": "NONE",
+        "origins": [
+            "DROP_EVENT"
+        ],
+        "type": "DRAGON",
+        "image": "v3",
+        "firstPrint": "P-B-097"
+    },
+    {
+        "id": "P-B-098",
+        "name": {
+            "en": "Gabite",
+            "es": "Gabite"
+        },
+        "rarity": "NONE",
+        "origins": [
+            "DROP_EVENT"
+        ],
+        "type": "DRAGON",
+        "image": "v3",
+        "firstPrint": "P-B-098"
+    },
+    {
+        "id": "P-B-099",
+        "name": {
+            "en": "Mega Grachomp ex",
+            "es": "Mega-Garchomp ex"
+        },
+        "rarity": "NONE",
+        "origins": [
+            "DROP_EVENT"
+        ],
+        "type": "DRAGON",
+        "image": "v3",
+        "firstPrint": "P-B-099"
+    },
+    {
+        "id": "P-B-100",
+        "name": {
+            "en": "Delcatty",
+            "es": "Delcatty"
+        },
+        "rarity": "NONE",
+        "origins": [
+            "DROP_EVENT"
+        ],
+        "type": "COLORLESS",
+        "image": "v3",
+        "firstPrint": "P-B-100"
+    },
+    {
+        "id": "P-B-101",
+        "name": {
+            "en": "Charmander",
+            "es": "Charmander"
+        },
+        "rarity": "NONE",
+        "origins": [
+            "WONDER_EVENT"
+        ],
+        "type": "FIRE",
+        "image": "v3",
+        "firstPrint": "P-B-101"
+    },
+    {
+        "id": "P-B-102",
+        "name": {
+            "en": "Drampa",
+            "es": "Drampa"
+        },
+        "rarity": "NONE",
+        "origins": [
+            "WONDER_EVENT"
+        ],
+        "type": "DRAGON",
+        "image": "v3",
+        "firstPrint": "P-B-102"
+    },
+    {
+        "id": "P-B-103",
+        "name": {
+            "en": "Pikachu ex",
+            "es": "Pikachu ex"
+        },
+        "rarity": "NONE",
+        "origins": [
+            "MISSION_EVENT"
+        ],
+        "type": "LIGHTNING",
+        "image": "v3",
+        "firstPrint": "P-B-103"
     }
 ]
