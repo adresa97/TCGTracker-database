@@ -16,5 +16,23 @@
         "host": "https://cache.pyde.tech",
         "folder": "/poketrade/expansion-images/#set#/#lang3#/",
         "file": "#set#_#single#_#lang3#.webp"
+    },
+    {
+        "code": "v1-first",
+        "host": "https://cdn.pockettrade.app",
+        "folder": "/images/webp/#lang2#/",
+        "file": "#firstSet#_#firstSingle#_#lang3#.webp"
+    },
+    {
+        "code": "v2-first",
+        "host": "https://cache.pyde.tech",
+        "folder": "/poketrade/expansion-images/#set#/cards/#lang3#/",
+        "file": "#firstSet#_#firstSingle#_#lang3#.webp"
+    },
+    {
+        "code": "v3-first",
+        "host": "https://cache.pyde.tech",
+        "folder": "/poketrade/expansion-images/#set#/#lang3#/",
+        "file": "#firstSet#_#firstSingle#_#lang3#.webp"
     }
 ]
