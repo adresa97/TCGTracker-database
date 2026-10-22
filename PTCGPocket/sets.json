@@ -310,5 +310,18 @@
     "color": [233.0, 196.0, 74.0],
     "cardCount": 429,
     "origins": ["DELUXE_2026"]
+  },
+  {
+    "set": "C1",
+    "expansion": "C1",
+    "series": "C",
+    "name": {
+      "en": "Dual Fusion",
+      "es": "Fusión Dual"
+    },
+    "cover": "https://raw.githubusercontent.com/adresa97/TCGTracker-database/refs/heads/main/PTCGPocket/covers/c1_dual_fusion_en.png",
+    "color": [148.0, 69.0, 244.0],
+    "cardCount": 331,
+    "origins": ["MEGA_MEWTWO_X", "PIKACHU_2026"]
   }
 ]
