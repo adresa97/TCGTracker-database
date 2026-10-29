@@ -1,0 +1,422 @@
+[
+    {
+        "id": "SP1-001",
+        "name": {
+            "en": "Bulbasaur",
+            "es": "Bulbasaur"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "PARTNERS"
+        ],
+        "type": "GRASS",
+        "image": "v3",
+        "firstPrint": "SP1-001"
+    },
+    {
+        "id": "SP1-002",
+        "name": {
+            "en": "Charmander",
+            "es": "Charmander"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "PARTNERS"
+        ],
+        "type": "FIRE",
+        "image": "v3",
+        "firstPrint": "SP1-002"
+    },
+    {
+        "id": "SP1-003",
+        "name": {
+            "en": "Squirtle",
+            "es": "Squirtle"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "PARTNERS"
+        ],
+        "type": "WATER",
+        "image": "v3",
+        "firstPrint": "SP1-003"
+    },
+    {
+        "id": "SP1-004",
+        "name": {
+            "en": "Chikorita",
+            "es": "Chikorita"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "PARTNERS"
+        ],
+        "type": "GRASS",
+        "image": "v3",
+        "firstPrint": "SP1-004"
+    },
+    {
+        "id": "SP1-005",
+        "name": {
+            "en": "Cyndaquil",
+            "es": "Cyndaquil"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "PARTNERS"
+        ],
+        "type": "FIRE",
+        "image": "v3",
+        "firstPrint": "SP1-005"
+    },
+    {
+        "id": "SP1-006",
+        "name": {
+            "en": "Totodile",
+            "es": "Totodile"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "PARTNERS"
+        ],
+        "type": "WATER",
+        "image": "v3",
+        "firstPrint": "SP1-006"
+    },
+    {
+        "id": "SP1-007",
+        "name": {
+            "en": "Treecko",
+            "es": "Treecko"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "PARTNERS"
+        ],
+        "type": "GRASS",
+        "image": "v3",
+        "firstPrint": "SP1-007"
+    },
+    {
+        "id": "SP1-008",
+        "name": {
+            "en": "Torchic",
+            "es": "Torchic"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "PARTNERS"
+        ],
+        "type": "FIRE",
+        "image": "v3",
+        "firstPrint": "SP1-008"
+    },
+    {
+        "id": "SP1-009",
+        "name": {
+            "en": "Mudkip",
+            "es": "Mudkip"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "PARTNERS"
+        ],
+        "type": "WATER",
+        "image": "v3",
+        "firstPrint": "SP1-009"
+    },
+    {
+        "id": "SP1-010",
+        "name": {
+            "en": "Turtwig",
+            "es": "Turtwig"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "PARTNERS"
+        ],
+        "type": "GRASS",
+        "image": "v3",
+        "firstPrint": "SP1-010"
+    },
+    {
+        "id": "SP1-011",
+        "name": {
+            "en": "Chimchar",
+            "es": "Chimchar"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "PARTNERS"
+        ],
+        "type": "FIRE",
+        "image": "v3",
+        "firstPrint": "SP1-011"
+    },
+    {
+        "id": "SP1-012",
+        "name": {
+            "en": "Piplup",
+            "es": "Piplup"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "PARTNERS"
+        ],
+        "type": "WATER",
+        "image": "v3",
+        "firstPrint": "SP1-012"
+    },
+    {
+        "id": "SP1-013",
+        "name": {
+            "en": "Snivy",
+            "es": "Snivy"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "PARTNERS"
+        ],
+        "type": "GRASS",
+        "image": "v3",
+        "firstPrint": "SP1-013"
+    },
+    {
+        "id": "SP1-014",
+        "name": {
+            "en": "Tepig",
+            "es": "Tepig"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "PARTNERS"
+        ],
+        "type": "FIRE",
+        "image": "v3",
+        "firstPrint": "SP1-014"
+    },
+    {
+        "id": "SP1-015",
+        "name": {
+            "en": "Oshawott",
+            "es": "Oshawott"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "PARTNERS"
+        ],
+        "type": "WATER",
+        "image": "v3",
+        "firstPrint": "SP1-015"
+    },
+    {
+        "id": "SP1-016",
+        "name": {
+            "en": "Chespin",
+            "es": "Chespin"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "PARTNERS"
+        ],
+        "type": "GRASS",
+        "image": "v3",
+        "firstPrint": "SP1-016"
+    },
+    {
+        "id": "SP1-017",
+        "name": {
+            "en": "Fennekin",
+            "es": "Fennekin"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "PARTNERS"
+        ],
+        "type": "FIRE",
+        "image": "v3",
+        "firstPrint": "SP1-017"
+    },
+    {
+        "id": "SP1-018",
+        "name": {
+            "en": "Froakie",
+            "es": "Froakie"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "PARTNERS"
+        ],
+        "type": "WATER",
+        "image": "v3",
+        "firstPrint": "SP1-018"
+    },
+    {
+        "id": "SP1-019",
+        "name": {
+            "en": "Rowlet",
+            "es": "Rowlet"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "PARTNERS"
+        ],
+        "type": "GRASS",
+        "image": "v3",
+        "firstPrint": "SP1-019"
+    },
+    {
+        "id": "SP1-020",
+        "name": {
+            "en": "Litten",
+            "es": "Litten"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "PARTNERS"
+        ],
+        "type": "FIRE",
+        "image": "v3",
+        "firstPrint": "SP1-020"
+    },
+    {
+        "id": "SP1-021",
+        "name": {
+            "en": "Popplio",
+            "es": "Popplio"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "PARTNERS"
+        ],
+        "type": "WATER",
+        "image": "v3",
+        "firstPrint": "SP1-021"
+    },
+    {
+        "id": "SP1-022",
+        "name": {
+            "en": "Grookey",
+            "es": "Grookey"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "PARTNERS"
+        ],
+        "type": "GRASS",
+        "image": "v3",
+        "firstPrint": "SP1-022"
+    },
+    {
+        "id": "SP1-023",
+        "name": {
+            "en": "Scorbunny",
+            "es": "Scorbunny"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "PARTNERS"
+        ],
+        "type": "FIRE",
+        "image": "v3",
+        "firstPrint": "SP1-023"
+    },
+    {
+        "id": "SP1-024",
+        "name": {
+            "en": "Sobble",
+            "es": "Sobble"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "PARTNERS"
+        ],
+        "type": "WATER",
+        "image": "v3",
+        "firstPrint": "SP1-024"
+    },
+    {
+        "id": "SP1-025",
+        "name": {
+            "en": "Sprigatito",
+            "es": "Sprigatito"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "PARTNERS"
+        ],
+        "type": "GRASS",
+        "image": "v3",
+        "firstPrint": "SP1-025"
+    },
+    {
+        "id": "SP1-026",
+        "name": {
+            "en": "Fuecoco",
+            "es": "Fuecoco"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "PARTNERS"
+        ],
+        "type": "FIRE",
+        "image": "v3",
+        "firstPrint": "SP1-026"
+    },
+    {
+        "id": "SP1-027",
+        "name": {
+            "en": "Quaxly",
+            "es": "Quaxly"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "PARTNERS"
+        ],
+        "type": "WATER",
+        "image": "v3",
+        "firstPrint": "SP1-027"
+    },
+    {
+        "id": "SP1-028",
+        "name": {
+            "en": "Mew",
+            "es": "Mew"
+        },
+        "rarity": "ANOMALY",
+        "origins": [
+            "PARTNERS"
+        ],
+        "type": "PSYCHIC",
+        "image": "v3",
+        "firstPrint": "SP1-028"
+    },
+    {
+        "id": "SP1-029",
+        "name": {
+            "en": "Mew",
+            "es": "Mew"
+        },
+        "rarity": "ANOMALY",
+        "origins": [
+            "PARTNERS"
+        ],
+        "type": "PSYCHIC",
+        "image": "v3",
+        "firstPrint": "SP1-029"
+    },
+    {
+        "id": "SP1-030",
+        "name": {
+            "en": "Mew",
+            "es": "Mew"
+        },
+        "rarity": "ANOMALY",
+        "origins": [
+            "PARTNERS"
+        ],
+        "type": "PSYCHIC",
+        "image": "v3",
+        "firstPrint": "SP1-030"
+    }
+]

@@ -1,0 +1,3080 @@
+[
+    {
+        "id": "C1-001",
+        "name": {
+            "en": "Bulbasaur",
+            "es": "Bulbasaur"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "PIKACHU_2026"
+        ],
+        "type": "GRASS",
+        "image": "v3",
+        "firstPrint": "C1-001"
+    },
+    {
+        "id": "C1-002",
+        "name": {
+            "en": "Ivysaur",
+            "es": "Ivysaur"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "PIKACHU_2026"
+        ],
+        "type": "GRASS",
+        "image": "v3",
+        "firstPrint": "C1-002"
+    },
+    {
+        "id": "C1-003",
+        "name": {
+            "en": "Venusaur",
+            "es": "Venusaur"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "PIKACHU_2026"
+        ],
+        "type": "GRASS",
+        "image": "v3",
+        "firstPrint": "C1-003"
+    },
+    {
+        "id": "C1-004",
+        "name": {
+            "en": "Exeggcute",
+            "es": "Exeggcute"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "PIKACHU_2026"
+        ],
+        "type": "GRASS",
+        "image": "v3",
+        "firstPrint": "C1-004"
+    },
+    {
+        "id": "C1-005",
+        "name": {
+            "en": "Alolan Exeggutor ex",
+            "es": "Exeggutor de Alola ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "PIKACHU_2026"
+        ],
+        "type": "GRASS",
+        "image": "v3",
+        "firstPrint": "C1-005"
+    },
+    {
+        "id": "C1-006",
+        "name": {
+            "en": "Pinsir",
+            "es": "Pinsir"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_MEWTWO_X"
+        ],
+        "type": "GRASS",
+        "image": "v3",
+        "firstPrint": "C1-006"
+    },
+    {
+        "id": "C1-007",
+        "name": {
+            "en": "Combee",
+            "es": "Combee"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_MEWTWO_X"
+        ],
+        "type": "GRASS",
+        "image": "v3",
+        "firstPrint": "C1-007"
+    },
+    {
+        "id": "C1-008",
+        "name": {
+            "en": "Vespiquen",
+            "es": "Vespiquen"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_MEWTWO_X"
+        ],
+        "type": "GRASS",
+        "image": "v3",
+        "firstPrint": "C1-008"
+    },
+    {
+        "id": "C1-009",
+        "name": {
+            "en": "Deerling",
+            "es": "Deerling"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "PIKACHU_2026"
+        ],
+        "type": "GRASS",
+        "image": "v3",
+        "firstPrint": "C1-009"
+    },
+    {
+        "id": "C1-010",
+        "name": {
+            "en": "Sawsbuck",
+            "es": "Sawsbuck"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "PIKACHU_2026"
+        ],
+        "type": "GRASS",
+        "image": "v3",
+        "firstPrint": "C1-010"
+    },
+    {
+        "id": "C1-011",
+        "name": {
+            "en": "Foongus",
+            "es": "Foongus"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_MEWTWO_X"
+        ],
+        "type": "GRASS",
+        "image": "v3",
+        "firstPrint": "C1-011"
+    },
+    {
+        "id": "C1-012",
+        "name": {
+            "en": "Amoonguss",
+            "es": "Amoonguss"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_MEWTWO_X"
+        ],
+        "type": "GRASS",
+        "image": "v3",
+        "firstPrint": "C1-012"
+    },
+    {
+        "id": "C1-013",
+        "name": {
+            "en": "Genesect",
+            "es": "Genesect"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_MEWTWO_X"
+        ],
+        "type": "GRASS",
+        "image": "v3",
+        "firstPrint": "C1-013"
+    },
+    {
+        "id": "C1-014",
+        "name": {
+            "en": "Cutiefly",
+            "es": "Cutiefly"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_MEWTWO_X"
+        ],
+        "type": "GRASS",
+        "image": "v3",
+        "firstPrint": "C1-014"
+    },
+    {
+        "id": "C1-015",
+        "name": {
+            "en": "Ribombee",
+            "es": "Ribombee"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "MEGA_MEWTWO_X"
+        ],
+        "type": "GRASS",
+        "image": "v3",
+        "firstPrint": "C1-015"
+    },
+    {
+        "id": "C1-016",
+        "name": {
+            "en": "Charmander",
+            "es": "Charmander"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_MEWTWO_X"
+        ],
+        "type": "FIRE",
+        "image": "v3",
+        "firstPrint": "C1-016"
+    },
+    {
+        "id": "C1-017",
+        "name": {
+            "en": "Charmeleon",
+            "es": "Charmeleon"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_MEWTWO_X"
+        ],
+        "type": "FIRE",
+        "image": "v3",
+        "firstPrint": "C1-017"
+    },
+    {
+        "id": "C1-018",
+        "name": {
+            "en": "Charizard",
+            "es": "Charizard"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "MEGA_MEWTWO_X"
+        ],
+        "type": "FIRE",
+        "image": "v3",
+        "firstPrint": "C1-018"
+    },
+    {
+        "id": "C1-019",
+        "name": {
+            "en": "Volcanion",
+            "es": "Volcanion"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "PIKACHU_2026"
+        ],
+        "type": "FIRE",
+        "image": "v3",
+        "firstPrint": "C1-019"
+    },
+    {
+        "id": "C1-020",
+        "name": {
+            "en": "Salandit",
+            "es": "Salandit"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "PIKACHU_2026"
+        ],
+        "type": "FIRE",
+        "image": "v3",
+        "firstPrint": "C1-020"
+    },
+    {
+        "id": "C1-021",
+        "name": {
+            "en": "Salazzle",
+            "es": "Salazzle"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "PIKACHU_2026"
+        ],
+        "type": "FIRE",
+        "image": "v3",
+        "firstPrint": "C1-021"
+    },
+    {
+        "id": "C1-022",
+        "name": {
+            "en": "Scorbunny",
+            "es": "Scorbunny"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "PIKACHU_2026"
+        ],
+        "type": "FIRE",
+        "image": "v3",
+        "firstPrint": "C1-022"
+    },
+    {
+        "id": "C1-023",
+        "name": {
+            "en": "Raboot",
+            "es": "Raboot"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "PIKACHU_2026"
+        ],
+        "type": "FIRE",
+        "image": "v3",
+        "firstPrint": "C1-023"
+    },
+    {
+        "id": "C1-024",
+        "name": {
+            "en": "Cinderace",
+            "es": "Cinderace"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "PIKACHU_2026"
+        ],
+        "type": "FIRE",
+        "image": "v3",
+        "firstPrint": "C1-024"
+    },
+    {
+        "id": "C1-025",
+        "name": {
+            "en": "Fuecoco ex",
+            "es": "Fuecoco ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "PIKACHU_2026"
+        ],
+        "type": "FIRE",
+        "image": "v3",
+        "firstPrint": "C1-025"
+    },
+    {
+        "id": "C1-026",
+        "name": {
+            "en": "Charcadet",
+            "es": "Charcadet"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_MEWTWO_X",
+            "PIKACHU_2026"
+        ],
+        "type": "FIRE",
+        "image": "v3",
+        "firstPrint": "C1-026"
+    },
+    {
+        "id": "C1-027",
+        "name": {
+            "en": "Armarouge",
+            "es": "Armarouge"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "PIKACHU_2026"
+        ],
+        "type": "FIRE",
+        "image": "v3",
+        "firstPrint": "C1-027"
+    },
+    {
+        "id": "C1-028",
+        "name": {
+            "en": "Ceruledge",
+            "es": "Ceruledge"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_MEWTWO_X"
+        ],
+        "type": "FIRE",
+        "image": "v3",
+        "firstPrint": "C1-028"
+    },
+    {
+        "id": "C1-029",
+        "name": {
+            "en": "Squirtle",
+            "es": "Squirtle"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_MEWTWO_X"
+        ],
+        "type": "WATER",
+        "image": "v3",
+        "firstPrint": "C1-029"
+    },
+    {
+        "id": "C1-030",
+        "name": {
+            "en": "Wartortle",
+            "es": "Wartortle"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_MEWTWO_X"
+        ],
+        "type": "WATER",
+        "image": "v3",
+        "firstPrint": "C1-030"
+    },
+    {
+        "id": "C1-031",
+        "name": {
+            "en": "Blastoise",
+            "es": "Blastoise"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "MEGA_MEWTWO_X"
+        ],
+        "type": "WATER",
+        "image": "v3",
+        "firstPrint": "C1-031"
+    },
+    {
+        "id": "C1-032",
+        "name": {
+            "en": "Seel",
+            "es": "Seel"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "PIKACHU_2026"
+        ],
+        "type": "WATER",
+        "image": "v3",
+        "firstPrint": "C1-032"
+    },
+    {
+        "id": "C1-033",
+        "name": {
+            "en": "Dewgong",
+            "es": "Dewgong"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "PIKACHU_2026"
+        ],
+        "type": "WATER",
+        "image": "v3",
+        "firstPrint": "C1-033"
+    },
+    {
+        "id": "C1-034",
+        "name": {
+            "en": "Shellder",
+            "es": "Shellder"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "PIKACHU_2026"
+        ],
+        "type": "WATER",
+        "image": "v3",
+        "firstPrint": "C1-034"
+    },
+    {
+        "id": "C1-035",
+        "name": {
+            "en": "Cloyster",
+            "es": "Cloyster"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "PIKACHU_2026"
+        ],
+        "type": "WATER",
+        "image": "v3",
+        "firstPrint": "C1-035"
+    },
+    {
+        "id": "C1-036",
+        "name": {
+            "en": "Jynx",
+            "es": "Jynx"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "PIKACHU_2026"
+        ],
+        "type": "WATER",
+        "image": "v3",
+        "firstPrint": "C1-036"
+    },
+    {
+        "id": "C1-037",
+        "name": {
+            "en": "Lapras",
+            "es": "Lapras"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "PIKACHU_2026"
+        ],
+        "type": "WATER",
+        "image": "v3",
+        "firstPrint": "C1-037"
+    },
+    {
+        "id": "C1-038",
+        "name": {
+            "en": "Palkia",
+            "es": "Palkia"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "PIKACHU_2026"
+        ],
+        "type": "WATER",
+        "image": "v3",
+        "firstPrint": "C1-038"
+    },
+    {
+        "id": "C1-039",
+        "name": {
+            "en": "Basculin",
+            "es": "Basculin"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_MEWTWO_X"
+        ],
+        "type": "WATER",
+        "image": "v3",
+        "firstPrint": "C1-039"
+    },
+    {
+        "id": "C1-040",
+        "name": {
+            "en": "Froakie",
+            "es": "Froakie"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "PIKACHU_2026"
+        ],
+        "type": "WATER",
+        "image": "v3",
+        "firstPrint": "C1-040"
+    },
+    {
+        "id": "C1-041",
+        "name": {
+            "en": "Frogadier",
+            "es": "Frogadier"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "PIKACHU_2026"
+        ],
+        "type": "WATER",
+        "image": "v3",
+        "firstPrint": "C1-041"
+    },
+    {
+        "id": "C1-042",
+        "name": {
+            "en": "Mega Greninja ex",
+            "es": "Mega-Greninja ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "PIKACHU_2026"
+        ],
+        "type": "WATER",
+        "image": "v3",
+        "firstPrint": "C1-042"
+    },
+    {
+        "id": "C1-043",
+        "name": {
+            "en": "Pikachu ex",
+            "es": "Pikachu ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "PIKACHU_2026"
+        ],
+        "type": "LIGHTNING",
+        "image": "v3",
+        "firstPrint": "C1-043"
+    },
+    {
+        "id": "C1-044",
+        "name": {
+            "en": "Voltorb",
+            "es": "Voltorb"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_MEWTWO_X",
+            "PIKACHU_2026"
+        ],
+        "type": "LIGHTNING",
+        "image": "v3",
+        "firstPrint": "C1-044"
+    },
+    {
+        "id": "C1-045",
+        "name": {
+            "en": "Electrode",
+            "es": "Electrode"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_MEWTWO_X",
+            "PIKACHU_2026"
+        ],
+        "type": "LIGHTNING",
+        "image": "v3",
+        "firstPrint": "C1-045"
+    },
+    {
+        "id": "C1-046",
+        "name": {
+            "en": "Stunfisk",
+            "es": "Stunfisk"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "PIKACHU_2026"
+        ],
+        "type": "LIGHTNING",
+        "image": "v3",
+        "firstPrint": "C1-046"
+    },
+    {
+        "id": "C1-047",
+        "name": {
+            "en": "Zeraora",
+            "es": "Zeraora"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "PIKACHU_2026"
+        ],
+        "type": "LIGHTNING",
+        "image": "v3",
+        "firstPrint": "C1-047"
+    },
+    {
+        "id": "C1-048",
+        "name": {
+            "en": "Pawmi",
+            "es": "Pawmi"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "PIKACHU_2026"
+        ],
+        "type": "LIGHTNING",
+        "image": "v3",
+        "firstPrint": "C1-048"
+    },
+    {
+        "id": "C1-049",
+        "name": {
+            "en": "Pawmo",
+            "es": "Pawmo"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "PIKACHU_2026"
+        ],
+        "type": "LIGHTNING",
+        "image": "v3",
+        "firstPrint": "C1-049"
+    },
+    {
+        "id": "C1-050",
+        "name": {
+            "en": "Pawmot",
+            "es": "Pawmot"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "PIKACHU_2026"
+        ],
+        "type": "LIGHTNING",
+        "image": "v3",
+        "firstPrint": "C1-050"
+    },
+    {
+        "id": "C1-051",
+        "name": {
+            "en": "Jigglypuff",
+            "es": "Jigglypuff"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "PIKACHU_2026"
+        ],
+        "type": "PSYCHIC",
+        "image": "v3",
+        "firstPrint": "C1-051"
+    },
+    {
+        "id": "C1-052",
+        "name": {
+            "en": "Wigglytuff",
+            "es": "Wigglytuff"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "PIKACHU_2026"
+        ],
+        "type": "PSYCHIC",
+        "image": "v3",
+        "firstPrint": "C1-052"
+    },
+    {
+        "id": "C1-053",
+        "name": {
+            "en": "Abra",
+            "es": "Abra"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_MEWTWO_X"
+        ],
+        "type": "PSYCHIC",
+        "image": "v3",
+        "firstPrint": "C1-053"
+    },
+    {
+        "id": "C1-054",
+        "name": {
+            "en": "Kadabra",
+            "es": "Kadabra"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_MEWTWO_X"
+        ],
+        "type": "PSYCHIC",
+        "image": "v3",
+        "firstPrint": "C1-054"
+    },
+    {
+        "id": "C1-055",
+        "name": {
+            "en": "Alakazam",
+            "es": "Alakazam"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_MEWTWO_X"
+        ],
+        "type": "PSYCHIC",
+        "image": "v3",
+        "firstPrint": "C1-055"
+    },
+    {
+        "id": "C1-056",
+        "name": {
+            "en": "Mega Mewtwo X ex",
+            "es": "Mega-Mewtwo X ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "MEGA_MEWTWO_X"
+        ],
+        "type": "PSYCHIC",
+        "image": "v3",
+        "firstPrint": "C1-056"
+    },
+    {
+        "id": "C1-057",
+        "name": {
+            "en": "Mew ex",
+            "es": "Mew ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "MEGA_MEWTWO_X"
+        ],
+        "type": "PSYCHIC",
+        "image": "v3",
+        "firstPrint": "C1-057"
+    },
+    {
+        "id": "C1-058",
+        "name": {
+            "en": "Marill",
+            "es": "Marill"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "PIKACHU_2026"
+        ],
+        "type": "PSYCHIC",
+        "image": "v3",
+        "firstPrint": "C1-058"
+    },
+    {
+        "id": "C1-059",
+        "name": {
+            "en": "Azumarill",
+            "es": "Azumarill"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "PIKACHU_2026"
+        ],
+        "type": "PSYCHIC",
+        "image": "v3",
+        "firstPrint": "C1-059"
+    },
+    {
+        "id": "C1-060",
+        "name": {
+            "en": "Espeon",
+            "es": "Espeon"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "PIKACHU_2026"
+        ],
+        "type": "PSYCHIC",
+        "image": "v3",
+        "firstPrint": "C1-060"
+    },
+    {
+        "id": "C1-061",
+        "name": {
+            "en": "Wobbuffet",
+            "es": "Wobbuffet"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_MEWTWO_X"
+        ],
+        "type": "PSYCHIC",
+        "image": "v3",
+        "firstPrint": "C1-061"
+    },
+    {
+        "id": "C1-062",
+        "name": {
+            "en": "Deoxys",
+            "es": "Deoxys"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "MEGA_MEWTWO_X"
+        ],
+        "type": "PSYCHIC",
+        "image": "v3",
+        "firstPrint": "C1-062"
+    },
+    {
+        "id": "C1-063",
+        "name": {
+            "en": "Mimikyu",
+            "es": "Mimikyu"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "PIKACHU_2026"
+        ],
+        "type": "PSYCHIC",
+        "image": "v3",
+        "firstPrint": "C1-063"
+    },
+    {
+        "id": "C1-064",
+        "name": {
+            "en": "Cosmog",
+            "es": "Cosmog"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_MEWTWO_X",
+            "PIKACHU_2026"
+        ],
+        "type": "PSYCHIC",
+        "image": "v3",
+        "firstPrint": "C1-064"
+    },
+    {
+        "id": "C1-065",
+        "name": {
+            "en": "Cosmoem",
+            "es": "Cosmoem"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_MEWTWO_X",
+            "PIKACHU_2026"
+        ],
+        "type": "PSYCHIC",
+        "image": "v3",
+        "firstPrint": "C1-065"
+    },
+    {
+        "id": "C1-066",
+        "name": {
+            "en": "Lunala",
+            "es": "Lunala"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "MEGA_MEWTWO_X"
+        ],
+        "type": "PSYCHIC",
+        "image": "v3",
+        "firstPrint": "C1-066"
+    },
+    {
+        "id": "C1-067",
+        "name": {
+            "en": "Diglett",
+            "es": "Diglett"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_MEWTWO_X"
+        ],
+        "type": "FIGHTING",
+        "image": "v3",
+        "firstPrint": "C1-067"
+    },
+    {
+        "id": "C1-068",
+        "name": {
+            "en": "Dugtrio",
+            "es": "Dugtrio"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_MEWTWO_X"
+        ],
+        "type": "FIGHTING",
+        "image": "v3",
+        "firstPrint": "C1-068"
+    },
+    {
+        "id": "C1-069",
+        "name": {
+            "en": "Rhyhorn",
+            "es": "Rhyhorn"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "PIKACHU_2026"
+        ],
+        "type": "FIGHTING",
+        "image": "v3",
+        "firstPrint": "C1-069"
+    },
+    {
+        "id": "C1-070",
+        "name": {
+            "en": "Rhydon",
+            "es": "Rhydon"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "PIKACHU_2026"
+        ],
+        "type": "FIGHTING",
+        "image": "v3",
+        "firstPrint": "C1-070"
+    },
+    {
+        "id": "C1-071",
+        "name": {
+            "en": "Rhyperior",
+            "es": "Rhyperior"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "PIKACHU_2026"
+        ],
+        "type": "FIGHTING",
+        "image": "v3",
+        "firstPrint": "C1-071"
+    },
+    {
+        "id": "C1-072",
+        "name": {
+            "en": "Sudowoodo",
+            "es": "Sudowoodo"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_MEWTWO_X"
+        ],
+        "type": "FIGHTING",
+        "image": "v3",
+        "firstPrint": "C1-072"
+    },
+    {
+        "id": "C1-073",
+        "name": {
+            "en": "Paldean Wooper",
+            "es": "Wooper de Paldea"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_MEWTWO_X"
+        ],
+        "type": "FIGHTING",
+        "image": "v3",
+        "firstPrint": "C1-073"
+    },
+    {
+        "id": "C1-074",
+        "name": {
+            "en": "Paldean Clodsire",
+            "es": "Clodsire de Paldea"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "MEGA_MEWTWO_X"
+        ],
+        "type": "FIGHTING",
+        "image": "v3",
+        "firstPrint": "C1-074"
+    },
+    {
+        "id": "C1-075",
+        "name": {
+            "en": "Larvitar",
+            "es": "Larvitar"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_MEWTWO_X"
+        ],
+        "type": "FIGHTING",
+        "image": "v3",
+        "firstPrint": "C1-075"
+    },
+    {
+        "id": "C1-076",
+        "name": {
+            "en": "Pupitar",
+            "es": "Pupitar"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_MEWTWO_X"
+        ],
+        "type": "FIGHTING",
+        "image": "v3",
+        "firstPrint": "C1-076"
+    },
+    {
+        "id": "C1-077",
+        "name": {
+            "en": "Barboach",
+            "es": "Barboach"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_MEWTWO_X"
+        ],
+        "type": "FIGHTING",
+        "image": "v3",
+        "firstPrint": "C1-077"
+    },
+    {
+        "id": "C1-078",
+        "name": {
+            "en": "Whiscash",
+            "es": "Whiscash"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_MEWTWO_X"
+        ],
+        "type": "FIGHTING",
+        "image": "v3",
+        "firstPrint": "C1-078"
+    },
+    {
+        "id": "C1-079",
+        "name": {
+            "en": "Rockruff",
+            "es": "Rockruff"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_MEWTWO_X"
+        ],
+        "type": "FIGHTING",
+        "image": "v3",
+        "firstPrint": "C1-079"
+    },
+    {
+        "id": "C1-080",
+        "name": {
+            "en": "Lycanroc ex",
+            "es": "Lycanroc ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "MEGA_MEWTWO_X"
+        ],
+        "type": "FIGHTING",
+        "image": "v3",
+        "firstPrint": "C1-080"
+    },
+    {
+        "id": "C1-081",
+        "name": {
+            "en": "Gastly",
+            "es": "Gastly"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_MEWTWO_X"
+        ],
+        "type": "DARKNESS",
+        "image": "v3",
+        "firstPrint": "C1-081"
+    },
+    {
+        "id": "C1-082",
+        "name": {
+            "en": "Haunter",
+            "es": "Haunter"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_MEWTWO_X"
+        ],
+        "type": "DARKNESS",
+        "image": "v3",
+        "firstPrint": "C1-082"
+    },
+    {
+        "id": "C1-083",
+        "name": {
+            "en": "Gengar",
+            "es": "Gengar"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "MEGA_MEWTWO_X"
+        ],
+        "type": "DARKNESS",
+        "image": "v3",
+        "firstPrint": "C1-083"
+    },
+    {
+        "id": "C1-084",
+        "name": {
+            "en": "Umbreon",
+            "es": "Umbreon"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_MEWTWO_X"
+        ],
+        "type": "DARKNESS",
+        "image": "v3",
+        "firstPrint": "C1-084"
+    },
+    {
+        "id": "C1-085",
+        "name": {
+            "en": "Mega Tyranitar ex",
+            "es": "Mega-Tyranitar ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "MEGA_MEWTWO_X"
+        ],
+        "type": "DARKNESS",
+        "image": "v3",
+        "firstPrint": "C1-085"
+    },
+    {
+        "id": "C1-086",
+        "name": {
+            "en": "Seviper",
+            "es": "Seviper"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_MEWTWO_X"
+        ],
+        "type": "DARKNESS",
+        "image": "v3",
+        "firstPrint": "C1-086"
+    },
+    {
+        "id": "C1-087",
+        "name": {
+            "en": "Zorua",
+            "es": "Zorua"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "PIKACHU_2026"
+        ],
+        "type": "DARKNESS",
+        "image": "v3",
+        "firstPrint": "C1-087"
+    },
+    {
+        "id": "C1-088",
+        "name": {
+            "en": "Zoroark",
+            "es": "Zoroark"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "PIKACHU_2026"
+        ],
+        "type": "DARKNESS",
+        "image": "v3",
+        "firstPrint": "C1-088"
+    },
+    {
+        "id": "C1-089",
+        "name": {
+            "en": "Nickit",
+            "es": "Nickit"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_MEWTWO_X"
+        ],
+        "type": "DARKNESS",
+        "image": "v3",
+        "firstPrint": "C1-089"
+    },
+    {
+        "id": "C1-090",
+        "name": {
+            "en": "Thievul",
+            "es": "Thievul"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_MEWTWO_X"
+        ],
+        "type": "DARKNESS",
+        "image": "v3",
+        "firstPrint": "C1-090"
+    },
+    {
+        "id": "C1-091",
+        "name": {
+            "en": "Mega Skarmory ex",
+            "es": "Mega-Skarmory ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "PIKACHU_2026"
+        ],
+        "type": "METAL",
+        "image": "v3",
+        "firstPrint": "C1-091"
+    },
+    {
+        "id": "C1-092",
+        "name": {
+            "en": "Dialga",
+            "es": "Dialga"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "MEGA_MEWTWO_X"
+        ],
+        "type": "METAL",
+        "image": "v3",
+        "firstPrint": "C1-092"
+    },
+    {
+        "id": "C1-093",
+        "name": {
+            "en": "Ferroseed",
+            "es": "Ferroseed"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "PIKACHU_2026"
+        ],
+        "type": "METAL",
+        "image": "v3",
+        "firstPrint": "C1-093"
+    },
+    {
+        "id": "C1-094",
+        "name": {
+            "en": "Ferrothorn",
+            "es": "Ferrothorn"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "PIKACHU_2026"
+        ],
+        "type": "METAL",
+        "image": "v3",
+        "firstPrint": "C1-094"
+    },
+    {
+        "id": "C1-095",
+        "name": {
+            "en": "Solgaleo",
+            "es": "Solgaleo"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "PIKACHU_2026"
+        ],
+        "type": "METAL",
+        "image": "v3",
+        "firstPrint": "C1-095"
+    },
+    {
+        "id": "C1-096",
+        "name": {
+            "en": "Meltan",
+            "es": "Meltan"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_MEWTWO_X"
+        ],
+        "type": "METAL",
+        "image": "v3",
+        "firstPrint": "C1-096"
+    },
+    {
+        "id": "C1-097",
+        "name": {
+            "en": "Melmetal",
+            "es": "Melmetal"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "MEGA_MEWTWO_X"
+        ],
+        "type": "METAL",
+        "image": "v3",
+        "firstPrint": "C1-097"
+    },
+    {
+        "id": "C1-098",
+        "name": {
+            "en": "Dratini",
+            "es": "Dratini"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "PIKACHU_2026"
+        ],
+        "type": "DRAGON",
+        "image": "v3",
+        "firstPrint": "C1-098"
+    },
+    {
+        "id": "C1-099",
+        "name": {
+            "en": "Dragonair",
+            "es": "Dragonair"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "PIKACHU_2026"
+        ],
+        "type": "DRAGON",
+        "image": "v3",
+        "firstPrint": "C1-099"
+    },
+    {
+        "id": "C1-100",
+        "name": {
+            "en": "Mega Dragonite ex",
+            "es": "Mega-Dragonite ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "PIKACHU_2026"
+        ],
+        "type": "DRAGON",
+        "image": "v3",
+        "firstPrint": "C1-100"
+    },
+    {
+        "id": "C1-101",
+        "name": {
+            "en": "Giratina ex",
+            "es": "Giratina ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "MEGA_MEWTWO_X"
+        ],
+        "type": "DRAGON",
+        "image": "v3",
+        "firstPrint": "C1-101"
+    },
+    {
+        "id": "C1-102",
+        "name": {
+            "en": "Pidgey",
+            "es": "Pidgey"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "PIKACHU_2026"
+        ],
+        "type": "COLORLESS",
+        "image": "v3",
+        "firstPrint": "C1-102"
+    },
+    {
+        "id": "C1-103",
+        "name": {
+            "en": "Pidgeotto",
+            "es": "Pidgeotto"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "PIKACHU_2026"
+        ],
+        "type": "COLORLESS",
+        "image": "v3",
+        "firstPrint": "C1-103"
+    },
+    {
+        "id": "C1-104",
+        "name": {
+            "en": "Pidgeot",
+            "es": "Pidgeot"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "PIKACHU_2026"
+        ],
+        "type": "COLORLESS",
+        "image": "v3",
+        "firstPrint": "C1-104"
+    },
+    {
+        "id": "C1-105",
+        "name": {
+            "en": "Spearow",
+            "es": "Spearow"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_MEWTWO_X"
+        ],
+        "type": "COLORLESS",
+        "image": "v3",
+        "firstPrint": "C1-105"
+    },
+    {
+        "id": "C1-106",
+        "name": {
+            "en": "Fearow",
+            "es": "Fearow"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_MEWTWO_X"
+        ],
+        "type": "COLORLESS",
+        "image": "v3",
+        "firstPrint": "C1-106"
+    },
+    {
+        "id": "C1-107",
+        "name": {
+            "en": "Eevee",
+            "es": "Eevee"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_MEWTWO_X",
+            "PIKACHU_2026"
+        ],
+        "type": "COLORLESS",
+        "image": "v3",
+        "firstPrint": "C1-107"
+    },
+    {
+        "id": "C1-108",
+        "name": {
+            "en": "Porygon",
+            "es": "Porygon"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_MEWTWO_X"
+        ],
+        "type": "COLORLESS",
+        "image": "v3",
+        "firstPrint": "C1-108"
+    },
+    {
+        "id": "C1-109",
+        "name": {
+            "en": "Porygon2",
+            "es": "Porygon2"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_MEWTWO_X"
+        ],
+        "type": "COLORLESS",
+        "image": "v3",
+        "firstPrint": "C1-109"
+    },
+    {
+        "id": "C1-110",
+        "name": {
+            "en": "Porygon-Z",
+            "es": "Porygon-Z"
+        },
+        "rarity": "THREE_DIAMOND",
+        "origins": [
+            "MEGA_MEWTWO_X"
+        ],
+        "type": "COLORLESS",
+        "image": "v3",
+        "firstPrint": "C1-110"
+    },
+    {
+        "id": "C1-111",
+        "name": {
+            "en": "Snorlax",
+            "es": "Snorlax"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_MEWTWO_X"
+        ],
+        "type": "COLORLESS",
+        "image": "v3",
+        "firstPrint": "C1-111"
+    },
+    {
+        "id": "C1-112",
+        "name": {
+            "en": "Zangoose",
+            "es": "Zangoose"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "PIKACHU_2026"
+        ],
+        "type": "COLORLESS",
+        "image": "v3",
+        "firstPrint": "C1-112"
+    },
+    {
+        "id": "C1-113",
+        "name": {
+            "en": "Bidoof",
+            "es": "Bidoof"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_MEWTWO_X",
+            "PIKACHU_2026"
+        ],
+        "type": "COLORLESS",
+        "image": "v3",
+        "firstPrint": "C1-113"
+    },
+    {
+        "id": "C1-114",
+        "name": {
+            "en": "Bibarel",
+            "es": "Bibarel"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_MEWTWO_X",
+            "PIKACHU_2026"
+        ],
+        "type": "COLORLESS",
+        "image": "v3",
+        "firstPrint": "C1-114"
+    },
+    {
+        "id": "C1-115",
+        "name": {
+            "en": "Buneary",
+            "es": "Buneary"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "PIKACHU_2026"
+        ],
+        "type": "COLORLESS",
+        "image": "v3",
+        "firstPrint": "C1-115"
+    },
+    {
+        "id": "C1-116",
+        "name": {
+            "en": "Lopunny",
+            "es": "Lopunny"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "PIKACHU_2026"
+        ],
+        "type": "COLORLESS",
+        "image": "v3",
+        "firstPrint": "C1-116"
+    },
+    {
+        "id": "C1-117",
+        "name": {
+            "en": "Stufful",
+            "es": "Stufful"
+        },
+        "rarity": "ONE_DIAMOND",
+        "origins": [
+            "MEGA_MEWTWO_X"
+        ],
+        "type": "COLORLESS",
+        "image": "v3",
+        "firstPrint": "C1-117"
+    },
+    {
+        "id": "C1-118",
+        "name": {
+            "en": "Bewear ex",
+            "es": "Bewear ex"
+        },
+        "rarity": "FOUR_DIAMOND",
+        "origins": [
+            "MEGA_MEWTWO_X"
+        ],
+        "type": "COLORLESS",
+        "image": "v3",
+        "firstPrint": "C1-118"
+    },
+    {
+        "id": "C1-119",
+        "name": {
+            "en": "Sweet Honey",
+            "es": "Miel"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_MEWTWO_X"
+        ],
+        "type": "TRAINER",
+        "image": "v3",
+        "firstPrint": "C1-119"
+    },
+    {
+        "id": "C1-120",
+        "name": {
+            "en": "Super Potion",
+            "es": "Superpoción"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "PIKACHU_2026"
+        ],
+        "type": "TRAINER",
+        "image": "v3",
+        "firstPrint": "C1-120"
+    },
+    {
+        "id": "C1-121",
+        "name": {
+            "en": "Max Repel",
+            "es": "Repelente Máximo"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_MEWTWO_X"
+        ],
+        "type": "TRAINER",
+        "image": "v3",
+        "firstPrint": "C1-121"
+    },
+    {
+        "id": "C1-122",
+        "name": {
+            "en": "Full Heal",
+            "es": "Cura Total"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "PIKACHU_2026"
+        ],
+        "type": "TRAINER",
+        "image": "v3",
+        "firstPrint": "C1-122"
+    },
+    {
+        "id": "C1-123",
+        "name": {
+            "en": "Eviolite",
+            "es": "Mineral Evolutivo"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_MEWTWO_X",
+            "PIKACHU_2026"
+        ],
+        "type": "TRAINER",
+        "image": "v3",
+        "firstPrint": "C1-123"
+    },
+    {
+        "id": "C1-124",
+        "name": {
+            "en": "Light Ball",
+            "es": "Bola Luminosa"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "PIKACHU_2026"
+        ],
+        "type": "TRAINER",
+        "image": "v3",
+        "firstPrint": "C1-124"
+    },
+    {
+        "id": "C1-125",
+        "name": {
+            "en": "Lorelei",
+            "es": "Lorelei"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "PIKACHU_2026"
+        ],
+        "type": "TRAINER",
+        "image": "v3",
+        "firstPrint": "C1-125"
+    },
+    {
+        "id": "C1-126",
+        "name": {
+            "en": "Blue's Provocation",
+            "es": "Provocación de Azul"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_MEWTWO_X"
+        ],
+        "type": "TRAINER",
+        "image": "v3",
+        "firstPrint": "C1-126"
+    },
+    {
+        "id": "C1-127",
+        "name": {
+            "en": "Serena's Choice",
+            "es": "Elección de Serena"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "PIKACHU_2026"
+        ],
+        "type": "TRAINER",
+        "image": "v3",
+        "firstPrint": "C1-127"
+    },
+    {
+        "id": "C1-128",
+        "name": {
+            "en": "Rika",
+            "es": "Cayena"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_MEWTWO_X"
+        ],
+        "type": "TRAINER",
+        "image": "v3",
+        "firstPrint": "C1-128"
+    },
+    {
+        "id": "C1-129",
+        "name": {
+            "en": "Poké Mart Guy",
+            "es": "Chico de la Tienda Pokémon"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "PIKACHU_2026"
+        ],
+        "type": "TRAINER",
+        "image": "v3",
+        "firstPrint": "C1-129"
+    },
+    {
+        "id": "C1-130",
+        "name": {
+            "en": "Rising Star",
+            "es": "Entrenadores Promesa"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_MEWTWO_X"
+        ],
+        "type": "TRAINER",
+        "image": "v3",
+        "firstPrint": "C1-130"
+    },
+    {
+        "id": "C1-131",
+        "name": {
+            "en": "Abandoned Station",
+            "es": "Estación Abandonada"
+        },
+        "rarity": "TWO_DIAMOND",
+        "origins": [
+            "MEGA_MEWTWO_X"
+        ],
+        "type": "TRAINER",
+        "image": "v3",
+        "firstPrint": "C1-131"
+    },
+    {
+        "id": "C1-132",
+        "name": {
+            "en": "Venusaur",
+            "es": "Venusaur"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "PIKACHU_2026"
+        ],
+        "type": "GRASS",
+        "image": "v3",
+        "firstPrint": "C1-132"
+    },
+    {
+        "id": "C1-133",
+        "name": {
+            "en": "Exeggcute",
+            "es": "Exeggcute"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "PIKACHU_2026"
+        ],
+        "type": "GRASS",
+        "image": "v3",
+        "firstPrint": "C1-133"
+    },
+    {
+        "id": "C1-134",
+        "name": {
+            "en": "Deerling",
+            "es": "Deerling"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "PIKACHU_2026"
+        ],
+        "type": "GRASS",
+        "image": "v3",
+        "firstPrint": "C1-134"
+    },
+    {
+        "id": "C1-135",
+        "name": {
+            "en": "Ribombee",
+            "es": "Ribombee"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "MEGA_MEWTWO_X"
+        ],
+        "type": "GRASS",
+        "image": "v3",
+        "firstPrint": "C1-135"
+    },
+    {
+        "id": "C1-136",
+        "name": {
+            "en": "Charizard",
+            "es": "Charizard"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "MEGA_MEWTWO_X"
+        ],
+        "type": "FIRE",
+        "image": "v3",
+        "firstPrint": "C1-136"
+    },
+    {
+        "id": "C1-137",
+        "name": {
+            "en": "Raboot",
+            "es": "Raboot"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "PIKACHU_2026"
+        ],
+        "type": "FIRE",
+        "image": "v3",
+        "firstPrint": "C1-137"
+    },
+    {
+        "id": "C1-138",
+        "name": {
+            "en": "Ceruledge",
+            "es": "Ceruledge"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "MEGA_MEWTWO_X"
+        ],
+        "type": "FIRE",
+        "image": "v3",
+        "firstPrint": "C1-138"
+    },
+    {
+        "id": "C1-139",
+        "name": {
+            "en": "Blastoise",
+            "es": "Blastoise"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "MEGA_MEWTWO_X"
+        ],
+        "type": "WATER",
+        "image": "v3",
+        "firstPrint": "C1-139"
+    },
+    {
+        "id": "C1-140",
+        "name": {
+            "en": "Palkia",
+            "es": "Palkia"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "PIKACHU_2026"
+        ],
+        "type": "WATER",
+        "image": "v3",
+        "firstPrint": "C1-140"
+    },
+    {
+        "id": "C1-141",
+        "name": {
+            "en": "Frogadier",
+            "es": "Frogadier"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "PIKACHU_2026"
+        ],
+        "type": "WATER",
+        "image": "v3",
+        "firstPrint": "C1-141"
+    },
+    {
+        "id": "C1-142",
+        "name": {
+            "en": "Pawmot",
+            "es": "Pawmot"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "PIKACHU_2026"
+        ],
+        "type": "LIGHTNING",
+        "image": "v3",
+        "firstPrint": "C1-142"
+    },
+    {
+        "id": "C1-143",
+        "name": {
+            "en": "Mimikyu",
+            "es": "Mimikyu"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "PIKACHU_2026"
+        ],
+        "type": "PSYCHIC",
+        "image": "v3",
+        "firstPrint": "C1-143"
+    },
+    {
+        "id": "C1-144",
+        "name": {
+            "en": "Cosmoem",
+            "es": "Cosmoem"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "PIKACHU_2026"
+        ],
+        "type": "PSYCHIC",
+        "image": "v3",
+        "firstPrint": "C1-144"
+    },
+    {
+        "id": "C1-145",
+        "name": {
+            "en": "Larvitar",
+            "es": "Larvitar"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "MEGA_MEWTWO_X"
+        ],
+        "type": "FIGHTING",
+        "image": "v3",
+        "firstPrint": "C1-145"
+    },
+    {
+        "id": "C1-146",
+        "name": {
+            "en": "Pupitar",
+            "es": "Pupitar"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "MEGA_MEWTWO_X"
+        ],
+        "type": "FIGHTING",
+        "image": "v3",
+        "firstPrint": "C1-146"
+    },
+    {
+        "id": "C1-147",
+        "name": {
+            "en": "Paldean Clodsire",
+            "es": "Clodsire de Paldea"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "MEGA_MEWTWO_X"
+        ],
+        "type": "FIGHTING",
+        "image": "v3",
+        "firstPrint": "C1-147"
+    },
+    {
+        "id": "C1-148",
+        "name": {
+            "en": "Gengar",
+            "es": "Gengar"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "MEGA_MEWTWO_X"
+        ],
+        "type": "DARKNESS",
+        "image": "v3",
+        "firstPrint": "C1-148"
+    },
+    {
+        "id": "C1-149",
+        "name": {
+            "en": "Dialga",
+            "es": "Dialga"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "MEGA_MEWTWO_X"
+        ],
+        "type": "METAL",
+        "image": "v3",
+        "firstPrint": "C1-149"
+    },
+    {
+        "id": "C1-150",
+        "name": {
+            "en": "Melmetal",
+            "es": "Melmetal"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "MEGA_MEWTWO_X"
+        ],
+        "type": "METAL",
+        "image": "v3",
+        "firstPrint": "C1-150"
+    },
+    {
+        "id": "C1-151",
+        "name": {
+            "en": "Bidoof",
+            "es": "Bidoof"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "PIKACHU_2026"
+        ],
+        "type": "COLORLESS",
+        "image": "v3",
+        "firstPrint": "C1-151"
+    },
+    {
+        "id": "C1-152",
+        "name": {
+            "en": "Sweet Honey",
+            "es": "Miel"
+        },
+        "rarity": "ONE_STAR",
+        "origins": [
+            "NONE"
+        ],
+        "type": "TRAINER",
+        "image": "v3",
+        "firstPrint": "C1-152"
+    },
+    {
+        "id": "C1-153",
+        "name": {
+            "en": "Alolan Exeggutor ex",
+            "es": "Exeggutor de Alola ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "PIKACHU_2026"
+        ],
+        "type": "GRASS",
+        "image": "v3",
+        "firstPrint": "C1-153"
+    },
+    {
+        "id": "C1-154",
+        "name": {
+            "en": "Fuecoco ex",
+            "es": "Fuecoco ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "PIKACHU_2026"
+        ],
+        "type": "FIRE",
+        "image": "v3",
+        "firstPrint": "C1-154"
+    },
+    {
+        "id": "C1-155",
+        "name": {
+            "en": "Mega Greninja ex",
+            "es": "Mega-Greninja ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "PIKACHU_2026"
+        ],
+        "type": "WATER",
+        "image": "v3",
+        "firstPrint": "C1-155"
+    },
+    {
+        "id": "C1-156",
+        "name": {
+            "en": "Pikachu ex",
+            "es": "Pikachu ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "PIKACHU_2026"
+        ],
+        "type": "LIGHTNING",
+        "image": "v3",
+        "firstPrint": "C1-156"
+    },
+    {
+        "id": "C1-157",
+        "name": {
+            "en": "Mega Mewtwo X ex",
+            "es": "Mega-Mewtwo X ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "MEGA_MEWTWO_X"
+        ],
+        "type": "PSYCHIC",
+        "image": "v3",
+        "firstPrint": "C1-157"
+    },
+    {
+        "id": "C1-158",
+        "name": {
+            "en": "Mew ex",
+            "es": "Mew ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "MEGA_MEWTWO_X"
+        ],
+        "type": "PSYCHIC",
+        "image": "v3",
+        "firstPrint": "C1-158"
+    },
+    {
+        "id": "C1-159",
+        "name": {
+            "en": "Lycanroc ex",
+            "es": "Lycanroc ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "MEGA_MEWTWO_X"
+        ],
+        "type": "FIGHTING",
+        "image": "v3",
+        "firstPrint": "C1-159"
+    },
+    {
+        "id": "C1-160",
+        "name": {
+            "en": "Mega Tyranitar ex",
+            "es": "Mega-Tyranitar ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "MEGA_MEWTWO_X"
+        ],
+        "type": "DARKNESS",
+        "image": "v3",
+        "firstPrint": "C1-160"
+    },
+    {
+        "id": "C1-161",
+        "name": {
+            "en": "Mega Skarmory ex",
+            "es": "Mega-Skarmory ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "PIKACHU_2026"
+        ],
+        "type": "METAL",
+        "image": "v3",
+        "firstPrint": "C1-161"
+    },
+    {
+        "id": "C1-162",
+        "name": {
+            "en": "Mega Dragonite ex",
+            "es": "Mega-Dragonite ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "PIKACHU_2026"
+        ],
+        "type": "DRAGON",
+        "image": "v3",
+        "firstPrint": "C1-162"
+    },
+    {
+        "id": "C1-163",
+        "name": {
+            "en": "Giratina ex",
+            "es": "Giratina ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "MEGA_MEWTWO_X"
+        ],
+        "type": "DRAGON",
+        "image": "v3",
+        "firstPrint": "C1-163"
+    },
+    {
+        "id": "C1-164",
+        "name": {
+            "en": "Bewear ex",
+            "es": "Bewear ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "MEGA_MEWTWO_X"
+        ],
+        "type": "COLORLESS",
+        "image": "v3",
+        "firstPrint": "C1-164"
+    },
+    {
+        "id": "C1-165",
+        "name": {
+            "en": "Lorelei",
+            "es": "Lorelei"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "PIKACHU_2026"
+        ],
+        "type": "TRAINER",
+        "image": "v3",
+        "firstPrint": "C1-165"
+    },
+    {
+        "id": "C1-166",
+        "name": {
+            "en": "Blue's Provocation",
+            "es": "Provocación de Azul"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "MEGA_MEWTWO_X"
+        ],
+        "type": "TRAINER",
+        "image": "v3",
+        "firstPrint": "C1-166"
+    },
+    {
+        "id": "C1-167",
+        "name": {
+            "en": "Serena's Choice",
+            "es": "Elección de Serena"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "PIKACHU_2026"
+        ],
+        "type": "TRAINER",
+        "image": "v3",
+        "firstPrint": "C1-167"
+    },
+    {
+        "id": "C1-168",
+        "name": {
+            "en": "Rika",
+            "es": "Cayena"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "MEGA_MEWTWO_X"
+        ],
+        "type": "TRAINER",
+        "image": "v3",
+        "firstPrint": "C1-168"
+    },
+    {
+        "id": "C1-169",
+        "name": {
+            "en": "Poké Mart Guy",
+            "es": "Chico de la Tienda Pokémon"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "PIKACHU_2026"
+        ],
+        "type": "TRAINER",
+        "image": "v3",
+        "firstPrint": "C1-169"
+    },
+    {
+        "id": "C1-170",
+        "name": {
+            "en": "Rising Star",
+            "es": "Entrenadores Promesa"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "MEGA_MEWTWO_X"
+        ],
+        "type": "TRAINER",
+        "image": "v3",
+        "firstPrint": "C1-170"
+    },
+    {
+        "id": "C1-171",
+        "name": {
+            "en": "Alolan Exeggutor ex",
+            "es": "Exeggutor de Alola ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "PIKACHU_2026"
+        ],
+        "type": "GRASS",
+        "image": "v3",
+        "firstPrint": "C1-171"
+    },
+    {
+        "id": "C1-172",
+        "name": {
+            "en": "Fuecoco ex",
+            "es": "Fuecoco ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "PIKACHU_2026"
+        ],
+        "type": "FIRE",
+        "image": "v3",
+        "firstPrint": "C1-172"
+    },
+    {
+        "id": "C1-173",
+        "name": {
+            "en": "Mega Greninja ex",
+            "es": "Mega-Greninja ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "PIKACHU_2026"
+        ],
+        "type": "WATER",
+        "image": "v3",
+        "firstPrint": "C1-173"
+    },
+    {
+        "id": "C1-174",
+        "name": {
+            "en": "Pikachu ex",
+            "es": "Pikachu ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "PIKACHU_2026"
+        ],
+        "type": "LIGHTNING",
+        "image": "v3",
+        "firstPrint": "C1-174"
+    },
+    {
+        "id": "C1-175",
+        "name": {
+            "en": "Mega Mewtwo X ex",
+            "es": "Mega-Mewtwo X ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "MEGA_MEWTWO_X"
+        ],
+        "type": "PSYCHIC",
+        "image": "v3",
+        "firstPrint": "C1-175"
+    },
+    {
+        "id": "C1-176",
+        "name": {
+            "en": "Mew ex",
+            "es": "Mew ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "MEGA_MEWTWO_X"
+        ],
+        "type": "PSYCHIC",
+        "image": "v3",
+        "firstPrint": "C1-176"
+    },
+    {
+        "id": "C1-177",
+        "name": {
+            "en": "Lycanroc ex",
+            "es": "Lycanroc ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "MEGA_MEWTWO_X"
+        ],
+        "type": "FIGHTING",
+        "image": "v3",
+        "firstPrint": "C1-177"
+    },
+    {
+        "id": "C1-178",
+        "name": {
+            "en": "Mega Tyranitar ex",
+            "es": "Mega-Tyranitar ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "MEGA_MEWTWO_X"
+        ],
+        "type": "DARKNESS",
+        "image": "v3",
+        "firstPrint": "C1-178"
+    },
+    {
+        "id": "C1-179",
+        "name": {
+            "en": "Mega Skarmory ex",
+            "es": "Mega-Skarmory ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "PIKACHU_2026"
+        ],
+        "type": "METAL",
+        "image": "v3",
+        "firstPrint": "C1-179"
+    },
+    {
+        "id": "C1-180",
+        "name": {
+            "en": "Mega Dragonite ex",
+            "es": "Mega-Dragonite ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "PIKACHU_2026"
+        ],
+        "type": "DRAGON",
+        "image": "v3",
+        "firstPrint": "C1-180"
+    },
+    {
+        "id": "C1-181",
+        "name": {
+            "en": "Giratina ex",
+            "es": "Giratina ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "MEGA_MEWTWO_X"
+        ],
+        "type": "DRAGON",
+        "image": "v3",
+        "firstPrint": "C1-181"
+    },
+    {
+        "id": "C1-182",
+        "name": {
+            "en": "Bewear ex",
+            "es": "Bewear ex"
+        },
+        "rarity": "TWO_STAR",
+        "origins": [
+            "MEGA_MEWTWO_X"
+        ],
+        "type": "COLORLESS",
+        "image": "v3",
+        "firstPrint": "C1-182"
+    },
+    {
+        "id": "C1-183",
+        "name": {
+            "en": "Pikachu ex",
+            "es": "Pikachu ex"
+        },
+        "rarity": "THREE_STAR",
+        "origins": [
+            "NONE"
+        ],
+        "type": "LIGHTNING",
+        "image": "v3",
+        "firstPrint": "C1-183"
+    },
+    {
+        "id": "C1-184",
+        "name": {
+            "en": "Jigglypuff",
+            "es": "Jigglypuff"
+        },
+        "rarity": "THREE_STAR",
+        "origins": [
+            "PIKACHU_2026"
+        ],
+        "type": "PSYCHIC",
+        "image": "v3",
+        "firstPrint": "C1-184"
+    },
+    {
+        "id": "C1-185",
+        "name": {
+            "en": "Mega Mewtwo X ex",
+            "es": "Mega-Mewtwo X ex"
+        },
+        "rarity": "THREE_STAR",
+        "origins": [
+            "NONE"
+        ],
+        "type": "PSYCHIC",
+        "image": "v3",
+        "firstPrint": "C1-185"
+    },
+    {
+        "id": "C1-186",
+        "name": {
+            "en": "Umbreon",
+            "es": "Umbreon"
+        },
+        "rarity": "THREE_STAR",
+        "origins": [
+            "MEGA_MEWTWO_X"
+        ],
+        "type": "DARKNESS",
+        "image": "v3",
+        "firstPrint": "C1-186"
+    },
+    {
+        "id": "C1-187",
+        "name": {
+            "en": "Celebi",
+            "es": "Celebi"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "PIKACHU_2026"
+        ],
+        "type": "GRASS",
+        "extra": true,
+        "image": "v3",
+        "firstPrint": "C1-187"
+    },
+    {
+        "id": "C1-188",
+        "name": {
+            "en": "Treecko",
+            "es": "Treecko"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "MEGA_MEWTWO_X"
+        ],
+        "type": "GRASS",
+        "extra": true,
+        "image": "v3",
+        "firstPrint": "C1-188"
+    },
+    {
+        "id": "C1-189",
+        "name": {
+            "en": "Grovyle",
+            "es": "Grovyle"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "MEGA_MEWTWO_X"
+        ],
+        "type": "GRASS",
+        "extra": true,
+        "image": "v3",
+        "firstPrint": "C1-189"
+    },
+    {
+        "id": "C1-190",
+        "name": {
+            "en": "Cyndaquil",
+            "es": "Cyndaquil"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "PIKACHU_2026"
+        ],
+        "type": "FIRE",
+        "extra": true,
+        "image": "v3",
+        "firstPrint": "C1-190"
+    },
+    {
+        "id": "C1-191",
+        "name": {
+            "en": "Quilava",
+            "es": "Quilava"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "PIKACHU_2026"
+        ],
+        "type": "FIRE",
+        "extra": true,
+        "image": "v3",
+        "firstPrint": "C1-191"
+    },
+    {
+        "id": "C1-192",
+        "name": {
+            "en": "Seel",
+            "es": "Seel"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "PIKACHU_2026"
+        ],
+        "type": "WATER",
+        "extra": true,
+        "image": "v3",
+        "firstPrint": "C1-192"
+    },
+    {
+        "id": "C1-193",
+        "name": {
+            "en": "Dewgong",
+            "es": "Dewgong"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "PIKACHU_2026"
+        ],
+        "type": "WATER",
+        "extra": true,
+        "image": "v3",
+        "firstPrint": "C1-193"
+    },
+    {
+        "id": "C1-194",
+        "name": {
+            "en": "Pachirisu",
+            "es": "Pachirisu"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "PIKACHU_2026"
+        ],
+        "type": "LIGHTNING",
+        "extra": true,
+        "image": "v3",
+        "firstPrint": "C1-194"
+    },
+    {
+        "id": "C1-195",
+        "name": {
+            "en": "Abra",
+            "es": "Abra"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "MEGA_MEWTWO_X"
+        ],
+        "type": "PSYCHIC",
+        "extra": true,
+        "image": "v3",
+        "firstPrint": "C1-195"
+    },
+    {
+        "id": "C1-196",
+        "name": {
+            "en": "Kadabra",
+            "es": "Kadabra"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "MEGA_MEWTWO_X"
+        ],
+        "type": "PSYCHIC",
+        "extra": true,
+        "image": "v3",
+        "firstPrint": "C1-196"
+    },
+    {
+        "id": "C1-197",
+        "name": {
+            "en": "Alakazam",
+            "es": "Alakazam"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "MEGA_MEWTWO_X"
+        ],
+        "type": "PSYCHIC",
+        "extra": true,
+        "image": "v3",
+        "firstPrint": "C1-197"
+    },
+    {
+        "id": "C1-198",
+        "name": {
+            "en": "Lunala",
+            "es": "Lunala"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "MEGA_MEWTWO_X"
+        ],
+        "type": "PSYCHIC",
+        "extra": true,
+        "image": "v3",
+        "firstPrint": "C1-198"
+    },
+    {
+        "id": "C1-199",
+        "name": {
+            "en": "Rhyhorn",
+            "es": "Rhyhorn"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "PIKACHU_2026"
+        ],
+        "type": "FIGHTING",
+        "extra": true,
+        "image": "v3",
+        "firstPrint": "C1-199"
+    },
+    {
+        "id": "C1-200",
+        "name": {
+            "en": "Rhydon",
+            "es": "Rhydon"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "PIKACHU_2026"
+        ],
+        "type": "FIGHTING",
+        "extra": true,
+        "image": "v3",
+        "firstPrint": "C1-200"
+    },
+    {
+        "id": "C1-201",
+        "name": {
+            "en": "Morpeko",
+            "es": "Morpeko"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "MEGA_MEWTWO_X"
+        ],
+        "type": "DARKNESS",
+        "extra": true,
+        "image": "v3",
+        "firstPrint": "C1-201"
+    },
+    {
+        "id": "C1-202",
+        "name": {
+            "en": "Solgaleo",
+            "es": "Solgaleo"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "PIKACHU_2026"
+        ],
+        "type": "METAL",
+        "extra": true,
+        "image": "v3",
+        "firstPrint": "C1-202"
+    },
+    {
+        "id": "C1-203",
+        "name": {
+            "en": "Spearow",
+            "es": "Spearow"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "MEGA_MEWTWO_X"
+        ],
+        "type": "COLORLESS",
+        "extra": true,
+        "image": "v3",
+        "firstPrint": "C1-203"
+    },
+    {
+        "id": "C1-204",
+        "name": {
+            "en": "Fearow",
+            "es": "Fearow"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "MEGA_MEWTWO_X"
+        ],
+        "type": "COLORLESS",
+        "extra": true,
+        "image": "v3",
+        "firstPrint": "C1-204"
+    },
+    {
+        "id": "C1-205",
+        "name": {
+            "en": "Hisuian Zorua",
+            "es": "Zorua de Hisui"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "PIKACHU_2026"
+        ],
+        "type": "COLORLESS",
+        "extra": true,
+        "image": "v3",
+        "firstPrint": "C1-205"
+    },
+    {
+        "id": "C1-206",
+        "name": {
+            "en": "Stufful",
+            "es": "Stufful"
+        },
+        "rarity": "ONE_SHINY",
+        "origins": [
+            "MEGA_MEWTWO_X"
+        ],
+        "type": "COLORLESS",
+        "extra": true,
+        "image": "v3",
+        "firstPrint": "C1-206"
+    },
+    {
+        "id": "C1-207",
+        "name": {
+            "en": "Mega Sceptile ex",
+            "es": "Mega-Sceptile ex"
+        },
+        "rarity": "TWO_SHINY",
+        "origins": [
+            "MEGA_MEWTWO_X"
+        ],
+        "type": "GRASS",
+        "extra": true,
+        "image": "v3",
+        "firstPrint": "C1-207"
+    },
+    {
+        "id": "C1-208",
+        "name": {
+            "en": "Typhlosion ex",
+            "es": "Typhlosion ex"
+        },
+        "rarity": "TWO_SHINY",
+        "origins": [
+            "PIKACHU_2026"
+        ],
+        "type": "FIRE",
+        "extra": true,
+        "image": "v3",
+        "firstPrint": "C1-208"
+    },
+    {
+        "id": "C1-209",
+        "name": {
+            "en": "Mega Gallade ex",
+            "es": "Mega-Gallade ex"
+        },
+        "rarity": "TWO_SHINY",
+        "origins": [
+            "MEGA_MEWTWO_X"
+        ],
+        "type": "FIGHTING",
+        "extra": true,
+        "image": "v3",
+        "firstPrint": "C1-209"
+    },
+    {
+        "id": "C1-210",
+        "name": {
+            "en": "Lycanroc ex",
+            "es": "Lycanroc ex"
+        },
+        "rarity": "TWO_SHINY",
+        "origins": [
+            "MEGA_MEWTWO_X"
+        ],
+        "type": "FIGHTING",
+        "extra": true,
+        "image": "v3",
+        "firstPrint": "C1-210"
+    },
+    {
+        "id": "C1-211",
+        "name": {
+            "en": "Mega Dragonite ex",
+            "es": "Mega-Dragonite ex"
+        },
+        "rarity": "TWO_SHINY",
+        "origins": [
+            "PIKACHU_2026"
+        ],
+        "type": "DRAGON",
+        "extra": true,
+        "image": "v3",
+        "firstPrint": "C1-211"
+    },
+    {
+        "id": "C1-212",
+        "name": {
+            "en": "Mega Audino ex",
+            "es": "Mega-Audino ex"
+        },
+        "rarity": "TWO_SHINY",
+        "origins": [
+            "PIKACHU_2026"
+        ],
+        "type": "COLORLESS",
+        "extra": true,
+        "image": "v3",
+        "firstPrint": "C1-212"
+    },
+    {
+        "id": "C1-213",
+        "name": {
+            "en": "Hisuian Zoroark ex",
+            "es": "Zoroark de Hisui ex"
+        },
+        "rarity": "TWO_SHINY",
+        "origins": [
+            "PIKACHU_2026"
+        ],
+        "type": "COLORLESS",
+        "extra": true,
+        "image": "v3",
+        "firstPrint": "C1-213"
+    },
+    {
+        "id": "C1-214",
+        "name": {
+            "en": "Bewear ex",
+            "es": "Bewear ex"
+        },
+        "rarity": "TWO_SHINY",
+        "origins": [
+            "MEGA_MEWTWO_X"
+        ],
+        "type": "COLORLESS",
+        "extra": true,
+        "image": "v3",
+        "firstPrint": "C1-214"
+    },
+    {
+        "id": "C1-215",
+        "name": {
+            "en": "Fuecoco ex",
+            "es": "Fuecoco ex"
+        },
+        "rarity": "CROWN",
+        "origins": [
+            "MEGA_MEWTWO_X",
+            "PIKACHU_2026"
+        ],
+        "type": "FIRE",
+        "image": "v3",
+        "firstPrint": "C1-215"
+    },
+    {
+        "id": "C1-216",
+        "name": {
+            "en": "Pawmot",
+            "es": "Pawmot"
+        },
+        "rarity": "CROWN",
+        "origins": [
+            "MEGA_MEWTWO_X",
+            "PIKACHU_2026"
+        ],
+        "type": "LIGHTNING",
+        "image": "v3",
+        "firstPrint": "C1-216"
+    },
+    {
+        "id": "C1-217",
+        "name": {
+            "en": "Giratina ex",
+            "es": "Giratina ex"
+        },
+        "rarity": "CROWN",
+        "origins": [
+            "MEGA_MEWTWO_X",
+            "PIKACHU_2026"
+        ],
+        "type": "DRAGON",
+        "image": "v3",
+        "firstPrint": "C1-217"
+    }
+]

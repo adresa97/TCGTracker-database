@@ -700,5 +700,62 @@
       "THREE_STAR": [0.0, 0.0, 0.889, 0.222],
       "CROWN": [0.0, 0.0, 0.079, 0.020]
     }
+  },
+  {
+    "id": "MEGA_MEWTWO_X",
+    "name": {
+      "en": "Mega Mewtwo X",
+      "es": "Mega-Mewtwo X"
+    },
+    "type": "BOOSTER",
+    "color": [249.0, 79.0, 4.0],
+    "cardCount": 113,
+    "packSize": 5,
+    "odds": {
+      "ONE_DIAMOND": [3.225, 3.225, 3.225, 0.0, 0.0],
+      "TWO_DIAMOND": [0.0, 0.0, 0.0, 3.913, 2.608],
+      "THREE_DIAMOND": [0.0, 0.0, 0.0, 0.500, 2.000],
+      "FOUR_DIAMOND": [0.0, 0.0, 0.0, 0.277, 1.111],
+      "ONE_STAR": [0.0, 0.0, 0.0, 0.257, 1.028],
+      "TWO_STAR": [0.0, 0.0, 0.0, 0.033, 0.133],
+      "THREE_STAR": [0.0, 0.0, 0.0, 0.222, 0.889],
+      "CROWN": [0.0, 0.0, 0.0, 0.013, 0.053]
+    }
+  },
+  {
+    "id": "PIKACHU_2026",
+    "name": {
+      "en": "Pikachu",
+      "es": "Pikachu"
+    },
+    "type": "BOOSTER",
+    "color": [255.0, 242.0, 204.0],
+    "cardCount": 113,
+    "packSize": 5,
+    "odds": {
+      "ONE_DIAMOND": [3.225, 3.225, 3.225, 0.0, 0.0],
+      "TWO_DIAMOND": [0.0, 0.0, 0.0, 3.913, 2.608],
+      "THREE_DIAMOND": [0.0, 0.0, 0.0, 0.500, 2.000],
+      "FOUR_DIAMOND": [0.0, 0.0, 0.0, 0.277, 1.111],
+      "ONE_STAR": [0.0, 0.0, 0.0, 0.257, 1.028],
+      "TWO_STAR": [0.0, 0.0, 0.0, 0.033, 0.133],
+      "THREE_STAR": [0.0, 0.0, 0.0, 0.222, 0.889],
+      "CROWN": [0.0, 0.0, 0.0, 0.013, 0.053]
+    }
+  },
+  {
+    "id": "PARTNERS",
+    "name": {
+      "en": "Partners",
+      "es": "Compañeros"
+    },
+    "type": "BOOSTER",
+    "color": [232.0, 233.0, 238.0],
+    "cardCount": 30,
+    "packSize": 1,
+    "odds": {
+      "ONE_STAR": [3.702],
+      "ANOMALY": [0.020]
+    }
   }
 ]

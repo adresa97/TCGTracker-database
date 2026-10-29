@@ -1,0 +1,184 @@
+[
+    {
+        "id": "P-C-001",
+        "name": {
+            "en": "Pikachu",
+            "es": "Pikachu"
+        },
+        "rarity": "NONE",
+        "origins": [
+            "PREMIUM"
+        ],
+        "type": "LIGHTNING",
+        "image": "v3",
+        "firstPrint": "P-C-001"
+    },
+    {
+        "id": "P-C-002",
+        "name": {
+            "en": "Mega Mewtwo Y ex",
+            "es": "Mega-Mewtwo Y ex"
+        },
+        "rarity": "NONE",
+        "origins": [
+            "DROP_EVENT"
+        ],
+        "type": "PSYCHIC",
+        "image": "v3",
+        "firstPrint": "P-C-002"
+    },
+    {
+        "id": "P-C-003",
+        "name": {
+            "en": "Deoxys",
+            "es": "Deoxys"
+        },
+        "rarity": "NONE",
+        "origins": [
+            "DROP_EVENT"
+        ],
+        "type": "PSYCHIC",
+        "image": "v3",
+        "firstPrint": "P-C-003"
+    },
+    {
+        "id": "P-C-004",
+        "name": {
+            "en": "Inkay",
+            "es": "Inkay"
+        },
+        "rarity": "NONE",
+        "origins": [
+            "DROP_EVENT"
+        ],
+        "type": "PSYCHIC",
+        "image": "v3",
+        "firstPrint": "P-C-004"
+    },
+    {
+        "id": "P-C-005",
+        "name": {
+            "en": "Malamar",
+            "es": "Malamar"
+        },
+        "rarity": "NONE",
+        "origins": [
+            "DROP_EVENT"
+        ],
+        "type": "PSYCHIC",
+        "image": "v3",
+        "firstPrint": "P-C-005"
+    },
+    {
+        "id": "P-C-006",
+        "name": {
+            "en": "Cosmog",
+            "es": "Cosmog"
+        },
+        "rarity": "NONE",
+        "origins": [
+            "DROP_EVENT"
+        ],
+        "type": "PSYCHIC",
+        "image": "v3",
+        "firstPrint": "P-C-006"
+    },
+    {
+        "id": "P-C-007",
+        "name": {
+            "en": "Cosmoem",
+            "es": "Cosmoem"
+        },
+        "rarity": "NONE",
+        "origins": [
+            "DROP_EVENT"
+        ],
+        "type": "PSYCHIC",
+        "image": "v3",
+        "firstPrint": "P-C-007"
+    },
+    {
+        "id": "P-C-008",
+        "name": {
+            "en": "Lunala",
+            "es": "Lunala"
+        },
+        "rarity": "NONE",
+        "origins": [
+            "DROP_EVENT"
+        ],
+        "type": "PSYCHIC",
+        "image": "v3",
+        "firstPrint": "P-C-008"
+    },
+    {
+        "id": "P-C-009",
+        "name": {
+            "en": "Genome Converter Y",
+            "es": "Conversor Genoma Y"
+        },
+        "rarity": "NONE",
+        "origins": [
+            "DROP_EVENT"
+        ],
+        "type": "TRAINER",
+        "image": "v3",
+        "firstPrint": "P-C-009"
+    },
+    {
+        "id": "P-C-010",
+        "name": {
+            "en": "Stantler",
+            "es": "Stantler"
+        },
+        "rarity": "NONE",
+        "origins": [
+            "MISSION_EVENT"
+        ],
+        "type": "COLORLESS",
+        "image": "v3",
+        "firstPrint": "P-C-010"
+    },
+    {
+        "id": "P-C-011",
+        "name": {
+            "en": "Alcremie",
+            "es": "Alcremie"
+        },
+        "rarity": "NONE",
+        "origins": [
+            "MISSION_EVENT"
+        ],
+        "type": "PSYCHIC",
+        "image": "v3",
+        "firstPrint": "P-C-011"
+    },
+    {
+        "id": "P-C-012",
+        "name": {
+            "en": "Delibird",
+            "es": "Delibird"
+        },
+        "rarity": "NONE",
+        "origins": [
+            "MISSION_EVENT"
+        ],
+        "type": "WATER",
+        "image": "v3",
+        "firstPrint": "P-C-012"
+    },
+    {
+        "id": "P-C-013",
+        "name": {
+            "en": "Mega Dragonite ex",
+            "es": "Mega-Dragonite ex"
+        },
+        "rarity": "NONE",
+        "origins": [
+            "PREMIUM"
+        ],
+        "type": "DRAGON",
+        "image": "v3",
+        "firstPrint": "P-C-013"
+    }
+]
