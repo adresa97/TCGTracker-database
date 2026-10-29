@@ -312,6 +312,19 @@
     "origins": ["DELUXE_2026"]
   },
   {
+    "set": "P-C",
+    "expansion": "P-C",
+    "series": "C",
+    "name": {
+      "en": "Promo C",
+      "es": "Promo C"
+    },
+    "cover": "https://raw.githubusercontent.com/adresa97/TCGTracker-database/refs/heads/main/PTCGPocket/covers/c_promo_en.png",
+    "color": [135.0, 211.0, 90.0],
+    "cardCount": 13,
+    "origins": ["SHOP", "PREMIUM", "GIFT", "INGOTS", "WONDER_EVENT", "DROP_EVENT", "MISION_EVENT"]
+  },
+  {
     "set": "C1",
     "expansion": "C1",
     "series": "C",
@@ -321,7 +334,20 @@
     },
     "cover": "https://raw.githubusercontent.com/adresa97/TCGTracker-database/refs/heads/main/PTCGPocket/covers/c1_dual_fusion_en.png",
     "color": [148.0, 69.0, 244.0],
-    "cardCount": 331,
+    "cardCount": 217,
     "origins": ["MEGA_MEWTWO_X", "PIKACHU_2026"]
+  },
+  {
+    "set": "SP1",
+    "expansion": "C1",
+    "series": "C",
+    "name": {
+      "en": "First Partners",
+      "es": "Primeros Compañeros"
+    },
+    "cover": "https://raw.githubusercontent.com/adresa97/TCGTracker-database/refs/heads/main/PTCGPocket/covers/sp1_first_partners_en.png",
+    "color": [234.0, 16.0, 33.0],
+    "cardCount": 30,
+    "origins": ["PARTNERS"]
   }
 ]
