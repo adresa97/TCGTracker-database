@@ -1,0 +1,22 @@
+{
+    "types": {
+        "WHITE": "⬜",
+        "BLACK": "⬛",
+        "YELLOW": "🟨",
+        "RED": "🟥",
+        "GREEN": "🟩",
+        "BLUE": "🟦",
+        "PURPLE": "🟪"
+    },
+    "rarities": {
+        "COMMON": "C",
+        "UNCOMMON": "U",
+        "RARE": "R",
+        "SUPER_RARE": "SR",
+        "ULTIMATE_RARE": "UR",
+        "SECRET_RARE": "SEC",
+        "PROMO": "P"
+    },
+    "parallel": {
+    }
+}
