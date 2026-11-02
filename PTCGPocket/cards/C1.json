@@ -584,7 +584,7 @@
         "origins": [
             "PIKACHU_2026"
         ],
-        "type": "WATER",
+        "type": "WATER DARKNESS",
         "image": "v3",
         "firstPrint": "C1-042"
     },
@@ -782,7 +782,7 @@
         "origins": [
             "MEGA_MEWTWO_X"
         ],
-        "type": "PSYCHIC",
+        "type": "PSYCHIC FIGTHING",
         "image": "v3",
         "firstPrint": "C1-056"
     },
@@ -2174,7 +2174,7 @@
         "origins": [
             "PIKACHU_2026"
         ],
-        "type": "WATER",
+        "type": "WATER DARKNESS",
         "image": "v3",
         "firstPrint": "C1-155"
     },
@@ -2202,7 +2202,7 @@
         "origins": [
             "MEGA_MEWTWO_X"
         ],
-        "type": "PSYCHIC",
+        "type": "PSYCHIC FIGHTING",
         "image": "v3",
         "firstPrint": "C1-157"
     },
@@ -2426,7 +2426,7 @@
         "origins": [
             "PIKACHU_2026"
         ],
-        "type": "WATER",
+        "type": "WATER DARKNESS",
         "image": "v3",
         "firstPrint": "C1-173"
     },
@@ -2454,7 +2454,7 @@
         "origins": [
             "MEGA_MEWTWO_X"
         ],
-        "type": "PSYCHIC",
+        "type": "PSYCHIC FIGHTING",
         "image": "v3",
         "firstPrint": "C1-175"
     },
@@ -2594,7 +2594,7 @@
         "origins": [
             "NONE"
         ],
-        "type": "PSYCHIC",
+        "type": "PSYCHIC FIGHTING",
         "image": "v3",
         "firstPrint": "C1-185"
     },
