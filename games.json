@@ -1,0 +1,26 @@
+{
+    "pocket": {
+        "key": "POCKET",
+        "name": "Pokemon TCG Pocket",
+        "folder": "PTCGPocket/",
+        "logo": "PTCGPocket/gameLogo.png",
+        "color": [237.0, 28.0, 36.0],
+        "concepts": "PTCGPocket/concepts.json",
+        "origins": "PTCGPocket/origins.json",
+        "sets": "PTCGPocket/sets.json",
+        "imageSources": "PTCGPocket/imageSources.json",
+        "cards": "PTCGPocket/cards/"
+    },
+    "alysion": {
+        "key": "ALYSION",
+        "name": "Digimon Alysion",
+        "folder": "DAlysion/",
+        "logo": "DAlysion/gameLogo.png",
+        "color": [0.0, 159.0, 233.0],
+        "concepts": "DAlysion/concepts.json",
+        "origins": "DAlysion/origins.json",
+        "sets": "DAlysion/sets.json",
+        "imageSources": "DAlysion/imageSources.json",
+        "cards": "DAlysion/cards/"
+    }
+}
