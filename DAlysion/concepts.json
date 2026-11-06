@@ -17,6 +17,18 @@
         "SECRET_RARE": "SEC",
         "PROMO": "P"
     },
+    "common": [
+        "COMMON",
+        "UNCOMMON",
+        "RARE",
+        "SUPER_RARE"
+    ],
+    "uncommon": [
+        "ULTIMATE_RARE",
+        "SECRET_RARE"
+    ],
+    "rare": [
+    ],
     "parallel": {
     }
 }
