@@ -2,6 +2,7 @@
     {
         "key": "POCKET",
         "name": "Pokemon TCG Pocket",
+        "compactName": "PTCGPocket",
         "folder": "PTCGPocket/",
         "logo": "https://raw.githubusercontent.com/adresa97/TCGTracker-database/refs/heads/main/PTCGPocket/gameLogo.png",
         "color": [237.0, 28.0, 36.0],
@@ -15,6 +16,7 @@
         "key": "ALYSION",
         "name": "Digimon Alysion",
         "folder": "DAlysion/",
+        "compactName": "DAlysion",
         "logo": "https://raw.githubusercontent.com/adresa97/TCGTracker-database/refs/heads/main/DAlysion/gameLogo.png",
         "color": [0.0, 159.0, 233.0],
         "concepts": "DAlysion/concepts.json",
