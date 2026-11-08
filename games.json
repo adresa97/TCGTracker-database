@@ -5,6 +5,7 @@
         "compactName": "PTCGPocket",
         "folder": "PTCGPocket/",
         "logo": "https://raw.githubusercontent.com/adresa97/TCGTracker-database/refs/heads/main/PTCGPocket/gameLogo.png",
+        "cardBack": "https://raw.githubusercontent.com/adresa97/TCGTracker-database/refs/heads/main/PTCGPocket/cardBack.png",
         "color": [237.0, 28.0, 36.0],
         "concepts": "PTCGPocket/concepts.json",
         "origins": "PTCGPocket/origins.json",
