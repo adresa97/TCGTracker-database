@@ -19,6 +19,7 @@
         "folder": "DAlysion/",
         "compactName": "DAlysion",
         "logo": "https://raw.githubusercontent.com/adresa97/TCGTracker-database/refs/heads/main/DAlysion/gameLogo.png",
+        "cardBack": "https://raw.githubusercontent.com/adresa97/TCGTracker-database/refs/heads/main/DAlysion/cardBack.png",
         "color": [0.0, 159.0, 233.0],
         "concepts": "DAlysion/concepts.json",
         "origins": "DAlysion/origins.json",

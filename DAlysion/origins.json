@@ -1,0 +1,69 @@
+[
+  {
+    "id": "PROMO",
+    "name": {
+      "en": "Promo",
+      "es": "Promo"
+    },
+    "type": "PROMO",
+    "color": [239.0, 239.0, 239.0],
+    "cardCount": 7
+  },
+  {
+    "id": "BD-01",
+    "name": {
+      "en": "New Evolution",
+      "es": "New Evolution"
+    },
+    "type": "BOOSTER",
+    "color": [255.0, 255.0, 255.0],
+    "cardCount": 30,
+    "packSize": 6,
+    "odds": {
+      "COMMON": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+      "UNCOMMON": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+      "RARE": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+      "SUPER_RARE": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+      "ULTIMATE_RARE": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+      "SECRET_RARE": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+    }
+  },
+  {
+    "id": "BD-02",
+    "name": {
+      "en": "Ultimate Power",
+      "es": "Ultimate Power"
+    },
+    "type": "BOOSTER",
+    "color": [164.0, 146.0, 81.0],
+    "cardCount": 30,
+    "packSize": 6,
+    "odds": {
+      "COMMON": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+      "UNCOMMON": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+      "RARE": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+      "SUPER_RARE": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+      "ULTIMATE_RARE": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+      "SECRET_RARE": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+    }
+  },
+  {
+    "id": "BD-03",
+    "name": {
+      "en": "Union Impact",
+      "es": "Union Impact"
+    },
+    "type": "BOOSTER",
+    "color": [43.0, 34.0, 36.0],
+    "cardCount": 30,
+    "packSize": 6,
+    "odds": {
+      "COMMON": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+      "UNCOMMON": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+      "RARE": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+      "SUPER_RARE": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+      "ULTIMATE_RARE": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+      "SECRET_RARE": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+    }
+  }
+]
