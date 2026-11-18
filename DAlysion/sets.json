@@ -37,5 +37,18 @@
     "color": [95.0, 239.0, 237.0],
     "cardCount": 117,
     "origins": ["BD-03"]
+  },
+  {
+    "set": "BD-04",
+    "expansion": "BD-04-06",
+    "series": "BD",
+    "name": {
+      "en": "Great Legend",
+      "es": "Great Legend"
+    },
+    "cover": "https://raw.githubusercontent.com/adresa97/TCGTracker-database/refs/heads/main/DAlysion/covers/bd4_great_legend_en.png",
+    "color": [170.0, 88.0, 125.0],
+    "cardCount": 117,
+    "origins": ["BD-04"]
   }
 ]
